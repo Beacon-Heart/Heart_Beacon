@@ -15,3 +15,7 @@ All things #internet, net of #money #blockchain #cryptocurrencies rely on unicas
 Nobel Prize winning Economist Milton Friedman’s K% rule is what I call an “economic heartbeat” K-Percent Rule. DEFINITION of ‘K-Percent Rule’. The K-Percent Rule was a proposal by economist Milton Friedman that the central bank should increase the money supply by a constant percentage every year. The K-Percent Rule proposes to set the money supply growth at a rate equal to the growth of real GDP each year. K-Percent Rule — Investopedia http://www.investopedia.com/terms/k/k-percent-rule.asp
 
 SOURCE DOCUMENT: https://medium.com/p/43e4e30246da
+
+SOURCE PAGE: http://sawconcepts.com/index
+
+"One method fits many.. not one size fits all"
