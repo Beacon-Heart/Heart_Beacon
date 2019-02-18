@@ -1,5 +1,9 @@
 Digital Nations need an (Eco sustainable) Economic Heartbeat 😍
 
+Economic #RESET is a mathematical certainty. Do we RESET the global system of systems as is or will we re-engineer using NATO / DARPA / DOD system of systems engineering framework standing on the shoulders of giants to convert swords to plowshares? 
+
+Eco Economic Heartbeat: It’s TIME: IF Climate Change causes a drop in crop commodity food production by 20–25 % while population continues to grow, THEN it follows that this condition will become a matter of national security. It’s TIME to implement an Ecologically Sustainable Economic Heartbeat ELSE face > greater chaos by not leveraging proven system of system structured data exchange tactics.
+
 IF climate change causes a drop in crop commodity by 20–25 % while population grows, THEN this condition will become a matter of national security. THEN this will require revisiting Belgian Economist Bernard Lietaer’s TRC Trade Reference Currency ELSE face > chaos LINK http://lietaer.com/2010/01/terra/
 
 Ecologically sustainable economic transactions need to be incentivized among the world’s Ecological and Economic system of systems. The world’s system of systems needs to be time-space synchronized, stochastically harmonized across the world’s UTZ Universal Time Zone via synchronous heartbeat messages composed with OPSCODE brevity codes drawn from a universal structured data exchange syntax lexicon with over 300 use case templates.
