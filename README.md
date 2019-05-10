@@ -1,5 +1,7 @@
 Digital Nations need an (Eco sustainable) Economic Heartbeat 😍
 
+Ecologically sustainable Economic Heartbeat = system of systems engineering  signaling, telemetry  support framework for the DAE Distributed Autonomous Economy / The Automated Economy Source link: http://sawconcepts.com/index 
+
 Economic #RESET is a mathematical certainty. Do we RESET the global system of systems as is or will we re-engineer using NATO / DARPA / DOD system of systems engineering framework standing on the shoulders of giants to convert swords to plowshares? 
 
 The Heart Beacon Cycle Time - Space meter is a swords to plowshares DAO Distributed Autonomous Organization project using NATO’s Situational Awareness system of systems engineering framework, processes, procedures and internet building blocks to establish an Ecologically sustainable Economic Heartbeat, neural network emulation for the EIN Earth Intelligence Network and heartbeat sync pulse for a Universal Time Zone UTZ supporting a one world currency. It’s syntax lexicon library of OPSCODE brevity codes used in programmable money, the programmable economy is descriptive of all things internet, internet of money down to the quantum computing, quantum blockchain level. a.k.a Project BEACON / Medium Article LINK https://bit.ly/2s6Fnav
