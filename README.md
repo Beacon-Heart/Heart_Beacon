@@ -2,7 +2,7 @@ Digital Nations need an (Eco sustainable) Economic Heartbeat 😍
 
 Ecologically sustainable Economic Heartbeat = system of systems engineering  signaling, telemetry  support framework for the DAE Distributed Autonomous Economy / The Automated Economy Source link: http://sawconcepts.com/index 
 
-The Heart Beacon Cycle is a signaling, telemetry system of systems engineering support framework for the DAE Distributed Autonomous Economy / The Automated Economy
+It is time to establish an ecologically sustainable economic heartbeat… PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support the EIN Earth Intelligence Network neural net emulation & improve temporal, geo-spatial, and syntactic - semantic consistency, interoperability among myriad blockchain cryptocurrency programmable money memes.
 
 Crypto economics needs a universal syntax lexicon digital base Artificial Intelligence A.I., quantum blockchain heartbeat beacon to synchronize, sample tokenized commodities across a stochastically harmonized UTZ Universal Time Zone supporting an Earth Intelligence Network EIN (see Robert David Steele’s proposal @ http://robertdavidsteele.com)
 
