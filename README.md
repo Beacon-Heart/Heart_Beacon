@@ -25,5 +25,6 @@ Nobel Prize winning Economist Milton Friedman’s K% rule is what I call an “e
 SOURCE PAGE: http://sawconcepts.com/index
 Medium Paper: https://bit.ly/2s6Fnav / 
 PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/
+Angel List: https://angel.co/heart_beacon
 
 "One method fits many.. not one size fits all"
