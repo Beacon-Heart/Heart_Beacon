@@ -16,6 +16,10 @@ Eco Economic Heartbeat: It’s TIME: IF Climate Change causes a drop in crop com
 
 IF climate change causes a drop in crop commodity by 20–25 % while population grows, THEN this condition will become a matter of national security. THEN this will require revisiting Belgian Economist Bernard Lietaer’s TRC Trade Reference Currency ELSE face > chaos LINK http://lietaer.com/2010/01/terra/ If, when climate change reduces crop commodity production while population continues to rise, it follows that this could become a National Security issue — then, an ecologically sustainable economic heartbeat would be obviously needed. Why wait until crisis, DEFCON 2 stage?
 
+Medium article " blockchain needs a killer use case" climate change while population rises = Ecologically sustainable Economic heartbeat https://medium.com/coinmonks/blockchain-needs-a-killer-use-case-2f4def841883
+
+Blockchain's killer use case: Ecologically sustainable Economic Heartbeat https://medium.com/@heart.beacon.cycle/eco-sustainable-economic-heartbeat-43e4e30246da
+
 Ecologically sustainable economic transactions need to be incentivized among the world’s Ecological and Economic system of systems. The world’s systems need to be time-space synchronized, stochastically harmonized across the UTZ Universal Time Zone via heartbeat messages composed with OPSCODE brevity codes drawn from a universal structured data exchange syntax lexicon with over 300 use case templates.
 
 System of Systems Framework: Crypto economics needs a universal syntax lexicon digital base Artificial Intelligence A.I., quantum blockchain heartbeat beacon to synchronize, sample tokenized commodities across a stochastically harmonized UTZ Universal Time Zone supporting an Earth Intelligence Network EIN. Is it time to build a new economic system of systems framework yet? Why wait for DEFCON 
@@ -29,5 +33,7 @@ SOURCE PAGE: http://sawconcepts.com/index
 Medium Paper: https://bit.ly/2s6Fnav / 
 PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/
 Angel List: https://angel.co/heart_beacon
+Blockchain's killer use case: Ecologically sustainable Economic Heartbeat https://medium.com/@heart.beacon.cycle/eco-sustainable-economic-heartbeat-43e4e30246da
+Medium Article "Delusional Bitcoin Vs Fool's Gold": https://medium.com/@heart.beacon.cycle/delusional-bitcoin-vs-fools-gold-e4bea26afba8
 
 "One method fits many.. not one size fits all"
