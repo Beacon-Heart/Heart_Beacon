@@ -29,6 +29,8 @@ Nobel Prize winning Economist Milton Friedman’s K% rule is what I call an “e
 
 Internet, Internet of Money config: HEARTBEAT SCOP Administrative Interface — configuring the internet, internet of money. SCOP is a tool that exemplifies how the internet really works. There are no levels, layers, packets, frames… etc. There are only epoch time cycles used / not used to parse, process syntax as instructions. Scaling the blockchain usually involves a discussion of “layers” when the reality is that parsing, processing syntax (OPSCODE brevity codes, shards, hashes) is passed from the genesis Epoch Time Cycle 1 to a temporal follow on epoch time cycle. Deepthought pondering the crypto blockchain through Alice’s Looking Glass: https://medium.com/@heart.beacon.cycle/deep-thought-pondering-the-bitcoin-blockchain-f20ad6112d7
 
+Q: Why do the Artificial Intelligence AND the programmable money.. communities insist there are "layers" (motes, bits, bytes, block chain blocks, pings, packets...) when there are only 1) epoch time intervals, 2) syntax used as if, then, else instructions? CALTECH Article: Towards Explainable Deep Neural Networks (xDNN) https://deepai.org/publication/towards-explainable-deep-neural-networks-xdnn  
+
 SOURCE PAGE: http://sawconcepts.com/index
 Medium Paper: https://bit.ly/2s6Fnav / 
 PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/
