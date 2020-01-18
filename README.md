@@ -1,5 +1,9 @@
 Digital Nations need an (Eco sustainable) Economic Heartbeat & a consistent syntax lexicon library😍 
 
+"In the beginning (of time), there was the word" Ecologically sustainable incentives programmed to be integral to an Economic system of systems SoS engineering framework used by NATO for decades. Why reinvent the semantic - symbolic lexicon wheel?
+
+#internet #money #blockchain #cryptocurrencies  #economics #sustainable #ecology #sustainability #climatechange #econometrics
+
 Eco Economic Heartbeat for Distributed Autonomous Economy DAE = distributed systems engineering  signaling, telemetry framework & Heart Beacon Cycle Time - Space Meter USPTO 13/573,002 
 
 The Heart Beacon Cycle Time - Space meter is a distributed system of systems engineering signaling -telemetry temporal, geo-spatial, semantic - syntactic sync & consensus foundation framework supporting the DAAE Distributed Autonomous Automated Economy Eco - Economic Heartbeat. It is time to establish an ecologically sustainable economic heartbeat… PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support the EIN Earth Intelligence Network neural net emulation & improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes across and among a federated, distributed system of systems.
