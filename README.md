@@ -1,5 +1,4 @@
 Eco sustainable incentives integral to an Economic system of systems SoS engineering framework used by NATO for decades. 
-
 Digital Nations need an (Eco sustainable) Economic Heartbeat & a consistent syntax lexicon library😍 
 
 Why reinvent the semantic - symbolic lexicon wheel? "In the beginning (of time), there was the word" 
