@@ -30,19 +30,31 @@ Ecologically sustainable Economic Heartbeat https://medium.com/@heart.beacon.cyc
 
 Medium Article "Delusional Bitcoin Vs Fool's Gold": https://medium.com/@heart.beacon.cycle/delusional-bitcoin-vs-fools-gold-e4bea26afba8
 
-Medium Paper: https://bit.ly/2s6Fnav /
+Medium Paper: Eco Economic Epochs - It's TIME: https://bit.ly/2s6Fnav /
 
 PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/
 
-Angel List: https://angel.co/heart_beacon Blockchain's killer use case:
+Angel List: https://angel.co/heart_beacon 
 
-SOURCE PAGE: http://sawconcepts.com/index 
+GITHUB: https://github.com/Beacon-Heart/
 
 GITHUB Repository: https://github.com/Beacon-Heart/Heart_Beacon
 
 FACEBOOK: https://www.facebook.com/beaconheart
 
 MINDS: https://www.minds.com/beaconheart/
+
+TWITTER: @Heart_Beacon
+
+Eco_Econ_Epochs: It's about TIME: Eco incentives coded into the global programmable economic system of systems engineering framework: http://github.com/Beacon-Heart/
+
+Patreon: https://www.patreon.com/beacon_heart 
+
+PayPal.Me/EcoEconHeartbeat
+
+The Heart Beacon Cycle Time - Space meter is a signaling, telemetry distributed systems engineering framework improving temporal, geo-spatial, semantic - syntactic sync & consensus among DAAE Distributed Autonomous Automated Economy system of systems reusing Battlefield Digitization, Net Enabled Operations engineering swords to plowshares. 
+
+The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat
 
 Eco Economic Heartbeat for Distributed Autonomous Economy DAE = distributed systems engineering signaling, telemetry framework & Heart Beacon Cycle Time - Space Meter USPTO 13/573,002 #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics
 
