@@ -1,4 +1,4 @@
-Eco_Econ_Epochs: It's about TIME: Eco incentives coded into the global programmable economic system of systems engineering framework
+Eco_Econ_Epochs: It's about TIME: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice into OPSCODEs mapped to symbol sets essential to Artificial Intellicence / human interaction
 
 The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat.
 
