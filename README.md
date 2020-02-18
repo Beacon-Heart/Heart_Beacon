@@ -1,3 +1,9 @@
+Eco_Econ_Epochs: It's about TIME: Eco incentives coded into the global programmable economic system of systems engineering framework
+
+The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat.
+
+The Heart Beacon Cycle Time - Space meter is a signaling, telemetry distributed systems engineering framework improving temporal, geo-spatial, semantic - syntactic sync & consensus among DAAE Distributed Autonomous Automated Economy system of systems reusing Battlefield Digitization, Net Enabled Operations engineering swords to plowshares.
+
 Eco sustainable incentives integral to an Economic system of systems SoS engineering framework used by NATO for decades. Digital Nations need an (Eco sustainable) Economic Heartbeat & a consistent syntax lexicon library😍
 
 Crypto economics needs a universal syntax lexicon digital base Artificial Intelligence A.I., quantum blockchain heartbeat beacon to synchronize, sample tokenized commodities across a stochastically harmonized UTZ Universal Time Zone supporting an Earth Intelligence Network EIN see Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
