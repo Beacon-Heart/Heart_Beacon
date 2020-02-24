@@ -1,5 +1,13 @@
 Eco_Econ_Epochs: It's about TIME
 
+All things internet, internet of programmable money are formed using:
+
+1) Time epochs created by oscillating crystal based silicon chips
+
+2) Syntax used / not used as programming instructions during epoch time cycles
+
+Time epochs / syntax: two main building blocks in creating the Artificial Intelligence A.I. powered global economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
+
 Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice into OPSCODE brevity codes mapped to symbol sets essential to Artificial Intelligence / human interaction along with OPTEMPO sync cycles.The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat. 
 
 The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat. This idea involves reuse of over 300 use cases supported by hundreds of message sets further described in spread sheet row - column format populated by thousands of brevity OPSCODES mapped to symbols essential to artificial intelligence man - machine interface.  NATO bases are small cities that transact virtually every good, item, commodity with it's host nation.  Why reinvent the syntax lexicon Rosetta Stone wheel? Think of this as a system of systems tool to accelerate an EIN Earth Intelligence Net
