@@ -40,6 +40,8 @@ The Heart Beacon Cycle is an adaptive procedural template checklist of things, p
 
 The Heart Beacon Cycle Time - Space meter is a swords to plowshares DAO Distributed Autonomous Organization project using NATO’s Situational Awareness system of systems engineering framework, processes, procedures and internet building blocks to establish an Ecologically sustainable Economic Heartbeat, neural network emulation for the EIN Earth Intelligence Network and heartbeat sync pulse for a Universal Time Zone UTZ supporting a one world currency. It’s syntax lexicon library of OPSCODE brevity codes used in programmable money, the programmable economy is descriptive of all things internet, internet of money down to the quantum computing, quantum blockchain level. a.k.a Project BEACON / Medium Article LINK https://bit.ly/2s6Fnav
 
+Project: form federations of Distributed, Autonomous Organizations DAO communities, states, sovereign nations using an adaptive procedural template checklist promoting synchronization among geo-spatially and temporally dispersed groups.  Federated groups activities are synchronized geo-spatially across time - space to achieve synergy, synchronicity of events orchestrated from micro to macro cycles from grassroots to capitals.
+
 Medium article " blockchain needs a killer use case" climate change while population rises = Ecologically sustainable Economic heartbeat https://medium.com/coinmonks/blockchain-needs-a-killer-use-case-2f4def841883
 
 Ecologically sustainable Economic Heartbeat https://medium.com/@heart.beacon.cycle/eco-sustainable-economic-heartbeat-43e4e30246da
