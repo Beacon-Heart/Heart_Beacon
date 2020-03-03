@@ -20,7 +20,7 @@ Crypto economics needs a universal syntax lexicon digital base Artificial Intell
 
 Economic #RESET is a mathematical certainty. Do we RESET the global system of systems as is or will we re-engineer using NATO system of systems engineering framework standing on the shoulders of giants to convert swords to plowshares?
 
-Eco Economic Heartbeat: It’s TIME: IF Climate Change causes a drop in crop commodity food production by 20–25 % while population continues to grow, THEN it follows that this condition will become a matter of national security. It’s TIME to implement an Ecologically Sustainable Economic Heartbeat ELSE face > greater chaos by not leveraging proven system of system structured data exchange tactics.
+Eco Economic Heartbeat: It’s TIME: IF Climate Change causes a drop in crop commodity food production by 20–25 % while population continues to grow, THEN it follows that this condition will become a matter of national security. It’s TIME to implement an Ecologically Sustainable Economic Heartbeat ELSE face > greater chaos by not leveraging proven system of system structured data exchange methods.
 
 IF climate change causes a drop in crop commodity by 20–25 % while population grows, THEN this condition will become a matter of national security. THEN this will require revisiting Belgian Economist Bernard Lietaer’s TRC Trade Reference Currency ELSE face > chaos LINK http://lietaer.com/2010/01/terra/ If, when climate change reduces crop commodity production while population continues to rise, it follows that this could become a National Security issue — then, an ecologically sustainable economic heartbeat would be obviously needed. Why wait until crisis, DEFCON 2 stage?
 
