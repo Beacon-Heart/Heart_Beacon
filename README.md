@@ -10,7 +10,7 @@ Time epochs / syntax: two main building blocks in creating the Artificial Intell
 
 PROPOSAL: Code Eco sustainable incentives into the world's programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. For example: reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction. Apply lesson learned (bandwidth discipline) intrinsic to NATO OPTEMPO operation sync cycles e.g collect / transmit sync delta data sampling cycles every 5–10–15 minutes.
 
-NATO forces have invested 30 years of mapping OPSCODE brevity codes to symbol sets contained in 300 plus message set use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NETOPS - why would / are blockchain, crypto currency developers recreate, (ing) reinvent (ing) this decades old, extremely tedious, time intensive wheel?
+NATO forces have invested 30 years of mapping OPSCODE brevity codes to symbol sets contained in 300 plus message set use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NETOPS - why would / are blockchain, crypto currency developers recreate, (ing) reinvent (ing) this decades old, extremely tedious, time intensive, labor intensive, expensive wheel?
 
 The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat. 
 
