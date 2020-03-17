@@ -1,6 +1,6 @@
 Eco_Econ_Epochs: It's about TIME
 
-All things internet, internet of programmable money are formed using:
+THESIS: All things internet, internet of programmable money are formed using:
 
 1) Time epochs created by oscillating crystal based silicon chips
 
