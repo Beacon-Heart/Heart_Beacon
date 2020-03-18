@@ -72,11 +72,7 @@ Patreon: https://www.patreon.com/beacon_heart
 
 PayPal.Me/EcoEconHeartbeat
 
-The Heart Beacon Cycle Time - Space meter is a signaling, telemetry distributed systems engineering framework improving temporal, geo-spatial, semantic - syntactic sync & consensus among DAAE Distributed Autonomous Automated Economy system of systems reusing Battlefield Digitization, Net Enabled Operations engineering swords to plowshares. 
-
-The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat
-
-Eco Economic Heartbeat for Distributed Autonomous Economy DAE = distributed systems engineering signaling, telemetry framework & Heart Beacon Cycle Time - Space Meter USPTO 13/573,002 #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics
+#internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics
 
 "One method fits many.. not one size fits all"
 
