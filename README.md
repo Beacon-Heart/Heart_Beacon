@@ -8,9 +8,13 @@ THESIS: All things internet, internet of programmable money are formed using:
 
 Time epochs / syntax: two main building blocks in creating the Artificial Intelligence A.I. powered global economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
 
-PROPOSAL: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface).  Apply use case lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles...) intrinsic to NATO SOP swords to plowshares following German military proposal circa 2003.
+PROPOSAL: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. 
 
-NATO forces have invested 30 years of mapping OPSCODE brevity codes to symbol sets contained in 300 plus message set use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NETOPS — why would / are blockchain, crypto currency developers recreate, (ing) reinvent (ing) this decades old, extremely tedious, time intensive, labor intensive, expensive wheel?
+a) Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface).  
+
+b) Apply use case lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles...) intrinsic to NATO SOP swords to plowshares following German military proposal circa 2003.
+
+BACKGROUND: NATO forces have invested 30 years of mapping OPSCODE brevity codes to symbol sets contained in 300 plus message set use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NETOPS — why would / are blockchain, crypto currency developers recreate, (ing) reinvent (ing) this decades old, extremely tedious, time intensive, labor intensive, expensive wheel?
 
 The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat. This idea involves reuse of over 300 use cases supported by hundreds of message sets further described in spread sheet row - column format populated by thousands of brevity OPSCODES mapped to symbols essential to artificial intelligence man - machine interface.  NATO bases are small cities that transact virtually every good, item, commodity with it's host nation.  Why reinvent the syntax lexicon Rosetta Stone wheel? Think of this as a system of systems tool to accelerate an EIN Earth Intelligence Net
 
