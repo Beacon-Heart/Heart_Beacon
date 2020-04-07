@@ -85,4 +85,4 @@ PayPal.Me/EcoEconHeartbeat
 
 internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics  
 
-Motto: "One method fits many.. not one size fits all"
+Slogan: "One method fits many.. not one size fits all"
