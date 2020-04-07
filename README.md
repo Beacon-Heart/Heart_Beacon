@@ -69,7 +69,9 @@ PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/
 
 Angel List: https://angel.co/heart_beacon
 
-GITHUB: https://github.com/Beacon-Heart/ 
+GITHUB: https://github.com/Beacon-Heart/
+
+LINKED IN: https://www.linkedin.com/in/ecoeconepochs/
 
 FACEBOOK: https://www.facebook.com/beaconheart
 
