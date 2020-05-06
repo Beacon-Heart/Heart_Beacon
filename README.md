@@ -20,7 +20,7 @@ PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity co
 
 The Heart Beacon Cycle Time - Space meter is a distributed system of systems engineering signaling -telemetry temporal, geo-spatial, semantic - syntactic sync and consensus foundation framework. A an adaptive procedural template checklist of tools, algorithms, cryptographic modules, it supports DAAE Distributed Autonomous Automated Economy Eco - Economic Heartbeat.
 
-The Heart Beacon Cycle is an adaptive procedural template checklist of things, processes, tools, building blocks useful to form, maintain Eco-responsible trade federations. Each item in the procedural template checklist links to a detailed treatise. We can synchronize ourselves, our cities, towns, cyber-communities in time — space for a common purpose: shared, common, ecologically sound, responsible econometrics. See the Law of Time organization’s site and the 441 Time Cube described by the late Dr. Jose Arguelles LAW OF TIME site http://lawoftime.org
+The Heart Beacon Cycle is an adaptive procedural template checklist of things, processes, tools, building blocks useful to form, maintain Eco-responsible trade federations. Each item in the procedural template checklist links to a detailed treatise. We can synchronize ourselves, our cities, towns, cyber-communities in time — space for a common purpose: shared, common, ecologically sound, responsible econometrics. 
 
 The Heart Beacon Cycle Time - Space meter is a swords to plowshares DAO Distributed Autonomous Organization project using NATO’s Situational Awareness system of systems engineering framework, processes, procedures and internet building blocks to establish an Ecologically sustainable Economic Heartbeat, neural network emulation for the EIN Earth Intelligence Network and heartbeat sync pulse for a Universal Time Zone UTZ supporting a one world currency. It’s syntax lexicon library of OPSCODE brevity codes used in programmable money, the programmable economy is descriptive of all things internet, internet of money down to the quantum computing, quantum blockchain level.
 
@@ -80,6 +80,8 @@ TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
 Patreon: https://www.patreon.com/beacon_heart
 
 PayPal.Me/EcoEconHeartbeat
+
+Law of Time organization’s site and the 441 Time Cube described by the late Dr. Jose Arguelles LAW OF TIME site http://lawoftime.org
 
 internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics  
 
