@@ -1,4 +1,4 @@
-Eco Economic Epochs: Ecosystem incentives coded into the programmable Economy - It's about TIME (and space...)
+Eco Economic Epochs: Ecosystem incentives coded into the programmable Economy - It's about TIME (and syntax and space...)
 
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal based silicon chips
