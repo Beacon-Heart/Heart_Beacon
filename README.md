@@ -10,7 +10,7 @@ PROPOSAL: Code Eco sustainable incentives into programmable economic system of s
 1. Reuse OPSCODE brevity codes mapped to message symbol sets enabling Artificial Intelligence / human interaction ( i.e., man — machine interface).
 2. Apply lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles... intrinsic to NATO SOP swords to plowshares following German military proposal use cases circa 2003.
 
-NATO has invested 30 years of mapping OPSCODE brevity codes to symbology / symbols / symbol sets contained in 300 plus message set / use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NEO NETOPS. Blockchain, crypto currency developers are recreating, reinventing  this decades old, tedious, time intensive, labor intensive, expensive… wheel.
+NATO has invested 30 years of mapping OPSCODE brevity codes to symbology / symbols / symbol sets contained in 300 plus message set / use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NEO NETOPS. Blockchain, crypto currency developers are recreating, reinventing this decades old, tedious, time intensive, labor intensive, expensive structured data exchange… wheel.
 
 The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals.
 
