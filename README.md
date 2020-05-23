@@ -67,6 +67,7 @@ FACEBOOK: https://www.facebook.com/beaconheart
 MINDS: https://www.minds.com/beaconheart/
 TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
 PAYPAL: PayPal.Me/EcoEconHeartbeat
+LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
 
 EIN Earth Intelligence Network: see Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
 Hashtags: #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity
