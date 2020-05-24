@@ -44,6 +44,8 @@ Nobel Prize winning Economist Milton Friedman’s K% rule is an “economic hear
 
 HEARTBEAT SCOP Administrative Interface as an Internet, net of Money configuration tool. SCOP is a tool that exemplifies how the internet really works. There are no levels, layers, packets, frames, bits, ether gas, hashgraphs, bytes motes, block chain blocks, pings, packets... There are only 1) epoch time intervals, 2) syntax used as if, then, else instructions. Time epoch time cycles used / not used to parse, process syntax as instructions are the only building blocks available to scale the blockchain. Blockchain scaling usually involves a discussion of “layers” when the reality is that parsing, processing syntax (OPSCODE brevity codes, shards, hashes) is passed from the genesis Epoch Time Cycle 1 to a temporal follow on epoch time cycle often involving geo-spatial, temporal separation.
 
+Many in the programmable money space think that quantum computing will make the crypto currency #blockchain obsolete. In my opinion, the opposite is true - the programmable #economy will be anchored by quantum computing - specifically NIST's Quantum Random Number Beacon
+
 Project Task: form federations of Distributed, Autonomous Organizations DAO communities, states, sovereign nations using an adaptive procedural template checklist promoting synchronization among geo-spatially and temporally dispersed groups using a common syntax – symbol set lexicon. Federated groups activities are synchronized geo-spatially across time - space to achieve synergy, synchronicity of events orchestrated from micro to macro cycles from grassroots to capitals.
 Heart Beacon Cycle Time – Space Meter: One method fits many not one size fits all
 
