@@ -6,8 +6,12 @@ THESIS: All things internet, internet of programmable money are formed using:
 
 Time epochs / syntax: two main building blocks in creating the Artificial Intelligence A.I. powered global economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
 
-PROPOSAL: Code Eco sustainable incentives into programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice.
+PROPOSAL: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface). The Heart Beacon Cycle Time - Space Meter USPTO 13/573,002 is an Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy.
+
+Use Case: Code Eco sustainable incentives into programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice
+
 1. Reuse OPSCODE brevity codes mapped to message symbol sets enabling Artificial Intelligence / human interaction ( i.e., man — machine interface).
+
 2. Apply lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles... intrinsic to NATO SOP swords to plowshares following German military proposal use cases circa 2003.
 
 NATO has invested 30 years of mapping OPSCODE brevity codes to symbology / symbols / symbol sets contained in 300 plus message set / use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NEO NETOPS. Blockchain, crypto currency developers are recreating, reinventing this decades old, tedious, time intensive, labor intensive, expensive structured data exchange… wheel.
