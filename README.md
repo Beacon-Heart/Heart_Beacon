@@ -76,7 +76,13 @@ PAYPAL: PayPal.Me/EcoEconHeartbeat
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
 
 EIN Earth Intelligence Network: see Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
-Hashtags: #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity
+
+The Heart Beacon Cycle Time — Space Meter USPTO 13/573,002 is an Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy. PROJECT Heart Beacon Eco Economic Epochs: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface). 
+
+We can synchronize ourselves, our cities, towns, cyber-communities in time — space for a common purpose: shared, common, ecologically sound, equitable…  econometrics. (Attributed to the Law of Time Founder RIP Dr. Jose Arguellos) see Law of Time dot org
+
+
+#economic collapse#economic reset#econometrics#programmable economy#programmable money#blockchain#cryptocurrencies#sustainable development #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity
 
 
 
