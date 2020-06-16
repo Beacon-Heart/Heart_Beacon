@@ -49,6 +49,22 @@ Nobel Prize winning Economist Milton Friedman’s K% rule is an “economic hear
 HEARTBEAT SCOP Administrative Interface as an Internet, net of Money configuration tool. SCOP is a tool that exemplifies how the internet really works. There are no levels, layers, packets, frames, bits, ether gas, hashgraphs, bytes motes, block chain blocks, pings, packets... There are only 1) epoch time intervals, 2) syntax used as if, then, else instructions. Time epoch time cycles used / not used to parse, process syntax as instructions are the only building blocks available to scale the blockchain. Blockchain scaling usually involves a discussion of “layers” when the reality is that parsing, processing syntax (OPSCODE brevity codes, shards, hashes) is passed from the genesis Epoch Time Cycle 1 to a temporal follow on epoch time cycle often involving geo-spatial, temporal separation.
 The programmable economy will be anchored by quantum computing -for example, NIST's Quantum Random Number Beacon
 
+Quantum Computing: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Quantum computers are believed to be able to solve certain computational problems, such as integer factorization. in a quantum Turing machine, the difference is that the tape exists in a quantum state, as does the read-write head. This means that the symbols on the tape can be either 0 or 1 or a superposition of 0 and 1; in other words the symbols are both 0 and 1 (and all points in between) at the same time. While a normal Turing machine can only perform one calculation at a time, a quantum Turing machine can perform many calculations at once.
+
+Quantum Random Number Generator: The NIST method generates digital bits (1s and 0s) with photons, or particles of light, using data generated in an improved version of a landmark 2015 NIST physics experiment. That experiment showed conclusively that what Einstein derided as "spooky action at a distance" is real. Researchers process the spooky output to certify and quantify the randomness available in the data and generate a string of more random bits. LINK
+
+Time filtered and spatially metered reports are comprised of state meta-data snapshot / heartbeat message / sync delta messages where state meta data is harvested during micro-cycles then posted / displayed during longer macro-cycles 
+See hop count treatise referential to internet / TCP/IP treatises Figure 11 
+
+IEEE 802.11AG is used for hop by hop detection and control for epoch assignment and hop 
+counts management and for hop by hop detection function to determine hop by hop count 
+corresponding to machine readable and executable null / 0 and steps from null representing hop 
+counts e.g., +1, +2, +3, +4 and / or -1, -2, -3, -4 Paul Revere linear, sequential metaphor 
+indicating distance traveled in context with router / server / switch / node traversal
+
+IEEE 802.11 HbH hop by hop control supporting Paul Revere, rain drop in pond metaphor 
+metrics of increases / decreases in thresholds and by intensity, duration and hop count sums
+
 Use Case: form federations of Distributed, Autonomous Organizations DAO communities, states, sovereign nations using an adaptive procedural template checklist promoting synchronization among geo-spatially and temporally dispersed groups using a common syntax – symbol set lexicon. Federated groups activities are synchronized geo-spatially across time - space to achieve synergy, synchronicity of events orchestrated from micro to macro cycles from grassroots to capitals
 .
 Heart Beacon Cycle Time – Space Meter: One method fits many not one size fits all
