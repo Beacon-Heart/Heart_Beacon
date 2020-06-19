@@ -51,10 +51,15 @@ The programmable economy will be anchored by quantum computing -for example, NIS
 
 Quantum Computing: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Quantum computers are believed to be able to solve certain computational problems, such as integer factorization. in a quantum Turing machine, the difference is that the tape exists in a quantum state, as does the read-write head. This means that the symbols on the tape can be either 0 or 1 or a superposition of 0 and 1; in other words the symbols are both 0 and 1 (and all points in between) at the same time. While a normal Turing machine can only perform one calculation at a time, a quantum Turing machine can perform many calculations at once.
 
-Quantum Random Number Generator: The NIST method generates digital bits (1s and 0s) with photons, or particles of light, using data generated in an improved version of a landmark 2015 NIST physics experiment. That experiment showed conclusively that what Einstein derided as "spooky action at a distance" is real. Researchers process the spooky output to certify and quantify the randomness available in the data and generate a string of more random bits. LINK
+Quantum Random Number Generator: The NIST method generates digital bits (1s and 0s) with photons, or particles of light, using data generated in an improved version of a landmark 2015 NIST physics experiment. That experiment showed conclusively that what Einstein described as "spooky action at a distance" is real. Researchers process the spooky output to certify and quantify the randomness available in the data and generate a string of more random bits. 
+
+The NIST Randomness Beacon Broadcasts a randomness pulse every 60 seconds Each pulse commits to a fresh 512-bit random string Each pulse is time-stamped and signed. Beacon periodically outputs a pulse containing 512 fresh random bits, time-stamped, signed and hash-chained. For example, each pulse also pre-commits to the randomness to be released in the next pulse. The latter enables users to securely combine randomness from different beacons. The Beacon protocol also specifies the interface for users to interact with the Beacon, in order to obtain information about past pulses. A randomness beacon produces timed outputs of fresh public randomness. Each output, called a pulse, includes metadata / cryptographic elements. The main goal of the NIST Random # Beacon is to serve as a baseline for deployment of many interoperable beacons NIST: https://csrc.nist.gov/CSRC/media/Presentations/The-NIST-Randomness-Beacon-2-0/images-media/SciDay18-poster-beacon-v20181022.pdf
+
+
+
 
 Time filtered and spatially metered reports are comprised of state meta-data snapshot / heartbeat message / sync delta messages where state meta data is harvested during micro-cycles then posted / displayed during longer macro-cycles 
-See hop count treatise referential to internet / TCP/IP treatises Figure 11 
+See hop count treatise referential to internet / TCP/IP treatises
 
 IEEE 802.11AG is used for hop by hop detection and control for epoch assignment and hop 
 counts management and for hop by hop detection function to determine hop by hop count 
@@ -69,9 +74,16 @@ Use Case: form federations of Distributed, Autonomous Organizations DAO communit
 .
 Heart Beacon Cycle Time – Space Meter: One method fits many not one size fits all
 
+The Heart Beacon Cycle Time - Space Meter and it's use cases are intended to bridge humanity from our present condition to a higher consciousness described by Extra Terrestrial Groups and organizations like the Law of Time dot org with their Noosphere concept
+
+"One people, one Earth, one Time": "The times we are living in require higher thinking. There has never in the history of the Earth been a time like this. We are now participating in what is called the biosphere-noosphere transition: When life on Earth (the biosphere) evolves into an awakened planetary mind (noosphere)".
+
+"Only by lifting our minds to planetary consciousness and beyond can we realize solutions to the multiple challenges facing our planet today. With a new consciousness we can effectively educate and mobilize humanity to an unprecedented level of creative problem solving, and realize a positive future." Source: http://lawoftime.org 
+
 REFERENCES
 
 GITHUB Documents: LINK https://github.com/Beacon-Heart
+
 MEDIUM ARTICLE: "The blockchain needs a killer use case" (climate change / population increase) 
 LINK: https://medium.com/coinmonks/blockchain-needs-a-killer-use-case-2f4def841883
 
@@ -96,7 +108,6 @@ EIN Earth Intelligence Network: see Robert David Steele’s #UNRIG proposal @ ht
 The Heart Beacon Cycle Time — Space Meter USPTO 13/573,002 is an Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy. PROJECT Heart Beacon Eco Economic Epochs: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface). 
 
 We can synchronize ourselves, our cities, towns, cyber-communities in time — space for a common purpose: shared, common, ecologically sound, equitable…  econometrics. (Attributed to the Law of Time Founder RIP Dr. Jose Arguellos) see Law of Time dot org
-
 
 #economic collapse#economic reset#econometrics#programmable economy#programmable money#blockchain#cryptocurrencies#sustainable development #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity
 
