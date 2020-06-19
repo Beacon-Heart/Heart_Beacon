@@ -102,6 +102,7 @@ MINDS: https://www.minds.com/beaconheart/
 TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
 PAYPAL: PayPal.Me/EcoEconHeartbeat
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
+Proton Email (secure) ecoeconomicepochs@protonmail.com
 
 EIN Earth Intelligence Network: see Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
 
