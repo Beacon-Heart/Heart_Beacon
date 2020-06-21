@@ -100,6 +100,7 @@ Patreon: https://www.patreon.com/beacon_heart
 FACEBOOK: https://www.facebook.com/beaconheart
 MINDS: https://www.minds.com/beaconheart/
 TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
+Subscribe Star: https://www.subscribestar.com/eco_econ_epochs
 PAYPAL: PayPal.Me/EcoEconHeartbeat
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
 Proton Email (secure) ecoeconomicepochs@protonmail.com
