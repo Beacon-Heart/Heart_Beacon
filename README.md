@@ -18,7 +18,11 @@ NATO has invested 30 years of mapping OPSCODE brevity codes to symbology / symbo
 
 The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize diverse peoples speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals.
 
-PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support an EIN Earth Intelligence Network neural net emulation. We have a clear and present opportunity and responsibility to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems.
+PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support an EIN Earth Intelligence Network neural net emulation. We have a clear and present opportunity and responsibility to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems
+
+Reuse of DARPA - NATO's structured data exchange that maps data element OPSCODES to symbol sets is key to Artificial Intelligence #AI man - machine interface, consensus, consistency among myriad #blockchain programmable #money memes, metaphors,
+
+Given space travel risks, navigation based on consciousness / telepathy (use of symbols not words), a consistent syntax lexicon to communicate with #UFO EBO's that are likely drones is reuse of DARPA - NATO's structured data exchange that maps data element OPSCODES to symbol sets 
 
 The Heart Beacon Cycle Time - Space meter is a distributed system of systems engineering signaling -telemetry temporal, geo-spatial, semantic - syntactic sync and consensus foundation framework. A an adaptive procedural template checklist of tools, algorithms, cryptographic modules, it supports DAAE Distributed Autonomous Automated Economy Eco - Economic Heartbeat
 
