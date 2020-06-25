@@ -22,7 +22,7 @@ PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity co
 
 Reuse of DARPA - NATO's structured data exchange that maps data element OPSCODES to symbol sets is key to Artificial Intelligence #AI man - machine interface, consensus, consistency among myriad #blockchain programmable #money memes, metaphors,
 
-Given space travel risks, navigation based on consciousness / telepathy (use of symbols not words), a consistent syntax lexicon to communicate with #UFO EBO's that are likely drones is reuse of DARPA - NATO's structured data exchange that maps data element OPSCODES to symbol sets 
+Given space travel risks, navigation based on consciousness / telepathy (use of symbols not words), a consistent syntax lexicon to communicate with #UFO EBO's that are likely Artificial Intelligence AI powered drones is reuse of DARPA - NATO's structured data exchange that maps data element OPSCODES to symbol sets 
 
 The Heart Beacon Cycle Time - Space meter is a distributed system of systems engineering signaling -telemetry temporal, geo-spatial, semantic - syntactic sync and consensus foundation framework. A an adaptive procedural template checklist of tools, algorithms, cryptographic modules, it supports DAAE Distributed Autonomous Automated Economy Eco - Economic Heartbeat
 
