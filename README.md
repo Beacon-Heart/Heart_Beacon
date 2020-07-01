@@ -1,6 +1,6 @@
 Eco Economic Epochs: Eco sustainable  incentives for the programmable Economy - It's about TIME
 
-Adaptive Procedural Template (checklist): Use Case: Eco #Economic Epochs Time-Space Meter #ecology Eco incentives, consensus, interoperability, sync, stochastic UTZ Universal Time Zone harmonization for programmable money, the programmable economy USPTO 13/573,002 Github: http://github.com/Beacon-Heart
+Adaptive Procedural Template (checklist): Use Case: Eco #Economic Epochs Time-Space Meter #ecology Eco incentives, consensus, interoperability, sync, stochastic UTZ Universal Time Zone harmonization for programmable money and the programmable economy.
 
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal based silicon chips
