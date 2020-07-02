@@ -97,19 +97,26 @@ MEDIUM ARTICLE: Deep Thought pondering the crypto blockchain through Alice’s L
 MEDIUM ARTICLE: "Delusional Bitcoin Vs Fool's Gold": LINK:  https://medium.com/@heart.beacon.cycle/delusional-bitcoin-vs-fools-gold-e4bea26afba8 
 
 PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/
+
 Angel List: https://angel.co/heart_beacon
+
 Patreon: https://www.patreon.com/beacon_heart
+
 FACEBOOK: https://www.facebook.com/beaconheart
+
 MINDS: https://www.minds.com/beaconheart/
+
 TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
+
 Subscribe Star: https://www.subscribestar.com/eco_econ_epochs
+
 PAYPAL: PayPal.Me/EcoEconHeartbeat
+
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
+
 Proton Email (secure) ecoeconomicepochs@protonmail.com
 
 EIN Earth Intelligence Network: see Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
-
-The Heart Beacon Cycle Time — Space Meter USPTO 13/573,002 is an Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy. PROJECT Heart Beacon Eco Economic Epochs: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface). 
 
 We can synchronize ourselves, our cities, towns, cyber-communities in time — space for a common purpose: shared, common, ecologically sound, equitable…  econometrics. (Attributed to the Law of Time Founder RIP Dr. Jose Arguellos) see Law of Time dot org
 
