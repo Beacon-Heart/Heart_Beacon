@@ -8,10 +8,15 @@ THESIS: All things internet, internet of programmable money are formed using:
 
 INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, internet of money building blocks in coding the Artificial Intelligence A.I. powered economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
 
-PROJECT: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface). The Heart Beacon Cycle Time - Space Meter USPTO 13/573,002 is an Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy.
+
+PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support an EIN Earth Intelligence Network neural net emulation. We have a clear and present opportunity and responsibility to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems
+
+PROJECT BEACON: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface). The Heart Beacon Cycle Time - Space Meter USPTO 13/573,002 is an Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy.
 
 USE CASE: Code Eco sustainable incentives into programmable economic framework reusing / leveraging NATO systems of systems engineering best practice. Form federations of Distributed, Autonomous Organizations DAO communities, states, sovereign nations using an adaptive procedural template checklist promoting synchronization among geo-spatially and temporally dispersed groups using a common syntax – symbol set lexicon. Federated groups activities are synchronized geo-spatially across time - space to achieve synergy, synchronicity of events orchestrated from micro to macro cycles from grassroots to capitals.
+
 1.	Reuse OPSCODE brevity codes mapped to message symbol sets enabling Artificial Intelligence / human interaction ( i.e., man — machine interface).
+
 2.	Apply lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles... intrinsic to NATO SOP swords to plowshares following German military proposal use cases circa 2003.
 
 SYSTEM OF SYSTEMS ENGINEERING: NATO has invested 30 years of mapping OPSCODE brevity codes to symbology / symbols / symbol sets contained in 300 plus message set / use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NEO NETOPS. Blockchain, crypto currency developers are recreating, reinventing this decades old, tedious, time intensive, labor intensive, expensive structured data exchange… wheel. It may be stated that this project is a swords to plowshares initiative
@@ -54,14 +59,7 @@ INTERNET TREATISES: Time filtered and spatially metered reports are comprised of
 
 2)	IEEE 802.11 HbH hop by hop control described, represented by USPTO 13/573,002 Paul Revere, rain drop in pond meme - metaphor metrics denoting increases / decreases in thresholds  intensity, duration and hop count sums
 
-PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support an EIN Earth Intelligence Network neural net emulation. We have a clear and present opportunity and responsibility to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems
-
 INTERGALACTIC / UNIVERSAL TIME - SPACE SYNCHRONIZATION: The Heart Beacon Cycle Time - Space Meter and it's use cases are intended to bridge humanity from our present condition to a higher consciousness described by Extra Terrestrial Groups and organizations like the Law of Time dot org with the Noosphere concept
-
-"One people, one Earth, one Time": "The times we are living in require higher thinking. There has never in the history of the Earth been a time like this. We are now participating in what is called the biosphere-noosphere transition: When life on Earth (the biosphere) evolves into an awakened planetary mind (noosphere)".
-
-"Only by lifting our minds to planetary consciousness and beyond can we realize solutions to the multiple challenges facing our planet today. With a new consciousness we can effectively educate and mobilize humanity to an unprecedented level of creative problem solving, and realize a positive future." Source: http://lawoftime.org
-Heart Beacon Cycle Time – Space Meter: One method fits many not one size fits all
 
 "One people, one Earth, one Time": "The times we are living in require higher thinking. There has never in the history of the Earth been a time like this. We are now participating in what is called the biosphere-noosphere transition: When life on Earth (the biosphere) evolves into an awakened planetary mind (noosphere)".
 
