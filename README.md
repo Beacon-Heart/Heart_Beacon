@@ -86,6 +86,8 @@ PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/
 
 Angel List: https://angel.co/heart_beacon
 
+Medium Articles: https://medium.com/@heart.beacon.cycle
+
 Patreon: https://www.patreon.com/beacon_heart
 
 FACEBOOK: https://www.facebook.com/beaconheart
@@ -106,7 +108,7 @@ EIN Earth Intelligence Network: see Robert David Steele’s #UNRIG proposal @ ht
 
 We can synchronize ourselves, our cities, towns, cyber-communities in time — space for a common purpose: shared, common, ecologically sound, equitable…  econometrics. (Attributed to the Law of Time Founder RIP Dr. Jose Arguellos) see Law of Time dot org
 
-#economic collapse #economic reset #econometrics #programmable economy #programmable money #blockchain #cryptocurrencies #sustainable development #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity
+#economic collapse #economic reset #econometrics #programmable economy #programmable money #blockchain #cryptocurrencies #sustainable development #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity #random number beacon #random number blockchain
 
 
 
