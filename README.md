@@ -82,7 +82,7 @@ MEDIUM ARTICLE: Deep Thought pondering the crypto blockchain through Alice’s L
 
 MEDIUM ARTICLE: "Delusional Bitcoin Vs Fool's Gold": LINK:  https://medium.com/@heart.beacon.cycle/delusional-bitcoin-vs-fools-gold-e4bea26afba8 
 
-PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/
+PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/ // https://www.pinterest.com/heartbeaconcycle/eco-economic-heartbeat/
 
 Angel List: https://angel.co/heart_beacon
 
