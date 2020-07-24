@@ -1,6 +1,6 @@
 TITLE: Eco Economic Epochs: Eco sustainable incentives for the programmable Economy - It's about TIME
 
-SUMMARY: Adaptive Procedural Template (checklist): Use Case: Eco #Economic Epochs Time-Space Meter #ecology Eco incentives, consensus, interoperability, sync, stochastic UTZ Universal Time Zone harmonization for programmable money and the programmable economy.
+The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist). Use Case: Ecologically sustainable economic incentives coded into the programmable economy based on a tokenized economy - It's about Time - Space, syntax symbol set lexicon library supporting the Earth Intelligence Network / Noosphere
 
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal based silicon chips
@@ -67,6 +67,8 @@ INTERGALACTIC / UNIVERSAL TIME - SPACE SYNCHRONIZATION: The Heart Beacon Cycle T
 "Only by lifting our minds to planetary consciousness and beyond can we realize solutions to the multiple challenges facing our planet today. With a new consciousness we can effectively educate and mobilize humanity to an unprecedented level of creative problem solving, and realize a positive future." Source: http://lawoftime.org 
 
 Heart Beacon Cycle Time – Space Meter: One method fits many not one size fits all
+
+SUMMARY: Adaptive Procedural Template (checklist): Use Case: Eco #Economic Epochs Time-Space Meter #ecology Eco incentives, consensus, interoperability, sync, stochastic UTZ Universal Time Zone harmonization for programmable money and the programmable economy.
 
 REFERENCES
 
