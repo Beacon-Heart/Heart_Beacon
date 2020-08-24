@@ -1,4 +1,4 @@
-TITLE: Eco Economic Epochs: Eco sustainable incentives for the programmable Economy - It's about TIME
+TITLE: Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy
 
 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist). Use Case: Ecologically sustainable economic incentives coded into the programmable economy based on a tokenized economy - It's about Time - Space, syntax symbol set lexicon library supporting the Earth Intelligence Network / Noosphere
 
