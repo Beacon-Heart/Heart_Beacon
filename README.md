@@ -1,6 +1,8 @@
 TITLE: Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy
 
-USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist). Use Case: Ecologically sustainable economic incentives coded into the programmable economy based on a tokenized economy - It's about Time - Space, syntax symbol set lexicon library supporting the Earth Intelligence Network / Noosphere
+USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist). 
+
+Use Case: Ecologically sustainable economic incentives coded into the programmable economy based on a tokenized economy - It's about Time - Space, syntax symbol set lexicon library supporting the Earth Intelligence Network / Noosphere
 
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal based silicon chips
