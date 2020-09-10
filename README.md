@@ -12,6 +12,9 @@ FUNDAMENTAL TRUTH: All things internet, net of money blockchains are formed by u
 
 INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, internet of money building blocks in coding the Artificial Intelligence A.I. powered economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
 
+Programmable #money / #economy… gold, #Bitcoin as “digital gold” — fool’s #gold? How will programmable money for the programmable economy be coded?
+A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
+
 PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support an EIN Earth Intelligence Network neural net emulation. We have a clear and present opportunity and responsibility to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems. Beacon Communities supported by an open source Earth Intelligence Network EIN powered by a quantum random number beacon blockchain - it's about time (space, syntax lexicon, econometrics..)
 
 PROJECT BEACON: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface). The Heart Beacon Cycle Time - Space Meter USPTO 13/573,002 is an Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy.
