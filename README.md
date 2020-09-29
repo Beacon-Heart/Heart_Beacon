@@ -72,6 +72,16 @@ INTERNET TREATISES: Time filtered and spatially metered reports are comprised of
 
 INTERGALACTIC / UNIVERSAL TIME - SPACE SYNCHRONIZATION: The Heart Beacon Cycle Time - Space Meter and it's use cases are intended to bridge humanity from our present condition to a higher consciousness described by Extra Terrestrial Groups and organizations like the Law of Time dot org with the Noosphere concept
 
+Message about the Gregorian Calendar / Law of Time dot org: 13 MOONS OF PEACE 
+
+The 13 Moon calendar is a solar-galactic cycle that meshes the 365-day third-dimensional solar cycle with the 260-day fourth-dimensional galactic cycle (Tzolkin) every 52 years. 
+
+The 365-day orbit of Earth around the Sun naturally divides into thirteen 28-day sequences (13×28=364) which correspond to the thirteen lunations occurring during one solar year, plus one extra day, July 25, the Day Out of Time, a day to practice time is art and peace through culture. Its daily use helps entrain the mind into the threshold of galactic consciousness. 
+
+The 13 Moon/28-day calendar embraces and synchronizes all true calendrical and mathematical systems, from lunar calendars, to the Mayan long count, to the Elder Futhark runes, to the I Ching hexagrams. In other words this system reveals a master matrix, which contains all other systems. 
+
+In the Gregorian calendar there is little cyclic or periodic order. Months are uneven; the length of months does not correlate with number of seven-day weeks, and the numbers change every month. https://lawoftime.org/education/
+
 "One people, one Earth, one Time": "The times we are living in require higher thinking. There has never in the history of the Earth been a time like this. We are now participating in what is called the biosphere-noosphere transition: When life on Earth (the biosphere) evolves into an awakened planetary mind (noosphere)".
 
 "Only by lifting our minds to planetary consciousness and beyond can we realize solutions to the multiple challenges facing our planet today. With a new consciousness we can effectively educate and mobilize humanity to an unprecedented level of creative problem solving, and realize a positive future." Source: http://lawoftime.org 
