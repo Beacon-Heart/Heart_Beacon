@@ -19,9 +19,6 @@ A timely solution for the "Great RESET" of 2021: Given: "Great #Economic RESET" 
 
 SUMMARY: GDP INDEX ECONOMY: Thomas Edison and Henry Ford proposed a currency based on a basket of crop commodities because Edison felt that crops held their value over time - enter climate change reality and the merits of this view are self evident. Later in the 1990's, Belgian Economist Bernard Litaer proposed a commodity based TRC Trade Reference Currency based on demurrage charges to support logistics of goods moved from supplier to consumer called the TERRA TRC. Prior to his passing, Nobel Prize winning economist Milton Friedman described an "economic heartbeat" in his K% rule where the Treasury increases the money supply increases and decreases pegged to the GDP index. Nations / the world's economy would be managed as a composite value index similar to for example, Vanguard's index funds, commodity index funds. The roll of of the value of the goods, commodities that comprise this index can be performed reusing DARPA / NATO's Battlefield Digitization, Net Enabled Operations NEO procedures that support the Pentagon's digital dashboards. 
 
-Gitcoin@gitcoin: "Write a blockchain horror story using only 3 words":
-Me: 1) blockchain 2) is 3) metaphorical
-
 PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support an EIN Earth Intelligence Network neural net emulation. We have a clear and present opportunity and responsibility to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems. Beacon Communities supported by an open source Earth Intelligence Network EIN powered by a quantum random number beacon blockchain - it's about time (space, syntax lexicon, econometrics..)
 
 PROJECT BEACON: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface). The Heart Beacon Cycle Time - Space Meter USPTO 13/573,002 is an Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy.
@@ -114,7 +111,7 @@ Medium Articles: https://medium.com/@heart.beacon.cycle
 
 Patreon: https://www.patreon.com/beacon_heart
 
-FACEBOOK: https://www.facebook.com/beaconheart
+FACEBOOK: https://www.facebook.com/beaconheart // https://www.facebook.com/HeartBeacon/
 
 MINDS: https://www.minds.com/beaconheart/
 
