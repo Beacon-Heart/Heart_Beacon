@@ -127,6 +127,8 @@ LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
 
 BEHANCE: Project site: http://be.net/heartbeaco2eb7
 
+Gitter chat room for EcoEconHeartbeat/Lobby: https://gitter.im/EcoEconHeartbeat/Lobby via @gitchat
+
 Proton Email (secure) ecoeconomicepochs@protonmail.com
 
 EIN Earth Intelligence Network: see Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
