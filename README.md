@@ -15,6 +15,8 @@ INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, intern
 Programmable #money / #economy… gold, #Bitcoin as “digital gold” — fool’s #gold? How will programmable money for the programmable economy be coded?
 A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
 
+FIAT based economies, currencies, units of value have always needed a RESET which is what the World Economic Forum, POTUS (in his commentary on the Las Vegas Mandalay Bay shooting with GIZA featured) et al have stated will occur starting in 2021. The plan is for the currency to be pegged to caches of gold, treasure to suddenly appear which will invoke the "golden rule". Several other luminaries like Edison (Edison's monetary option), Economist Milton Friedman, Bernard Lietaer (TRC Trade Reference Currency) have describe index funds to base a nation's / world currency - economy: “In the beginning (of time), there was the word” (syntax) = form for all things internet, net of $$$ 
+
 A timely solution for the "Great RESET" of 2021: Given: "Great #Economic RESET" of 2021 looming, consider a tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed:  GDP Index Economy powered by #Ericsson #Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon
 
 Nobel Prize winning economist Milton Friedman's K% rule is a GDP Gross Domestic Product economic heartbeat, a GDP pulse. Add a crypto coin index to commodity index and QRNB for non repudiation at any location / time in the future = basis for a one world economic system of systems unit of value WorldCoin https://twitter.com/i/status/1315621638579388418
