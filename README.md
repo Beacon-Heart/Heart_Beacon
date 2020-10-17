@@ -135,6 +135,8 @@ Proton Email (secure) ecoeconomicepochs@protonmail.com
 
 EIN Earth Intelligence Network: see Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
 
+IPFS Interplanetary File System snapshot: https://peerweb.site/#ipfs:QmPxJNfM15WBkwEABN96yrfUmwZCajjeYtuDTGjz8C9rCw  10/17/2020
+
 We can synchronize ourselves, our cities, towns, cyber-communities in time — space for a common purpose: shared, common, ecologically sound, equitable…  econometrics. (Attributed to the Law of Time Founder RIP Dr. Jose Arguellos) see Law of Time dot org
 
 #economic collapse #economic reset #econometrics #programmable economy #programmable money #blockchain #cryptocurrencies #sustainable development #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity #random number beacon #random number blockchain
