@@ -1,4 +1,4 @@
-TITLE: Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy
+TITLE: Adaptive Procedural Template: Use Case: GDP Index Economy / Eco Economic Epoch Heartbeats for the programmable economy
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist). 
 
