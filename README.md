@@ -95,7 +95,7 @@ In the Gregorian calendar there is little cyclic or periodic order. Months are u
 
 "Only by lifting our minds to planetary consciousness and beyond can we realize solutions to the multiple challenges facing our planet today. With a new consciousness we can effectively educate and mobilize humanity to an unprecedented level of creative problem solving, and realize a positive future." Source: http://lawoftime.org 
 
-S & P's Standards and Poor's crypto currency index launching in 2021: which algorithm (Luxor Egypt: "the shortest path to the knowledge of truth is nature) is best at sampling index fluctuations across time zones accounting for stochastic harmonization? (University of Bologna / U of Hungary's firefly-heartbeat algorithm) https://en.criptovalutenews.com/standard-cryptocurrencies-poors-is-about-to-launch-a-separate-index/
+S&P 500 Standard and Poor's crypto currency index: Q: which algorithm is best at sampling, reporting (heartbeat message bus) index fluctuations across UTZ time zones providing stochastic harmonization? (opinion: firefly-heartbeat algorithm) (Luxor Egypt: "the shortest path to the knowledge of truth is nature) Article: S&P Standard and Poors to launch cryptocurrency index fund in 2021: LINK https://en.criptovalutenews.com/standard-cryptocurrencies-poors-is-about-to-launch-a-separate-index/
 
 Heart Beacon Cycle Time – Space Meter: One method fits many not one size fits all
 
