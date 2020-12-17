@@ -8,7 +8,7 @@ THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal based silicon chips
 2.	Syntax used / not used as programming instructions during epoch time cycles
 
-FUNDAMENTAL TRUTH: blockchains are formed by unicast, multicast,anycast and workflow filters. Programmable money’s improvements are in cryptography. Internet 3.0 and the new web will be based on the original mechanmisms used by Stanford University.  There are no packets, frames, blocks, Satoshi's traversing the net, stored in a cube blockchain.
+FUNDAMENTAL TRUTH: blockchains are formed by unicast, multicast,anycast and workflow filters. Programmable money’s improvements are in cryptography. Internet 3.0 and the new web will be based on the original structured described by Stanford University.  There are no packets, frames, blocks, Satoshi's traversing the net, stored in a cube blockchain.
 
 INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, internet of money building blocks in coding the Artificial Intelligence A.I. powered economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
 
