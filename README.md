@@ -131,6 +131,8 @@ Angel List: https://angel.co/heart_beacon
 
 Medium Articles: https://medium.com/@heart.beacon.cycle
 
+Maven: http://app.maven.co/profile/SHfEKnA9
+
 Patreon: https://www.patreon.com/beacon_heart
 
 FACEBOOK: https://www.facebook.com/beaconheart // https://www.facebook.com/HeartBeacon/
