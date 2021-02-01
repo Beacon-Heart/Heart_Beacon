@@ -2,6 +2,8 @@ TITLE: Adaptive Procedural Template: Use Case: GDP Index Economy / Eco Economic 
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist). 
 
+“Trust the plan” YOU / WE are THE plan. What is your solution framework based on EXISTING systems, code, best practice? Adaptive Procedural Template (checklist): Use case: GDP Index based Economy: Eco Economic Epochs Time-Space Meter Eco incentives, consensus, interoperability for the programmable economy, Earth Intelligence Network EIN / System of systems engineering framework from NATO Battlefield Digitization based on a German military idea to reuse Battlefield Digitization for OOTW Operations Other Than War circa 1993 / USPTO 13/573,002 / Github: http://github.com/Beacon-Heart
+
 We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems supporting a distributed, equitable, Eco-sustainable, and programmable global Economic framework. 
 
 We can synchronize ourselves in time-space for common goals e.g., code an equitable, distributed programmable economy among trade federations (attributed to Law of Time . Org)
