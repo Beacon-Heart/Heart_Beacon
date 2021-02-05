@@ -131,7 +131,7 @@ PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/ // https:/
 
 Angel List: https://angel.co/heart_beacon
 
-Medium Articles: https://medium.com/@heart.beacon.cycle
+MeWE: http://mewe.com/i/stevenmcgee2
 
 Maven: http://app.maven.co/profile/SHfEKnA9
 
