@@ -30,9 +30,6 @@ INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, intern
 Programmable #money / #economy… gold, #Bitcoin as “digital gold” — fool’s #gold? How will programmable money for the programmable economy be coded?
 A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
 
-This Bloomberg article makes the case for cryptocurrencies based on quantum computing: A Swiss Company Says It Found Weakness That Imperils Encryption Ryan Gallagher, Bloomberg News/ Why not make use of NIST QRNB based in Boulder Colorado that is part of the Department of Commerce / Treasury?  (Bloomberg) -- Security experts have long worried that advances in quantum computing could eventually make it easier to break encryption that protects the privacy of people’s data. That’s because these sophisticated machines can perform calculations at speeds impossible for conventional computers, potentially enabling them to crack codes previously thought indecipherable. 
-Source: Bloomberg: https://www.bnnbloomberg.ca/a-swiss-company-says-it-found-weakness-that-imperils-encryption-1.1560323 
-
 FIAT based economies, currencies, units of value have always needed a RESET which is what the World Economic Forum, POTUS (in his commentary on the Las Vegas Mandalay Bay shooting with GIZA featured) et al have stated will occur starting in 2021. The plan is for the currency to be pegged to caches of gold, treasure to suddenly appear which will invoke the "golden rule". Several other luminaries like Edison (Edison's monetary option), Economist Milton Friedman, Bernard Lietaer (TRC Trade Reference Currency) have describe index funds to base a nation's / world currency - economy: “In the beginning (of time), there was the word” (syntax) = form for all things internet, net of $$$ 
 
 A timely solution for the "Great RESET" of 2021: Given: "Great #Economic RESET" of 2021 looming, consider a tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed:  GDP Index Economy powered by #Ericsson #Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon
@@ -92,6 +89,9 @@ US Supreme Court Alice ruling "patent claims may not direct towards abstract ide
 
 US Supreme Court Alice ruling "patent claims may not direct towards abstract ideas". Physical is the opposite of abstract. NIST Quantum Random Number Beacon "generated from different physical processes" USPTO 13/573,002 in my opinion, was the first and more importantly, the best meme to universally describe, metric, meter and monitor programmable money transactions - based on a US Department of Commerce / Department of the Treasury organization as opposed to a 3rd party, private organization
 
+This Bloomberg article makes the case for cryptocurrencies based on quantum computing: A Swiss Company Says It Found Weakness That Imperils Encryption Ryan Gallagher, Bloomberg News/ Why not make use of NIST QRNB based in Boulder Colorado that is part of the Department of Commerce / Treasury?  (Bloomberg) -- Security experts have long worried that advances in quantum computing could eventually make it easier to break encryption that protects the privacy of people’s data. That’s because these sophisticated machines can perform calculations at speeds impossible for conventional computers, potentially enabling them to crack codes previously thought indecipherable. 
+Source: Bloomberg: https://www.bnnbloomberg.ca/a-swiss-company-says-it-found-weakness-that-imperils-encryption-1.1560323 
+
 FUNDAMENTAL TRUTH: All things internet, net of money blockchains are formed by unicast, multicast, anycast. Programmable money’s improvements are in cryptography.
 
 INTERNET TREATISES: Time filtered and spatially metered reports are comprised of state meta-data snapshot / heartbeat message / sync delta messages where state meta data is harvested during micro-cycles then posted / displayed during longer macro-cycles See hop count treatise referential to internet / TCP/IP treatises
@@ -125,6 +125,8 @@ USE CASES: Adaptive Procedural Template (checklist): Use Case: Eco Economic Epoc
 REFERENCES
 
 GITHUB Documents: LINK https://github.com/Beacon-Heart
+
+REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
 MEDIUM ARTICLE: "The blockchain needs a killer use case" (climate change / population increase) 
 LINK: https://medium.com/coinmonks/blockchain-needs-a-killer-use-case-2f4def841883
