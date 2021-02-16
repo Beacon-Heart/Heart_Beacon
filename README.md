@@ -148,6 +148,8 @@ MeWE: http://mewe.com/i/stevenmcgee2
 
 Maven: http://app.maven.co/profile/SHfEKnA9
 
+WordPress: http://ecoheartbeat.wordpress.com
+
 Patreon: https://www.patreon.com/beacon_heart
 
 FACEBOOK: https://www.facebook.com/beaconheart // https://www.facebook.com/HeartBeacon/
