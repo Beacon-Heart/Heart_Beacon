@@ -128,6 +128,8 @@ GITHUB Documents: LINK https://github.com/Beacon-Heart
 
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
+DISCORD: beaconheart#5893
+
 MEDIUM ARTICLE: "The blockchain needs a killer use case" (climate change / population increase) 
 LINK: https://medium.com/coinmonks/blockchain-needs-a-killer-use-case-2f4def841883
 
