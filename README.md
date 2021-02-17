@@ -100,6 +100,8 @@ INTERNET TREATISES: Time filtered and spatially metered reports are comprised of
 
 2)	IEEE 802.11 HbH hop by hop control described, represented by USPTO 13/573,002 Paul Revere, rain drop in pond meme - metaphor metrics denoting increases / decreases in thresholds  intensity, duration and hop count sums
 
+Sync Deltas = changes from one epoch time cycle to the next: crypto currencies tethered to tangible commodities formed into indices of Delta-1 assets: https://lnkd.in/dmTaeHJ  #cryptocurrencies #Commodities #Indices
+
 INTERGALACTIC / UNIVERSAL TIME - SPACE SYNCHRONIZATION: The Heart Beacon Cycle Time - Space Meter and it's use cases are intended to bridge humanity from our present condition to a higher consciousness described by Extra Terrestrial Groups and organizations like the Law of Time dot org with the Noosphere concept
 
 Message about the Gregorian Calendar / Law of Time dot org: 13 MOONS OF PEACE 
