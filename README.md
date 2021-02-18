@@ -100,7 +100,8 @@ INTERNET TREATISES: Time filtered and spatially metered reports are comprised of
 
 2)	IEEE 802.11 HbH hop by hop control described, represented by USPTO 13/573,002 Paul Revere, rain drop in pond meme - metaphor metrics denoting increases / decreases in thresholds  intensity, duration and hop count sums
 
-Sync Deltas = changes from one epoch time cycle to the next: crypto currencies tethered to tangible commodities formed into indices of Delta-1 assets: https://lnkd.in/dmTaeHJ  #cryptocurrencies #Commodities #Indices
+Sync Deltas = changes from one epoch time cycle to the next: crypto currencies tethered to tangible commodities formed into indices of Delta-1 assets:
+Linear Finance (LINA) is a cross-chain Decentralized Delta-One Asset Protocol with Unlimited Liquidity. It is the first protocol that allows users to cost-effectively create, trade and manage liquid assets (Liquids) and creative thematical Digital Traded Funds. Linear Buildr is a decentralized application for staking and building LUSD, accepting a mixture of LINA tokens and other major cryptocurrencies. Linear Exchange enables trading of a variety of liquid assets (Liquids) based on spot cryptocurrencies, commodities, and thematic indexes with nearly instant confirmation time and immediate finality. Source: https://lnkd.in/dmTaeHJ #cryptocurrencies #Commodities #Indices
 
 INTERGALACTIC / UNIVERSAL TIME - SPACE SYNCHRONIZATION: The Heart Beacon Cycle Time - Space Meter and it's use cases are intended to bridge humanity from our present condition to a higher consciousness described by Extra Terrestrial Groups and organizations like the Law of Time dot org with the Noosphere concept
 
