@@ -82,6 +82,11 @@ QUANTUM COMPUTING: the use of quantum-mechanical phenomena such as superposition
 
 Quantum Random Number Beacon ! " NIST BOULDER | The BIG Bell Test: In 2015, NIST was one of the first groups to carry out a complete test of Bell theorem using quantum states of light, and conclusively show the presence of this "spooky action." However, in that experiment the decisions about how to carry out the measurements were made by random numbers generated from different physical processes. https://thebigbelltest.org/team/nist-boulder/
 
+IEEE Article: Quantum Computing Error Correct QEC is getting practical February 25th 2021
+
+Quantum Error Correction QEC, in combination with the theory of fault-tolerant quantum computing, suggests that engineers can in principle build an arbitrarily large quantum computer that if operated correctly would be capable of arbitrarily long computations. This would be a stunningly powerful achievement. The prospect that it can be realized underpins the entire field of quantum computer science: Replace all quantum computing hardware with “logical” qubits running QEC, and even the most complex algorithms come into reach. For instance, Shor’s algorithm could be deployed to render Bitcoin insecure with just a few thousand error-corrected logical qubits. 
+LINK: https://spectrum.ieee.org/tech-talk/computing/hardware/quantum-computer-error-correction-is-getting-practical
+
 Speaking of the QFS Quantum Financial System with it’s HQ & data center in Las Vegas Nevada which to my knowledge does not make use of the Department of Commerce’s NIST National Institute of Science and Technology’s QRNB Quantum Random Number Beacon and has it’s own QRNB / QRNG, NIST’s QRNB intent is to be interoperable with other QRNB’s, therefore, this Max Planck Institute / Announcement is germane to a discussion of a one world government / one world economic system of systems: distributed quantum computers – will need (UTZ) stochastic harmonization (across time zones… eventually) Quantum systems learn joint computing 
 Max Planck Institute: https://www.mpq.mpg.de/6420133/02-quantum-systems-learn-joint-computing #quantum #UTZ
 
