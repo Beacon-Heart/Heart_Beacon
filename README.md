@@ -27,6 +27,10 @@ FUNDAMENTAL TRUTH: blockchains are formed by unicast, multicast,anycast and work
 
 INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, internet of money building blocks in coding the Artificial Intelligence A.I. powered economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
 
+Cryptocurrency units of value events, transactions non-repudiation at any time – space, place in the future will be expected required and will be derived from a physical (photonic) light process. Physical is the opposite of abstract in light of SCOTUS Alice 2014 ruling #cryptocurrencies
+
+There is no such thing as no “layers”, “bots”, “motes”, “packets”, “frames”, “Satoshi’s” traversing the internet, net of #money forming “blocks” on a “blockchain” that stores “tokens” in a cube with height, width, volume. All ignore SCOTUS Alice 2014 ruling “claims may not direct towards abstract ideas”
+
 Programmable #money / #economy… gold, #Bitcoin as “digital gold” — fool’s #gold? How will programmable money for the programmable economy be coded?
 A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
 
