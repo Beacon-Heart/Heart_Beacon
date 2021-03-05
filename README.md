@@ -164,7 +164,7 @@ Maven: http://app.maven.co/profile/SHfEKnA9
 
 WordPress: http://ecoheartbeat.wordpress.com
 
-Patreon: https://www.patreon.com/beacon_heart
+Patreon: https://www.patreon.com/Heart_Beacon
 
 FACEBOOK: https://www.facebook.com/beaconheart // https://www.facebook.com/HeartBeacon/
 
