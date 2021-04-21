@@ -88,6 +88,8 @@ QUANTUM COMPUTING: the use of quantum-mechanical phenomena such as superposition
 
 Quantum Random Number Beacon ! " NIST BOULDER | The BIG Bell Test: In 2015, NIST was one of the first groups to carry out a complete test of Bell theorem using quantum states of light, and conclusively show the presence of this "spooky action." However, in that experiment the decisions about how to carry out the measurements were made by random numbers generated from different physical processes. https://thebigbelltest.org/team/nist-boulder/
 
+USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is descriptive to the quantum computing level and SCOTUS Alice in Wonderland ruling... SNAP ! :) waves (water drop in pond meme) single photon shifts (Paul Revere meme) - FutureMan likes ! "Our work provides a pathway towards extreme mechanical nonlinearities, and towards #quantum devices that use mechanical resonators as qubits" https://www.nature.com/articles/s41534-021-00393-3
+
 IEEE Article: Quantum Computing Error Correct QEC is getting practical February 25th 2021
 
 Quantum Error Correction QEC, in combination with the theory of fault-tolerant quantum computing, suggests that engineers can in principle build an arbitrarily large quantum computer that if operated correctly would be capable of arbitrarily long computations. This would be a stunningly powerful achievement. The prospect that it can be realized underpins the entire field of quantum computer science: Replace all quantum computing hardware with “logical” qubits running QEC, and even the most complex algorithms come into reach. For instance, Shor’s algorithm could be deployed to render Bitcoin insecure with just a few thousand error-corrected logical qubits. 
