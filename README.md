@@ -90,6 +90,8 @@ Quantum Random Number Beacon ! " NIST BOULDER | The BIG Bell Test: In 2015, NIST
 
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is descriptive to the quantum computing level and SCOTUS Alice in Wonderland ruling... SNAP ! :) waves (water drop in pond meme) single photon shifts (Paul Revere meme) - FutureMan likes ! "Our work provides a pathway towards extreme mechanical nonlinearities, and towards #quantum devices that use mechanical resonators as qubits" https://www.nature.com/articles/s41534-021-00393-3
 
+#Veritaseum / Secrets of Synchronization / Particle - wave duality (#quantum) firefly pair coupling to synchronize across time - space via firefly-heartbeat algorithm for stochastic harmonization, UTZ synchronization USPTO 13/573,002 @ 8:10: https://youtu.be/t-_VPRCtiUg?t=490
+
 IEEE Article: Quantum Computing Error Correct QEC is getting practical February 25th 2021
 
 Quantum Error Correction QEC, in combination with the theory of fault-tolerant quantum computing, suggests that engineers can in principle build an arbitrarily large quantum computer that if operated correctly would be capable of arbitrarily long computations. This would be a stunningly powerful achievement. The prospect that it can be realized underpins the entire field of quantum computer science: Replace all quantum computing hardware with “logical” qubits running QEC, and even the most complex algorithms come into reach. For instance, Shor’s algorithm could be deployed to render Bitcoin insecure with just a few thousand error-corrected logical qubits. 
