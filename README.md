@@ -1,4 +1,4 @@
-TITLE: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaing, telemetry framework
+TITLE: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaling, telemetry (OPORD Annex K) framework
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products...). 
 
