@@ -1,6 +1,6 @@
-TITLE: Adaptive Procedural Template: 
+TITLE: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaing, telemetry framework
 
-USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist). 
+USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products...). 
 
 Use Case: Gross Domestic Product GDP Index Economy / Eco Economic Epoch Heartbeats for the programmable economy
 
