@@ -1,4 +1,6 @@
-TITLE: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaling, telemetry (OPORD Annex K) framework derived from DARPA / Pentagon / NATO's Common Operational Pictures system of systems engineering efforts dating from the mid 1990's (swords to plowshares)
+TITLE: Systems of federated systems
+
+DESCRIPTION: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaling, telemetry (OPORD Annex K) framework derived from DARPA / Pentagon / NATO's Common Operational Picture COP-SIOP system of systems engineering family of systems dating from the mid 1990's (swords to plowshares)
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products...). 
 
