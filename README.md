@@ -1,4 +1,4 @@
-TITLE: Systems of Federated Systems signalling, telemetry support framework for all things net, net of programmable money
+TITLE: Systems of Federated Systems signalling, telemetry support framework for all things net, net of programmable money, econometrics for the programmable economy
 
 DESCRIPTION: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaling, telemetry (OPORD Annex K) framework derived from DARPA / Pentagon / NATO's Common Operational Picture COP-SIOP system of systems engineering family of systems dating from the mid 1990's (swords to plowshares)
 
