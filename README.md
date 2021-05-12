@@ -1,4 +1,4 @@
-TITLE: Systems of Federated Systems signaling, telemetry support framework for all things net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations in a new model programmable economy
+TITLE: Systems of Federated Systems signaling, telemetry support framework for all things net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustinable programmable economy
 
 DESCRIPTION: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaling, telemetry (OPORD Annex K) framework derived from DARPA / Pentagon / NATO's Common Operational Picture COP-SIOP system of systems engineering family of systems dating from the mid 1990's (swords to plowshares)
 
