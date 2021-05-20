@@ -117,6 +117,13 @@ INTERNET TREATISES: Time filtered and spatially metered reports are comprised of
 
 2)	IEEE 802.11 HbH hop by hop control described, represented by USPTO 13/573,002 Paul Revere, rain drop in pond meme - metaphor metrics denoting increases / decreases in thresholds  intensity, duration and hop count sums
 
+USPTO 13,573,002 electric meter claim: closer is cheaper given less infrastructure needed given energy attenuates over distances: electric dipole effect data where #energy pulses constitute a method and means to transmit data over electric wired, wireless pathways 
+Radio Wave Properties: Electric and Magnetic Dipole Antennae LINK: https://youtu.be/wUpOlqbHcjI?t=111
+
+- water drop in pond meme
+
+- Paul Revere linear, sequential
+
 Sync Deltas = changes from one epoch time cycle to the next: crypto currencies tethered to tangible commodities formed into indices of Delta-1 assets:
 Linear Finance (LINA) is a cross-chain Decentralized Delta-One Asset Protocol with Unlimited Liquidity. It is the first protocol that allows users to cost-effectively create, trade and manage liquid assets (Liquids) and creative thematical Digital Traded Funds. Linear Buildr is a decentralized application for staking and building LUSD, accepting a mixture of LINA tokens and other major cryptocurrencies. Linear Exchange enables trading of a variety of liquid assets (Liquids) based on spot cryptocurrencies, commodities, and thematic indexes with nearly instant confirmation time and immediate finality. Source: https://lnkd.in/dmTaeHJ #cryptocurrencies #Commodities #Indices
 
