@@ -117,8 +117,9 @@ INTERNET TREATISES: Time filtered and spatially metered reports are comprised of
 
 2)	IEEE 802.11 HbH hop by hop control described, represented by USPTO 13/573,002 Paul Revere, rain drop in pond meme - metaphor metrics denoting increases / decreases in thresholds  intensity, duration and hop count sums
 
-USPTO 13,573,002 electric meter claim: closer is cheaper given less infrastructure needed given energy attenuates over distances: electric dipole effect data where #energy pulses constitute a method and means to transmit data over electric wired, wireless pathways 
-Radio Wave Properties: Electric and Magnetic Dipole Antennae LINK: https://youtu.be/wUpOlqbHcjI?t=111
+USPTO 13,573,002 electric meter claim based on electric dipole effect: closer is cheaper given less infrastructure needed given energy attenuates over distances  
+- data over energy link where #energy pulses constitute a method and means to transmit data over electric wired, wireless pathways 
+- electric dipole effect Radio Wave Properties: Electric and Magnetic Dipole Antennae LINK: https://youtu.be/wUpOlqbHcjI?t=111
 
 - water drop in pond meme
 
