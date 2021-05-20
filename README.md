@@ -4,6 +4,8 @@ DESCRIPTION: Adaptive Procedural Template forming / supporting a system of feder
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products...). 
 
+FUNDAMENTAL TRUTH: All things internet, net of money blockchains are formed by unicast, multicast, anycast. Programmable money’s improvements are in cryptography.
+
 Use Case: Gross Domestic Product GDP Index Economy / Eco Economic Epoch Heartbeats for the programmable economy
 
 What is your solution framework based on EXISTING systems, code, best practice? Adaptive Procedural Template (checklist): Use case: GDP Index based Economy: Eco Economic Epochs Time-Space Meter Eco incentives, consensus, interoperability for the programmable economy, Earth Intelligence Network EIN / System of systems engineering framework from NATO Battlefield Digitization based on a German military idea to reuse Battlefield Digitization for OOTW Operations Other Than War circa 2003 based on digital dashboard system of systems
@@ -102,14 +104,15 @@ Max Planck Institute: https://www.mpq.mpg.de/6420133/02-quantum-systems-learn-jo
 
 The Department of Commerce funding NIST QRNB Quantum Random Number Beacon in Boulder Colorado’s stated purpose is to provide a non-repudiation service of events (transactions) at any place, time in the future. This is an absolute must have for any digital currency in my opinion. The late Bernard Lietaer of Belgium’s TRC Trade Reference Currency featuring tangible commodities (like Thomas Edison’s crop commodity based monetary option of 1921) should be the models that benefit from quantum computing and the QRNB. 
 
+This Bloomberg article makes the case for cryptocurrencies based on quantum computing: A Swiss Company Says It Found Weakness That Imperils Encryption Ryan Gallagher, Bloomberg News/ Why not make use of NIST QRNB based in Boulder Colorado that is part of the Department of Commerce / Treasury?  (Bloomberg) -- Security experts have long worried that advances in quantum computing could eventually make it easier to break encryption that protects the privacy of people’s data. That’s because these sophisticated machines can perform calculations at speeds impossible for conventional computers, potentially enabling them to crack codes previously thought indecipherable. 
+Source: Bloomberg: https://www.bnnbloomberg.ca/a-swiss-company-says-it-found-weakness-that-imperils-encryption-1.1560323 
+
 US Supreme Court Alice ruling "patent claims may not direct towards abstract ideas". Physical is the opposite of abstract. NIST Quantum Random Number Beacon "generated from different physical processes" Relevance: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter describes a physical, US SCOTUS ALice compliant meme. Quantum Random Number Beacon ! " NIST BOULDER | The BIG Bell Test: In 2015, NIST was one of the first groups to carry out a complete test of Bell theorem using quantum states of light, and conclusively show the presence of this "spooky action." However, in that experiment the decisions about how to carry out the measurements were made by random numbers generated from different physical processes. https://thebigbelltest.org/team/nist-boulder/
 
 US Supreme Court Alice ruling "patent claims may not direct towards abstract ideas". Physical is the opposite of abstract. NIST Quantum Random Number Beacon "generated from different physical processes" USPTO 13/573,002 in my opinion, was the first and more importantly, the best meme to universally describe, metric, meter and monitor programmable money transactions - based on a US Department of Commerce / Department of the Treasury organization as opposed to a 3rd party, private organization
 
-This Bloomberg article makes the case for cryptocurrencies based on quantum computing: A Swiss Company Says It Found Weakness That Imperils Encryption Ryan Gallagher, Bloomberg News/ Why not make use of NIST QRNB based in Boulder Colorado that is part of the Department of Commerce / Treasury?  (Bloomberg) -- Security experts have long worried that advances in quantum computing could eventually make it easier to break encryption that protects the privacy of people’s data. That’s because these sophisticated machines can perform calculations at speeds impossible for conventional computers, potentially enabling them to crack codes previously thought indecipherable. 
-Source: Bloomberg: https://www.bnnbloomberg.ca/a-swiss-company-says-it-found-weakness-that-imperils-encryption-1.1560323 
-
-FUNDAMENTAL TRUTH: All things internet, net of money blockchains are formed by unicast, multicast, anycast. Programmable money’s improvements are in cryptography.
+GOOD VIBRATIONS, BAD VIBRATIONS: AMERICAN AXLE V. NEAPCO RULING Judge: "an inventive concept to instead focus on the reliance on Hooke’s law, and predicted that because all inventions depend to some extent on the operation of unstated natural laws, the majority’s opinion would open the door to Section 101 challenges in practically every patent case. Tesla: "think of energy, frequency, and vibration"
+Article source: https://bilski.typepad.com/blog/2018/03/good-vibrations-bad-vibrations-american-axle-v-neapco-ruling.html
 
 INTERNET TREATISES: Time filtered and spatially metered reports are comprised of state meta-data snapshot / heartbeat message / sync delta messages where state meta data is harvested during micro-cycles then posted / displayed during longer macro-cycles See hop count treatise referential to internet / TCP/IP treatises
 
