@@ -4,7 +4,7 @@ DESCRIPTION: Adaptive Procedural Template forming / supporting a system of feder
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products...). 
 
-FUNDAMENTAL TRUTH: All things internet, net of money blockchains are formed by unicast, multicast, anycast. Programmable money’s improvements are in cryptography.
+FUNDAMENTAL TRUTH: All things internet, net of money blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography.
 
 Use Case: Gross Domestic Product GDP Index Economy / Eco Economic Epoch Heartbeats for the programmable economy
 
