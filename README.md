@@ -4,11 +4,11 @@ DESCRIPTION: Adaptive Procedural Template forming / supporting a system of feder
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products...). 
 
+Use Case: Gross Domestic Product GDP Index Economy / Eco Economic Epoch Heartbeats for the programmable economy
+
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal based silicon chips
 2.	Syntax used / not used as programming instructions during epoch time cycle
-
-Use Case: Gross Domestic Product GDP Index Economy / Eco Economic Epoch Heartbeats for the programmable economy
 
 GIVEN / FUNDAMENTAL TRUTH: All things internet, net of money blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography.  Blockchains are formed by unicast, multicast,anycast and workflow filters. Programmable money’s improvements are in cryptography. Internet 3.0 and the new web will be based on the original structure described by Stanford University.  There are no packets, frames, blocks, Satoshi's traversing the net, stored in a blockchain cube.
 
