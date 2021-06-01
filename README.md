@@ -4,14 +4,24 @@ DESCRIPTION: Adaptive Procedural Template forming / supporting a system of feder
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products...). 
 
-FUNDAMENTAL TRUTH: All things internet, net of money blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography.
+THESIS: All things internet, internet of programmable money are formed using:
+1.	Time epochs created by oscillating quartz crystal based silicon chips
+2.	Syntax used / not used as programming instructions during epoch time cycle
 
 Use Case: Gross Domestic Product GDP Index Economy / Eco Economic Epoch Heartbeats for the programmable economy
 
-What is your solution framework based on EXISTING systems, code, best practice? Adaptive Procedural Template (checklist): Use case: GDP Index based Economy: Eco Economic Epochs Time-Space Meter Eco incentives, consensus, interoperability for the programmable economy, Earth Intelligence Network EIN / System of systems engineering framework from NATO Battlefield Digitization based on a German military idea to reuse Battlefield Digitization for OOTW Operations Other Than War circa 2003
+GIVEN / FUNDAMENTAL TRUTH: All things internet, net of money blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography.  Blockchains are formed by unicast, multicast,anycast and workflow filters. Programmable money’s improvements are in cryptography. Internet 3.0 and the new web will be based on the original structure described by Stanford University.  There are no packets, frames, blocks, Satoshi's traversing the net, stored in a blockchain cube.
 
-Q: What's your vote for a one world currency for a one world government: 1. IMF's SDR basket 2. NESERA's QFS Las Vegas
-3. Department of Commerce - Treasury - NIST QRNB at Boulder Colorado (Stephen King's The Stand's Free Zone) ? ﻿#IMF﻿ ﻿#NESERA﻿ ﻿#NIST﻿ 
+INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, internet of money building blocks in coding the Artificial Intelligence A.I. powered economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
+
+There is no such thing as no “layers”, “bots”, “motes”, “packets”, “frames”, “Satoshi’s” traversing the internet, net of #money forming “blocks” on a “blockchain” that stores “tokens” in a cube with height, width, volume. All ignore SCOTUS Alice 2014 ruling “claims may not direct towards abstract ideas”
+
+Programmable #money / #economy… gold, #Bitcoin as “digital gold” — fool’s #gold? How will programmable money for the programmable economy be coded?
+A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
+
+Cryptocurrency units of value events, transactions non-repudiation at any time – space, place in the future will be expected required and will be derived from a physical (photonic) light process. Physical is the opposite of abstract in light of SCOTUS Alice 2014 ruling #cryptocurrencies
+
+What is your solution framework based on EXISTING systems, code, best practice? Adaptive Procedural Template (checklist): Use case: GDP Index based Economy: Eco Economic Epochs Time-Space Meter Eco incentives, consensus, interoperability for the programmable economy, Earth Intelligence Network EIN / System of systems engineering framework from NATO Battlefield Digitization based on a German military idea to reuse Battlefield Digitization for OOTW Operations Other Than War circa 2003
 
 We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems supporting a distributed, equitable, Eco-sustainable, and programmable global Economic framework. 
 
@@ -25,28 +35,16 @@ Use Cases: Eco #Economic Epochs Time-Space Meter #ecology Eco incentives, consen
 
 Use Case: Ecologically sustainable economic incentives coded into the programmable economy based on a tokenized economy - It's about Time - Space, syntax symbol set lexicon library supporting the Earth Intelligence Network / Noosphere. Main use case: GDP Gross Domestic Product Index based Economy / National - Global currency
 
-THESIS: All things internet, internet of programmable money are formed using:
-1.	Time epochs created by oscillating quartz crystal based silicon chips
-2.	Syntax used / not used as programming instructions during epoch time cycles
-
-FUNDAMENTAL TRUTH: blockchains are formed by unicast, multicast,anycast and workflow filters. Programmable money’s improvements are in cryptography. Internet 3.0 and the new web will be based on the original structure described by Stanford University.  There are no packets, frames, blocks, Satoshi's traversing the net, stored in a blockchain cube.
-
-INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, internet of money building blocks in coding the Artificial Intelligence A.I. powered economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
-
-Cryptocurrency units of value events, transactions non-repudiation at any time – space, place in the future will be expected required and will be derived from a physical (photonic) light process. Physical is the opposite of abstract in light of SCOTUS Alice 2014 ruling #cryptocurrencies
-
-There is no such thing as no “layers”, “bots”, “motes”, “packets”, “frames”, “Satoshi’s” traversing the internet, net of #money forming “blocks” on a “blockchain” that stores “tokens” in a cube with height, width, volume. All ignore SCOTUS Alice 2014 ruling “claims may not direct towards abstract ideas”
-
-Programmable #money / #economy… gold, #Bitcoin as “digital gold” — fool’s #gold? How will programmable money for the programmable economy be coded?
-A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
-
 FIAT based economies, currencies, units of value have always needed a RESET which is what the World Economic Forum, POTUS (in his commentary on the Las Vegas Mandalay Bay shooting with GIZA featured) et al have stated will occur starting in 2021. The plan is for the currency to be pegged to caches of gold, treasure to suddenly appear which will invoke the "golden rule". Several other luminaries like Edison (Edison's monetary option), Economist Milton Friedman, Bernard Lietaer (TRC Trade Reference Currency) have describe index funds to base a nation's / world currency - economy: “In the beginning (of time), there was the word” (syntax) = form for all things internet, net of $$$ 
 
 Given: "Great #Economic RESET" of 2021 looming, consider a tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed:  GDP Index Economy powered by #Ericsson #Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon
 
+Q: What's your vote for a one world currency for a one world government: 1. IMF's SDR basket 2. NESERA's QFS Las Vegas
+3. Department of Commerce - Treasury - NIST QRNB at Boulder Colorado (Stephen King's The Stand's Free Zone) ? ﻿#IMF﻿ ﻿#NESERA﻿ ﻿#NIST﻿ 
+
 Nobel Prize winning economist Milton Friedman's K% rule is a GDP Gross Domestic Product economic heartbeat, a GDP pulse. Add a crypto coin index to commodity index and QRNB for non repudiation at any location / time in the future = basis for a one world economic system of systems unit of value WorldCoin https://twitter.com/i/status/1315621638579388418
 
-SUMMARY: GDP INDEX ECONOMY: Thomas Edison and Henry Ford proposed a currency based on a basket of crop commodities because Edison felt that crops held their value over time - enter climate change reality and the merits of this view are self evident. Later in the 1990's, Belgian Economist Bernard Lietaer proposed a commodity based TRC Trade Reference Currency based on demurrage charges to support logistics of goods moved from supplier to consumer called the TERRA TRC. Prior to his passing, Nobel Prize winning economist Milton Friedman described an "economic heartbeat" in his K% rule where the Treasury increases the money supply increases and decreases pegged to the GDP index. Nations / the world's economy would be managed as a composite value index similar to for example, Vanguard's index funds, commodity index funds. A snapshot or sync delta value taken at a predetermined time interval (micro-cycle to macro cycle) to determine the statistical mean value of the goods, commodities that comprise a GDP index is performed and used as the value of the organization's / nation's / world's unit of value as the basis for currency exchange. This process reuses DARPA / NATO's Battlefield Digitization, Net Enabled Operations NEO procedures that have supported the Pentagon's / NATO's digital dashboards since the 1990's. 
+GDP INDEX ECONOMY: Thomas Edison and Henry Ford proposed a currency based on a basket of crop commodities because Edison felt that crops held their value over time - enter climate change reality and the merits of this view are self evident. Later in the 1990's, Belgian Economist Bernard Lietaer proposed a commodity based TRC Trade Reference Currency based on demurrage charges to support logistics of goods moved from supplier to consumer called the TERRA TRC. Prior to his passing, Nobel Prize winning economist Milton Friedman described an "economic heartbeat" in his K% rule where the Treasury increases the money supply increases and decreases pegged to the GDP index. Nations / the world's economy would be managed as a composite value index similar to for example, Vanguard's index funds, commodity index funds. A snapshot or sync delta value taken at a predetermined time interval (micro-cycle to macro cycle) to determine the statistical mean value of the goods, commodities that comprise a GDP index is performed and used as the value of the organization's / nation's / world's unit of value as the basis for currency exchange. This process reuses DARPA / NATO's Battlefield Digitization, Net Enabled Operations NEO procedures that have supported the Pentagon's / NATO's digital dashboards since the 1990's. 
 
 PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support an EIN Earth Intelligence Network neural net emulation. We have a clear and present opportunity and responsibility to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems. Beacon Communities supported by an open source Earth Intelligence Network EIN powered by a quantum random number beacon blockchain - it's about time (space, syntax lexicon, econometrics..)
 
