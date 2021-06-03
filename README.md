@@ -14,7 +14,7 @@ GIVEN / FUNDAMENTAL TRUTH: All things internet, net of money blockchains are for
 
 INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, internet of money building blocks in coding the Artificial Intelligence A.I. powered economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
 
-There is no such thing as no “layers”, “bots”, “motes”, “packets”, “frames”, “Satoshi’s” traversing the internet, net of #money forming “blocks” on a “blockchain” that stores “tokens” in a cube with height, width, volume. All ignore SCOTUS Alice 2014 ruling “claims may not direct towards abstract ideas”
+There are no “layers”, “bots”, “motes”, “packets”, “frames”, “Satoshi’s” traversing the internet, net of #money forming “blocks” on a “blockchain” that stores “tokens” in a cube structure with height, width, volume. All ignore SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”
 
 Programmable #money / #economy… gold, #Bitcoin as “digital gold” — fool’s #gold? How will programmable money for the programmable economy be coded?
 A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
