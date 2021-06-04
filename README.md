@@ -4,7 +4,7 @@ DESCRIPTION: Systems of Federated Systems signaling, telemetry support framework
 
 SUMMARY: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaling, telemetry (OPORD Annex K) framework derived from DARPA / Pentagon / NATO's Common Operational Picture COP-SIOP Single Integrated Operational Picture / system of systems engineering family of systems dating from the mid 1990's (swords to plowshares) / German Army suggestion to use COP - SIOP Battlefield Digitization Digital Dashboard procedures for OOTW Operations Other Than War circa 2003
 
-USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products, algorithms, econometrics, processes..) 
+USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products, algorithms, econometrics, processes, metrics, meters, e.g., time - space, geo-spatial, temporal, cryptocurrency data storage into a "blockchain cube" with highth, width, depth, volume..) 
 
 MAIN USE CASE: sistributed global Trade Federation (s) would need to operate and maintain a global digital economic framework displayed via a shared digital dashboard...). 
 
