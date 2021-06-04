@@ -1,4 +1,4 @@
-TITLE: Global Digital Dashboard / EIN Earth Intelligence Network / GDP Gross Domestic Product Economy (WEF World Economic Forum enhanced)
+TITLE: GDP Gross Domestic Product Economy (WEF World Economic Forum enhanced) EIN Earth Intelligence Network Digital Dashboard
 
 DESCRIPTION: Systems of Federated Systems signaling, telemetry support framework for all things net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy
 
