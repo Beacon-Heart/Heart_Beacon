@@ -1,4 +1,4 @@
-TITLE: Digital Dashboard displaying data from a distributed system of systems supporting: EIN Earth Intelligence Network GDP + index economy
+TITLE: Data Dashboard from a distributed system of systems supporting: EIN Earth Intelligence Network / GDP GNI GNP + index economy
 
 DESCRIPTION: Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy
 
