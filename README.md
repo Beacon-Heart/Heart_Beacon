@@ -6,9 +6,7 @@ SUMMARY: Adaptive Procedural Template forming / supporting a system of federated
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products, algorithms, econometrics, processes, metrics, meters, e.g., time - space, geo-spatial, temporal, cryptocurrency data storage into a "blockchain cube" with highth, width, depth, volume..) 
 
-USE CASE: checklist of items that a distributed global Trade Federation (s) would need to operate and maintain a global digital economic framework displayed via a shared digital dashboard: GDP Gross Domestic Product Economy  EIN Earth Intelligence Network / World Economic Forum WEF enhanced
-
-Use Case: Gross Domestic Product GDP Index Economy / Eco Economic Epoch Heartbeats for the programmable economy
+USE CASE: checklist of items that a distributed global Trade Federation (s) need to for a global digital economic framework digital dashboard: GDP Gross Domestic Product Economy  EIN Earth Intelligence Network /  Eco Economic Epoch Heartbeats for a programmable economy World Economic Forum WEF GDP - GNP enhancements
 
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal based silicon chips
