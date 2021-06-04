@@ -85,11 +85,8 @@ NOBLE PRIZE WINNING ECONOMIST: Milton Friedman’s K% rule is an “economic hea
 
 NOBEL PRIZE WINNER Simon Smith Kuznets gross national income (GNI), previously known as gross national product (GNP), is the total domestic and foreign output claimed by residents of a country, consisting of Gross Domestic Product (GDP), plus factor incomes earned by foreign residents, minus income earned in the domestic economy by nonresidents (Todaro & Smith, 2011: 44).[2] Comparing GNI to GDP shows the degree to which a nation's GDP represents domestic or international activity. GNI has gradually replaced GNP in international statistics. Kuznets became the first economist to show that the Absolute Income Hypothesis gives inaccurate predictions in the long run (by using time-series data). Source Wikipedia https://en.wikipedia.org/wiki/Simon_Kuznets
 
-WORLD ECONOMIC FORUM WEF ENHANCED GDP: the World Econoic Forum has proposed a scorecard made up of four dimensions that need to be brought into balance: prosperity, the planet, people and the role of institutions. SOURCE WEF: https://www.weforum.org/agenda/2021/05/gdp-new-measure-economic-growth/
-
-Prosperity vs economic growth
-
-The Forum’s ‘Prosperity’ metric includes aspects such as social mobility, income or wealth inequality and financial resilience. GDP still features within the Prosperity dimension, but updated to reflect different dynamics within the world economy.
+WORLD ECONOMIC FORUM WEF ENHANCED GDP: the World Econoic Forum has proposed a scorecard made up of four dimensions that need to be brought into balance: prosperity, the planet, people and the role of institutions. Prosperity vs economic growth. The Forum’s ‘Prosperity’ metric includes aspects such as social mobility, income or wealth inequality and financial resilience. GDP still features within the Prosperity dimension, but updated to reflect different dynamics within the world economy.
+SOURCE WEF: https://www.weforum.org/agenda/2021/05/gdp-new-measure-economic-growth/
 
 INTERNET BUILDING BLOCK: HEARTBEAT ADMINISTRATIVE INTERFACE: SCOP Administrative Interface as an Internet, net of Money configuration tool. SCOP is a tool that exemplifies how the internet really works. SCOP is a web application, PHP based, that is a front-end to heartbeat. . SCOP  can start/stop services, view/edit configuration files, make backups, take a server online/offline, add/remove virtual/real servers, etc. 
 
