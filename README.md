@@ -1,4 +1,4 @@
-TITLE: GDP Gross Domestic Product Economy (WEF World Economic Forum enhanced) EIN Earth Intelligence Network Digital Dashboard
+TITLE: Global Digital Dashboard 
 
 DESCRIPTION: Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy
 
@@ -6,7 +6,7 @@ SUMMARY: Adaptive Procedural Template forming / supporting a system of federated
 
 USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of useful tools, procedures, products, algorithms, econometrics, processes, metrics, meters, e.g., time - space, geo-spatial, temporal, cryptocurrency data storage into a "blockchain cube" with highth, width, depth, volume..) 
 
-MAIN USE CASE: sistributed global Trade Federation (s) would need to operate and maintain a global digital economic framework displayed via a shared digital dashboard...). 
+MAIN USE CASE: sistributed global Trade Federation (s) would need to operate and maintain a global digital economic framework displayed via a shared digital dashboard...). for example: GDP Gross Domestic Product Economy  EIN Earth Intelligence Network / World Economic Forum WEF enhanced
 
 Use Case: Gross Domestic Product GDP Index Economy / Eco Economic Epoch Heartbeats for the programmable economy
 
