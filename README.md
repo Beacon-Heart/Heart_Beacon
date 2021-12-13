@@ -10,6 +10,10 @@ SUMMARY: Adaptive Procedural Template forming / supporting a system of federated
 
 USE CASE: checklist of items that a distributed global Trade Federation (s) need to for a global digital economic framework digital dashboard: GDP Gross Domestic Product Economy  EIN Earth Intelligence Network /  Eco Economic Epoch Heartbeats for a programmable economy World Economic Forum WEF GDP - GNP enhancements
 
+Use Cases: GDP Gross Domestic Product Index based Economy / National - Global currency / Eco #Economic Epochs Time-Space Meter #ecology Eco incentives, consensus, interoperability, sync, stochastic UTZ harmonization for programmable money, economy 
+
+Use Case: Ecologically sustainable economic incentives coded into the programmable economy based on a tokenized economy, syntax symbol set lexicon library
+
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal based silicon chips
 2.	Syntax used / not used as programming instructions during epoch time cycles
@@ -35,10 +39,6 @@ VISION STATEMENT: We have a clear and present opportunity to improve temporal, g
 2) Eco_Econ_Epochs: It's about TIME: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice into OPSCODEs mapped to symbol sets essential to Artificial Intelligence / man - machine interface - human interaction
 
 ADAPTIVE PROCEDURAL TEMPLATE CHECKLIST: The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize a system of federated systems comprised of diverse groups, people speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat. This idea involves reuse of over 300 use cases supported by hundreds of message sets further described in spread sheet row - column format populated by thousands of brevity OPSCODES mapped to symbols essential to artificial intelligence man - machine interface. NATO bases are small cities that transact virtually every good, item, commodity with it's host nation. Why reinvent the syntax lexicon Rosetta Stone wheel? Think of this as a system of systems tool to accelerate an EIN Earth Intelligence Net - an A.I. driven system of distributed systems digital dashboard among trade federation (s)
-
-Use Cases: Eco #Economic Epochs Time-Space Meter #ecology Eco incentives, consensus, interoperability, sync, stochastic UTZ harmonization for programmable money, economy 
-
-Use Case: Ecologically sustainable economic incentives coded into the programmable economy based on a tokenized economy - It's about Time - Space, syntax symbol set lexicon library supporting the Earth Intelligence Network / Noosphere. Main use case: GDP Gross Domestic Product Index based Economy / National - Global currency
 
 PROPOSAL: tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed:  GDP Index Economy powered by #Ericsson #Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon / See Economist Bernard Lietaer of Belgium's Trade Reference Currency TRC
 
