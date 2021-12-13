@@ -40,9 +40,7 @@ Use Cases: Eco #Economic Epochs Time-Space Meter #ecology Eco incentives, consen
 
 Use Case: Ecologically sustainable economic incentives coded into the programmable economy based on a tokenized economy - It's about Time - Space, syntax symbol set lexicon library supporting the Earth Intelligence Network / Noosphere. Main use case: GDP Gross Domestic Product Index based Economy / National - Global currency
 
-FIAT based economies, currencies, units of value have always needed a RESET which is what the World Economic Forum, POTUS (in his commentary on the Las Vegas Mandalay Bay shooting with GIZA featured) et al have stated will occur starting in 2021. The plan is for the currency to be pegged to caches of gold, treasure to suddenly appear which will invoke the "golden rule". Several other luminaries like Edison (Edison's monetary option), Economist Milton Friedman, Bernard Lietaer (TRC Trade Reference Currency) have describe index funds to base a nation's / world currency - economy: “In the beginning (of time), there was the word” (syntax) = form for all things internet, net of $$$ 
-
-Given: "Great #Economic RESET" of 2021 looming, consider a tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed:  GDP Index Economy powered by #Ericsson #Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon
+PROPOSAL: tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed:  GDP Index Economy powered by #Ericsson #Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon / See Economist Bernard Lietaer of Belgium's Trade Reference Currency TRC
 
 Q: What's your vote for a one world currency for a one world government: 1. IMF's SDR basket 2. NESERA's QFS Las Vegas
 3. Department of Commerce - Treasury - NIST QRNB at Boulder Colorado (Stephen King's The Stand's Free Zone) ? ﻿#IMF﻿ ﻿#NESERA﻿ ﻿#NIST﻿ 
