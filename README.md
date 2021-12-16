@@ -227,7 +227,7 @@ FLOTE: https://flote.app/Heart_Beacon
 
 ME WE: https://mewe.com/i/stevenmcgee2
 
-Parler: 
+Parler: https://parler.com/user/Ecoeconomicepochs
 
 We can synchronize ourselves, our cities, towns, cyber-communities in time — space for a common purpose: shared, common, ecologically sound, equitable…  econometrics. (Attributed to the Law of Time Founder RIP Dr. Jose Arguellos) see Law of Time dot org
 
