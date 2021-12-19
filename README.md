@@ -1,6 +1,8 @@
 TITLE: Signals, telemetry framework supporting a digital dashboard / Earth Intelligence Network EIN / GDP GNI GNP + index economy
 
-DESCRIPTION: Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy. Eco sustainable Economic Epochs for the programmable Economy
+GOAL: Eco sustainable Economic Epochs for the programmable Economy
+
+DESCRIPTION: Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy. 
 
 USPTO 13/573,002: Time-Space Meter / Syntax Lexicon Rosetta Stone / Adaptive Procedural Template Checklists (adaptive procedural template in patent application speak) are visually boring and do not capture attention so this graphic is a picture of a checklist of useful tools, procedures, processes, algorithms, ideas that for example, a trade federation would agree to use to achieve, maintain their collective goals of the distributed federation. Many use cases, one method fits many, not one size fits all.
 
