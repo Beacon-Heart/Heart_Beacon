@@ -1,4 +1,4 @@
-TITLE: Signals, telemetry framework supporting a digital dashboard / Earth Intelligence Network EIN / GDP GNI GNP + index economy
+TITLE: Signals, telemetry syntax symbol set framework supporting distributed trade federations using digital dashboard situational awarenwss displays
 
 GOAL: Eco sustainable Economic Epochs for programmable money interoperabiity, time zone stochastic harmonization, synchronization and syntactic - symbol set consistency supporting the programmable Economy
 
