@@ -1,4 +1,4 @@
-TITLE: Signals, telemetry syntax symbol set framework / Metrics, meters for the internet, internet of programmable money / programmable economy
+TITLE: Signals, telemetry syntax symbol set framework / Metrics, meters for the internet, internet of programmable money / economy
 
 GOAL: Eco sustainable Economic Epochs for programmable money interoperabiity, time zone stochastic harmonization, synchronization and syntactic - symbol set consistency supporting the programmable Economy
 
