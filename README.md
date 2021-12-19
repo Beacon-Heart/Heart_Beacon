@@ -1,6 +1,6 @@
 TITLE: Signals, telemetry framework supporting a digital dashboard / Earth Intelligence Network EIN / GDP GNI GNP + index economy
 
-GOAL: Eco sustainable Economic Epochs for the programmable Economy
+GOAL: Eco sustainable Economic Epochs for programmable money interoperabiity, time zone stochastic harmonization, synchronization and syntactic - symbol set consistency supporting the programmable Economy
 
 DESCRIPTION: Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy. 
 
