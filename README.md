@@ -14,6 +14,12 @@ USPTO 13/573,002: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural 
 
 SUMMARY: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaling, telemetry (OPORD Annex K) framework derived from DARPA / Pentagon / NATO's Common Operational Picture COP-SIOP Single Integrated Operational Picture / system of systems engineering family of systems dating from the mid 1990's (swords to plowshares) / German Army suggestion to use COP - SIOP (Common Operational Picture, Single Integrated Operational Picture) Battlefield Digitization Digital Dashboard procedures for OOTW Operations Other Than War circa 2003
 
+USE CASE: Code Eco sustainable incentives into programmable economic framework reusing / leveraging NATO systems of systems engineering best practice. Form federations of Distributed, Autonomous Organizations DAO communities, states, sovereign nations using an adaptive procedural template checklist promoting synchronization among geo-spatially and temporally dispersed groups using a common syntax – symbol set lexicon. Federated groups activities are synchronized geo-spatially across time - space to achieve synergy, synchronicity of events orchestrated from micro to macro cycles from grassroots to capitals.
+
+1) Reuse OPSCODE brevity codes mapped to message symbol sets enabling Artificial Intelligence / human interaction ( i.e., man — machine interface).
+
+2) Apply lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles... intrinsic to NATO SOP swords to plowshares following German military proposal use cases circa 2003.
+
 USE CASE: checklist of items that a distributed global Trade Federation (s) need to for a global digital economic framework digital dashboard: GDP Gross Domestic Product Economy  EIN Earth Intelligence Network /  Eco Economic Epoch Heartbeats for a programmable economy World Economic Forum WEF GDP - GNP enhancements
 
 Use Cases: GDP Gross Domestic Product Index based Economy / National - Global currency / Eco #Economic Epochs Time-Space Meter #ecology Eco incentives, consensus, interoperability, sync, stochastic UTZ harmonization for programmable money, economy 
@@ -58,12 +64,6 @@ GDP INDEX ECONOMY: Thomas Edison and Henry Ford proposed a currency based on a b
 PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support an EIN Earth Intelligence Network neural net emulation. We have a clear and present opportunity and responsibility to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among a federated, distributed system of systems. Beacon Communities supported by an open source Earth Intelligence Network EIN powered by a quantum random number beacon blockchain - it's about time (space, syntax lexicon, econometrics..)
 
 PROJECT BEACON: Code Eco sustainable incentives into the world’s programmable economic system of systems engineering framework reusing / leveraging NATO systems of systems engineering best practice. Reuse OPSCODE brevity codes mapped to message symbol sets essential to Artificial Intelligence / human interaction ( i.e., man — machine interface). The Heart Beacon Cycle Time - Space Meter USPTO 13/573,002 is an Adaptive Procedural Template: Use Case: Eco Economic Epoch Heartbeats for the programmable economy.
-
-USE CASE: Code Eco sustainable incentives into programmable economic framework reusing / leveraging NATO systems of systems engineering best practice. Form federations of Distributed, Autonomous Organizations DAO communities, states, sovereign nations using an adaptive procedural template checklist promoting synchronization among geo-spatially and temporally dispersed groups using a common syntax – symbol set lexicon. Federated groups activities are synchronized geo-spatially across time - space to achieve synergy, synchronicity of events orchestrated from micro to macro cycles from grassroots to capitals.
-
-1.	Reuse OPSCODE brevity codes mapped to message symbol sets enabling Artificial Intelligence / human interaction ( i.e., man — machine interface).
-
-2.	Apply lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles... intrinsic to NATO SOP swords to plowshares following German military proposal use cases circa 2003.
 
 SYSTEM OF SYSTEMS ENGINEERING: NATO has invested 30 years of mapping OPSCODE brevity codes to symbology / symbols / symbol sets contained in 300 plus message set / use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NEO NETOPS. Blockchain, crypto currency developers are recreating, reinventing this decades old, tedious, time intensive, labor intensive, expensive structured data exchange… wheel. It may be stated that this project is a swords to plowshares initiative
 
