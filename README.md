@@ -1,7 +1,8 @@
 VISION STATEMENT: Standing on the shoulders of giants: 
 
-GOAL: cooperate and graduate within a federated, distributed system of systems supporting a distributed, equitable, Eco-sustainable, and programmable global Economic framework.
 We can synchronize ourselves in time-space for common goals e.g., code an equitable, distributed programmable economy among trade federations
+
+GOAL: cooperate and graduate within a federated, distributed system of systems supporting a distributed, equitable, Eco-sustainable, and programmable global Economic framework.
 
 GOAL: Ecologically sustainable Economic Epochs: It's about TIME: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice into OPSCODEs mapped to symbol sets essential to Artificial Intelligence / man - machine interface - human interaction
 
