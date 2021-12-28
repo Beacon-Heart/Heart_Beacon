@@ -1,6 +1,11 @@
-TITLE: Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy
+VISION STATEMENT: Standing on the shoulders of giants: 
 
-GOAL: Eco sustainable Economic Epochs for programmable money interoperabiity, time zone stochastic harmonization, synchronization and syntactic - symbol set consistency supporting the programmable Economy
+GOAL: cooperate and graduate within a federated, distributed system of systems supporting a distributed, equitable, Eco-sustainable, and programmable global Economic framework.
+We can synchronize ourselves in time-space for common goals e.g., code an equitable, distributed programmable economy among trade federations
+
+GOAL: Ecologically sustainable Economic Epochs: It's about TIME: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice into OPSCODEs mapped to symbol sets essential to Artificial Intelligence / man - machine interface - human interaction
+
+PROPOSAL: tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed: GDP Gross Domestic Product based Index Economy
 
 DESCRIPTION: Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy. 
 
