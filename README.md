@@ -26,6 +26,12 @@ Use Cases: GDP Gross Domestic Product Index based Economy / National - Global cu
 
 Use Case: Ecologically sustainable economic incentives coded into the programmable economy based on a tokenized economy, syntax symbol set lexicon library
 
+Use Case: DIGITAL GOLD — fool’s #gold? How will programmable money for the programmable economy be coded?
+
+Use Case: UTZ Universal Time Zone: A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
+
+NON-REPUDIATION: Cryptocurrency units of value events, transactions non-repudiation at any time – space, place in the future will be expected required and will be derived from a physical (photonic) light process. Physical is the opposite of abstract in light of SCOTUS Alice 2014 ruling #cryptocurrencies
+
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal based silicon chips
 2.	Syntax used / not used as programming instructions during epoch time cycles
@@ -35,12 +41,6 @@ GIVEN / FUNDAMENTAL TRUTH: All things internet, net of money blockchains are for
 INTERNET BUILDING BLOCKS: Time epochs / syntax are the two main internet, internet of money building blocks in coding the Artificial Intelligence A.I. powered economic system of systems / Earth Intelligence Network EIN / Web 3.0 and the programmable economy in terms of temporal consistency, interoperability, and consensus.
 
 TRUTH: There are no “layers”, “bots”, “motes”, “packets”, “frames”, “Satoshi’s” traversing the internet, net of #money forming “blocks” on a “blockchain” that stores “tokens” in a cube structure with height, width, volume. All are non - compliant US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”
-
-DIGITAL GOLD / SILVER: Programmable #money / #economy… gold, #Bitcoin as “digital gold” — fool’s #gold? How will programmable money for the programmable economy be coded?
-
-UTZ Universal Time Zone: A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
-
-NON-REPUDIATION: Cryptocurrency units of value events, transactions non-repudiation at any time – space, place in the future will be expected required and will be derived from a physical (photonic) light process. Physical is the opposite of abstract in light of SCOTUS Alice 2014 ruling #cryptocurrencies
 
 FRAMEWORK: What is your solution framework based on EXISTING systems, code, best practice? Adaptive Procedural Template (checklist): Use case: GDP Index based Economy: Eco Economic Epochs Time-Space Meter Eco incentives, consensus, interoperability for the programmable economy, Earth Intelligence Network EIN / System of systems engineering framework from NATO Battlefield Digitization based on a German military idea to reuse Battlefield Digitization for OOTW Operations Other Than War circa 2003
 
