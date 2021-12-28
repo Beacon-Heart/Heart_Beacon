@@ -1,6 +1,4 @@
-VISION STATEMENT: Standing on the shoulders of giants: 
-
-We can synchronize ourselves in time-space for common goals e.g., code an equitable, distributed programmable economy among trade federations
+VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, distributed programmable economy among trade federations
 
 GOAL: cooperate and graduate within a federated, distributed system of systems supporting a distributed, equitable, Eco-sustainable, and programmable global Economic framework.
 
