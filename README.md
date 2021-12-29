@@ -1,11 +1,5 @@
 VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, distributed programmable economy among trade federations
 
-GOAL: cooperate and graduate within a federated, distributed system of systems supporting a distributed, equitable, Eco-sustainable, and programmable global Economic framework.
-
-GOAL: Ecologically sustainable Economic Epochs: It's about TIME: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice into OPSCODEs mapped to symbol sets essential to Artificial Intelligence / man - machine interface - human interaction
-
-PROPOSAL: tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed: GDP Gross Domestic Product based Index Economy
-
 DESCRIPTION: Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy. 
 
 USPTO 13/573,002: Time-Space Meter / Syntax Lexicon Rosetta Stone / Adaptive Procedural Template Checklists (adaptive procedural template in patent application speak) are visually boring and do not capture attention so this graphic is a picture of a checklist of useful tools, procedures, processes, algorithms, ideas that for example, a trade federation would agree to use to achieve, maintain their collective goals of the distributed federation. Many use cases, one method fits many, not one size fits all.
@@ -29,6 +23,13 @@ Use Case: Ecologically sustainable economic incentives coded into the programmab
 Use Case: DIGITAL GOLD — fool’s #gold? How will programmable money for the programmable economy be coded?
 
 Use Case: UTZ Universal Time Zone: A one world #currency needs a stochastically harmonized, synchronized Universal Time Zone UTZ / event bus
+
+Use Case cooperate and graduate within a federated, distributed system of systems supporting a distributed, equitable, Eco-sustainable, and programmable global Economic framework.
+
+Use Case Ecologically sustainable Economic Epochs: It's about TIME: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice into OPSCODEs mapped to symbol sets essential to Artificial Intelligence / man - machine interface - human interaction
+
+Use Case: tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed: GDP Gross Domestic Product based Index Economy
+
 
 NON-REPUDIATION: Cryptocurrency units of value events, transactions non-repudiation at any time – space, place in the future will be expected required and will be derived from a physical (photonic) light process. Physical is the opposite of abstract in light of SCOTUS Alice 2014 ruling #cryptocurrencies
 
