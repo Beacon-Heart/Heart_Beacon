@@ -7,7 +7,7 @@ Many use cases, one method fits many, not one size fits all:
 -	OPSCODE brevity code yntax / symbol set lexicon tokenized economy library
 -	Time-space synchronized Universal Time Zone UNZ stochastic harmonization 
 -	Universal heartbeat message event / transaction non-rebudiation bus via QRNB Quantum Randum Number Beacon
--	Minimum essential requirements for form and maintain Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain 
+-	Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain 
 
 METHOD: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbol sets formed into a interoperability Rosetta Stone syntax lexicon library essential to Artificial Intelligence man - machine interface - human interaction
 
