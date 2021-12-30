@@ -167,7 +167,7 @@ MeWE: http://mewe.com/i/stevenmcgee2
 
 Maven: http://app.maven.co/profile/SHfEKnA9
 
-WordPress: http://ecoheartbeat.wordpress.com
+WordPress: http://ecoheartbeat.wordpress.com     Eco Economic Epochs for DAOs: https://ecoheartbeat.wordpress.com/2021/12/30/eco-economic-epochs-for-daos/
 
 Patreon: https://www.patreon.com/Heart_Beacon
 
