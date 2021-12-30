@@ -1,8 +1,8 @@
 VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation.
 
 Many use cases, one method fits many, not one size fits all:
--	GDP Gross Domestic Product Index / statistical mean value index based Economy 
--	Ecologically sustainable Economic Epochs incentives i.e., closer is cheaper
+-	GDP Gross Domestic Product Index / statistical mean value index based currency 
+-	Ecologically sustainable Economic Epochs incentives i.e., closer is cheaper given closer = less fuel
 -	Universal Consensus algorithm interoperability, metrics, meters  
 -	OPSCODE brevity code yntax / symbol set lexicon tokenized economy library
 -	Time-space synchronized Universal Time Zone UNZ stochastic harmonization 
