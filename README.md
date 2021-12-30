@@ -3,10 +3,15 @@ VISION STATEMENT: Standing on the shoulders of giants: We can synchronize oursel
 Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain:
 
 •	GDP Gross Domestic Product Index / statistical mean value index based currency
+
 •	Ecologically sustainable Economic Epochs incentives i.e., closer is cheaper given closer = less fuel
+
 •	Universal Consensus algorithm interoperability, metrics, meters
+
 •	OPSCODE brevity code syntax / symbol set lexicon tokenized GDP Gross Domestic Product pacing items economy syntax lexicon library
+
 •	Time-space synchronized Universal Time Zone UNZ stochastic harmonization
+
 •	Universal heartbeat message event / transaction non-repudiation bus via QRNB Quantum Random Number Beacon
 
 METHOD: Eco incentives coded into the programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbols  formed into a interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
