@@ -5,7 +5,7 @@ Many use cases, one method fits many, not one size fits all:
 -	Ecologically sustainable Economic Epochs incentives i.e., closer is cheaper
 -	Universal Consensus algorithm interoperability, metrics, meters  
 -	OPSCODE brevity code yntax / symbol set lexicon tokenized economy library
--	Time-space synchronized Universal Time Zone harmonization 
+-	Time-space synchronized Universal Time Zone UNZ stochastic harmonization 
 -	Universal heartbeat message event / transaction non-rebudiation bus via QRNB Quantum Randum Number Beacon
 
 METHOD: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbol sets formed into a interoperability Rosetta Stone syntax lexicon library essential to Artificial Intelligence man - machine interface - human interaction
