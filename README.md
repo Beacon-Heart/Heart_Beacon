@@ -1,6 +1,6 @@
 VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation. 
 
-METHOD: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice reusing and use of OPSCODEs mapped to symbol sets into a Rosetta Stone syntax lexicon library essential to Artificial Intelligence / man - machine interface - human interaction
+METHOD: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbol sets formed into a interoperability Rosetta Stone syntax lexicon library essential to Artificial Intelligence man - machine interface - human interaction
 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, Eco-sustainable, programmable global Economic trade federation framework.
 
