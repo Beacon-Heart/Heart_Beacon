@@ -1,10 +1,8 @@
-VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation. We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, Eco-sustainable, programmable global Economic trade federation framework.
+VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation. 
 
-GOAL: code an equitable, programmable economy among trade federations
+METHOD: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice reusing and expanding the best practice of creating OPSCODEs mapped to symbol sets essential to Artificial Intelligence / man - machine interface - human interaction
 
-GOAL: Systems of Federated systems signaling, telemetry support framework for net, net of programmable money, econometrics in the programmable economy.
-
-GOAL: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice reusing and expanding the best practice of creating OPSCODEs mapped to symbol sets essential to Artificial Intelligence / man - machine interface - human interaction
+GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, Eco-sustainable, programmable global Economic trade federation framework.
 
 Patent application type: Adaptive Procedural Template USPTO 13/573,002: Time-Space Meter / Syntax Lexicon Rosetta Stone, Checklist: adaptive procedural template in patent application terms does not capture attention so graphics are used as a picture representing a checklist of useful tools, procedures, processes, algorithms, ideas that a trade federation would agree to use to achieve, maintain their collective goals of the distributed federation. The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template checklist of useful tools, procedures, products, algorithms, econometrics, processes, metrics, meters, e.g., time - space, geo-spatial, temporal, cryptocurrency data storage into a "blockchain cube" with height, width, depth, volume, programmable money metrics, meters for a myriad of memes, metaphors
 
