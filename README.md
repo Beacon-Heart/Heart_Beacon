@@ -1,6 +1,7 @@
 VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation.
 
 Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain:
+
 •	GDP Gross Domestic Product Index / statistical mean value index based currency
 •	Ecologically sustainable Economic Epochs incentives i.e., closer is cheaper given closer = less fuel
 •	Universal Consensus algorithm interoperability, metrics, meters
@@ -8,7 +9,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 •	Time-space synchronized Universal Time Zone UNZ stochastic harmonization
 •	Universal heartbeat message event / transaction non-repudiation bus via QRNB Quantum Random Number Beacon
 
-METHOD: Eco incentives coded into the programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbol sets formed into a interoperability Rosetta Stone syntax lexicon library essential to Artificial Intelligence man - machine interface - human interaction
+METHOD: Eco incentives coded into the programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbols  formed into a interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, Eco-sustainable, programmable global Economic trade federation framework.
 
