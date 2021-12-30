@@ -1,4 +1,12 @@
-VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation. 
+VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation.
+
+Many use cases, one method fits many, not one size fits all:
+-	GDP Gross Domestic Product Index / statistical mean value index based Economy 
+-	Ecologically sustainable Economic Epochs incentives i.e., closer is cheaper
+-	Universal Consensus algorithm interoperability, metrics, meters  
+-	OPSCODE brevity code yntax / symbol set lexicon tokenized economy library
+-	Time-space synchronized Universal Time Zone harmonization 
+-	Universal heartbeat message event / transaction non-rebudiation bus via QRNB Quantum Randum Number Beacon
 
 METHOD: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbol sets formed into a interoperability Rosetta Stone syntax lexicon library essential to Artificial Intelligence man - machine interface - human interaction
 
@@ -12,13 +20,6 @@ Method: Code Eco sustainable incentives into programmable economic framework reu
 
 1.	Reuse OPSCODE brevity codes mapped to message symbol sets enabling Artificial Intelligence / human interaction ( i.e., man — machine interface).
 2.	Apply lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles... intrinsic to NATO SOP swords to plowshares following German military proposal use cases circa 2003.
-
-Many use cases, one method fits many, not one size fits all:
--	GDP Gross Domestic Product Index / statistical mean value index based Economy 
--	Ecologically sustainable Economic Epochs incentives i.e., closer is cheaper
--	consensus, interoperability, syntax symbol set lexicon tokenized economy library
--	Time-space synchronized Universal Time Zone harmonization 
--	Universal heartbeat message event bus
 
 Use Case Ecologically Sustainable Economic Epochs: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice using OPSCODE brevity codes mapped to symbol sets essential to Artificial Intelligence / man - machine interface - human interaction. 
 
