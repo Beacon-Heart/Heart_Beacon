@@ -10,7 +10,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 
 •	OPSCODE brevity code syntax / symbol set lexicon tokenized GDP Gross Domestic Product pacing items economy syntax lexicon library
 
-•	Time-space synchronized Universal Time Zone UNZ stochastic harmonization
+•	Time-space synchronized Universal Time Zone UTZ stochastic harmonization
 
 •	Universal heartbeat message event / transaction non-repudiation bus via QRNB Quantum Random Number Beacon
 
