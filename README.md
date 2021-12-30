@@ -1,4 +1,4 @@
-VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation. Many use cases, one method fits many, not one size fits all:
+VISION STATEMENT: Standing on the shoulders of giants: We can synchronize ourselves in time-space for shared goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation. 
 
 Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain: 
 -	GDP Gross Domestic Product Index / statistical mean value index based currency 
