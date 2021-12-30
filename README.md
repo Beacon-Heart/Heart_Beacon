@@ -8,7 +8,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 •	Time-space synchronized Universal Time Zone UNZ stochastic harmonization
 •	Universal heartbeat message event / transaction non-repudiation bus via QRNB Quantum Random Number Beacon
 
-METHOD: Eco incentives coded into the global programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbol sets formed into a interoperability Rosetta Stone syntax lexicon library essential to Artificial Intelligence man - machine interface - human interaction
+METHOD: Eco incentives coded into the programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbol sets formed into a interoperability Rosetta Stone syntax lexicon library essential to Artificial Intelligence man - machine interface - human interaction
 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, Eco-sustainable, programmable global Economic trade federation framework.
 
