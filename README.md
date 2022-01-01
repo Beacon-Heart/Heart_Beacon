@@ -19,7 +19,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 - Eco incentives coded into the programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbols formed into a interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
 
 - Shared, common use data framework where tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed: 
-- 
+
 - GDP Index Economy powered by Ericsson Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon for event / transaction non-repudiation
 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
