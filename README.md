@@ -10,13 +10,17 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 
 - OPSCODE brevity code syntax / symbol set lexicon of tokenized GDP Gross Domestic Product pacing items described in a syntax lexicon library promoting interoperability
 
-- Universal heartbeat message event / transaction non-repudiation bus via QRNB Quantum Random Number Beacon and geo-spatial temporal method, metrics
+- Universal heartbeat message event / transaction non-repudiation bus geo-spatial temporal method and means to derive metrics, meters for all things net, net of $
 
 - Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm with a universal heartbeat message event bus
 
 - Quantum computing mediation, mitigation among the quantum haves, have nots i.e., percentage of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics central bank exchanges / grass root federations
 
 - Eco incentives coded into the programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbols formed into a interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
+
+- Shared, common use data framework where tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed: 
+- 
+- GDP Index Economy powered by Ericsson Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon for event / transaction non-repudiation
 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
 
@@ -40,8 +44,6 @@ THESIS: All things internet, internet of programmable money are formed using:
 All things internet, net of money blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Internet 3.0 and the new web will be based on the original structure described by Stanford University. There are no packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube. Transactions are unicast, multicast, or anycast (workflow).
 
 The above cited memes made up terms are non - compliant US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”, Note: Physical is the opposite of abstract considering SCOTUS Alice 2014 ruling and in light of the fact that NIST’s National Institute of Standards and Technology QRNB Quantum Random Number Beacon is based on light photonics.
-
-FRAMEWORK: tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed: GDP Index Economy powered by Ericsson Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon
 
 THREE OPTIONS: one world government’s one world currency:
 
