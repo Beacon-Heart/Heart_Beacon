@@ -12,7 +12,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
  
 - OPSCODE brevity code syntax / symbol set lexicon of tokenized GDP Gross Domestic Product pacing items described in a syntax lexicon library promoting interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
 
-- Universal heartbeat message event / transaction QRNB Quantum Random Number Beacon non-repudiation bus, Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm with a universal heartbeat message event bus 
+- Universal heartbeat message event / transaction QRNB Quantum Random Number Beacon non-repudiation bus, Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm / heartbeat message event - transaction bus 
 
 - Quantum computing mediation, mitigation among the quantum haves, have nots i.e., percentage of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics central bank exchanges / grass root federations
 
