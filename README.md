@@ -4,24 +4,20 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 
 - GDP Gross Domestic Product Index / statistical mean value index-based currency
 
-- Ecologically sustainable Economic Epochs applying geospatial temporal incentives i.e., closer is cheaper given closer = less fuel, less time spent moving to markets
+- Geo-spatial temporal metrics, and meters i.e. storing increments of value for all things internet, internet of $$$ into the “blockchain cube”
+ 
+- Ecologically sustainable Economic Epochs applying geospatial temporal methods and means i.e., IDMaps - SonarHops, Ericsson Erlang time algorithms / time equations to base economic incentives, derive TRC Trade Reference Currency demurrage charges i.e., closer is cheaper given closer = less fuel, less time, demurrage fees
 
-- Universal meme for Consensus algorithm interoperability, geo-spatial temporal metrics, and meters i.e. storing increments of value into the “blockchain cube”
+- Universal meme for Consensus algorithm interoperability, synchronization
+ 
+- OPSCODE brevity code syntax / symbol set lexicon of tokenized GDP Gross Domestic Product pacing items described in a syntax lexicon library promoting interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
 
-- OPSCODE brevity code syntax / symbol set lexicon of tokenized GDP Gross Domestic Product pacing items described in a syntax lexicon library promoting interoperability
-
-- Universal heartbeat message event / transaction non-repudiation bus geo-spatial temporal method and means to derive metrics, meters for all things net, net of $
-
-- Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm with a universal heartbeat message event bus
+- Universal heartbeat message event / transaction QRNB Quantum Random Number Beacon non-repudiation bus, Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm with a universal heartbeat message event bus 
 
 - Quantum computing mediation, mitigation among the quantum haves, have nots i.e., percentage of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics central bank exchanges / grass root federations
 
-- Eco incentives coded into the programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbols formed into a interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
-
-- Shared, common use data framework where tangible, commodity backed currency unit of value, trade where closer = cheaper given less fuel is consumed: 
-
-- GDP Index Economy powered by Ericsson Erlang time algorithms / time equations / NIST QRNB Quantum Random Number Beacon for event / transaction non-repudiation
-
+-  Big data framework based on geo-spatial temporal methods to establish time - space Epochs i.e., IDMaps - SonarHops, Ericsson Erlang time algorithms / equations
+ 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
 
 PATENT APPLICATION TYPE: Adaptive Procedural Template USPTO 13/573,002: Time-Space Meter / Syntax Lexicon Rosetta Stone, Checklist: adaptive procedural template in patent application terms does not capture attention so graphics are used as a picture representing a checklist of useful tools, procedures, processes, algorithms, ideas that a trade federation would agree to use to achieve, maintain their collective goals of the distributed federation. The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template checklist of useful tools, procedures, products, algorithms, econometrics, processes, metrics, meters, e.g., time - space, geo-spatial, temporal, cryptocurrency data storage into a "blockchain cube" with height, width, depth, volume, programmable money metrics, meters for a myriad of memes, metaphors.
