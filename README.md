@@ -16,7 +16,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 
 - Quantum computing mediation, mitigation among the quantum haves, have nots i.e., percentage of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics central bank exchanges / grass root federations
 
-METHOD: Eco incentives coded into the programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbols formed into a interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
+- Eco incentives coded into the programmable economic system of systems engineering framework based on NATO best practice reusing OPSCODE brevity codes mapped to symbols formed into a interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
 
