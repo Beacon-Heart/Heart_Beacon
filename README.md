@@ -16,7 +16,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 
 - Quantum computing mediation, mitigation among the quantum haves, have nots i.e., percentage of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics central bank exchanges / grass root federations
 
--  Big data framework based on geo-spatial temporal methods to establish time - space Epochs i.e., IDMaps - SonarHops, Ericsson Erlang time algorithms / equations
+-  Big data sync, time – space metrics and meters descriptive framework based on geo-spatial temporal methods to establish time - space Epochs i.e., IDMaps - SonarHops, Ericsson Erlang time equations
  
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
 
