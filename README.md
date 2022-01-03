@@ -145,9 +145,7 @@ REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
 DISCORD: beaconheart#5893
 
-MEWE: https://mewe.com/i/stevenmcgee2
-
-SLIDESHARE TALKING PAPER: Eco sustainable Economic Epochs for programmable money, economy:  https://www.slideshare.net/StevenMcGee2/eco-economic-epochs-brief
+SLIDESHARE TALKING PAPER: Eco sustainable Economic Epochs for programmable money, economy:  https://www.slideshare.net/StevenMcGee2/
 
 MEDIUM ARTICLE: "The blockchain needs a killer use case" (climate change / population increase) 
 LINK: https://medium.com/coinmonks/blockchain-needs-a-killer-use-case-2f4def841883
