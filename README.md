@@ -2,7 +2,7 @@ VISION STATEMENT: We can synchronize ourselves in time-space for common goals e.
 
 Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain (partial listing):
 
-- GDP Gross Domestic Product Index / statistical mean value index-based TRC Trade Referency Currency using demurrage fees
+- GDP Gross Domestic Product Index / statistical mean value index-based TRC Trade Reference Currency using demurrage fees
 
 - Geo-spatial temporal metrics, and meters i.e. storing increments of value for all things internet, internet of $$$ into the “blockchain cube”
  
