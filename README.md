@@ -14,7 +14,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 
 - Universal heartbeat message event / transaction QRNB Quantum Random Number Beacon non-repudiation bus, Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm / heartbeat message event - transaction bus 
 
-- Quantum computing mediation, mitigation among the quantum haves, have nots i.e., percentage of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics central bank exchanges / grass root federations
+- Quantum computing mediation, mitigation among the quantum haves, have nots i.e., percentage of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics, Central Bank Digital Currencies / DeFi DAO exchanges - grass root federations
 
 -  Big data sync, time – space metrics and meters descriptive framework based on geo-spatial temporal methods to establish time - space Epochs i.e., IDMaps - SonarHops, Ericsson Erlang time equations
  
