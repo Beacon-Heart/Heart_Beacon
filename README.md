@@ -1,4 +1,4 @@
-Adaptive Procedural Template checklist / Standing on the shoulders of giants
+TITLE: Adaptive Procedural Template checklist / Standing on the shoulders of giants
  
 VISION STATEMENT: We can synchronize ourselves in time-space for common goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation on the cryptocurrency blockchain
 
