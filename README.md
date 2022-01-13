@@ -1,6 +1,6 @@
 TITLE: Adaptive Procedural Template: Use Case: GDP index based currency for the programmable economy
 
-PURPOSE: Eco Economic Epochs for DATF Distributed Autonomous Trade Federations / DAOs, programmable $$$, the programmable Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering framework
+DESCRIPTION: Eco Economic Epochs for DATF Distributed Autonomous Trade Federations / DAOs, programmable $$$, the programmable Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering framework
  
 VISION STATEMENT: We can synchronize ourselves in time-space for common goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation on the cryptocurrency blockchain
 
@@ -13,6 +13,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 •	Ecologically sustainable Economic Epochs applying geospatial temporal methods and means i.e., IDMaps - SonarHops, Ericsson Erlang time algorithms / time equations to base economic incentives, derive TRC Trade Reference Currency demurrage charges i.e., closer is cheaper given closer = less fuel, less time, demurrage fees
 
 •	Universal meme for Consensus algorithm interoperability, synchronization
+
 •	OPSCODE brevity code syntax / symbol set lexicon of tokenized GDP Gross Domestic Product pacing items described in a syntax lexicon library promoting interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
 
 •	Universal heartbeat message event / transaction QRNB Quantum Random Number Beacon non-repudiation bus, Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm / heartbeat message event - transaction bus
