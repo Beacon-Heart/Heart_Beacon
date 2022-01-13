@@ -1,6 +1,6 @@
 TITLE: Adaptive Procedural Template: Use Case: GDP index based currency for the programmable economy
 
-DESCRIPTION: Eco Economic Epochs for DATF Distributed Autonomous Trade Federations / DAOs, programmable $$$, the programmable Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering framework
+DESCRIPTION: Eco Economic Epochs for DATF Distributed Autonomous Trade Federations / DAOs, programmable $$$, Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering framework
  
 VISION STATEMENT: We can synchronize ourselves in time-space for common goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation on the cryptocurrency blockchain
 
