@@ -143,6 +143,8 @@ REFERENCES
 
 GITHUB Documents: LINK https://github.com/Beacon-Heart
 
+We Heart It: https://weheartit.com/steven_mcgee_1/collections
+
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
 DISCORD: beaconheart#5893
