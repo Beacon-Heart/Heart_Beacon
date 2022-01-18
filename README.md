@@ -147,6 +147,8 @@ We Heart It: https://weheartit.com/steven_mcgee_1/collections
 
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
+Mastadon @EcoEconomicEpochs@indieweb.social
+
 DISCORD: beaconheart#5893
 
 SLIDESHARE TALKING PAPER: Eco sustainable Economic Epochs for programmable money, economy:  https://www.slideshare.net/StevenMcGee2/
