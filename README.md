@@ -151,6 +151,8 @@ Mastadon @EcoEconomicEpochs@indieweb.social
 
 DISCORD: beaconheart#5893
 
+Skype: Steven McGee https://join.skype.com/invite/qJ95yELu6wT9
+
 SLIDESHARE TALKING PAPER: Eco sustainable Economic Epochs for programmable money, economy:  https://www.slideshare.net/StevenMcGee2/
 
 MEDIUM ARTICLE: "The blockchain needs a killer use case" (climate change / population increase) 
