@@ -176,6 +176,8 @@ Gravatar: https://en.gravatar.com/ecoeconheartbeat
 
 SLIDESHARE TALKING PAPER: Eco sustainable Economic Epochs for programmable money, economy:  https://www.slideshare.net/StevenMcGee2/
 
+MEDIUM: https://medium.com/@heart.beacon.cycle
+ 
 MEDIUM ARTICLE: "The blockchain needs a killer use case" (climate change / population increase) 
 LINK: https://medium.com/coinmonks/blockchain-needs-a-killer-use-case-2f4def841883
 
