@@ -166,8 +166,6 @@ We Heart It: https://weheartit.com/steven_mcgee_1/collections
 
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
-Mastadon @EcoEconomicEpochs@indieweb.social
-
 DISCORD: beaconheart#5893
 
 Skype: Steven McGee https://join.skype.com/invite/qJ95yELu6wT9
