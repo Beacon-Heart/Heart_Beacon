@@ -4,7 +4,7 @@ DESCRIPTION: Eco Economic Epochs for DATF Distributed Autonomous Trade Federatio
  
 VISION STATEMENT: We can synchronize ourselves in time-space for common goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation
 
-PROJECT PURPOSE: Describe an Eco Economic Epoch Heartbeat for programmable $$$ / Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering best proctice to support DATF Distributed Autonomous Trade Federations / DAOs for a world economic framework 
+PROJECT PURPOSE: Describe an Eco Economic Epoch Heartbeat for programmable $$$ / Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering best practice to support DATF Distributed Autonomous Trade Federations / DAOs for a world economic framework 
 
 WHAT THIS PROJECT IS ABOUT: Describe an Eco sustainable Economic Epoch Heartbeat for programmable $$$ / Economy
 Describe a  syntax lexicon Rosetta Stone library derived from Pentagon / NATO system of systems engineering best practice since the mid 1990's. The German Army suggested that Pentagon / NATO system of systems engineering best practice used among NATO's digital dashboard software be reused for OOTW Operations Other Than War Github: http://github.com/Beacon-Heart
