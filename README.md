@@ -4,6 +4,13 @@ DESCRIPTION: Eco Economic Epochs for DATF Distributed Autonomous Trade Federatio
  
 VISION STATEMENT: We can synchronize ourselves in time-space for common goals e.g., code an equitable, sustainable, distributed programmable economy among a DATF Distributed Autonomous Trade Federation
 
+PROJECT PURPOSE: Describe an Eco Economic Epoch Heartbeat for programmable $$$ / Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering best proctice to support DATF Distributed Autonomous Trade Federations / DAOs for a world economic framework 
+
+WHAT THIS PROJECT IS ABOUT: Describe an Eco sustainable Economic Epoch Heartbeat for programmable $$$ / Economy
+Describe a  syntax lexicon Rosetta Stone library derived from Pentagon / NATO system of systems engineering best practice since the mid 1990's. The German Army suggested that Pentagon / NATO system of systems engineering best practice used among NATO's digital dashboard software be reused for OOTW Operations Other Than War 
+
+WHAT THIS PROJECT IS ABOUT: The author is the only person who describes how the internet and derivatively the internet of money works and is the only person compliant with the Supreme Court's Alice Corp Vs CLS Bank 2014 ruling "claims may not direct towards abstract ideas". Therefore, all internet Web 3.0 and programmable money efforts are incorrect and are moving away from interoperability as each internet, internet of money theme variation sprouts and propagates more and more made of memes, metaphors that do not in actuality exist.  The world is moving away from a consistent, coherent support framework for the one world  government, one work economic system of systems. 
+
 Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain (partial listing):
 
 •	GDP Gross Domestic Product Index / statistical mean value index-based TRC Trade Reference Currency using demurrage fees
