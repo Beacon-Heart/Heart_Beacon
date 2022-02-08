@@ -4,7 +4,7 @@ DESCRIPTION: Eco Economic Epochs for DATF Distributed Autonomous Trade Federatio
  
 GOAL: We can synchronize ourselves in time-space for common goals e.g., code an equitable, sustainable, programmable economy signaling telemetry system of systems framework
 
-PROJECT PURPOSE: Describe an Eco Economic Epoch Heartbeat for programmable $$$ / Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering best practice to support DATF Distributed Autonomous Trade Federations / DAOs for a world economic framework 
+PROJECT PURPOSE: Describe an Eco Economic Epoch Heartbeat for programmable $$$ / Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering best practice for OOTW Operations Other Than War - a German Army suggestion made in 2003 to support DATF Distributed Autonomous Trade Federations / DAOs for a world economic framework 
 
 This project  describes how the internet and derivatively the internet of money works and is compliant with the Supreme Court's Alice Corp Vs CLS Bank 2014 ruling "claims may not direct towards abstract ideas".  All internet Web 3.0 and programmable money efforts are incorrect and are moving away from interoperability as each internet, internet of money theme variation sprouts and propagates more and more made up memes, metaphors that do not in actuality exist.  The world is moving away from a consistent, coherent signaling, telemetry support framework to support a one world  government, economic system of systems described by The World Economic Forum WEF. 
 
