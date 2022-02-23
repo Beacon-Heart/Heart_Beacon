@@ -174,7 +174,7 @@ We Heart It: https://weheartit.com/steven_mcgee_1/collections
 
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
-DISCORD: beaconheart#5893
+DISCORD: GDP_Index_Economy#6495
 
 Skype: Steven McGee https://join.skype.com/invite/qJ95yELu6wT9
 
