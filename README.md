@@ -169,6 +169,8 @@ The Heart Beacon Cycle Time – Space Meter: One method fits many not one size f
 REFERENCES
 
 GITHUB Documents: LINK https://github.com/Beacon-Heart
+ 
+Quantum Computing / Quantum Financial System QFS for the 99 % / NEXGEN Foundation baseline tech for DeFi / crypto / https://youtu.be/ZfR1Jc6Zglo 
 
 We Heart It: https://weheartit.com/steven_mcgee_1/collections
 
