@@ -238,6 +238,8 @@ Parler: https://parler.com/user/Ecoeconomicepochs
  
 Law of Time Mathematics: https://www.lawoftime.org/lawoftime/synchronicmathematics.html 
 
+ A Simple and Efficient Artificial Bee Colony Algorithm Yunfeng Xu,1,2 Ping Fan,3 and Ling Yuan1
+
 We can synchronize ourselves, our cities, towns, cyber-communities in time — space for a common purpose: shared, common, ecologically sound, equitable…  econometrics. (Attributed to the Law of Time Founder RIP Dr. Jose Arguellos) see Law of Time dot org
 
 #economic collapse #economic reset #econometrics #programmable economy #programmable money #blockchain #cryptocurrencies #sustainable development #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity #random number beacon #random number blockchain
