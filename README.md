@@ -2,7 +2,7 @@ TITLE: Adaptive Procedural Template: Use Case: GDP index based currency for the 
 
 DESCRIPTION: Eco Economic Epochs for DATF Distributed Autonomous Trade Federations / DAOs, programmable $$$, Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering framework
  
-GOAL: We can synchronize ourselves in time-space for common goals e.g., code an equitable, sustainable, programmable economy signaling telemetry system of systems framework
+GOAL: We can synchronize ourselves in time-space for common goals: signaling telemetry system of systems framework supporting an equitable, sustainable, programmable money backed by tangible commodities / programmable economy 
 
 PROJECT PURPOSE: Describe an Eco Economic Epoch Heartbeat for programmable $$$ / Economy using a Adaptive Procedural Template derived from Battlefield Digitization, Net Centric Warfare, System of Systems Engineering best practice for OOTW Operations Other Than War - a German Army suggestion made in 2003 to support DATF Distributed Autonomous Trade Federations / DAOs for a world economic framework 
 
