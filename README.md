@@ -1,6 +1,6 @@
-Patent applicantion USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template checklist
+PATENT FILING: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template checklist
 
-PATENT APPLICANT USPTO 13/573,002:: Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy: The Heart Beacon Cycle Time Space Meter Adaptive Procedural Template (checklist)
+PATENT FILING DESCRIPTION: USPTO 13/573,002:: Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy: The Heart Beacon Cycle Time Space Meter Adaptive Procedural Template (checklist)
 
 GOAL: Eco sustainable Economic Epochs for programmable money interoperability, time zone stochastic harmonization, synchronization and syntactic - symbol set consistency supporting the programmable Economy
 
