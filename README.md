@@ -22,7 +22,7 @@ HEART BEACON CYCLE ADAPTIVE PROCEDURAL TEMPLATE MAIN USE CASES:
 
 9. Algorithmic regulation: firefly inspired heartbeat synchronization algorithm in stocks, currency exchanges is a segue to algorithmic regulation. Improving temporal trade parity between Bitcoin Blockchain & conventional stock exchanges by using the firefly-heartbeat algorithm to take trade speed samples among trade populations across time zones to establish consensus among disparate trade protocols, optimal trade speed / frequency as a statistical mean. Define time intervals with discrete start, stop, TTL Time To Live trade windows using commands embedded within </108> heartbeats, heartbeat messages organic to all systems.
 
-10. Supporting economist Milton Friedman’s K% rule where a “FEDCOIN / WORLDCOIN currency could be derived from sampling lead economic indicators across a global, universal event bus applying the firefly-heartbeat algorithm tracking changes, updating statistical means
+10. Supporting economist Milton Friedman’s K% rule where a “FEDCOIN / WORLDCOIN currency could be derived from sampling lead economic indicators across a global, universal event bus applying the firefly-heartbeat algorithm tracking changes, updating statistical means of a GDP Gross Domestic Product based commodity index
 
 11. Big Data as the “Next Oil”: Establishing a consistent <tag> context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers
 
