@@ -2,6 +2,32 @@ PATENT FILING: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adapti
 
 PATENT FILING DESCRIPTION: USPTO 13/573,002:: Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy: The Heart Beacon Cycle Time Space Meter Adaptive Procedural Template (checklist)
 
+HEART BEACON CYCLE ADAPTIVE PROCEDURAL TEMPLATE MAIN USE CASES:
+
+1. Eco sustainable Economic Heartbeat / Programmable Economy Namespace
+
+2. Distributed Autonomous Organization DAO support. The term DAO was coined by military think tank RAND Corporation circa 2001. Military’s always operate as organizations. NATO operations are usually distributed across many time zones and involve language translations. 
+
+3. Common signaling, telemetry, symbol, and data element sets help DAO’s stay synchronized. Joining autonomous trade federations using agile, adhoc NetOps is an option to formal merger. 
+
+4. A key goal is to support federations: from Latin: foedus, gen.: foederis, covenant characterized by a union of partially self-governing states or regions under a central (federal) government.
+
+5. Spatial econometrics. Geo-spatial, temporal metrics and meters will be universally consistent and synchronized across time zones. Micro to macro-cycle updates maintain system of systems
+
+6. Universal Time Zone UTZ proposal using via improvement to the University of Bologna / Hungary’s firefly inspired heartbeat synchronization algorithm by matching the firefly synchronization pulse to the closest OPTEMPO Heart Beacon Cycle. 
+
+7. The "Grail" A sync'd shared situational awareness view among a system of systems showing statistical mean value indexes can be achieved by reuse of improved net centric warfare methods joined with establishing a universal event bus using firefly-inspired heartbeat synchronization
+
+8. Supreme Court Alice Corp Vs CLS Bank compliant universal memes describe sync delta cyclic changes: describes linear sequential, geo-spatial temporal intensity radius hop count econometric metrics and meters where closer is shorter and closer is faster – eco sustainable
+
+9. Algorithmic regulation: firefly inspired heartbeat synchronization algorithm in stocks, currency exchanges is a segue to algorithmic regulation. Improving temporal trade parity between Bitcoin Blockchain & conventional stock exchanges by using the firefly-heartbeat algorithm to take trade speed samples among trade populations across time zones to establish consensus among disparate trade protocols, optimal trade speed / frequency as a statistical mean. Define time intervals with discrete start, stop, TTL Time To Live trade windows using commands embedded within </108> heartbeats, heartbeat messages organic to all systems.
+
+10. Supporting economist Milton Friedman’s K% rule where a “FEDCOIN / WORLDCOIN currency could be derived from sampling lead economic indicators across a global, universal event bus applying the firefly-heartbeat algorithm tracking changes, updating statistical means
+
+11. Big Data as the “Next Oil”: Establishing a consistent <tag> context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers
+
+12. Universal meme metaphor for coders, programmers given all things internet are formed using time cycles / syntax as instructions for example, universal Bitcoin blockchain meme mediation
+
 GOAL: Eco sustainable Economic Epochs for programmable money interoperability, time zone stochastic harmonization, synchronization and syntactic - symbol set consistency supporting the programmable Economy
 
 FRAMEWORK: Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy.
