@@ -1,6 +1,9 @@
 PATENT FILING: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template checklist
+
 PATENT FILING DESCRIPTION: USPTO 13/573,002:: Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy: The Heart Beacon Cycle Time Space Meter Adaptive Procedural Template (checklist)
+
 HEART BEACON CYCLE ADAPTIVE PROCEDURAL TEMPLATE MAIN USE CASES:
+
 1.	Eco sustainable Economic Heartbeat / Programmable Economy Namespace
 2.	Distributed Autonomous Organization DAO support. The term DAO was coined by military think tank RAND Corporation circa 2001. Military’s always operate as organizations. NATO operations are usually distributed across many time zones and involve language translations.
 3.	Common signaling, telemetry, symbol, and data element sets help DAO’s stay synchronized. Joining autonomous trade federations using agile, adhoc NetOps is an option to formal merger.
