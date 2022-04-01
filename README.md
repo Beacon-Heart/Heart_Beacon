@@ -16,7 +16,7 @@ HEART BEACON CYCLE ADAPTIVE PROCEDURAL TEMPLATE MAIN USE CASES:
 10.	Supporting economist Milton Friedman’s K% rule where a “FEDCOIN / WORLDCOIN currency could be derived from sampling lead economic indicators across a global, universal event bus applying the firefly-heartbeat algorithm tracking changes, updating statistical means of a GDP Gross Domestic Product based commodity index
 11.	Big Data as the “Next Oil”: Establishing a consistent context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers
 12.	Universal meme metaphor for coders, programmers given all things internet are formed using time cycles / syntax as instructions for example, universal Bitcoin blockchain meme mediation
-13.	
+
 GOAL: Eco sustainable Economic Epochs for programmable money interoperability, time zone stochastic harmonization, synchronization and syntactic - symbol set consistency supporting the programmable Economy
 
 FRAMEWORK: Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy.
