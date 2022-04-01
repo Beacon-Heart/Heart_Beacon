@@ -1,8 +1,10 @@
 PATENT FILING: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template checklist
 
-PATENT FILING DESCRIPTION: USPTO 13/573,002: The Heart Beacon Cycle Time Space Meter Adaptive Procedural Template (checklist): Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy. Organize individuals into DAO Distributed Autonomous Organizations / Trade Federations 
+DESCRIPTION: USPTO 13/573,002: The Heart Beacon Cycle Time Space Meter Adaptive Procedural Template (checklist): Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy. Organize individuals into DAO Distributed Autonomous Organizations / Trade Federations for common goals i.e., equitable, sustainable economic system of systems framework
 
-HEART BEACON CYCLE ADAPTIVE PROCEDURAL TEMPLATE MAIN USE CASES:
+Github: http://github.com/Beacon-Heart
+
+MAIN USE CASES:
 
 1.	Eco sustainable Economic Heartbeat / Programmable Economy Namespace
 2.	Distributed Autonomous Organization DAO support. The term DAO was coined by military think tank RAND Corporation circa 2001. Military’s always operate as organizations. NATO operations are usually distributed across many time zones and involve language translations.
@@ -136,40 +138,77 @@ SPACE THE FINAL FRONTIER: Reuse of DARPA - NATO's structured data exchange that 
 SUMMARY: The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize a system of federated systems comprised of diverse groups, people speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals such as establishing an Ecologically sustainable Economic heartbeat. This method involves reuse of over 300 use cases supported by hundreds of message sets further described in spread sheet row - column format populated by thousands of brevity OPSCODES mapped to symbols essential to artificial intelligence man - machine interface. NATO bases are small cities that transact virtually every good, item, commodity with the host nation. Why reinvent the syntax lexicon Rosetta Stone wheel?
 
 The Heart Beacon Cycle Time – Space Meter: One method fits many not one size fits all.
+
+McGee, Steven J. Masters Information Systems: Patent Applicant / Distributed Autonomous Organization Architect
+
 REFERENCES
+
 GITHUB Documents: LINK https://github.com/Beacon-Heart
+
 Quantum Computing / Quantum Financial System QFS for the 99 % / NEXGEN Foundation baseline tech for DeFi / crypto / https://youtu.be/ZfR1Jc6Zglo
+
 We Heart It: https://weheartit.com/steven_mcgee_1/collections
+
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
+
 DISCORD: GDP_Index_Economy#6495
+
 Skype: Steven McGee https://join.skype.com/invite/qJ95yELu6wT9
+
 Gravatar: https://en.gravatar.com/ecoeconheartbeat
+
 SLIDESHARE TALKING PAPER: Eco sustainable Economic Epochs for programmable money, economy: https://www.slideshare.net/StevenMcGee2/
+
 MEDIUM: https://medium.com/@heart.beacon.cycle
+
 MEDIUM ARTICLE: "The blockchain needs a killer use case" (climate change / population increase) LINK: https://medium.com/coinmonks/blockchain-needs-a-killer-use-case-2f4def841883
+
 MEDIUM ARTICLE: Digital Nations need an Ecologically sustainable Economic Heartbeat LINK: https://medium.com/@heart.beacon.cycle/eco-sustainable-economic-heartbeat-43e4e30246da
+
 MEDIUM ARTICLE: Deep Thought pondering the crypto blockchain through Alice’s Looking Glass: LINK https://medium.com/@heart.beacon.cycle/deep-thought-pondering-the-bitcoin-blockchain-f20ad6112d7
+
 MEDIUM ARTICLE: "Delusional Bitcoin Vs Fool's Gold": LINK: https://medium.com/@heart.beacon.cycle/delusional-bitcoin-vs-fools-gold-e4bea26afba8
+
 PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/ // https://www.pinterest.com/heartbeaconcycle/eco-economic-heartbeat/
+
 Angel List: https://angel.co/heart_beacon
+
 MeWE: http://mewe.com/i/stevenmcgee2
+
 Maven: http://app.maven.co/profile/SHfEKnA9
+
 WordPress: http://ecoheartbeat.wordpress.com Eco Economic Epochs for DAOs: https://ecoheartbeat.wordpress.com/2021/12/30/eco-economic-epochs-for-daos/
+
 Patreon: https://www.patreon.com/Heart_Beacon
+
 FACEBOOK: https://www.facebook.com/beaconheart // https://www.facebook.com/HeartBeacon/
+
 MINDS: https://www.minds.com/beaconheart/
+
 TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
+
 Subscribe Star: https://www.subscribestar.com/eco_econ_epochs
+
 PAYPAL: PayPal.Me/EcoEconHeartbeat
+
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
+
 BEHANCE: Project site: http://be.net/heartbeaco2eb7
+
 Gitter chat room for EcoEconHeartbeat/Lobby: https://gitter.im/EcoEconHeartbeat/Lobby via @gitchat
+
 Proton Email (secure) ecoeconomicepochs@protonmail.com
+
 EIN Earth Intelligence Network: see Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
+
 IPFS Interplanetary File System snapshot: https://peerweb.site/#ipfs:QmPxJNfM15WBkwEABN96yrfUmwZCajjeYtuDTGjz8C9rCw 10/17/2020
+
 FLOTE: https://flote.app/Heart_Beacon
+
 ME WE: https://mewe.com/i/stevenmcgee2
+
 Parler: https://parler.com/user/Ecoeconomicepochs
+
 Law of Time Mathematics: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
 
 A Simple and Efficient Artificial Bee Colony Algorithm Yunfeng Xu,1,2 Ping Fan,3 and Ling Yuan
