@@ -27,13 +27,21 @@ GERMAN ARMY RECOMMENDATION CIRCA 2003: using Battlefield Digitization, Net Centr
 SCOTUS ALICE CORP VS CLS BANK: This project describes how the internet and derivatively the internet of money works and is compliant with the Supreme Court's Alice Corp Vs CLS Bank 2014 ruling "claims may not direct towards abstract ideas". All internet Web 3.0 and programmable money efforts are incorrect and are moving away from interoperability as each internet, internet of money theme variation sprouts and propagates more and more non-existent memes, metaphors.
 
 Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain (partial listing):
+
 • GDP Gross Domestic Product Index / statistical mean value index-based TRC Trade Reference Currency using demurrage fees
+
 • Geo-spatial temporal metrics, and meters i.e. storing increments of value for all things internet, internet of $$$ into the “blockchain cube”
+
 • Ecologically sustainable Economic Epochs applying geospatial temporal methods and means i.e., IDMaps - SonarHops, Ericsson Erlang time algorithms / time equations to base economic incentives, derive TRC Trade Reference Currency demurrage charges i.e., closer is cheaper given closer = less fuel, less time, demurrage fees
+
 • Universal meme for Consensus algorithm interoperability, synchronization
+
 • OPSCODE brevity code syntax / symbol set lexicon of tokenized GDP Gross Domestic Product pacing items described in a syntax lexicon library promoting interoperability Rosetta Stone syntax lexicon library needed for Artificial Intelligence man - machine interface
+
 • Universal heartbeat message event / transaction QRNB Quantum Random Number Beacon non-repudiation bus, Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm / heartbeat message event - transaction bus
-• Quantum computing mediation, mitigation among the quantum haves, have nots i.e., percentage of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics, Central Bank Digital Currencies / DeFi DAO exchanges - grass root federations
+
+• Quantum computing mediation, mitigation among the quantum haves, have nots i.e., percentage of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics, Central Bank Digital Currencies / DeFi DAO exchanges - grass root federations. Quantum computing using waves VS particles cooled with liquid nitrogen for economic, ecological, temporal stochastic harmonization and synchronization across global UTZ Universal Time Zone efficiencies
+
 • Big data sync, time – space metrics and meters descriptive framework based on geo-spatial temporal time – space stamp methods to establish time - space Epochs i.e., IDMaps - SonarHops, Ericsson Erlang time equations
 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
