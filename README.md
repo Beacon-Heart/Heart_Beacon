@@ -1,6 +1,8 @@
-PATENT FILING: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of tools, procedures, processes, algorithms...)
+PROJECT TITLE: Eco sustainable Economic Epochs programmed into programmable money for the programmable Economy
 
 DESCRIPTION: USPTO 13/573,002: Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy. Organize individuals into DAO Distributed Autonomous Organizations / Trade Federations for common goals i.e., equitable, sustainable economic system of systems engineering framework
+
+GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
 
 MAIN USE CASES:
 
@@ -44,7 +46,7 @@ Minimum essential requirements for Trade Federations on the cryptocurrency DLT D
 
 • Big data sync, time – space metrics and meters descriptive framework based on geo-spatial temporal time – space stamp methods to establish time - space Epochs i.e., IDMaps - SonarHops, Ericsson Erlang time equations
 
-GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
+PATENT FILING: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of tools, procedures, processes, algorithms...)
 
 PATENT APPLICATION TYPE: Adaptive Procedural Template USPTO 13/573,002: Time-Space Meter / Syntax Lexicon Rosetta Stone, Checklist: adaptive procedural template in patent application terms does not capture attention so graphics are used as a picture representing a checklist of useful tools, procedures, processes, algorithms, ideas that a trade federation would agree to use to achieve, maintain their collective goals of the distributed federation. The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template checklist of useful tools, procedures, products, algorithms, econometrics, processes, metrics, meters, e.g., time - space, geo-spatial, temporal, cryptocurrency data storage into a "blockchain cube" with height, width, depth, volume, programmable money metrics, meters representing, describing a myriad of memes, metaphors within the cryptocurrency programmable money continuum.
 
