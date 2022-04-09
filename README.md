@@ -6,6 +6,10 @@ DESCRIPTION: USPTO 13/573,002: Signals, telemetry syntax symbol set framework / 
 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
 
+COMMODITIES = CORE FOCUS
+
+The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. From a legal viewpoint, the Terra is standardized “countertrade” (international barter), which is routinely used for over one trillion dollars worth of transactions per year. Legislation on countertrade exists in about two hundred countries, including all the major trading nations. https://www.lietaer.com/2010/01/terra/ #currency #trade #commodities
+
 MAIN USE CASES:
 
 1.	Eco sustainable Economic Heartbeat / Programmable Economy Namespace
