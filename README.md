@@ -57,10 +57,12 @@ PATENT FILING: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adapti
 PATENT APPLICATION TYPE: Adaptive Procedural Template USPTO 13/573,002: Time-Space Meter / Syntax Lexicon Rosetta Stone, Checklist: adaptive procedural template in patent application terms does not capture attention so graphics are used as a picture representing a checklist of useful tools, procedures, processes, algorithms, ideas that a trade federation would agree to use to achieve, maintain their collective goals of the distributed federation. The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template checklist of useful tools, procedures, products, algorithms, econometrics, processes, metrics, meters, e.g., time - space, geo-spatial, temporal, cryptocurrency data storage into a "blockchain cube" with height, width, depth, volume, programmable money metrics, meters representing, describing a myriad of memes, metaphors within the cryptocurrency programmable money continuum.
 
 USPTO 13/573,002 METHOD: Code Eco sustainable incentives into programmable economic framework reusing / leveraging NATO systems of systems engineering best practice. Form federations of Distributed, Autonomous Organizations DAO communities, states, sovereign nations using an adaptive procedural template checklist promoting organization and synchronization among geo-spatially and temporally dispersed groups using a common syntax – symbol set lexicon. Federated groups activities are synchronized geo-spatially across time - space to achieve synergy, synchronicity of events orchestrated from micro to macro cycles from grassroots to capitals.
+
 1.	Reuse OPSCODE brevity codes mapped to message symbol sets enabling Artificial Intelligence / human interaction ( i.e., man — machine interface).
 2.	Apply lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles... intrinsic to NATO SOP swords to plowshares following German military proposal use cases circa 2003.
 
 THESIS: All things internet, internet of programmable money are formed using:
+
 1.	Time epochs created by oscillating quartz crystal based silicon chips
 2.	Syntax used / not used as programming instructions during epoch time cycles
 
@@ -84,7 +86,9 @@ PRECEDENT TRADE REFERENCE CURRENCY TRC / FRENCH MONEY OF PEACE: Later in the 199
 PRECEDENT: AMERICAN AXLE V. NEAPCO RULING Judge: "an inventive concept to instead focus on the reliance on Hooke’s law and predicted that because all inventions depend to some extent on the operation of unstated natural laws, the majority’s opinion would open the door to Section 101 challenges in practically every patent case. Tesla: "think of energy, frequency, and vibration" Judge Moore also took exception to the majority disregarding the use of a cardboard liner as an inventive concept to instead focus on the reliance on Hooke’s law and predicted that because all inventions depend to some extent on the operation of unstated natural laws, the majority’s opinion would open the door to Section 101 challenges in practically every patent case. Article source: https://bilski.typepad.com/blog/2018/03/good-vibrations-bad-vibrations-american-axle-v-neapco-ruling.html
 
 United States Patent Application: 0160358256[0056 In accordance with an example embodiment of the present invention, the amount of an investment required from a speculator is calculated by executing the following cost of speculation equation: V.intg.|log(P)-log(.DELTA.P)|/R dt. The variables for the cost of speculation equation are as follows: P represents a variable of price, P(t) is a variable function of price over time in a given market, .DELTA.P represent a speculative price function. P(t) can mathematically represent the future prices as functions of price over time. The function value of R(t) is a predetermined value for the rate of return. For example, for R(t), the value can be 100% annualized so for a t in years R(1)=2, R(2)=4 and R(0.5)=1.414, but as would be appreciated by one skilled in the art, any function is possible. The value for V(t) at any given time is the expected value to the market (e.g., volume of goods to trade multiplied by the market commission) The value for V(t) can be updated empirically as the commodities market functions by calculation as a moving average of volume times the markets total transactional overhead charge. Source / Attributed to: Noah Healy Data Scientist at Castle Hill Gaming strategic design for (commodity) markets drastically lowering transaction costs while increasing returns for informed speculators to launch a global economic boom. Price discovery method and means: Source: https://tinyurl.com/4w4m359h INTERNET TREATISES: Time filtered, and spatially metered reports are comprised of state meta-data snapshot / heartbeat message / sync delta messages where state meta data is harvested during micro-cycles then posted / displayed during longer macro-cycles See hop count treatise referential to internet TCP/IP treatises
+
 1.	IEEE 802.11AG is used for hop-by-hop detection and control for epoch assignment and hop counts management and for hop by hop detection function to determine hop by hop count corresponding to machine readable and executable null / 0 and steps from null representing hop counts e.g., +1, +2, +3, +4 and / or -1, -2, -3, -4 Paul Revere linear, sequential metaphor indicating distance traveled in context with router / server / switch / node traversal
+
 2.	IEEE 802.11 HbH hop by hop control described, represented by USPTO 13/573,002 Paul Revere, rain drop in pond meme - metaphor metrics denoting increases / decreases in thresholds intensity, duration and hop count sums
 
 USPTO 13,573,002 electric meter claim based on electric dipole effect: closer is cheaper given less infrastructure needed given energy attenuates over distances • data over energy link where #energy pulses constitute a method and means to transmit data over electric wired, wireless pathways • electric dipole effect Radio Wave Properties: Electric and Magnetic Dipole Antennae LINK: https://youtu.be/wUpOlqbHcjI?t=111 • water drop in pond meme •Paul Revere linear, sequential
@@ -103,7 +107,7 @@ ECO INCENTIVES: Ecologically sustainable economic transactions need to be incent
 
 THREE DECADES OF NATO SYSTEM OF SYSTEMS ENGINEERING REUSE: NATO has invested decades of mapping OPSCODE brevity codes to symbology / symbols / symbol sets contained in three hundred 300 plus message set / use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NEO NETOPS system of systems engineering. Blockchain, crypto currency developers are recreating, reinventing this decades old, tedious, time intensive, labor intensive, expensive structured data exchange wheel with every new meme, metaphor. Crypto currency based economics needs a universal syntax lexicon digital base Artificial Intelligence A.I., quantum blockchain heartbeat beacon to synchronize, sample tokenized commodities across a stochastically harmonized UTZ Universal Time Zone using the firefly-heartbeat algorithm and Princeton University Mathematician John Nash’s Equilibrium algorithms NATO bases are small cities that transact most goods, commodities with the host nation. Why reinvent the syntax lexicon Rosetta Stone wheel? Reuse: system of systems tool to accelerate an EIN Earth Intelligence Net – see Project #UNRIG by Robert David Steele
 
-METHOD 1: A systemic, adaptive, procedural template method used to improve synchronization in metrics, metering using </Org_ID>, {“URN”} XML data tags in signaling during heartbeat micro-cycles prior to data fusion center entry consisting of iterative heartbeat cycle metrics, meters reporting where state meta data heartbeat snapshot recalculations are performed at off site connectors that are signaling relays performing recalculation, syntax processing during macro-cycle epochs reconciling dissimilar standards, data syntax formats that are then reported signaled, news casted, beacon broadcasted to distributed organization applique overlay displays
+METHOD 1: A systemic, adaptive, procedural template method used to improve synchronization in metrics, metering using </Org_ID>, {“URN”} XML data tags in signaling during heartbeat micro-cycles prior to data fusion center entry consisting of iterative heartbeat cycle metrics, meters reporting where state meta data heartbeat snapshot recalculations are performed at off site connectors that are signaling relays performing recalculation, syntax processing during macro-cycle epochs reconciling dissimilar standards, data syntax formats that are then reported signaled, news casted, beacon broadcasted to distributed organization applique overlays 
 
 METHOD 2. A adaptive procedural template used to improve signaling, synchronization using TCP/IP heartbeat time stamping occurring during micro-cycles of state meta data prior to data fusion center entry among metrics, metering processes comprised of TCP/IP heartbeats, heartbeat messages signaled during micro-cycles scheduling instructions, commands, processes, procedures, algorithms, telemetry instructions for example, to master-controller processes i.e., block, start, stop, pause, resume, set Time To live TTL i.e., stock market high frequency flash trade, currency, interest rates, tax rates, time banking, cloud computing commodity exchanges, big data, electrical micro-grid, fungible goods, real time bidding, many use cases. Summary: Time stamping and applying descriptive data type tags to heartbeat state meta data after data is collected and queued, stored in temporary structures or entered into data base instantiations after the fact is problematic. All internet supported devices including high frequency stock, currency, commodity etc., flash trade master controllers receive heartbeats. System Heartbeats are intervals, epoch time cycles used to (not) process syntax.
 
@@ -166,38 +170,71 @@ SUMMARY: The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an ada
 The Heart Beacon Cycle Time – Space Meter: One method fits many not one size fits all.
 
 REFERENCES
+
 GITHUB Documents: LINK https://github.com/Beacon-Heart
+
 Quantum Computing / Quantum Financial System QFS for the 99 % / NEXGEN Foundation baseline tech for DeFi / crypto / https://youtu.be/ZfR1Jc6Zglo
+
 We Heart It: https://weheartit.com/steven_mcgee_1/collections
+
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
+
 DISCORD: GDP_Index_Economy#6495
+
 Skype: Steven McGee  
+
 Gravatar: https://en.gravatar.com/ecoeconheartbeat
+
 SLIDESHARE PAPERS: https://www.slideshare.net/StevenMcGee2/
+
 MEDIUM:  https://medium.com/@heart.beacon.cycle
+
 MEDIUM ARTICLE: Digital Nations need an Ecologically sustainable Economic Heartbeat LINK: https://medium.com/@heart.beacon.cycle/eco-sustainable-economic-heartbeat-43e4e30246da
+
 MEDIUM ARTICLE: Deep Thought pondering the crypto blockchain through Alice’s Looking Glass: LINK https://medium.com/@heart.beacon.cycle/deep-thought-pondering-the-bitcoin-blockchain-f20ad6112d7
+
 MEDIUM ARTICLE: "Delusional Bitcoin Vs Fool's Gold": LINK: https://medium.com/@heart.beacon.cycle/delusional-bitcoin-vs-fools-gold-e4bea26afba8
+
 PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/ // https://www.pinterest.com/heartbeaconcycle/eco-economic-heartbeat/
+
 Angel List: https://angel.co/heart_beacon
+
 MeWE: http://mewe.com/i/stevenmcgee2
+
 Maven: http://app.maven.co/profile/SHfEKnA9
+
 WordPress: http://ecoheartbeat.wordpress.com  
+
 Patreon: https://www.patreon.com/Heart_Beacon
+
 FACEBOOK: https://www.facebook.com/beaconheart // 
+
 FACEBOOK: https://www.facebook.com/HeartBeacon/
+
 MINDS: https://www.minds.com/beaconheart/
+
 TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
+
 Subscribe Star: https://www.subscribestar.com/eco_econ_epochs
+
 PAYPAL: PayPal.Me/EcoEconHeartbeat
+
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
+
 BEHANCE: Project site: http://be.net/heartbeaco2eb7
+
 Gitter EcoEconHeartbeat/Lobby: https://gitter.im/EcoEconHeartbeat/Lobby via @gitchat
+
 Proton Email (secure) ecoeconomicepochs@protonmail.com
+
 EIN Earth Intelligence Network: Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
+
 IPFS Interplanetary File System https://peerweb.site/#ipfs:QmPxJNfM15WBkwEABN96yrfUmwZCajjeYtuDTGjz8C9rCw 10/17/2020
+
 FLOTE: https://flote.app/Heart_Beacon
+
 Parler: https://parler.com/user/Ecoeconomicepochs
+
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
 
 A Simple and Efficient Artificial Bee Colony Algorithm Yunfeng Xu,1,2 Ping Fan,3 and Ling Yuan
