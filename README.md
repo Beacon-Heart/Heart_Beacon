@@ -1,8 +1,8 @@
 PROJECT TITLE: Eco sustainable Economic Epochs
 
-INTRODUCTION: Eco sustainable Economic Epochs used to program programmable money and the programmable Economy supporting DAO Trade Federations supported by a system of systems engineering framework developed and coded by DoD / NATO best practice over the past three decades as OOTW Operations Other Than War -- a German military suggestion to reuse Battlefield Digitization / Network Centric Operations system of systems engineering framework
-
 DESCRIPTION: USPTO 13/573,002: Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy. Organize individuals into DAO Distributed Autonomous Organizations / Trade Federations for common goals i.e., equitable, sustainable economic system of systems engineering framework
+
+INTRODUCTION: Eco sustainable Economic Epochs used to program programmable money and the programmable Economy supporting DAO Trade Federations supported by a system of systems engineering framework developed and coded by DoD / NATO best practice over the past three decades as OOTW Operations Other Than War -- a German military suggestion to reuse Battlefield Digitization / Network Centric Operations system of systems engineering framework
 
 GOAL: We have a clear and present opportunity to improve temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework.
 
