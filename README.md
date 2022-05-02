@@ -1,84 +1,3 @@
-ADAPTIVE PROCEDURAL TEMPLATE 
-
-SAMPLE TABLE OF CONTENTS 
-
-1.	Introduction	3
-
-1.1	Purpose	3
-
-1.2	Scope	3
-
-1.3	Roles	3
-
-1.4	Definitions and Acronyms	3
-
-1.5	References	3
-
-1.5.1	Traceability	3
-
-1.5.2	Policies	3
-
-1.5.3	Standards	4
-
-1.5.4	Processes	4
-
-1.5.5	Procedures	4
-
-1.5.6	Guidelines	4
-
-1.5.7	Templates	4
-
-1.5.8	Checklists	4
-
-1.5.9	Systems of Systems Engineering framework	4
-
-1.5.10 Tools	4
-
-1.6	Profiles	4
-
-2.	Procedure (Steps)	5
-
-2.1	Begin a list of steps beginning at the number one	5
-
-2.2	Begin a list of steps that restart at the number one	5
-
-3.	Process/Procedure (Mapping)	6
-
-3.1	Entry Criteria			6
-
-3.2	Process/Procedure Map	6
-
-3.3	Inputs	6
-
-3.4	Activities	6
-
-3.5	Outputs	7
-
-3.6	Verification and Validation	7
-
-3.7	Exit Criteria	7
-
-3.8	Metrics	8
-
-3.9	Records Control Table	8
-
-3.10	Controlled Documents Table	8
-
-APPENDIXES
-
-APPENDIX A: USE CASES
-
-APPENDIX B: CLAIMS
-
-APPENDIX C: PRIOR ART, TERMS, DEFINITIONS
-
-APPENDIX E: REFERENCES
-
-APPENDIX F: GRAPHICS
-
- 
-Figure 1: All things internet, net of money formed by 1) epoch time intervals 2) syntax 
-
 INTRODUCTION: Eco sustainable economic epochs used to program programmable money and the programmable economy that is agreed to and supported by a Distributed Trade Federation supported by a system of systems engineering framework representing DoD / NATO best practice over the past three decades
 
 GOAL: improve geo-spatial temporal, syntactic - semantic consistency, interoperability among myriad programmable money memes comprising the programmable economy supported by an equitable, distributed trade federation economic framework.
@@ -790,4 +709,84 @@ Figure 7: Beacon Communities / One World Government systemic mediation / mitigat
 APPENDIX F:    GRAPHICS
 
 HASHTAGS: #economic collapse #economic reset #econometrics #programmable economy #programmable money #blockchain #cryptocurrencies #sustainable development #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity #random number beacon #random number blockchain
+ 
+ ADAPTIVE PROCEDURAL TEMPLATE 
+
+SAMPLE TABLE OF CONTENTS 
+
+1.	Introduction	3
+
+1.1	Purpose	3
+
+1.2	Scope	3
+
+1.3	Roles	3
+
+1.4	Definitions and Acronyms	3
+
+1.5	References	3
+
+1.5.1	Traceability	3
+
+1.5.2	Policies	3
+
+1.5.3	Standards	4
+
+1.5.4	Processes	4
+
+1.5.5	Procedures	4
+
+1.5.6	Guidelines	4
+
+1.5.7	Templates	4
+
+1.5.8	Checklists	4
+
+1.5.9	Systems of Systems Engineering framework	4
+
+1.5.10 Tools	4
+
+1.6	Profiles	4
+
+2.	Procedure (Steps)	5
+
+2.1	Begin a list of steps beginning at the number one	5
+
+2.2	Begin a list of steps that restart at the number one	5
+
+3.	Process/Procedure (Mapping)	6
+
+3.1	Entry Criteria			6
+
+3.2	Process/Procedure Map	6
+
+3.3	Inputs	6
+
+3.4	Activities	6
+
+3.5	Outputs	7
+
+3.6	Verification and Validation	7
+
+3.7	Exit Criteria	7
+
+3.8	Metrics	8
+
+3.9	Records Control Table	8
+
+3.10	Controlled Documents Table	8
+
+APPENDIXES
+
+APPENDIX A: USE CASES
+
+APPENDIX B: CLAIMS
+
+APPENDIX C: PRIOR ART, TERMS, DEFINITIONS
+
+APPENDIX E: REFERENCES
+
+APPENDIX F: GRAPHICS
+ 
+Figure 1: All things internet, net of money formed by 1) epoch time intervals 2) syntax 
 
