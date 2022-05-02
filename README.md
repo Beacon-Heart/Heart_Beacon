@@ -1,4 +1,4 @@
-PROJECT TITLE: Eco sustainable Economic Epochs
+PROJECT TITLE: Eco sustainable Economic Epochs / Economic Heartbeat for programmable $$$, Economy
 
 DESCRIPTION: USPTO 13/573,002: Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy. Organize individuals into DAO Distributed Autonomous Organizations / Trade Federations for common goals i.e., equitable, sustainable economic system of systems engineering framework
 
