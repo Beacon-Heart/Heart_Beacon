@@ -183,7 +183,7 @@ Skype: Steven McGee
 
 Gravatar: https://en.gravatar.com/ecoeconheartbeat
 
-SLIDESHARE PAPERS: https://www.slideshare.net/StevenMcGee2/
+SLIDESHARE PAPERS: https://www.slideshare.net/StevenMcGee2/ / https://www.slideshare.net/EcoEconomicHeartbeat/ecoeconomicheartbeatpaperpdf-251708116
 
 MEDIUM:  https://medium.com/@heart.beacon.cycle
 
