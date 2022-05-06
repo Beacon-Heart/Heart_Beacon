@@ -103,13 +103,11 @@ Checklist: minimum list of items, components, building blocks, processes, proced
 
 9.	Economist Milton Friedman’s K% rule: “FEDCOIN / WORLDCOIN currency derived from sampling lead economic indicators across a global, universal event bus by use of the firefly-heartbeat algorithm message event bus to track changes i.e., updating statistical means of a GDP Gross Domestic Product based index
 
-10.	Big Data as the “Next Oil”: Establishing a consistent context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers, heartbeat algorithm event message bus
+10.	Establishing a consistent context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers, heartbeat algorithm event message bus. Military OPSCODE brevity alpha- numeric codes are mapped, associaped, paired with MILSTD 2525 A, B, C, D symbols and symbol sets. MIL Standard sets are critical to A.I. Artificial Intelligence Man - machine interaction. USPTO 13/573,002's foundation is Battlefield Digitization / Network Centric Warfare's signaling, telemetry support framework where the improvement is OOTW Operations Other Than War involves use for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy across the UTZ Universal Time Zone. See also Big Data as the “Next Oil” 
 
 11.	Supreme Court Alice Corp Vs CLS Bank compliant universal memes metaphor for coders, programmers given all things internet are formed using time cycles / syntax as instructions for example, universal cryptocurrency blockchain meme mediation
 
 12.	Quantum computing event isolation metrics, meters, observation using waves instead of particles requiring chipset environment is cooled to near absolute zero with liquid nitrogen that is prone to error due to temperature fluctuation
-
-13.	Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy across the UTZ Universal Time Zone
 
 1.5.9	System of systems signaling, telemetry, heartbeat message bus framework
 
