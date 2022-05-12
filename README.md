@@ -71,43 +71,80 @@ Checklist: minimum list of items, components, building blocks, processes, proced
 1.5.8	Common foundation blocks
 
 1.5.8.1	Organize by assigning Organization Identifiers {“Org_ID”}
+
 1.5.8.2	Track Resources i.e., commodities by Uniform Resource Name </URN>
+
 1.5.8.3	Take / distribute State Meta Data heartbeat snapshots i.e., @ 15 / N min
+
 1.5.8.4	Federate Latin: foedus, gen.: foederis Ex: RSK Federation Form federations: Latin: foedus, gen.: foederis, covenant characterized by a union of partially self-governing states or regions under a central (federal) government. 
+
 1.6	Distributed Autonomous Organization DAO support. The term DAO was coined by military think tank RAND Corporation circa 2001. Militaries operate as organizations. Operations are distributed across time zones 
+
 1.7	Common signaling, telemetry, symbol, and data elements mapped to symbology symbol sets help DAO’s stay synchronized. Joining autonomous trade federations using agile, adhoc NetOps is an option to formal merger and acquisition supporting Distributed Autonomous Organizations DAO’s using DeFi programs, apps, processes, procedures.
+
 1.8	Improved temporal, geo-spatial, syntactic - semantic consistency, interoperability among myriad programmable money memes among an equitable, programmable trade federation economic framework through use of select tools, algorithms.
+
 1.9	Signal, telemetry support of the Terra TRC Trade Reference Currency: global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability
+
 1.10	National Institute for Standards and Technology NIST ATOMIC CLOCK in Boulder Colorado provides a global temporal reference source across the UTZ Universal Time Zone source for sync data event time stamps and NIST QRNB Quantum Random Number Beacon for non-repudiation of events / transactions at any point in time / place in the future. 
+
 1.11	 Method uses waves Vs particles in quantum computing for ecological, temporal efficiencies and ease of synchronization, stochastic harmonization
+
 1.12	 Geo-spatial, temporal metrics, meters that are synchronized, stochastically harmonized across UTZ Universal Time Zone. Micro to macro-cycle heartbeat cycle, heartbeat message, blockchain updates for system of systems synchronization, stochastic harmonization, spatial econometrics
+
 2 Invention focuses on consensus methods to establish common metrics, meters and space-time synchronization across many disparate, distributed autonomous organizations. The main method uses conventions of a Little League Baseball tournament where the environment is surveyed, and boundaries form a 360-degree clock face time clock. Agents and workflow are represented by players, officials	
+
 3 Method includes for example, universal meme for Bitcoin and like cryptocurrencies, Blockchain Proof of Work, Stake, POET Proof of Elapsed Time, Project Lightning Vs Segregated Witness, and Fast Internet Bitcoin Relay Engine FIBRE... Therefore, a common tool / meme is needed to help establish consensus metrics, meters and to establish a code reference syntax lexicon - library of OPSCODE brevity codes mapped to symbols and (DoD / NATO) symbol sets useful for A.I. Artificial Intelligence
+
 4 Geo-spatial, temporal metrics and meters universally consistent and synchronized across UTZ Universal Time Zone. Micro to macro-cycle updates for system of systems synchronization, stochastic harmonization, spatial econometrics.
+
 5 Universal Time Zone UTZ proposal using via improvement to the University of Bologna / Hungary’s firefly inspired heartbeat synchronization algorithm by matching the firefly synchronization pulse to closest OPTEMPO epoch cycle.
+
 6. The "Grail" A sync'd shared situational awareness view shared among a system of systems showing statistical mean value indexes is achieved by reuse of improved Network Centric Warfare / Battlefield Digitization methods. Epoch time cycles describe, create cyclic sync delta timed intervals to sample, report data changes e.g., linear sequential hop count and / or radius geo-spatial temporal intensity water drop in pond meme temporal epoch time intervals to sample, report econometric metrics and meters 
+
 7.	Eco sustainable SLA Service Level Agreement where closer is shorter and closer is faster = closer = cheaper, less fuel geospatial temporal intensity metrics, meters
+
 8.	Algorithmic regulation: firefly inspired heartbeat synchronization algorithm applied to stocks, commodities, currency exchanges algorithmic regulation. Improving temporal trade parity between cryptocurrency blockchain and conventional and HFT, quantum computing enabled stock exchanges by using the firefly-heartbeat algorithm to take trade speed samples among trade populations across time zones to establish temporal consensus among disparate trade protocols, optimal trade speed / frequency by defining a start, stop and duration TTL Time To Live trade window. Define time intervals with discrete start, stop, TTL Time To Live trade windows using commands embedded within </108> heartbeats, heartbeat messages organic to all system’s master controller.
+
 9.	Economist Milton Friedman’s K% rule: “FEDCOIN / WORLDCOIN currency derived from sampling lead economic indicators across a global, universal event bus by use of the firefly-heartbeat algorithm message event bus to track changes i.e., updating statistical means of a GDP Gross Domestic Product based index
+
 10.	Big Data as the “Next Oil”: Establishing a consistent context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers, heartbeat algorithm event message bus. Establish a consistent context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers, heartbeat algorithm event message bus. Military OPSCODE brevity alpha- numeric codes are mapped, associated, paired with MILSTD 2525 A, B, C, D symbols and symbol sets. MIL Standard sets are critical to A.I. Artificial Intelligence Man - machine interaction. USPTO 13/573,002's foundation is Battlefield Digitization / Network Centric Warfare's signaling, telemetry support framework where the improvement is OOTW Operations Other Than War involves use for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy across the UTZ Universal Time Zone. 
+
 11.	Supreme Court Alice Corp Vs CLS Bank compliant universal memes metaphor for coders, programmers given all things internet are formed using time cycles / syntax as instructions for example, universal cryptocurrency blockchain meme mediation
+
 12.	Quantum computing event isolation metrics, meters, observation using waves instead of particles requiring chipset environment is cooled to near absolute zero with liquid nitrogen that is prone to error due to temperature fluctuation
+
 13.	Systems of Federated Systems signaling, telemetry support framework for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy across the UTZ Universal Time Zone
+
 1.5.9	System of systems signaling, telemetry, heartbeat message bus framework
 
+
 1.5.9.1Examples: Geo-spatial, temporal metrics and meters universally consistent and synchronized across UTZ Universal Time Zone. Micro to macro-cycle updates for system of systems synchronization, stochastic harmonization, spatial econometrics. 
+
 1.5.9.2. Universal Time Zone UTZ proposal using via improvement to the University of Bologna / Hungary’s firefly inspired heartbeat synchronization algorithm by matching the firefly synchronization pulse to closest OPTEMPO epoch cycle. 
+
 1.6.0 Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain (partial listing):
+
 1.6.1 GDP Gross Domestic Product Index / statistical mean value index based TRC Trade Reference Currency demurrage fees by Economist Bernard Lietaer of Belgium
+
 1.6.2 Geo-spatial temporal metrics, and meters i.e. storing increments of value for all things internet, internet of $$$ into the “blockchain cube” fictional data structure
+
 1.6.3 Ecologically sustainable Economic Epochs applying geospatial temporal methods and means i.e., IDMaps - SonarHops, Ericsson Erlang time algorithms / time equations to base economic incentives, derive TRC Trade Reference Currency demurrage charges i.e., closer is cheaper given closer = less fuel, less time, demurrage fees
+
 1.6.4 Universal meme for Consensus algorithm interoperability, synchronization
+
 1.6.5 OPSCODE brevity code syntax - symbol set lexicon of tokenized GDP Gross Domestic Product pacing items described in a syntax lexicon library 
+
 1.6.6 Rosetta Stone syntax lexicon library needed for A.I. Artificial Intelligence man - machine interface. Symbols, symbol sets reference standardized OPSCODE brevity codes
+
 1.6.7 Universal heartbeat message event / transaction QRNB Quantum Random Number Beacon non-repudiation bus, Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm / heartbeat message event - transaction bus comprised of a </108> system heartbeat message
+
 1.6.8 Quantum computing mediation, mitigation among the quantum haves, have nots and techniques e.g., particle detection using liquid nitrogen vs waves at room temperature that will affect for example, transactions of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics, Central Bank Digital Currencies / and activities among DeFi DAO exchanges – trade federations
+
 1.6.9 Big data sync, time – space metrics and meters descriptive framework based on geo-spatial temporal time – space stamp methods to establish time - space Epochs i.e., IDMaps – SonarHops distance estimation service, Ericsson Erlang time equations	
+
 1.7 Epoch time cycles are (not) used in describing sync delta cyclic changes from one epoch time cycle to the next. Paul Revere meme linear sequential and water drop in pond mem geo-spatial temporal intensity radius hop count form common, universal, shared econometric metrics and meters among distributed, federated trade units
+
 1.8 Tools Tool selections may be inserted, removed by majority federation vote. If a superior tool is deemed an improvement, the old tool is replaced by the new at a point in time agreed upon by a majority of for example, trade federation representatives
 
 1.9	Profiles
@@ -142,14 +179,23 @@ System of Systems trade federations use stored procedures e.g., process workflow
 Specific activities depend on the type of use case. However, all use cases are iterative and follow the design of adaptive procedural templates – see detailed treatise (s)
 
 3.5.1 METHOD 1: A systemic, adaptive, procedural template method used to improve synchronization in metrics, metering using </Org_ID>, {“URN”} XML data tags in signaling during heartbeat micro-cycles prior to data fusion center entry consisting of iterative heartbeat cycle metrics, meters reporting where state meta data heartbeat snapshot recalculations are performed at off site connectors that are signaling relays performing recalculation, syntax processing during macro-cycle epochs reconciling dissimilar standards, data syntax formats that are then reported signaled, news casted, beacon broadcasted to distributed organization applique overlay displays
+
 3.5.2 METHOD 2. An adaptive procedural template used to improve signaling, synchronization, stochastic harmonization across UTZ Universal Time Zones using TCP/IP heartbeat time stamping occurring during micro-cycles of state meta data prior to data fusion center entry among metrics, metering processes comprised of TCP/IP heartbeats, heartbeat messages signaled during micro-cycles scheduling instructions, commands, processes, procedures, algorithms, telemetry instructions for example, to master-controller processes i.e., block, start, stop, pause, resume, set Time To live TTL i.e., stock market high frequency flash trade, currency, interest rates, tax rates, time banking, cloud computing commodity exchanges, big data, electrical micro-grid, fungible goods, real time bidding, many use cases. Summary: Time stamping and applying descriptive data type tags to heartbeat state meta data after data is collected and queued, stored in temporary structures or entered into data base instantiations after the fact is problematic. All internet supported devices including high frequency stock, currency, commodity etc., flash trade master controllers receive heartbeats. System Heartbeats are intervals, epoch time cycles used to (not) process syntax.
+
 3.5.3 METHOD 3 A systemic adaptive procedural template method improving stochastic networks harmonization through use of timing, synchronization intrinsic to TCP/IP heartbeat / heartbeat message signaling using set, scheduled, epochs in micro-cycles in combination with firefly insect signaling stochastic harmonization algorithms where firefly protocol sample means are matched with closest heartbeat sync delta micro-cycle report values to recalculate statistical averages, means signaled through off site connector conversion, recalculation gateways that news-cast, beacon broadcast to subscribers monitoring macro-cycle reports that heretofore would not exist without following the Heart Beacon Cycle procedural template as guides for reporting thus improving temporal harmonization in metrics and metering of stochastic telecommunication mesh fabrics grid control planes over wide areas in cases involving issues in terms of consistency, reliability, traceability, positive organizational identification, temporal transaction fidelity, event, alert predictability, data analytics, network forensics real rime bidding, stock market exchange floor server co-location verses servers distantly located, fluctuations in interest rates, currency exchanges, double payment adjudication, fungible good trading stochastic harmonization, electrical power micro-grids, cloud computing, "big data"...
+
 3.5.4 METHOD 4. A systemic adaptive procedural template method using time stamping and signaling intrinsic to TCP/IP heartbeat, heartbeat sync delta snapshots, heartbeat </108> message signaling to enable adaptive organization change management using XML <ORG_ID> network service interface NSI templates updating self-organizing process templates i.e., directory service, reporting, map, network, system of systems effecting changes in directory structures database MIB i.e., network subnet joins, moves, splits drops, adds as alternatives to mergers, acquisitions effecting changes responsive to leader’s actions, decisions i.e., mission-aware networking, network centric operations improving agile, ad hoc organizational business operations course of actions selection by organizations improving action / reaction to change. Use cases: network moves, adds, joins, splits, drops used instead of merger, acquisition
+
 3.5.5 METHOD 5. A systemic adaptive procedural template method improving search engine methods using heartbeat, beacon signaling, <ORG_ID>, , <class_types>, Paul Revere, water drop in pond meme metric recalculations occurring at offsite connectors, conversion relay gateways where detection of trigger point function recalculations of state meta data set aggregations are used to detect threshold fluctuations by resource , , quantity, availability duration etc., further used to improve geo-spatial temporal descriptive mapping methods, changes in clusters of objects, entities, artifacts i.e., location, epoch time stamp geo-spatially, temporally, used to locate, search, then group into virtual collections using <data_tags> i.e., in spatial econometric, volumetric operations within network mesh fabrics triggering news-casting invitations to join equitably metered federated group arbitrage events, activities that are triggered by internet search operations improving collaboration, metrics and metering in for example, commodity, fungibles trading, resource pooling, crowd sourcing, economics. 
+
 3.5.6 Method 6: Physical linear – sequential “Paul Revere” meme used to represent TCP/IP internet “hops” that are abstractions ineligible for patent protection. Water drop in pond physical metaphor describes geospatial temporal intensity in omni-directional, circle, radius type situations. Naval sonar water drop in pond USPTO 13/573,002 meme explains geo-spatial temporal intensity metrics, meters using a physical metaphor. TCP/IP “ping” is an abstraction as are “packets”, “frames”, “hops”, “Satoshi’s” as data stores in a cryptocurrency “blockchain” (distributed database)
+
 3.5.7 METHOD 7. A systemic adaptive procedural template method used to improve handicapped / information alerts, events, methods reliant on heartbeat timing, signaling synchronization of state meta-data improved using Paul Revere, water drop in pond memes to create, calculate radius, intensity metrics viewed as geo-spatial, temporal intensity effects i.e., visual light bar tabs i.e., stock exchange candlestick charts, audible tone, vibration-tactile situational awareness alerts by correlating tone based messaging precedence XML where lower / higher precedence settings equate to lower / higher audible tones, tactile vibrations for deaf where fewer / greater number of light tabs lit correlates, corresponds to priority, precedence further used in alert triggers of threshold fluctuations displayed in appliqué overlay graphics as metrics, meters. Reference: Describes reuse of structured military messaging’s precedence system to support for example, processing of Named Data Networking distance, interest packets by numeric precedence. This method is effective among machine to machine (Internet of Things).
+
 3.5.8 METHOD 8. A systemic, adaptive procedural template method using heartbeat signaling, time stamp record keeping processes of state meta data described, typed by organizations, resources typed by Uniform Resource Name, further improved through use of Paul Revere, Water Drop in Pond memes to quantify, describe unused resources with unmet needs by performing recalculations of state meta-data snapshot artifacts occurring at offsite connector conversion gateways where micro-cycle reports from local, micro-cycle activities are signaled, relayed to higher echelon organizations monitoring macro-cycles who are interested in for example stock market "pools” where "output" is correlated and displayed onto appliqué views of aggregate sync delta changes in macro-micro economics recalculations, stocks, commodities, currencies, interest rates, electric micro-grids, currency (Terra) exchanges, spatial econometrics, contributory economics. Syntax code language parsed, processed during silicon chip generated time cycles forms all things internet, internet of money. 
+
 3.5.9 Method 9: Method / Claim describes the military’s network centric operations systems of systems method of collecting state meta data sync delta heartbeat snapshot data during operational micro-cycles that is then summed, aggregated, disseminated and displayed during macro-cycles as part of Network Enabled Operations NEO situation awareness system of systems engineering best practice over time 
+
 3.6	Outputs: State meta data collected from a current micro-cycle to the next and from many micro-cycles summed, aggregated to report during macro-cycle reporting periods are stored, collected in the off-site collector depicted by that corresponding workflow symbol. See detailed treatise on workflow, workflow symbols for example
 https://edrawsoft.com/flowchart-symbols.php
 
@@ -373,6 +419,7 @@ REACT JS Java script: facilitates building of stateful & reusable UI components 
 
 ROSETTA STONE SYNTAX LIBRARY LEXICON CODE GUIDE REGISTRY
 The Rosetta Stone is a rock stele, found in 1799, inscribed with a decree issued at Memphis, Egypt, in 196 BC on behalf of King Ptolemy V. The decree appears in three scripts: the upper text is Ancient Egyptian hieroglyphs, the middle portion is Demotic script, and the lowest is Ancient Greek. Because it presents essentially the same text in all three scripts (with some minor differences among them), the stone provided the key to the modern understanding of Egyptian hieroglyphs. It was the first Ancient Egyptian bilingual text recovered in modern times, and it aroused widespread public interest with its potential to decipher this previously untranslated hieroglyphic language. Lithographic copies and plaster casts began circulating among European museums and scholars.
+
 Rosetta Stone concept in context with this project: a common syntax library and ability to convert <tags> to YAML indents to binary XML to various other Message Text Formats MTF to enable universal signaling / telemetry among a system of systems is needed. Structured messaging will help accelerate the process of organizing syntax into categories and forming syntax from disparate systems into template libraries simply because numbers are universal – text and symbols less so. Structured military messaging involves identifying use cases as messages and message sets commonly used to accomplish tasks that are identified by number. Data elements or Field Form Identifiers Reference Numbers or FFIRNS and Field Unit Designators as three and four digit codes unambiguously identify the use of the data element in number forms. Three and four digit codes in turn refer to text descriptions referencing symbols in symbol libraries / databases.  Messages are processed, parsed in - out of distributed database.
 
 One of the DHS's top three goals is "A national common operating picture for critical infrastructure". A congressional directive states "nothing less than network centric homeland security akin to network centric warfare". This Interoperability challenge exists to this day to develop a common syntax library / Rosetta Stone among disparate systems to form an integrated, synchronized, situational awareness system of systems. Syntax / symbol source libraries that need a common reference format include:
@@ -459,18 +506,29 @@ US 7,571,430 Trimbell, et al. August 4, 2009 Adaptive dispatch table based on te
 
 PATENT FILING: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of tools, procedures, processes, algorithms)
 DESCRIPTION: USPTO 13/573,002: Signals, telemetry syntax symbol set framework / metrics, meters for the net, net of programmable $$$ / economy. Organize individuals into DAO Distributed Autonomous Organizations / Trade Federations for common goals i.e., equitable, sustainable economic system of systems engineering framework
+
 GERMAN ARMY RECOMMENDATION CIRCA 2003: using Battlefield Digitization, Net Centric Warfare, System of Systems Engineering best practice for OOTW Operations Other Than War - a German Army suggestion made in 2003 to support DATF Distributed Autonomous Trade Federations / DAOs for a world economic framework
+
 SWORDS TO PLOWSHARES DESCRIPTION: Adaptive Procedural Template forming / supporting a system of federated systems with a distributed signaling, telemetry (OPORD Annex K) framework derived from DARPA / Pentagon / NATO's Common Operational Picture COP-SIOP Single Integrated Operational Picture / system of systems engineering family of systems dating from the mid 1990's (swords to plowshares) / German Army suggestion to use COP - SIOP Battlefield Digitization Digital Dashboard procedures for OOTW Operations Other Than War circa 2003
+
 SCOTUS ALICE CORP VS CLS BANK: This project describes how the internet and derivatively the internet of money works and is compliant with the Supreme Court's Alice Corp Vs CLS Bank 2014 ruling "claims may not direct towards abstract ideas". All internet Web 3.0 and programmable money efforts are incorrect and are moving away from interoperability as each internet, internet of money theme variation sprouts and propagates more and more non-existent memes, metaphors.
+
 PATENT APPLICATION TYPE: Adaptive Procedural Template USPTO 13/573,002: Time-Space Meter / Syntax Lexicon Rosetta Stone, Checklist: adaptive procedural template in patent application terms does not capture attention so graphics are used as a picture representing a checklist of useful tools, procedures, processes, algorithms, ideas that a trade federation would agree to use to achieve, maintain their collective goals of the distributed federation. The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template checklist of useful tools, procedures, products, algorithms, econometrics, processes, metrics, meters, e.g., time - space, geo-spatial, temporal, cryptocurrency data storage into a "blockchain cube" with height, width, depth, volume, programmable money metrics, meters representing, describing a myriad of memes, metaphors within the cryptocurrency programmable money continuum.
+
 USPTO 13/573,002 METHOD: Code Eco sustainable incentives into programmable economic framework reusing / leveraging NATO systems of systems engineering best practice. Form federations of Distributed, Autonomous Organizations DAO communities, states, sovereign nations using an adaptive procedural template checklist promoting organization and synchronization among geo-spatially and temporally dispersed groups using a common syntax – symbol set lexicon. Federated groups activities are synchronized geo-spatially across time - space to achieve synergy, synchronicity of events orchestrated from micro to macro cycles from grassroots to capitals.
 1.	Reuse OPSCODE brevity codes mapped to message symbol sets enabling Artificial Intelligence / human interaction ( i.e., man — machine interface).
 2.	Apply lessons learned (bandwidth discipline, interoperability, OPTEMPO sync cycles... intrinsic to NATO SOP swords to plowshares following German military proposal use cases circa 2003.
-THESIS: All things internet, internet of programmable money are formed using:
+
+ THESIS: All things internet, internet of programmable money are formed using:
+
 1.	Time epochs created by oscillating quartz crystal based silicon chips
+
 2.	Syntax used / not used as programming instructions during epoch time cycles
+
 THESIS: All things internet, net of money blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Internet 3.0 and the new web will be based on the original structure described by Stanford University. There are no packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube. Transactions are unicast, multicast, or anycast (workflow). The afore mention terms are non-existent fabrication
+
 The above cited memes made up terms are non - compliant US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”, Note: Physical is the opposite of abstract considering SCOTUS Alice 2014 ruling and in light of the fact that NIST’s National Institute of Standards and Technology QRNB Quantum Random Number Beacon is based on light photonics.
+ 
 ABSTRACT / ABSTRACTION:
  
 1. existing in thought or as an idea but not having a physical or concrete existence. thought of apart from concrete realities, specific objects, an abstract idea
