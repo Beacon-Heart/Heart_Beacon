@@ -20,7 +20,7 @@ Trade federations form among local communities or among sovereign (First) nation
 
 1.3	Roles	
 
-For example, the baseball umpire meme is the rule observer / enforcer i.e., the cryptocurrency blockchain segregated witness observer. The baseball game statistician performs data analytics e.g., time series database maintainer, the base runner delivers (code syntax) instructions via 3 x 5 cards. Base running forms blocks on blockchain that is represented by the baseball diamond when stood up on its home plate corner in 3d embodies a cube that has length, width, depth height = volume, Little League Tournament board votes on most valuable player in voting functions. The Little League tournament Baseball meme roles comply with SC Alice Corp V CLS Bank rule, 
+The baseball umpire meme is the rule observer / enforcer i.e., the cryptocurrency blockchain segregated witness observer. The baseball game statistician performs data analytics e.g., time series database maintainer, the base runner delivers (code syntax) instructions via 3 x 5 cards. Base running forms blocks on blockchain that is represented by the baseball diamond when stood up on its home plate corner in 3d embodies a cube that has length, width, depth height = volume, Little League Tournament board votes on most valuable player in voting functions. The Little League tournament Baseball meme roles comply with SC Alice Corp V CLS Bank rule, 
 
 1.4	Definitions and Acronyms	
 
