@@ -291,7 +291,14 @@ BITCOIN / CRYPTOCURRENCY PROGRAMMABLE MONEY: a.k.a. the “Internet of Money” 
 BLOCKCHAIN DISTRIBUTED LEDGER: provides a tamper-proof data structure, providing a shared public ledger open to all. The mathematics involved are impressive, and the use of specialized hardware to construct this vast chain of cryptographic data renders it practically impossible to replicate. All transactions are embedded in the bitcoin blockchain. Use of SHA-256 cryptography ensures the integrity of the blockchain applications – all transactions must be signed using a private key or seed, which prevents third parties from tampering with it. Transactions are confirmed by the network within 10 minutes or so and this process is handled by bitcoin miners. Mining is used to confirm transactions through a shared consensus system, and usually requires several independent confirmations for the transaction to go through. This process guarantees random distribution and makes tampering very difficult.
 
 BITNATION GOVERNANCE 2.0 LINK https://bitnation.co/
-BITNATION provides the same services traditional governments provides, from dispute resolution and insurance to security and much more – but in a geographically unbound, decentralized, and voluntary way. BITNATION is powered by Bitcoin 2.0 blockchain technology – a cryptographically secured public ledger distributed amongst all of its users. As we like to say – BITNATION: Blockchains, Not Borders.
+
+ BITNATION provides the same services traditional governments provides, from dispute resolution and insurance to security and much more – but in a geographically unbound, decentralized, and voluntary way. BITNATION is powered by Bitcoin 2.0 blockchain technology – a cryptographically secured public ledger distributed amongst all of its users. As we like to say – BITNATION: Blockchains, Not Borders.
+ 
+BLOCKCHAIN: SCOTUS 2014 Alice in Wonderland Alice Corp Vs CLS Bank ruling "claims may not direct towards abstract ideas"
+
+MIT panel: "#blockchain not yet a clear design choice for CBDC Central Bank Digital Currencies". "blockchain" = non-existent meme / metaphor / notional construct. Internet = unicast / anycast publish - subscribe / multicast - broadcast & workflow + distributed Dbase: #blockchain
+
+https://www.theblockcrypto.com/post/58067/during-mit-panel-experts-say-blockchain-is-not-yet-a-clear-design-choice-for-central-bank-digital-currencies
 
 BUCKMINSTER FULLER’s SPACE-SHIP EARTH: Operating Manual for Spaceship Earth relates Earth to a spaceship flying through space. The spaceship has a finite amount of resources and cannot be resupplied. Buckminster Fuller Institute LINK  BFI dot Org https://en.wikipedia.org/wiki/Operating_Manual_for_Spaceship_Earth
 
