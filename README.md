@@ -1,5 +1,7 @@
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is an Adaptive Procedural Template Framework checklist of ideas, algorithms, processes, procedures, standards with the goal of establishing consistent Eco sustainable economic epochs used to program programmable money and the programmable economy. Distributed Trade Federation operations supported by a system of systems engineering framework representing DoD / NATO best practice over the past three decades. 
 
+BACKGROUND: Given food, fertilizer shortages, energy, fuel prices & looming fuel rationing, we must organize micro (local - parallel) macro (global) economies observing space - time SLA Service Level Agreements where closer = cheaper given closer = less fuel 
+
 The Heart Beacon Cycle Time – Space Meter is a reuse with improvements to the military’s signal, telemetry syntax symbol set framework. Its purpose is to establish universal metrics, meters, organize individuals into DAO Distributed Autonomous Organizations / Trade Federations for common goals such as Eco sustainable SLA Service Level Agreements where closer = cheaper given closer = less fuel, carbon emissions. 
 
 USPTO 13/573,002 Goal: to improve geo-spatial temporal, syntactic - semantic consistency, interoperability among myriad programmable cryptocurrency blockchain money, programmable economy memes
