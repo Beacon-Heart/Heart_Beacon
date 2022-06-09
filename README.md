@@ -642,6 +642,37 @@ Law of Time dot org: 13 MOONS OF PEACE Math:The 13 Moon calendar is a solar-gala
 "One people, one Earth, one Time": "The times we are living in require higher thinking. There has never in the history of the Earth been a time like this. We are now participating in what is called the biosphere-noosphere transition. "Only by lifting our minds to planetary consciousness and beyond can we realize solutions to the multiple challenges facing our planet today. With a new consciousness we can effectively educate and mobilize humanity to an unprecedented level of creative problem solving and realize a positive future." Source: http://lawoftime.org
 
 SPACE / TELEPATHY / A.I., ARTIFICIAL INTELLIENGE: Reuse of DARPA - NATO's structured data exchange that maps data element OPSCODES to symbol sets is key to Artificial Intelligence #AI man - machine interface, consensus, consistency among myriad #blockchain programmable #money memes, metaphors... Given space travel risks, navigation based on consciousness / telepathy (use of symbols not words), a consistent syntax lexicon to communicate with #UFO EBO's that are likely Artificial Intelligence AI drones is reuse of DARPA - NATO's structured data exchange that maps data element OPSCODES to symbol sets. Trade with E.T. / EBO’s (will) requires a consistent syntax ,symbol set lexicon library where OPSCODE brevity codes are mapped to symbol sets representing tokenized (crop) commodities 
+ 
+ Corporations and now countries: Nigeria / Algorand / Developing Africa Group UK are establishing federations - coalitions to express IP Intellectual Property rights and therefore claims that their #IP establishes FOUNDATION (framework) technology in preparation for the rapidly approaching programmable $$$ wars
+
+THESIS: Internet programmable money is dependent and derivative of internet foundation technology, processes, procedures 
+
+#supremecourt #technology #quality #money #africa 
+
+THESIS: All things internet, internet of programmable money are formed using:
+
+1.    Time epochs created by oscillating quartz crystal silicon chips
+
+2.    Syntax used / not used as programming instructions during epoch time cycles
+
+THESIS: All things internet, net of money blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Internet 3.0 and the new web will be based on the original structure described by Stanford University. There are no packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube. Transactions are unicast, multicast, or anycast (workflow). The afore mention terms are non-existent fabrication. 
+
+The above cited memes made up terms are non - compliant US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”, Note: Physical is the opposite of abstract considering SCOTUS Alice 2014 ruling and in light of the fact that NIST’s National Institute of Standards and Technology QRNB Quantum Random Number Beacon is based on light photonics.
+
+ABSTRACT / ABSTRACTION:
+
+1. existing in thought or as an idea but not having a physical or concrete existence. thought of apart from concrete realities, specific objects, an abstract idea
+
+2.expressing a quality or characteristic apart from any specific object or instance
+
+3. theoretical; not applied or practical: abstract science.
+
+4, difficult to understand; abstruse:
+
+EXAMPLE: Nigeria to Launch Major Crypto Initiative, IP Exchange Marketplace and Wallet, on Algorand in Partnership with Developing Africa Group and Koibanx
+
+YAHOO FINANCE: https://finance.yahoo.com/news/nigeria-launch-major-crypto-initiative-233000248.html
+#IP#intellectual property#Cryptocurrency#crypto economy#cash#money
 
 The Heart Beacon Sculpture, Portland Oregon USA: LINK https://codaworx.com/project/heart-beacon-city-of-portland
 
