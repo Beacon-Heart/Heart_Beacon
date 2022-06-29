@@ -2,7 +2,7 @@ USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is an Adaptive Proced
 
 USPTO 13/573,002 Adaptive Procedural Template supports Distributed Trade Federation / Organizations with DoD / NATO best practice system of systems engineering signaling, telemetry framework and syntax OPSCODE brevity codes matched with 2525C symbol sets needed for A.I. man-machine interface, interoperability, consistency.
 
-BACKGROUND: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” ― Milton Friedman
+Nobel Prize Winning Economist Milton Friedman:  “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” ― Milton Friedman
 
 BACKGROUND: Given food, fertilizer shortages (wheat, sunflower, soybean... baby formula...), energy, fuel prices and looming fuel rationing, it logically follows that the world has no other options than to organize both micro (local) and macro (global) economies observing space - time conservative SLA Service Level Agreements where closer = cheaper given closer = less fuel, time resources used to produce, ship.. Demurrage fees incentivize conservation of resources, commodities i.e., discounts for locally produced, consumed goods and commodities. It is TIME. 
 
