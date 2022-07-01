@@ -455,6 +455,12 @@ OpenTelemetry:
 - Logs: A log is a timestamped text record, either structured (recommended) or unstructured, with metadata.
 
 - Baggage: Baggage refers to contextual information that’s passed between spans
+ 
+DISTRIBUTED TRACING
+
+Log is a timestamped message emitted by services or other components. Unlike Traces, however, they are not necessarily associated with any particular user request or transaction. Sample Log: I, [2021-02-23T13:26:23.505892 #22473]  INFO -- : [6459ffe1-ea53-4044-aaa3-bf902868f730] Started GET "/" for ::1 at 2021-02-23 13:26:23 -0800
+
+Spans: represents a unit of work or operation. It tracks specific operations that a request makes, painting a picture of what happened during the time in which that operation was executed. A Span contains name, time-related data, structured log messages, and other metadata (i.e. Attributes) to provide information about the operation it tracks.
 
 Structured Military Message Text Format USMTF / XML MTF FORMATTED MESSAGE CATALOG includes, and describes in detail 300 + messages info exchange requirements using common, Message Text Formats MTFs. MTFs specify <CONTENT> / information agreed by group consensus presenting information in a logical, well specified and unambiguous layout resulting in a highly efficient information payload to overhead ratio. Thinking of the world’s language, symbol and syntax differences along with coder’s proclivity to design a different data </tag> {“tag”} convention with each new programming language, the use of NUMBERS as a universal method to unambiguously, consistently describe data transaction parameters is logical. See FIGURE 5: Code Syntax Lexicon, Message Template Library 
 See FIGURE 6: Structured Military Messaging / Data Rosetta Stone
