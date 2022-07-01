@@ -443,6 +443,18 @@ One of the DHS's top three goals is "A national common operating picture for cri
 - GITHUB code, syntax library, Java Script OS (“tag”} convention..
 
 RANDOM NUMBER BEACON NIST:  uses two independent commercially available sources of randomness, each with an independent hardware entropy source and SP 800-90-approved components. The Beacon is designed to provide unpredictability, autonomy, and consistency. Unpredictability means that users cannot algorithmically predict bits before they are made available by the source. Autonomy means that the source is resistant to attempts by outside parties to alter the distribution of the random bits. Consistency means that a set of users can access the source all receiving the same random string. The Beacon broadcasts full-entropy bit-strings in blocks of 512 bits every 60 seconds. Each value is time-stamped and signed and includes the hash of the previous value to chain the sequence of values together. This prevents all, even the source, from retroactively changing an output packet without being detected. The beacon keeps all output packets and makes them available online. http://nist.gov/itl/csd/ct/nist_beacon.cfm
+ 
+OpenTelemetry: 
+ 
+ - Signal refers to the categories of telemetry that are supported by the specification. It currently supports the Signals below, and more may be added in the future.
+
+- Traces: Traces give us the big picture of what happens when a request is made by user or an application.
+
+- Metrics: A metric is a measurement about a service, captured at runtime.
+
+- Logs: A log is a timestamped text record, either structured (recommended) or unstructured, with metadata.
+
+- Baggage: Baggage refers to contextual information that’s passed between spans
 
 Structured Military Message Text Format USMTF / XML MTF FORMATTED MESSAGE CATALOG includes, and describes in detail 300 + messages info exchange requirements using common, Message Text Formats MTFs. MTFs specify <CONTENT> / information agreed by group consensus presenting information in a logical, well specified and unambiguous layout resulting in a highly efficient information payload to overhead ratio. Thinking of the world’s language, symbol and syntax differences along with coder’s proclivity to design a different data </tag> {“tag”} convention with each new programming language, the use of NUMBERS as a universal method to unambiguously, consistently describe data transaction parameters is logical. See FIGURE 5: Code Syntax Lexicon, Message Template Library 
 See FIGURE 6: Structured Military Messaging / Data Rosetta Stone
