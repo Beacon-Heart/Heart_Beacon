@@ -429,6 +429,14 @@ OPERAND PROGRAMMABLE MONEY: Operand - “In mathematics, an operand is the objec
 
 In Operand, the transactional unit carries the execution methods and parameters that apply to the units of currency involved for that transaction. Operand is programmable money that brings the utility of everyday banking features to the unbanked and underbanked and empowers their adoption through the automata of the Operand protocol. Operand is a currency that functions as a seamless and embedded economic layer on the web that serves as the technological underlay for payments, decentralized exchange, digital asset invocation and transfer, and smart contract issuance and execution. By embedding the instruction set of the transaction into the transaction metadata, the blockchain itself serves as the interpreter for programmed transactions. Operand creates utilities such as direct debit payments or even standing orders. Operand is trustless and non-retractable whilst being fully accountable and transparent on the public ledger. The programmable aspect enables further security on every transaction as the clients must reach network consensus on the method of execution. Smart contracts can then be forged on all aspects of exchange. 
 LINK Page: http://operand.money
+ 
+OpenTelemetry OTEL: One standard from OpenCensus / OpenTracing merged to form OpenTelemetry (OTel for short) in May 2019. OTel’s goal is to provide a set of standardized vendor-agnostic SDKs, APIs, and tools for ingesting, transforming, and sending data to an Observability back-end (i.e. open-source or commercial vendor).
+OTel OpenTelemetry: A single, vendor-agnostic instrumentation library per language with support for both automatic and manual instrumentation.
+•	A single vendor-neutral collector binary that can be deployed in a variety of ways.
+•	An end-to-end implementation to generate, emit, collect, process, export telemetry data.
+•	Full control of data with the ability to send data to multiple destinations in parallel
+•	Open-standard semantic conventions to ensure vendor-agnostic data collection
+•	The ability to support multiple context propagation formats in parallel 
 
 REACT JS Java script: facilitates building of stateful & reusable UI components uses a concept called the Virtual DOM Document Object Model that selectively renders subtrees of nodes based upon state changes LINK
 
