@@ -1,4 +1,4 @@
-USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is an Adaptive Procedural Template Framework checklist of ideas, algorithms, processes, procedures, standards to establish consistent Eco sustainable economic time cycle epochs for program programmable money / programmable economy. 
+USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is an Adaptive Procedural Template Framework checklist of ideas, algorithms, processes, procedures, metric, meters, signal & telemetry standards to establish consistent Eco sustainable economic time cycle epochs for program programmable money / programmable economy. 
 
 USPTO 13/573,002 Adaptive Procedural Template supports Distributed Trade Federation / Organizations with DoD / NATO system of systems engineering signaling, telemetry framework and syntax OPSCODE brevity codes matched with 2525C symbol sets vital for A.I. man-machine interface, interoperability, consistency and DAO consensus
 
