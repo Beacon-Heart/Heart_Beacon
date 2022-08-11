@@ -4,7 +4,17 @@ Adaptive Procedural Template supports Distributed Trade Federation / Organizatio
 
 Nobel Prize Winning Economist Milton Friedman:  “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” ― Milton Friedman
 
-BACKGROUND: Given food, fertilizer shortages (wheat, sunflower, soybean... baby formula...), energy, fuel prices and looming fuel rationing, it logically follows that the world has no other options than to organize both micro (local) and macro (global) economies observing space - time conservative SLA Service Level Agreements where closer = cheaper given closer = less fuel, time resources used to produce, ship.. Demurrage fees incentivize conservation of resources, commodities i.e., discounts for locally produced, consumed goods and commodities. It is TIME. 
+BACKGROUND: Given food, fertilizer shortages (wheat, sunflower, soybean... baby formula...), energy, fuel prices and looming fuel rationing, it logically follows that the world has no other options than to organize both micro (local) and macro (global) economies observing space - time conservative SLA Service Level Agreements where closer = cheaper given closer = less fuel, time resources used to produce, ship.. Demurrage fees incentivize conservation of resources, commodities i.e., discounts for locally produced, consumed goods and commodities. It is TIME.
+
+THESIS: All things internet, internet of programmable money are formed using:
+
+1.    Time epochs created by oscillating quartz crystal silicon chips
+
+2.    Syntax used / not used as programming instructions during epoch time cycles
+
+THESIS SUMMARY: All things internet, net of money blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Internet 3.0 and the new web will be based on the original structure described by Stanford University. There are no packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube. Transactions are unicast, multicast, or anycast (workflow). The afore mention terms are non-existent fabrication. 
+
+The above cited memes made up terms are non - compliant US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”, Note: Physical is the opposite of abstract considering SCOTUS Alice 2014 ruling and in light of the fact that NIST’s National Institute of Standards and Technology QRNB Quantum Random Number Beacon is based on light photonics.
 
 The Heart Beacon Cycle Time – Space Meter is a reuse with improvements to the military’s signal, telemetry syntax symbol set framework. Its purpose is to establish universal metrics, meters, organize individuals into DAO Distributed Autonomous Organizations / Trade Federations for common goals such as Eco sustainable SLA Service Level Agreements where closer = cheaper given closer = less fuel, carbon emissions. 
 
@@ -724,6 +734,8 @@ Quantum Computing / Quantum Financial System QFS for the 99 % / NEXGEN Foundatio
 We Heart It: https://weheartit.com/steven_mcgee_1/collections
  
 GETTR: https://gettr.com/user/heart_beacon
+
+Maven: https://app.maven.co/profile/SHfEKnA9
 
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
