@@ -6,6 +6,12 @@ Nobel Prize Winning Economist Milton Friedman:  “Only a crisis - actual or per
 
 BACKGROUND: Given food, fertilizer shortages (wheat, sunflower, soybean... baby formula...), energy, fuel prices and looming fuel rationing, it logically follows that the world has no other options than to organize both micro (local) and macro (global) economies observing space - time conservative SLA Service Level Agreements where closer = cheaper given closer = less fuel, time resources used to produce, ship.. Demurrage fees incentivize conservation of resources, commodities i.e., discounts for locally produced, consumed goods and commodities. It is TIME.
 
+Question: what constitutes foundation tech for #DeFi / programmable $$$ ?
+
+Teams are forming to win the Mother of all DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established FOUNDATION TECHNOLOGY.
+
+Question: How is foundation tech described through the lens of SCOTUS 2014 "Alice in Wonderland" ruling?
+
 THESIS: All things internet, internet of programmable money are formed using:
 
 1.    Time epochs created by oscillating quartz crystal silicon chips
