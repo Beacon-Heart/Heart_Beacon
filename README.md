@@ -4,9 +4,9 @@ BACKGROUND: Nobel Prize Winning Economist Milton Friedman:  “Only a crisis - a
 
 BACKGROUND: Given food, fertilizer shortages (wheat, sunflower, soybean... baby formula...), energy, fuel prices and looming fuel rationing, it logically follows that the world has no other options than to organize both micro (local) and macro (global) economies observing space - time conservative SLA Service Level Agreements where closer = cheaper given closer = less fuel, time resources used to produce, ship.. Demurrage fees incentivize conservation of resources, commodities i.e., discounts for locally produced, consumed goods and commodities. It is TIME.
 
-BACKGROUND: @26:37 "we are entering a system called Bretton Woods Three: a system dominated by #COMMODITIES" statement by former Federal Reserve Board member 
+BACKGROUND: @26:37 "we are entering a system called Bretton Woods Three: a system dominated by #COMMODITIES" statement by former Federal Reserve Board member Youtube: https://lnkd.in/eN4vGP58 #commodities #gold #currency #reset #CBDCs
 
-The economy of imaginary wealth is being inevitably replaced by the economy of real and hard assets''. Vladamir Putin https://lnkd.in/eN4vGP58 #commodities #gold #currency #reset #CBDCs
+The economy of imaginary wealth is being inevitably replaced by the economy of real and hard assets''. Vladamir Putin 
 
 "Focus all your energy on building the new, not fighting the old" Socrates / "Build a new model that makes the old model obsolete" RBF Richard Buckminster Fuller 
 
