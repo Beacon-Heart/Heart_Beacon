@@ -235,6 +235,9 @@ https://edrawsoft.com/flowchart-symbols.php
 
  
 Figure 3: USPTO 13/573,002 Syntax Lexicon Library of Templates / Message Sets
+
+ISO 20022 is a multi part International Standard prepared by ISO Technical Committee TC68 Financial Services. It describes a common platform for the development of messages in ASN.1 Abstract Syntax Notation: A single standardisation approach (methodology, process, repository) to be used by all financial standards initiatives ISO 20022: https://www.iso20022.org/about-iso-20022
+
 APPENDIX A USE CASES:
 
 1. Eco sustainable Economic Heartbeat / Programmable Economy Namespace
