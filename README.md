@@ -232,7 +232,6 @@ https://edrawsoft.com/flowchart-symbols.php
 3.10	Records Control Table ELECTRONIC RECORDS MANAGEMENT
 
 3.11	Controlled Documents Table ELECTRONIC RECORDS MANAGEMENT
-
  
 Figure 3: USPTO 13/573,002 Syntax Lexicon Library of Templates / Message Sets
 
@@ -340,7 +339,8 @@ Ceilometer REST API allows executing various reading requests on the data store.
 
 CHAMBER OF DIGITAL COMMERCE is the world’s leading trade association representing the digital asset and blockchain industry. Our mission is to promote the acceptance and use of digital assets and blockchain-based technologies. Through education, advocacy, and working closely with policymakers, regulatory agencies and industry, our goal is to develop a pro-growth legal environment that fosters innovation, jobs and investment. LINK http://www.digitalchamber.org
 
-CODE FOR AMERICA Code for America partners with city, county, and state governments to redesign public services in three key areas that have high impact for communities. Together, we turn challenges into opportunities to not only serve communities better but transform how governments think about technology. LINK
+CODE FOR AMERICA Code for America partners with city, county, and state governments to redesign public services in three key areas that have high impact for communities. Together, we turn challenges into opportunities to not only serve communities better but transform how governments think about technology. 
+ 
 COUNT MINIMUM SKETCH ALGORITHM: streaming algorithm Find a randomized streaming algorithm whose output (as a random variable) has the desired expectation but usually high variance (i.e., noise). To reduce the variance/noise, run many independent copies in parallel and combine their outputs. Count sketch is a probabilistic data structure designed to answer the following question: Reading a stream of elements a1, a2, a3, ..., where many elements are replicas in a given time it will provide an answer to question: how many original elements have been seen Count minimum sketch is a probabilistic data structures sacrificing certainty for space. Count minimum sketch selects 2 parameters: accuracy of the results ε and probability of bad estimate δ.
 
 DASH: Unlike Bitcoin nodes, Master nodes receive payments for their service to the network – similar to demurrage charges in the Trade Reference Currency TERRA TRC. Dash includes decentralized funding, decentralized governance, decentralized storage. Dash's governance system, visit https://dash.org. Dash features: - InstantX:
@@ -375,6 +375,9 @@ FIREFLY-HEARTBEAT ALGORITHM UNIVERSITY of BOLOGNA / HUNGARY: Firefly inspired He
 Firefly heartbeat synchronization reduces uncertainty in stochastic networks.
 Paper: Firefly-inspired Heartbeat Synchronization in Overlay Networks.Ozalp Babaoglu. 
 Univ. Bologna, Italy http://cs.unibo.it/~babaoglu/papers/pdf/SASO07-fireflies.pdf
+ 
+Firefly Algorithm: The firefly algorithm (FA) is a nature-inspired metaheuristic optimization algorithm developed by Xin-She Yang that is inspired by the flashing behavior of fireflies (Yang, 2008), originally designed to solve continuous optimization problems (Lukasik and Żak, 2010 a major part of an edited book was also dedicated to the firefly algorithm and its applications (Yang, 2013a). For example, Senthilnath et al. provided an extensive performance study by comparing the firefly algorithm with 11 different algorithms and concluded that FA can be used for efficient clustering (Senthilnath et al., 2011);
+From: Swarm Intelligence and Bio-Inspired Computation, 2013 https://www.sciencedirect.com/topics/engineering/firefly-algorithm
 
 GAMIFICATION: application of typical elements of game playing (e.g., point scoring, competition with others, rules of play) to other areas of activity, typically as an online marketing technique to encourage engagement with a product or service
 
