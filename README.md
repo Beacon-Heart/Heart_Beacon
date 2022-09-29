@@ -1,3 +1,8 @@
+"Build a new model that makes the old model obsolete" RBF
+"Focus your energy in building the new, not fighting the old" Socrates
+
+Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology http://github.com/Beacon-Heart
+
 The Heart Beacon Cycle Time - Space Meter is an Adaptive Procedural Template Framework checklist of ideas, algorithms, processes, procedures, metric, meters, signal & telemetry standards to establish consistent Eco sustainable economic time cycle epochs for programmable money / programmable economy conducted among Distributed Autonomous Organizations participating in distributed trade federations on the (technically non-existent) crypto currency blockchain / hash-graph etc.. USPTO 13/573,002 is an Adaptive Procedural Template supports Distributed Trade Federation / Organizations with DoD / NATO system of systems engineering signaling, telemetry framework and syntax OPSCODE brevity codes matched with 2525C symbol sets vital for A.I. man-machine interface, interoperability, consistency and consensus
 
 BACKGROUND: Nobel Prize Winning Economist Milton Friedman:  “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” ― Milton Friedman
