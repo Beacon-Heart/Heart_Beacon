@@ -1,6 +1,6 @@
 "Build a new model that makes the old model obsolete" RBF Richard Buckminster Fuller 
 
-"Focus your energy in building the new, not fighting the old" Socrates
+"Focus all of your energy in building the new, not fighting the old" Socrates
 
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money / Web 3.0 SOURCE: http://github.com/Beacon-Heart
 
