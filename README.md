@@ -91,7 +91,11 @@ Fig 3: Nobel Prize winning Economist Milton Friedman “only a crisis brings cha
 
 BACKGROUND: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money / Web 3.0 SOURCE: http://github.com/Beacon-Heart
 
-The Heart Beacon Cycle Time - Space Meter is an Adaptive Procedural Template Framework checklist of ideas, algorithms, processes, procedures, metric, meters, signal & telemetry standards to establish consistent Eco sustainable economic time cycle epochs for programmable money / programmable economy conducted among Distributed Autonomous Organizations participating in distributed trade federations on the (technically non-existent) crypto currency blockchain / hash-graph etc.. 
+The Heart Beacon Cycle Time - Space Meter is an Adaptive Procedural Template Framework checklist of ideas, algorithms, processes, procedures, metric, meters, signal & telemetry standards to establish consistent Eco sustainable economic time cycle epochs for programmable money / programmable economy conducted among Distributed Autonomous Organizations participating in distributed trade federations on the (technically non-existent) crypto currency blockchain / hash-graph etc.
+
+Economic RESET is a mathematical certainty. Do we RESET the global system of systems as is or do we re-engineer our world using NATO / DOD system of systems engineering framework standing on the shoulders of giants (Edison, Lietaer, Friedman) swords to plowshares? 
+
+IF climate change causes a drop in crop commodities by 20–25 % while population grows, THEN this condition will become a matter of national security. THEN this will require revisiting Belgian Economist Bernard Lietaer’s TRC Trade Reference Currency ELSE face chaos by not leveraging proven system of systems & tactics. 
 
 USPTO 13/573,002 is an Adaptive Procedural Template supports Distributed Trade Federation / Organizations with DoD / NATO system of systems engineering signaling, telemetry framework and syntax OPSCODE brevity codes matched with 2525C symbol sets vital for A.I. man-machine interface, interoperability, consistency and consensus
 
