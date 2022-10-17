@@ -3,91 +3,6 @@ TITLE: Adaptive Procedural Template
 Use Cases for OOTW Operations Other Than War
 Control Number:  13/573,002 Art Unit: 2468
  
-
-ADAPTIVE PROCEDURAL TEMPLATE SAMPLE TABLE OF CONTENTS
-
-1.	Introduction	3
-
-1.1	Purpose	3
-
-1.2	Scope	3
-
-1.3	Roles	3
-
-1.4	Definitions and Acronyms	3
-
-1.5	References	3
-
-1.5.1	Traceability	3
-
-1.5.2	Policies	3
-
-1.5.3	Standards	4
-
-1.5.4	Processes	4
-
-1.5.5	Procedures	4
-
-1.5.6	Guidelines	4
-
-1.5.7	Templates	4
-
-1.5.8	Checklists	4
-
-1.5.9	Systems of Systems Engineering framework	4
-
-1.5.10 Tools	4
-
-1.6	Profiles	4
-
-2.	Procedure (Steps)	5
-
-2.1	Begin a list of steps beginning at the number one	5
-
-2.2	Begin a list of steps that restart at the number one	5
-
-3.	Process/Procedure (Mapping)	6
-
-3.1	Entry Criteria			6
-
-3.2	Process/Procedure Map	6
-
-3.3	Inputs	6
-
-3.4	Activities	6
-
-3.5	Outputs	7
-
-3.6	Verification and Validation	7
-
-3.7	Exit Criteria	7
-
-3.8	Metrics	8
-
-3.9	Records Control Table	8
-
-3.10	Controlled Documents Table	8
-
-APPENDIXES
-
-APPENDIX A: USE CASES
-
-APPENDIX B: CLAIMS
-
-APPENDIX C: PRIOR ART, TERMS, DEFINITIONS
-
-APPENDIX E: REFERENCES
-
-APPENDIX F: BRIEF DESCRIPTION OF GRAPHICS
-
-APPENDIX G: GRAPHICS
- 
-Figure 1: All things internet, net of money formed by 1) epoch time intervals 2) syntax
-
-Figure 2: Adaptive Procedural Template Checklist derived from Battlefield Digitization, Network Centric Warfare, Network Enabled Operations NEO
- 
-Fig 3: Nobel Prize winning Economist Milton Friedman “only a crisis brings change” 
- 
 "Build a new model that makes the old model obsolete" RBF Richard Buckminster Fuller"Focus all of your energy in building the new, not fighting the old" Socrates
 
 BACKGROUND: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money / Web 3.0 SOURCE: http://github.com/Beacon-Heart
@@ -1034,6 +949,90 @@ SPACE / TELEPATHY / A.I., ARTIFICIAL INTELLIENGE: Reuse of DARPA - NATO's struct
              
 The Heart Beacon Sculpture, Portland Oregon USA: 
 LINK https://codaworx.com/project/heart-beacon-city-of-portland
+ 
+ ADAPTIVE PROCEDURAL TEMPLATE SAMPLE TABLE OF CONTENTS
+
+1.	Introduction	3
+
+1.1	Purpose	3
+
+1.2	Scope	3
+
+1.3	Roles	3
+
+1.4	Definitions and Acronyms	3
+
+1.5	References	3
+
+1.5.1	Traceability	3
+
+1.5.2	Policies	3
+
+1.5.3	Standards	4
+
+1.5.4	Processes	4
+
+1.5.5	Procedures	4
+
+1.5.6	Guidelines	4
+
+1.5.7	Templates	4
+
+1.5.8	Checklists	4
+
+1.5.9	Systems of Systems Engineering framework	4
+
+1.5.10 Tools	4
+
+1.6	Profiles	4
+
+2.	Procedure (Steps)	5
+
+2.1	Begin a list of steps beginning at the number one	5
+
+2.2	Begin a list of steps that restart at the number one	5
+
+3.	Process/Procedure (Mapping)	6
+
+3.1	Entry Criteria			6
+
+3.2	Process/Procedure Map	6
+
+3.3	Inputs	6
+
+3.4	Activities	6
+
+3.5	Outputs	7
+
+3.6	Verification and Validation	7
+
+3.7	Exit Criteria	7
+
+3.8	Metrics	8
+
+3.9	Records Control Table	8
+
+3.10	Controlled Documents Table	8
+
+APPENDIXES
+
+APPENDIX A: USE CASES
+
+APPENDIX B: CLAIMS
+
+APPENDIX C: PRIOR ART, TERMS, DEFINITIONS
+
+APPENDIX E: REFERENCES
+
+APPENDIX F: BRIEF DESCRIPTION OF GRAPHICS
+
+APPENDIX G: GRAPHICS
+ 
+Figure 1: All things internet, net of money formed by 1) epoch time intervals 2) syntax
+
+Figure 2: Adaptive Procedural Template Checklist derived from Battlefield Digitization, Network Centric Warfare, Network Enabled Operations NEO
+ 
+Fig 3: Nobel Prize winning Economist Milton Friedman “only a crisis brings change” 
  
 APPENDIX E: REFERENCES / SOCIAL MEDIA LINKS
 
