@@ -3,7 +3,8 @@ TITLE: Adaptive Procedural Template
 Use Cases for OOTW Operations Other Than War
 Control Number:  13/573,002 Art Unit: 2468
  
-ADAPTIVE PROCEDURAL TEMPLATE SAMPLE TABLE OF CONTENTS 
+
+ADAPTIVE PROCEDURAL TEMPLATE SAMPLE TABLE OF CONTENTS
 
 1.	Introduction	3
 
