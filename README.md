@@ -1,9 +1,14 @@
 USPTO 13/573,002 ECO SUSTAINABLE ECONOMIC HEARTBEAT
+
 TITLE: Adaptive Procedural Template 
+
 Use Cases for OOTW Operations Other Than War
+
 Control Number:  13/573,002 Art Unit: 2468
  
-"Build a new model that makes the old model obsolete" RBF Richard Buckminster Fuller"Focus all of your energy in building the new, not fighting the old" Socrates
+"Build a new model that makes the old model obsolete" RBF Richard Buckminster Fuller
+
+"Focus all of your energy in building the new, not fighting the old" Socrates
 
 BACKGROUND: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money
 
