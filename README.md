@@ -1,12 +1,11 @@
-USPTO 13/573,002 ECO SUSTAINABLE ECONOMIC HEARTBEAT
+TITLE: USPTO 13/573,002 ECO SUSTAINABLE ECONOMIC HEARTBEAT
 
-TITLE: Adaptive Procedural Template 
+Patent application type: Adaptive Procedural Template 
 
-Use Cases for OOTW Operations Other Than War
+OOTW Operations Other Than War Use Cases
 
 Control Number:  13/573,002 Art Unit: 2468
 
- 
 "Build a new model that makes the old model obsolete" RBF Richard Buckminster Fuller
 
 "Focus all of your energy in building the new, not fighting the old" Socrates
