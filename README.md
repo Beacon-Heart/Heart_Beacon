@@ -1,4 +1,4 @@
-TITLE: USPTO 13/573,002 ECO SUSTAINABLE ECONOMIC HEARTBEAT
+TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustainable Economic Epoch Heartbeat
 
 Patent application type: Adaptive Procedural Template 
 
