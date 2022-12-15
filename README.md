@@ -956,6 +956,8 @@ SPACE / TELEPATHY / A.I., ARTIFICIAL INTELLIENGE: Reuse of DARPA - NATO's struct
 The Heart Beacon Sculpture, Portland Oregon USA: 
 LINK https://codaworx.com/project/heart-beacon-city-of-portland
  
+Eco Economic Epochs.dao Web 3 IPFS Interplanetary File System distributed web page place holder hello world https://ipfs.io/ipfs/QmfG3yR9W41yafA6QVFps99Wf1s4fEJfAovS5KfxAnDnBn
+ 
  ADAPTIVE PROCEDURAL TEMPLATE SAMPLE TABLE OF CONTENTS
 
 1.	Introduction	3
