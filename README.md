@@ -1103,6 +1103,8 @@ IPFS Interplanetary File System:  https://ipfs.io/ipfs/QmT3NEZfkgohiTFon5CVECpbF
 FLOTE: https://flote.app/Heart_Beacon
 
 Parler: https://parler.com/user/Ecoeconomicepochs
+ 
+Web 3 IPFS Interplanetary File System distributed web page hello world https://ipfs.io/ipfs/QmdAAWDC74gk8qhskRytiLMFHKHKbBsCsQd2mRqKV2ZeqA/
 
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
 
