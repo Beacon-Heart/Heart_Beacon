@@ -1098,13 +1098,11 @@ Proton Email (secure) ecoeconomicepochs@protonmail.com
 
 EIN Earth Intelligence Network: Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
 
-IPFS Interplanetary File System:  https://ipfs.io/ipfs/QmT3NEZfkgohiTFon5CVECpbFAhWcBhaWXUWcrgRfEC6LH?filename=Eco_Economic_Heartbeat_paper.docx
-
 FLOTE: https://flote.app/Heart_Beacon
 
 Parler: https://parler.com/user/Ecoeconomicepochs
  
-Web 3 IPFS Interplanetary File System distributed web page hello world https://ipfs.io/ipfs/QmdAAWDC74gk8qhskRytiLMFHKHKbBsCsQd2mRqKV2ZeqA/
+Web 3 IPFS Interplanetary File System distributed web page hello world https://ecoeconomicepochs.dao
 
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
 
