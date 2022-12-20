@@ -956,8 +956,8 @@ SPACE / TELEPATHY / A.I., ARTIFICIAL INTELLIENGE: Reuse of DARPA - NATO's struct
 The Heart Beacon Sculpture, Portland Oregon USA: 
 LINK https://codaworx.com/project/heart-beacon-city-of-portland
  
-Eco Economic Epochs.dao Web 3 IPFS Interplanetary File System distributed web page place holder hello world https://ipfs.io/ipfs/QmfG3yR9W41yafA6QVFps99Wf1s4fEJfAovS5KfxAnDnBn
- 
+IPFS Interplanetary File System Web3 web page first effort to walk the walk. I am learning Web3 conventions for distributed web pages...Specific browsers (Brave / Chrome) with specific extensions (Brave, Metamask...) are needed to view:  ﻿#DAO﻿ ﻿#Web3﻿ ﻿#IPFS﻿ Web3 page: https://ecoeconomicepochs.dao/
+
  ADAPTIVE PROCEDURAL TEMPLATE SAMPLE TABLE OF CONTENTS
 
 1.	Introduction	3
