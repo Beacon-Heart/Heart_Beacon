@@ -2,7 +2,7 @@ TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustaina
 
 Patent application type: Adaptive Procedural Template 
 
-OOTW Operations Other Than War Use Cases
+OOTW Operations Other Than War Use Cases: System of systems signals, telemetry OPSCODE brevity code structured data exchange message sets syntax lexicon mapped to A.I. symbols … Adaptive Procedural Template foundation tech for net, net of programmable $, IOT...
 
 Control Number:  13/573,002 Art Unit: 2468
 
