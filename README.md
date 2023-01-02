@@ -1104,6 +1104,8 @@ Parler: https://parler.com/user/Ecoeconomicepochs
  
 Web 3 IPFS Interplanetary File System distributed web page hello world https://ecoeconomicepochs.dao
 
+Substack: https://substack.com/profile/10477083-steven-mcgee
+
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
 
 A Simple, Efficient Artificial Bee Colony Algorithm Yunfeng Xu,1,2 Ping Fan, 3, Ling Yuan
