@@ -1051,6 +1051,8 @@ Quantum Computing / Quantum Financial System QFS for the 99 % / NEXGEN Foundatio
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
 DISCORD: GDP_Index_Economy#6495
+ 
+Substack: https://stevenmcgee.substack.com/p/fintech-defi-ip-wars?sd=pf
 
 Skype: Steven McGee  
 
