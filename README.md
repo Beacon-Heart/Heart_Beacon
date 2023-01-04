@@ -771,14 +771,6 @@ TCP/IP INTERNET “HEARTBEAT” is a metaphor, meme for epochs, time cycles, int
 
 UNIVERSAL TIME ZONE UTZ PROJECT: Universal Time Zone (UTZ) Proposed Clock At the United Nations on May 20, 2003, President, George W. Bush, announced a proposal to unify all the world's time zones into a single Universal Time Zone (UTZ). In remarks attempting to better position the USA in world affairs, Bush said, "It is unfair to the United States that other countries have the advantage of being in tomorrow while the US is stuck in today. If it is 9 PM in Washington D.C., it is already tomorrow in London or Paris. That patently unfair." LINK http://www.csgnetwork.com/utzproptimecalc.html
 
- 
-FIGURE 9: EPOCH TIME CYCLE METRIC BUILDING BLOCKS
-
- 
-Figure 10: Foundation technology for the DeFi IP programmable $ patent wars
-
-APPENDIX B: REFERENCES – ACRONYMS, METAPHORS, MEMES
-
 Supreme Court precedent case Alice Corp Vs CLS Bank requires all internet, internet of money (Bitcoin, Blockchain) related patent applications to apply physical memes. For example, the internet TCP/IP “ping” terms is an abstraction. The internet’s “hop”, “hop count” is an abstraction. SAW Concept LLC’s application is compliant with the Supreme Court internet, internet of money precedent by using a Little League Baseball tournament as a main embodiment with internet technical theme derivative use cases
 
 PAUL REVERE BASEBALL GAME BASE RUNNING LINEAR-SEQUENTIAL MEME
@@ -839,9 +831,7 @@ PRECEDENT: AMERICAN AXLE V. NEAPCO RULING Judge: "an inventive concept to instea
 
 Patent Application: Price Discover: 0160358256 [0056 In accordance with an example embodiment of the present invention, the amount of an investment required from a speculator is calculated by executing the following cost of speculation equation: V.intg.|log(P)-log(.DELTA.P)|/R dt. The variables for the cost of speculation equation are as follows: P represents a variable of price, P(t) is a variable function of price over time in a given market, .DELTA.P represent a speculative price function. P(t) can mathematically represent the future prices as functions of price over time. The function value of R(t) is a predetermined value for the rate of return. For example, for R(t), the value can be 100% annualized so for a t in years R(1)=2, R(2)=4 and R(0.5)=1.414, but as would be appreciated by one skilled in the art, any function is possible. The value for V(t) at any given time is the expected value to the market (e.g., volume of goods to trade multiplied by the market commission) The value for V(t) can be updated empirically as the commodities market functions by calculation as a moving average of volume times the markets total transactional overhead charge. Source / Attributed to: Noah Healy Data Scientist at Castle Hill Gaming strategic design for (commodity) markets drastically lowering transaction costs while increasing returns for informed speculators to launch a global economic boom. Price discovery method and means: Source: https://tinyurl.com/4w4m359h 
 
- PAUL REVERE LINEAR-SEQUENTIAL MEME
-
-The Paul Revere linear-sequential meme – metaphor is a physical, historical meme used instead of an abstract metaphor that the internet uses called TCP/IP “hop counts”. 
+ PAUL REVERE LINEAR-SEQUENTIAL MEME: The Paul Revere linear-sequential meme – metaphor is a physical, historical meme used instead of an abstract metaphor that the internet uses called TCP/IP “hop counts”. 
 
 Hop Counts: (123): Hops are linear and sequential referring to applicant's Paul Revere 
 meme (126). Hops are described / defined from null as a condition / state: stationary, inactive. Hops are changes in location from point a to point b to point n. Hops follow a base running paradigm in the main embodiment (131) and are referential to TCP/IP in embodiment 1. Hops are counted incrementally where hops are changes in location e.g., home plate to first, second, and third base and back to home base (131).  Hop metrics are incremental changes from null 0,1,2,3,4 - N (126) that may be positive or negative values. Hop counts are used to equitably meter, measure and derive performance or effectiveness metrics, meters. Time stamps (112) form time frames, temporally bound hops e.g., in time and space.  Erlang logic is useful in establishing time boundaries and time limits among geo-spatially disperse events. Time filtered and spatially metered reports are comprised of state meta-data snapshot / heartbeat message / sync delta messages where state meta data is harvested during micro-cycles then posted / displayed during longer macro-cycles, 
@@ -1049,6 +1039,8 @@ GITHUB PROJECT DESCRIPTION, DOCUMENTS: https://github.com/Beacon-Heart
 Quantum Computing / Quantum Financial System QFS for the 99 % / NEXGEN Foundation baseline tech for DeFi / crypto / https://youtu.be/ZfR1Jc6ZgloWe Heart It: https://weheartit.com/steven_mcgee_1/collections
 
 REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
+
+https://ecoheartbeat.wordpress.com
 
 DISCORD: GDP_Index_Economy#6495
  
