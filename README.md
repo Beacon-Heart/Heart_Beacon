@@ -1050,7 +1050,7 @@ Skype: Steven McGee
 
 Gravatar: https://en.gravatar.com/ecoeconheartbeat
 
-SLIDESHARE PAPERS: https://www.slideshare.net/StevenMcGee2/
+SLIDESHARE PAPERS: https://www.slideshare.net/EcoEconomicHeartbeat/
 
 MEDIUM:  https://medium.com/@heart.beacon.cycle
 
