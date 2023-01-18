@@ -2,7 +2,7 @@ TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustaina
 
 Control Number:  13/573,002 Art Unit: 2468
 
-Patent application type: Adaptive Procedural Template: checklist of tools, processes, procedures, algorithms,.. used by a Trade Federation / DAO Distributed Autonomous Organization of for example, a federated DAO of states. Focus is semantic, syntactic, temporal interoperability, synchronization, stochastic harmonization across time zones supporting Trade Federations / Distributed Autonomous Organizations DAO (s). One World currency / economy will be coded how?
+Patent application type: Adaptive Procedural Template: checklist of tools, processes, procedures, algorithms,.. used by a Trade Federation / DAO Distributed Autonomous Organization of for example, a federated DAO of states. Focus is semantic, syntactic, temporal interoperability, synchronization, stochastic harmonization across time zones supporting Trade Federations / Distributed Autonomous Organizations DAO (s). The inevitable One World currency / economy will be coded how?
 
 USE CASE: System of systems OPSCODE brevity code structured data exchange message sets syntax lexicon telemetry mapped to A.I. symbols. Adaptive Procedural Template foundation tech list for net, net of programmable $$$, IOT...
 
@@ -10,7 +10,7 @@ USE CASE: System of systems OPSCODE brevity code structured data exchange messag
 
 "Focus all of your energy in building the new, not fighting the old" Socrates
 
-BACKGROUND: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money
+USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money
 
 The Heart Beacon Cycle Time - Space Meter is an Adaptive Procedural Template Framework checklist of ideas, algorithms, processes, procedures, metric, meters, signal & telemetry standards to establish consistent Eco sustainable economic time cycle epochs for programmable money / programmable economy conducted among Distributed Autonomous Organizations participating in distributed trade federations on the (technically non-existent) crypto currency blockchain / hash-graph etc.
 
