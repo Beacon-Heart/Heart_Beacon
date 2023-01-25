@@ -10,7 +10,7 @@ USE CASE: System of systems OPSCODE brevity code structured data exchange messag
 
 "Focus all of your energy in building the new, not fighting the old" Socrates
 
-USE CASE: Banks & Tech firms are forming teams to establish foundation technology for DeFi, programmable money $$$ to establish a legal basis for IP intellectual property patent law claims. Teams might want to reference SCOTUS Alice Corp Vs CLS Bank 2014 "Alice in Wonderland ruling" that states "claims may not direct towards abstract ideas". Physical = opposite of abstract
+USE CASE: Banks - tech firms are forming teams to assert foundation technology as a legal basis for #IP intellectual property claims for programmable $$$, economy DeFi Fintech
 
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money
 
