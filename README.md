@@ -1042,25 +1042,25 @@ APPENDIX F: BRIEF DESCRIPTION OF GRAPHICS
 
 APPENDIX G: GRAPHICS
  
-Figure 1: All things internet, net of money formed by 1) epoch time intervals 2) syntax
-
-Figure 2: Adaptive Procedural Template Checklist derived from Battlefield Digitization, Network Centric Warfare, Network Enabled Operations NEO
- 
-Fig 3: Nobel Prize winning Economist Milton Friedman “only a crisis brings change” 
- 
 APPENDIX E: REFERENCES / SOCIAL MEDIA LINKS
 
 GITHUB PROJECT DESCRIPTION, DOCUMENTS: https://github.com/Beacon-Heart
 
 Quantum Computing / Quantum Financial System QFS for the 99 % / NEXGEN Foundation baseline tech for DeFi / crypto / https://youtu.be/ZfR1Jc6ZgloWe Heart It: https://weheartit.com/steven_mcgee_1/collections
 
-REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
+SOCIAL MEDIA / Email
+
+Proton Secure Email: ecoeconomicepochs@protonmail.com
 
 https://ecoheartbeat.wordpress.com
 
 DISCORD: GDP_Index_Economy#6495
+
+Unstoppable Domains Web 3 Page: https://ecoeconomicepochs.dao
  
-Substack: https://stevenmcgee.substack.com/p/fintech-defi-ip-wars?sd=pf
+Substack: https://stevenmcgee.substack.com/
+
+FLOTE: https://flote.app/Heart_Beacon
 
 Skype: Steven McGee  
 
@@ -1076,9 +1076,12 @@ MEDIUM ARTICLE: Deep Thought pondering the crypto blockchain through Alice’s L
 
 MEDIUM ARTICLE: "Delusional Bitcoin Vs Fool's Gold": LINK: https://medium.com/@heart.beacon.cycle/delusional-bitcoin-vs-fools-gold-e4bea26afba8
 
-PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/ // https://www.pinterest.com/heartbeaconcycle/eco-economic-heartbeat/
+PIN INTEREST: https://pinterest.com/mcgee3077/eco-economic-heartbeat/
+https://www.pinterest.com/heartbeaconcycle/eco-economic-heartbeat/
 
 Angel List: https://angel.co/heart_beacon
+
+REDDIT: https://www.reddit.com/user/EcoEconomicEpochs
 
 MeWE: http://mewe.com/i/stevenmcgee2
 
@@ -1104,17 +1107,11 @@ BEHANCE: Project site: http://be.net/heartbeaco2eb7
 
 Gitter EcoEconHeartbeat/Lobby: https://gitter.im/EcoEconHeartbeat/Lobby via @gitchat
 
-Proton Email (secure) ecoeconomicepochs@protonmail.com
-
 EIN Earth Intelligence Network: Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
-
-FLOTE: https://flote.app/Heart_Beacon
 
 Parler: https://parler.com/user/Ecoeconomicepochs
  
 Web 3 IPFS Interplanetary File System distributed web page hello world https://ecoeconomicepochs.dao
-
-Substack: https://substack.com/profile/10477083-steven-mcgee
 
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
 
@@ -1124,6 +1121,3 @@ We can synchronize ourselves, our cities, towns, cyber-communities in time — s
 
 #economic collapse #economic reset #econometrics #programmable economy #programmable money #blockchain #cryptocurrencies #sustainable development #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity #random number beacon #random number blockchain
 
-APPENDIX F: BRIEF DESCRIPTION OF GRAPHICS
-
-APPENDIX G:    GRAPHICS
