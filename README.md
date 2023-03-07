@@ -2,7 +2,7 @@ TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustaina
 
 Control Number:  13/573,002 Art Unit: 2468
 
-Simply stated: The internet and now the internet of money Web 3.0 is described with memes / made up words - yes? Are there actually packets, frames, Satoshi's, blocks comprising a blockchain zipping around the net? Most if not all other patent applicants ignore SCOTUS Alice Corp Vs CLS Bank the "Alice in Wonderland" ruling of 2014 that states "claims may not direct towards abstract ideas" That said, which Bank - tech giant team will prevail in the DEFI Distributed Finance cryptocurrency wars? Will the Alice in Wonderland SCoTUS ruling be cited in the ongoing court battles or will she continue to be ignored? Time will tell. The (Little League) baseball meme was stipulated by my patent attorney - long ago story... don't ask unless you want me to tell you. #blockchain #cryptocurrency #bank 
+The internet and now the internet of money Web 3.0 is described with memes / made up words - yes? Are there actually packets, frames, Satoshi's, blocks comprising a blockchain zipping around the net? Most if not all other patent applicants ignore SCOTUS Alice Corp Vs CLS Bank the "Alice in Wonderland" ruling of 2014 that states "claims may not direct towards abstract ideas" That said, which Bank - tech giant team will prevail in the DEFI Distributed Finance cryptocurrency wars? Will the Alice in Wonderland SCoTUS ruling be cited in the ongoing court battles or will she continue to be ignored? Time will tell. The (Little League) baseball meme was stipulated by my patent attorney - long ago story... don't ask unless you want me to tell you. #blockchain #cryptocurrency #bank 
 
 Patent application type: Adaptive Procedural Template: checklist of tools, processes, procedures, algorithms,.. used by a Trade Federation / DAO Distributed Autonomous Organization of for example, a federated DAO of states. Focus is semantic, syntactic, temporal interoperability, synchronization, stochastic harmonization across time zones supporting Trade Federations / Distributed Autonomous Organizations DAO (s). The inevitable One World currency / economy will be coded, synchronized, stochasically harmonized, syntactially consistent... how?
 
@@ -86,6 +86,18 @@ Heart Beacon Cycle adaptive procedural template emphasizes protocol, software ap
 Firefly inspired heartbeat synchronization message event bus algorithm – protocol, software application neutral monitors geo-spatial, temporally distributed events reported across a DAO Distributed Autonomous Organization among federated groups synchronized across time-space for common goals
 Other procedures are intrinsic to algorithms / protocols such as Princeton’s John Nash Equilibrium algorithms and count minimum sketch or streaming K algorithms
 Invention relies on System of systems type processes: collection of task-oriented, dedicated systems pooling resources, capabilities together to create a more complex system with more functionality, performance than the sum of separate systems 
+
+The World Economic Forum WEF at a National Institute of Standards and Technology (NIST) conference 2008: stated the need for a HFT High Frequency Trade circuit breaker. Given the quantum computing arms race where quantum computer A is "1000 x faster" than B, is it TIME?
+
+Use of the </108> heartbeat message is a simple method to implement a way to stop trade activities, algorithms belonging to a specific system or company, fund rather than shutting down the entire trading system. Setting time limits (TTL Time To Live) token passing to trade windows pegged to the closest statistical mean heartbeat epoch avoids the potential of rapid attrition of firms with slower quantum, non-quantum systems and the retail individual investor have nots.
+
+If given a choice of detecting </events> {"events"} using quantum particles or waves, are not waves preferable given a wave is more likely to reliably detect an event than a probabilistic based particle detection method
+
+Wave detection doesn't necessarily involve cooling to absolute zero that consumes resources and energy to a greater degree
+
+HFT Circuit Breaker: </108> Heartbeat message Start, Stop, TTL epoch time limit trade window turn token pass </Org_ID> </URN>
+
+SCOP Heartbeat Administrative interface tool adjusts FIX </108> messages. All systems have "heartbeat" epoch time interval messages. "Heartbeat" = metaphor
 
 1.5.6 Guidelines
 
