@@ -2,7 +2,7 @@ TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustaina
 
 Control Number:  13/573,002 Art Unit: 2468
 
-BACKGROUND: The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words. No packets, frames, Satoshi's, blocks comprising a blockchain traverse the net. Patent applicants ignore SCOTUS Alice Corp Vs CLS Bank the "Alice in Wonderland" ruling of 2014 that states "claims may not direct towards abstract ideas" That said, which Bank - tech giant team will prevail in the DEFI Distributed Finance cryptocurrency wars? Will the Alice in Wonderland SCoTUS ruling be cited in the ongoing court battles or will she continue to be ignored? Time will tell.
+BACKGROUND: The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words. No packets, frames, Satoshi's, blocks comprising a blockchain traverse the net. Patent applicants ignore SCOTUS Alice Corp Vs CLS Bank the "Alice in Wonderland" ruling of 2014 that states "claims may not direct towards abstract ideas" That said, which Bank - tech giant team will prevail in the DEFI Distributed Finance cryptocurrency wars?
 
 PATENT APPLICATION TYPE: Adaptive Procedural Template: checklist of tools, processes, procedures, algorithms,.. used by a Trade Federation / DAO Distributed Autonomous Organization of for example, a federated DAO of states. Focus is semantic, syntactic, temporal interoperability, synchronization, stochastic harmonization across time zones supporting Trade Federations / Distributed Autonomous Organizations DAO (s). The inevitable One World currency / economy will be coded, synchronized, stochasically harmonized, syntactially consistent... how?
 
