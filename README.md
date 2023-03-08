@@ -4,6 +4,8 @@ Control Number:  13/573,002 Art Unit: 2468
 
 BACKGROUND: The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words. No packets, frames, Satoshi's, blocks comprising a blockchain traverse the net. Patent applicants ignore SCOTUS Alice Corp Vs CLS Bank the "Alice in Wonderland" ruling of 2014 that states "claims may not direct towards abstract ideas" That said, which Bank - tech giant team will prevail in the DEFI Distributed Finance cryptocurrency wars?
 
+"The #Bitcoin time-chain" "creates a new layer of trust that we can all reference".. Bitcoin is the TIME - CHAIN that creates a BEACON of TRUTH.. economically incentivized to show truth" Bitcoin Magazine & Mark Moss .. "store of wealth = baseball card": https://bitcoinmagazine.com/ #Bitcoin #blockchain #cbdc #crypto #cryptocurrency
+
 PATENT APPLICATION TYPE: Adaptive Procedural Template: checklist of tools, processes, procedures, algorithms,.. used by a Trade Federation / DAO Distributed Autonomous Organization of for example, a federated DAO of states. Focus is semantic, syntactic, temporal interoperability, synchronization, stochastic harmonization across time zones supporting Trade Federations / Distributed Autonomous Organizations DAO (s). The inevitable One World currency / economy will be coded, synchronized, stochasically harmonized, syntactially consistent... how?
 
 USE CASE: System of systems OPSCODE brevity code structured data exchange message sets syntax lexicon telemetry mapped to A.I. symbols. Adaptive Procedural Template foundation tech list for net, net of programmable $$$, IOT...
