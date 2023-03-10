@@ -6,8 +6,10 @@ BACKGROUND: The internet and now the internet of money Web 3.0 is described with
 
 "The #Bitcoin time-chain" "creates a new layer of trust that we can all reference".. Bitcoin is the TIME - CHAIN that creates a BEACON of TRUTH.. economically incentivized to show truth" Bitcoin Magazine & Mark Moss .. "store of wealth = baseball card": https://bitcoinmagazine.com/ #Bitcoin #blockchain #cbdc #crypto #cryptocurrency
 
-Quantum computing: particle or wave? why is particle detection  chosen over waves given Heisenberg's uncertainty principle / Planck's constant? This has profound implications for space - time, stock, commodity market data = our world. #quantum #quantumcomputing #data #stock #commodities
+Quantum computing: particle or wave? Why pursue / choose particle detection at 0 degrees Kelvin over (electro-magnetic) waves ("wave-packets") at room temperature given Heisenberg's uncertainty principle? This has profound implications for space - time, stock, commodity market data = our world. 
+Science News Army Research Laboratory Article on quantum computing at room temperature: https://www.sciencedaily.com/releases/2020/05/200501184307.htm
 
+ #quantum #quantumcomputing #data #stock #commodities
 PATENT APPLICATION TYPE: Adaptive Procedural Template: checklist of tools, processes, procedures, algorithms,.. used by a Trade Federation / DAO Distributed Autonomous Organization of for example, a federated DAO of states. Focus is semantic, syntactic, temporal interoperability, synchronization, stochastic harmonization across time zones supporting Trade Federations / Distributed Autonomous Organizations DAO (s). The inevitable One World currency / economy will be coded, synchronized, stochasically harmonized, syntactially consistent... how?
 
 USE CASE: System of systems OPSCODE brevity code structured data exchange message sets syntax lexicon telemetry mapped to A.I. symbols. Adaptive Procedural Template foundation tech list for net, net of programmable $$$, IOT...
