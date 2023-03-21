@@ -2,6 +2,11 @@ TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustaina
 
 Control Number:  13/573,002 Art Unit: 2468
 
+VISION STATEMENT: Currency inflation / wars.. Economic reset - what's the plan ?
+
+USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is a list (Adaptive Procedural Template) of useful tools, ideas, processes.. Focus in on commodity backed currency -- like the BRICS + / RWA Real World Assets = method and means to control inflation
+#blockchain #CBDC #intellectualproperty #currency #inflation #commodities #RWA #real world assets
+
 BACKGROUND: The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words. No packets, frames, Satoshi's, blocks comprising a blockchain traverse the net. Patent applicants ignore SCOTUS Alice Corp Vs CLS Bank the "Alice in Wonderland" ruling of 2014 that states "claims may not direct towards abstract ideas" That said, which Bank - tech giant team will prevail in the DEFI Distributed Finance cryptocurrency wars?
 
 "The #Bitcoin time-chain" "creates a new layer of trust that we can all reference".. Bitcoin is the TIME - CHAIN that creates a BEACON of TRUTH.. economically incentivized to show truth" Bitcoin Magazine & Mark Moss .. "store of wealth = baseball card": https://bitcoinmagazine.com/ #Bitcoin #blockchain #cbdc #crypto #cryptocurrency
