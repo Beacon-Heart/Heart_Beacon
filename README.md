@@ -4,6 +4,8 @@ Control Number:  13/573,002 Art Unit: 2468
 
 VISION STATEMENT: Currency inflation / wars.. Economic reset - what's the plan ?
 
+Structured data exchange methods and mapping standardized brevity codes to symbols, symbol sets is essential to a one world anything that will be consistent, standardized any time soon. Stochastically harmonized, synchronized events across UTZ time zones using a common meme, metrics, meters for consensus among a dozen or more consensus algorithms, cryptocurrency vendors is essential to programmable $$$, economy. Send events, transactions using the </Org_ID>, Organizational Identifier and </URN> Uniform Resource Name emphasising blocktime arbitrage of RWA Real World Assets - It's TIME. 
+
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is a list (Adaptive Procedural Template) of useful tools, ideas, processes.. Focus in on commodity backed currency -- like the BRICS + / RWA Real World Assets = method and means to control inflation
 #blockchain #CBDC #intellectualproperty #currency #inflation #commodities #RWA #real world assets
 
