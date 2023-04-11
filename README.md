@@ -2,9 +2,9 @@ TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustaina
 
 Control Number:  13/573,002 Art Unit: 2468
 
-VISION STATEMENT: Currency inflation / wars.. Economic reset - what's the plan ?
+ISSUE (S) TO BE SOLVED: Currency inflation / wars.. Economic reset - what's the plan ?
 
-1, SUMMARY DESCRIPTION
+SUMMARY DESCRIPTION
 
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money / Web 3.0
 
