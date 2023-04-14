@@ -599,25 +599,47 @@ LINK https://codaworx.com/project/heart-beacon-city-of-portland
 APPENDIX C: REFERENCES / SOCIAL MEDIA LINKS
 
 GITHUB PROJECT DESCRIPTION, DOCUMENTS: https://github.com/Beacon-Heart
+
 Proton Email (secure) ecoeconomicepochs@protonmail.com
+
 Unstoppable Domains IPFS Web 3 page:  http://ecoeconomicepochs.dao
+
+Slideshare: https://www.slideshare.net/EcoEconomicHeartbeat/
+
 PININTEREST: https://www.pinterest.com/EcoEconomicEpochs/ 
+
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
+
 WordPress: http://ecoheartbeat.wordpress.com  
+
 Substack: https://stevenmcgee.substack.com/
+
 FACEBOOK: https://www.facebook.com/beaconheart 
+
 FLOTE: https://flote.app/Heart_Beacon
+
 MINDS: https://www.minds.com/beaconheart/
+
 TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
+
 We Heart It: https://weheartit.com/steven_mcgee_1/collections
+
 DISCORD: GDP_Index_Economy#6495
+
 Skype: Steven McGee  
+
 Gravatar: https://en.gravatar.com/ecoeconheartbeat
+
 MeWE: http://mewe.com/i/stevenmcgee2
+
 Maven: https://app.maven.co/maven/506065 
+
 Gitter https://gitter.im/EcoEconHeartbeat/Lobby 
+
 EIN Earth Intelligence Network: Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
+
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
+
 Science News Army Research Laboratory Article quantum computing at room temperature: https://www.sciencedaily.com/releases/2020/05/200501184307.htm
 
 APPENDIX D: BRIEF DESCRIPTION OF GRAPHICS
