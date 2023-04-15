@@ -4,9 +4,11 @@ Control Number:  13/573,002 Art Unit: 2468
 
 ISSUE (S) TO BE SOLVED: Currency inflation / wars.. Economic reset - what's the plan ?
 
-SUMMARY DESCRIPTION
+FOCUS QUOTE: 
 
 “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP commodity RWA Real World Asset based K% rule to monitize a currency, control inflation
+
+SUMMARY DESCRIPTION
 
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money / Web 3.0
 
@@ -21,10 +23,6 @@ THESIS: All things internet, internet of programmable money are formed using:
 All things internet, internet of money, blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Web 3.0 is based on the original internet TCP/IP structure that has not changed because it cannot change. 
 
 Statement: there are no packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube. Transactions are unicast, multicast, or anycast (workflow). The afore mention terms are non-existent, fictitious, imaginary metaphorical fabrications that are non - compliant with US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”. Physical is the opposite of abstract.
- 
-Nobel Prize winning Economist Milton Friedman “only a crisis brings real change” 
-
-Nobel Prize Winning Economist Milton Friedman: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” ― Milton Friedman
 
 PURPOSE: Provide signaling, telemetry, data element syntax lexicon support for economist Milton Friedman’s K% rule where a FEDCOIN / WORLDCOIN currency is supported from sampling lead economic indicators i.e., commodity RWA Real World Assets measurable, tangible, tokenized assets across a universal event bus applying the firefly-heartbeat algorithm tracking changes, updating q statistical mean value index. Nobel Prize winning economist Milton Friedman described an "economic heartbeat" in his K% rule where the Treasury increases the money supply increases and decreases pegged to increases, decreases in GDP index volume.
 
