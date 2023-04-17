@@ -1,7 +1,5 @@
 TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustainable Economic Epoch Heartbeat
 
-Control Number:  13/573,002 Art Unit: 2468
-
 ISSUE (S) TO BE SOLVED: Currency inflation / wars.. Economic reset - what's the plan ?
 
 FOCUS QUOTE: 
