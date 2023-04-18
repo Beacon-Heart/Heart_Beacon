@@ -4,7 +4,7 @@ ISSUE (S) TO BE SOLVED: Currency inflation / wars.. Economic reset - what's the 
 
 FOCUS QUOTE: 
 
-“Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP commodity RWA Real World Asset based K% rule to monitize a currency, control inflation
+“Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monitize a currency, control inflation and power, manage the national economy.
 
 SUMMARY DESCRIPTION
 
