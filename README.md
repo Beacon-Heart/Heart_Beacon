@@ -12,7 +12,8 @@ USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter = Patent type: Adapti
 
 USPTO 13/573,002 framework supports for example, Distributed Trade Federation Organizations with DoD / NATO system of systems engineering signaling, telemetry engineering, syntax OPSCODE brevity codes matched with 2525C symbol sets vital for A.I. man-machine interface, interoperability, consistency, spatial – temporal consensus.
 
-PRECEDENTS: Currency backed by RWA Real World Assets / Tangibles: 
+PRECEDENTS: Currency backed by RWA Real World Assets / Tangibles:
+
 TERRA Trade Reference Currency TRC: commodity basket / index based TRC Trade Reference Currency features demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Bernard Lietaer Belgian Economists LINK http://lietaer.com/2010/01/terra/
 
 BRIC Nation Commodity Basket backed currency. “new global reserve currency.”
