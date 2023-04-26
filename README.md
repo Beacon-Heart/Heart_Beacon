@@ -16,7 +16,7 @@ PRECEDENTS: Currency backed by RWA Real World Assets / Tangibles:
 
 TERRA Trade Reference Currency TRC: commodity basket / index based TRC Trade Reference Currency features demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Bernard Lietaer Belgian Economists LINK http://lietaer.com/2010/01/terra/
 
-BRIC Nation Commodity Basket backed currency. “new global reserve currency.”
+Eurasian Economic Union EEU formerly known as BRIC Nation Commodity Basket backed currency. “new global reserve currency.”
 “The matter of creating the international reserve currency based on the basket of currencies of our countries is under review” Source: Fintech Magazine
 
 French Money of Peace: Le Fédériste“ "L'Europa monnaie de la paix" Money of peace" proposed January 1st 1933
