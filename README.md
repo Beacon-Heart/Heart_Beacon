@@ -1,6 +1,6 @@
 TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustainable Economic Epoch Heartbeat
 
-ISSUE (S) TO BE SOLVED: Currency inflation / wars.. Economic reset - what's the plan ?
+Q: Currency reset, wars.., Eurasian Economic Union move to RWA Real World Assets (commodities), inflation.. what's the plan ?
 
 FOCUS QUOTE: 
 
