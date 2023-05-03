@@ -91,7 +91,31 @@ NATO bases are small cities that transact many goods, items, commodities with ho
 
 Adaptive Procedural Template = checklist of useful tools, procedures used to aid individuals join trade federations. Affiliated organizations are geo-spatially, temporally located in distributed, dispersed locations across time – space. Member organizations may join or leave in an ad hoc, agile manner to take advantage or react to events, situations while retaining autonomy or the ability to act on one’s own behalf, control one’s own activities, The process may involve agile, ad hoc joins, merges, drops to / from federation in lieu of formal merger, and acquisition.
 
-APPENDIX A: SAMPLE ADAPTIVE PROCEDURAL TEMPLATE
+BITCOIN AS PROPERTY / LAND / Land Use Meme
+
+PRECEDENTS:
+
+- Hong Kong Court ruling Bitcoin as property
+
+- IRS memo #1421 Bitcoin purchase is akin to land purchase
+
+- SCOTUS Alice 2014 ruling "claims may not direct towards abstract ideas" / physical is the opposite of abstract
+
+Thesis: Owning 1 BTC of digital real estate is equivalent to owning 1126 acres of the Earth's habitable land:
+
+- 15.77 billion acres of habitable land
+
+- 14 million coins of active supply (not lost or Satoshi's coins)
+
+- One 14 millionth of the 15.77 billion habitable acres is 1126 acres.
+
+- Owning 0.01 of a coin (1 million sats) is equivalent to 11 acres.
+
+This is your equivalent share of Bitcoin's total value in the form of digital real estate, with our Earth's physical land as the model
+
+Blocks created along a blockchain items #113, 123, 126, stored in a cube 131 USPTO 13/573,002 main graphic
+
+Source: Reddit: https://lnkd.in/gbCVAX7X #bitcoin #realestate #digital
 
 APPENDIX A: SAMPLE ADAPTIVE PROCEDURAL TEMPLATE
 
