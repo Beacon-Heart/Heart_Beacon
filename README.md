@@ -23,7 +23,7 @@ French Money of Peace: Le Fédériste“ "L'Europa monnaie de la paix" Money of 
 
 Thomas Edison’s Monetary option: Thomas Edison and Henry Ford proposed a currency based on the value of a basket of crop commodities in 1922. Inventor Thomas Edison believed that crops held their value over time. “I want to cast the variable out of money. This gold money is not good enough. It's a fiction” (New York Times 1922).
 
-Question: what constitutes foundation tech for #DeFi / programmable $$$ ? Teams are forming to win the DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established foundation technology. What is foundation technology given the SCOTUS 2014 "Alice in Wonderland" ruling? The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words. 
+Question: what constitutes foundation tech for #DeFi / programmable $$$ ? Teams are forming to win the DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established foundation technology. What is foundation technology given the SCOTUS 2014 "Alice in Wonderland" ruling? The internet, net of money Web 3.0 is described with memes, metaphors, made up words. 
 
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal silicon chips
