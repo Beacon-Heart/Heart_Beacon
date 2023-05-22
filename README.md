@@ -1,6 +1,6 @@
 TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustainable Economic Epoch Heartbeat
 
-SUMMARY: An invention can be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data exchange digital dashboard geo-temporal, spatial synchronization, standardization program that has had many names over the decade used for OOTW Operations Other Than War following a Germman Army suggestion circa 2003.
+SUMMARY: An invention can be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data exchange digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface that has had many names over the decade used for OOTW Operations Other Than War following a Germman Army suggestion circa 2003.
 
 Currency inflation / wars.. Economic Great, Greater reset - what is the plan? Adaptive Procedural Template checklist of ideas, algorithms. tools... signals, telemetry sync, syntax, consensus mediation, standardization for programmable $$$, Economy
 
