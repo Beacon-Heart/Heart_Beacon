@@ -1,10 +1,8 @@
 TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustainable Economic Epoch Heartbeat
 
-SUMMARY: An invention can be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data exchange digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface that has had many names over the decade used for OOTW Operations Other Than War following a Germman Army suggestion circa 2003.
+SUMMARY: An invention can be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data exchange digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface that has had many names over the decade used for OOTW Operations Other Than War following a Germman Army suggestion circa 2003. Github http://github.com/Beacon-Heart #currency #github #economy #algorithms #cryptocurrency #CBDC #defi #fintech 
 
 Currency inflation / wars.. Economic Great, Greater reset - what is the plan? Adaptive Procedural Template checklist of ideas, algorithms. tools... signals, telemetry sync, syntax, consensus mediation, standardization for programmable $$$, Economy
-
-Github http://github.com/Beacon-Heart #currency #github #economy #algorithms #cryptocurrency #CBDC #defi #fintech 
 
 FOCUS QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monitize a currency, control inflation and power, manage the national economy.
 
