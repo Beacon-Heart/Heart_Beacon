@@ -645,7 +645,7 @@ Proton Email (secure) ecoeconomicepochs@protonmail.com
 
 Unstoppable Domains IPFS Web 3 page:  http://ecoeconomicepochs.dao
 
-Slideshare: https://www.slideshare.net/EcoEconomicHeartbeat/
+Slideshare: https://www.slideshare.net/EcoEconomicHeartbeat
 
 PININTEREST: https://www.pinterest.com/EcoEconomicEpochs/ 
 
