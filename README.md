@@ -6,8 +6,6 @@ Currency inflation / wars.. Economic Great, Greater reset - what is the plan? Ad
 
 FOCUS QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winner Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, control inflation and manage the economy.
 
-Thomas Edison introduced his latest invention: a new type of money, a commodity index currency he believed was the long-term solution to America's monetary woes. “I want to cast the variable out of money. This gold money is not good enough. It's a fiction” New York Times 1922
-
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money / Web 3.0 USPTO 13/573,002 framework supports for example, Distributed Trade Federation Organizations with DoD / NATO system of systems engineering signaling, telemetry engineering, syntax OPSCODE brevity codes matched with 2525C symbol sets vital for A.I. man-machine interface, interoperability, consistency, spatial – temporal consensus.
 
 PRECEDENTS: Currency backed by RWA Real World Assets / Tangibles:
