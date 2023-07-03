@@ -575,6 +575,8 @@ The Rosetta Stone is a rock stele, found in 1799, inscribed with a decree issued
 
 Rosetta Stone concept in context with this project: a common syntax library and ability to convert <tags> to YAML indents to binary XML to various other Message Text Formats MTF to enable universal signaling / telemetry among a system of systems is needed. Structured messaging will help accelerate the process of organizing syntax into categories and forming syntax from disparate systems into template libraries simply because numbers are universal – text and symbols less so. Structured military messaging involves identifying use cases as messages and message sets commonly used to accomplish tasks that are identified by number. Data elements or Field Form Identifiers Reference Numbers or FFIRNS and Field Unit Designators as three and four digit codes unambiguously identify the use of the data element in number forms. Three and four digit codes in turn refer to text descriptions referencing symbols in symbol libraries / databases.  Messages are processed, parsed in - out of distributed database.
 
+Satoshi: The satoshi represents one hundred millionths of a bitcoin because bitcoin has increased in value exponentially, smaller denominations are needed for smaller transactions. Small denominations make bitcoin transactions easier to conduct and can act as demurrage fees to for example, move real world assets / commodities from point a to point n within trade federations.
+
 SCOP Heartbeat Administrative interface tool adjusts FIX </108> messages. All systems have "heartbeat" epoch time interval messages. "Heartbeat" = metaphor
 
 SPATIAL ECONOMETRICS: 
