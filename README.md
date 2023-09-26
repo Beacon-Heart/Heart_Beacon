@@ -1,8 +1,9 @@
 Document Control Number:  13/573,002	Page 0
 Art Unit: 2468
 
-ECO ECONOMIC EPOCH HEARTBEAT ALGORITHMIC COMMODITY STABLECOIN
-Adaptive Procedural Template checklist: Use Case: foundation tech for net of $$$, economy
+TITLE: ECO ECONOMIC EPOCH HEARTBEAT ALGORITHMIC COMMODITY STABLECOIN
+
+SUB TITLE: Adaptive Procedural Template checklist: Use Case: foundation tech for net of $$$, economy
 
 Figure A: DAO Trade Federation minimum list of algorithms, tools, templates, treatises 
 
