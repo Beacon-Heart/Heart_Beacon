@@ -1106,38 +1106,7 @@ IMF's International Monetary Fund SDR Special Drawing Rights stable coin , Treas
 NESERA / GESERA's QFS Quantum Financial System Las Vegas = Ground Station
 Department of Commerce - Treasury – NIST QRNB at Boulder Colorado (Stephen King's Book The Stand's Free Zone)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 APPENDIX F:    DRAWINGS / GRAPHICS
-
-
-
-
-
 
 #economic collapse #economic reset #econometrics #programmable economy #programmable money #blockchain #cryptocurrencies #sustainable development #internet #money #blockchain #cryptocurrencies #economics #sustainable #ecology #sustainability #climate change #econometrics #time-space meter, #metrics, #geospatial temporal #intensity #random number beacon #random number blockchain
 
