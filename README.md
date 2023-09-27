@@ -1,4 +1,4 @@
-Document Control Number:  13/573,002	Page 0
+Document Control Number:  13/573,002	
 Art Unit: 2468
 
 TITLE: ECO ECONOMIC EPOCH HEARTBEAT ALGORITHMIC COMMODITY STABLECOIN
