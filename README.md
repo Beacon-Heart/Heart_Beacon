@@ -1,14 +1,7 @@
-Eco Economic Epoch Heartbeat Programmable money, programmable economy foundation tech. 
+USE CASE (s): Eco Economic Epoch Heartbeat Programmable money, programmable economy foundation tech. 
 Adaptive procedural template minimum trade federation consensus checklist 
 
-Github: http://github.com/Beacon-Heart
-
-Web 3: http://ecoeconomicepochs.dao
-
-Substack: https://substack.com/@ecoeconomicepochs
-
-Document Control Number:  13/573,002	
-Art Unit: 2468
+Document Control Number:  13/573,002	Art Unit: 2468
 
 TITLE: ECO ECONOMIC EPOCH HEARTBEAT ALGORITHMIC COMMODITY STABLECOIN
 
