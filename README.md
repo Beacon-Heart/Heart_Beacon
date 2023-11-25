@@ -4,7 +4,7 @@ MAIN USE CASE: Eco Economic Epoch Heartbeat Programmable money, programmable eco
 
 TITLE: ECO ECONOMIC EPOCH HEARTBEAT ALGORITHMIC COMMODITY STABLECOIN
 
-SUB TITLE: Adaptive Procedural Template checklist: Use Case: foundation tech for net of $$$, economy, minimum trade federation consensus checklist 
+SUB TITLE: Use Case: foundation tech for net of $$$, economy, minimum trade federation consensus checklist 
 
 TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustainable Economic Heartbeat, Algorithmic Stable Coin, DeFI, Fintech foundation framework
 
