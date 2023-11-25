@@ -1,5 +1,6 @@
-USE CASE (s): Eco Economic Epoch Heartbeat Programmable money, programmable economy foundation tech. 
 Adaptive procedural template minimum trade federation consensus checklist 
+
+MAIN USE CASE: Eco Economic Epoch Heartbeat Programmable money, programmable economy foundation tech. 
 
 Document Control Number:  13/573,002	Art Unit: 2468
 
