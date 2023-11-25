@@ -1,58 +1,15 @@
+Eco Economic Epoch Heartbeat Programmable money, programmable economy foundation tech. 
+Adaptive procedural template minimum trade federation consensus checklist 
+Github: http://github.com/Beacon-Heart
+Web 3: http://ecoeconomicepochs.dao
+Substack: https://substack.com/@ecoeconomicepochs
+
 Document Control Number:  13/573,002	
 Art Unit: 2468
 
 TITLE: ECO ECONOMIC EPOCH HEARTBEAT ALGORITHMIC COMMODITY STABLECOIN
 
 SUB TITLE: Adaptive Procedural Template checklist: Use Case: foundation tech for net of $$$, economy
-
-Figure A: DAO Trade Federation minimum list of algorithms, tools, templates, treatises 
-
-TABLE OF CONTENTS 
-
-1, SUMMARY DESCRIPTION	Page 2
-
-2. USE CASES 			Page 5
-
-3. CLAIMS 				Page 6
-
-APPENDIX A: SAMPLE ADAPTIVE PROCEDURAL TEMPLATE	Page 11
-1.1	Purpose	11
-
-1.2	Scope		11
-
-1.3	Roles		11
-
-1.4	Definitions and Acronyms	11
-
-1.5	References	10
-
-1.6	Traceability	12
-
-1.7	Policies	12
-
-1.8	Standards	12
-
-1.9	Processes	12
-
-1.10	Procedures	12
-
-1.11	Guidelines	12
-
-1.12	Templates	13
-
-1.13. Tools				13
-1.14.	Procedures / Steps		14
-1.15 Methods			15
-
-APPENDIX B: PRIOR ART, TERMS, DEFINITIONS	22
-
-APPENDIC C: FINAL REJECTION RESPONSE PAPER SUMMARY July 6th, 2016   56
-
-APPENDIX D: SOCIAL MEDIA LINKS 						Page 57
-
-APPENDIX E: BRIEF DESCRIPTION OF GRAPHICS				Page 59
-
-APPENDIX F: GRAPHICS								Page 92
 
 TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustainable Economic Heartbeat, Algorithmic Stable Coin, DeFI, Fintech foundation framework
 
