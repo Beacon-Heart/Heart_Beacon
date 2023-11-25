@@ -1,10 +1,10 @@
-Adaptive procedural template minimum trade federation consensus checklist 
+CATEGORY / TYPE: Adaptive procedural template
 
 MAIN USE CASE: Eco Economic Epoch Heartbeat Programmable money, programmable economy foundation tech. 
 
 TITLE: ECO ECONOMIC EPOCH HEARTBEAT ALGORITHMIC COMMODITY STABLECOIN
 
-SUB TITLE: Adaptive Procedural Template checklist: Use Case: foundation tech for net of $$$, economy
+SUB TITLE: Adaptive Procedural Template checklist: Use Case: foundation tech for net of $$$, economy, minimum trade federation consensus checklist 
 
 TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter / Eco sustainable Economic Heartbeat, Algorithmic Stable Coin, DeFI, Fintech foundation framework
 
