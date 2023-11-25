@@ -1,7 +1,10 @@
 Eco Economic Epoch Heartbeat Programmable money, programmable economy foundation tech. 
 Adaptive procedural template minimum trade federation consensus checklist 
+
 Github: http://github.com/Beacon-Heart
+
 Web 3: http://ecoeconomicepochs.dao
+
 Substack: https://substack.com/@ecoeconomicepochs
 
 Document Control Number:  13/573,002	
