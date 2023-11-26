@@ -4,7 +4,7 @@ SUB TITLE: ECO ECONOMIC EPOCH HEARTBEAT ALGORITHMIC COMMODITY STABLECOIN
 
 CATEGORY / TYPE: Adaptive procedural template / Method - Process Patent
 
-MAIN USE CASE: Eco Economic Epoch Heartbeat Programmable money, programmable economy foundation technology
+MAIN USE CASE: Eco Economic Epoch Heartbeat Programmable money, economy foundation technology
 
 USE CASE: foundation tech for net of $$$, economy, minimum trade federation consensus checklist 
 
