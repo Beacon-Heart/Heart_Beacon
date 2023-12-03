@@ -8,7 +8,7 @@ MAIN USE CASE: Fix money, fix world.
 
 USE CASE: Eco Economic Epoch Heartbeat Programmable money / economy foundation technology
 
-USE CASE: structured data exchange / messaging / symbol sets for net of $$$, economy, minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics
+USE CASE: structured data exchange / messaging / symbol sets for net of $$$, economy, minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics to support for example trade federation (s), DAO Distributed Autonomous Organizations
 
 SUMMARY: An invention may be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data exchange digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface that has had many names over the decade used for OOTW Operations Other Than War following a German Army suggestion circa 2003. 
 
