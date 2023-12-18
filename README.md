@@ -33,57 +33,88 @@ APPENDIX A: SAMPLE ADAPTIVE PROCEDURAL TEMPLATE	Page 12
 
 1.13. Tools				15
 1.14.	Procedures / Steps		15
-1.15 Methods			15
+1.15 Methods			        15
 
 APPENDIX B: PRIOR ART, TERMS, DEFINITIONS				Page 25
 
-APPENDIC C: FINAL REJECTION RESPONSE SUMMARY 			Page 62
+APPENDIC C: FINAL REJECTION RESPONSE SUMMARY 			        Page 62
 
 APPENDIX D: SOCIAL MEDIA LINKS 						Page 63
 APPENDIX E: BRIEF DESCRIPTION OF GRAPHICS				Page 64
 
 APPENDIX F: GRAPHICS								Page 99
+
 TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter
+
 SUB TITLE: ECO ECONOMIC EPOCHS ALGORITHMIC COMMODITY STABLECOIN
+
 CATEGORY / TYPE: Adaptive procedural template / Method Process Patent
+
 MAIN USE CASE: Fix money, fix world
+
 USE CASE: Eco Economic Epochs for Programmable money / Economy 
+
 USE CASE: structured data exchange / messaging / symbol sets for net of $$$, economy, minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics to support for example trade federation (s), DAO Distributed Autonomous Organizations
+
 SUMMARY: An invention can be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data exchange digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface that has had many names over the decade used for OOTW Operations Other Than War following a German Army suggestion circa 2003. 
+
 THESIS: All things internet, internet of programmable money are formed using:
 1.	Time epochs created by oscillating quartz crystal silicon microchips
 2.	Syntax used / not used as programming instructions during epoch time cycles
+
 All things internet, internet of money, blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Web 3.0 is based on the original internet TCP/IP structure that has not changed because it cannot change. 
 HASH TAGS: #currency #algorithmic stable coin #CBDC cryptocurrency #DeFI #Fintech #systemic #artificialintelligence #econometrics #bigdata #data #quantum #currency #algorithmic stable coin #CBDC cryptocurrency #system of systems
+
 FOCUS QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement a GDP rules based automated inflation control to manage finance.
+
 FOCUS QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller
+
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Patent type: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent Eco sustainable economic time cycle epochs for programmable $ / economy / Net, Net of Money Foundation Technology for DeFi, programmable internet of money / Web 3.0 USPTO 13/573,002 framework supports for example, Distributed Trade Federation Organizations with DoD / NATO system of systems engineering signaling, telemetry engineering, syntax OPSCODE brevity codes matched with 2525C symbol sets vital for A.I. man-machine interface, interoperability, consistency, spatial – temporal consensus.
+
 TERRA Trade Reference Currency TRC: currency backed by RWA Real World Assets / commodities / commodity basket / index based featuring demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Economist Bernard Lietaer Source: http://lietaer.com/2010/01/terra/
+
 French Money of Peace: Le Fédériste“ "L'Europa monnaie de la paix" Money of peace" proposed January 1st 1933
+
 PRECEDENT: BRICS / Eurasian Economic Union Commodity Basket backed currency. “new global reserve currency.”
 “The matter of creating the international reserve currency based on the basket of currencies of our countries is under review” Source: Fintech Magazine
 
 Thomas Edison’s Monetary option: Thomas Edison and Henry Ford proposed a currency based on the value of a basket of crop commodities in 1922. Inventor Thomas Edison believed that crops held their value over time. “I want to cast the variable out of money. This gold money is not good enough. It's a fiction” (New York Times 1922).
+
 Question: what constitutes foundation tech for #DeFi / programmable $$$? Teams are forming to win the DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established foundation technology. What is foundation technology given SCOTUS 2014 "Alice in Wonderland" ruling? The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words, terms. 
+
 Supreme Court SCOTUS Alice in Wonderland Precedent: Packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube are abstractions, abstract ideas, terms. The afore mentioned terms are non-existent, fictitious, imaginary metaphorical fabrications are non - compliant with US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”.    Physical is the opposite of abstract.
+
 Procedural template entries at most, includes a line or two. In depth technical treatise (s) citing every conceivable nuance is impractical, counterproductive, and out of scope of an adaptive procedural template. Procedural template entries are pointers to more detailed treatise and references and are referential to a treatise A treatise is a formal and systematic written discourse on some subject, generally longer and treating it in greater depth than an essay and are concerned with investigating subject principles. Reference: Stanford University’s SLAC’s Adaptive Procedural Template 
  
 Fig B: Nobel Prize winning Economist Milton Friedman “only a crisis brings real change” 
 
 USE CASE: Provide signaling, telemetry, data element syntax lexicon support for economist Milton Friedman’s K% rule where a FEDCOIN / WORLDCOIN currency is supported from sampling lead economic indicators i.e., commodity RWA Real World Assets measurable, tangible, tokenized assets across a universal event bus applying the firefly-heartbeat algorithm tracking changes, updating q statistical mean value index. Nobel Prize winning economist Milton Friedman described an "economic heartbeat" in his K% rule where the Treasury increases the money supply increases and decreases pegged to increases, decreases in GDP index volume.
+
 USE CASE: Climate change impact on food production: given food, fertilizer shortages (wheat, sunflower, soybean...), energy, fuel prices and looming fuel rationing, it logically follows that the world has no other options than to organize both micro (local) and macro (global) economies observing space - time conservative SLA Service Level Agreements where closer = cheaper given closer = less fuel, C02, time resources used to produce, ship.. Demurrage fees incentivize conservation of resources, commodities i.e., discounts for locally produced, consumed goods and commodities. It is TIME.
+
 USE CASE: Leverage DOD / DARPA / NATO’s decades of work developing system of systems engineering best practice that involves development of over 300 message, structured data exchange spreadsheet templates of pre-packaged OPSCODE brevity codes organized in sets to support pre-defined, situation specific workflows, smart contracts in logistics, finance, and probabiily and statistically likely situation awareness, situation specific action – reaction supporting Artifical Intelligence and machine learning.
+
 USE CASES
 4 Supreme Court SCOTUS US SC 573 US 134 2347 Alice Corp Vs CLS Bank compliant, conformant physical meme i.e., cryptocurrency blockchain Digital Ledger Technology DLT programmable money for a programmable economy multi use meme
+
 5 Foundation technology for programmable money / economy i.e., Syntax Lexicon Namespace derived from NATO / DoD  brevity OPSCODE FFIRN, FFUDNS structured data exchange mapped to symbols for A.I. Big Data. Establishes a consistent, universal syntax structured data exchange library – lexicon using UTZ time stamping data by organization <Org_ID>. data class type, resource type to form a universal syntax, code, date element </tag> Rosetta Stone given all things internet are formed using 1. time epoch cycles 2. syntax as instructions 
+
 6 Distributed Autonomous Organization DAO Trade Federation common signaling, telemetry, symbol, and data element sets forming a foundation technology framework including structured data exchange to assist DAO’s stay synchronized, stochastically harmonized across UTZ zones.
+
 7 Tether, untether to autonomous DAO Distributed Autonomous Organization i.e., trade federations using agile, adhoc NetOps as an option to formal merger, acquisition. Support federations: from Latin: foedus, gen.: foederis, covenant characterized by a union of partially self-governing states or regions under a central government.
+
 8 Micro to macro-cycle system of systems data updates at agreed upon times observing agreed durations i.e., stock, commodity, currency trade epochs. Discrete time interval start, stop, TTL Time To Live trade windows commands embedded in </108> heartbeats, heartbeat messages.
+
 9 Algorithmic regulation / Algorithmic stable coin support: firefly inspired heartbeat synchronization algorithm in stocks, currency exchanges is a segue to algorithmic regulation. Improving temporal trade parity between Bitcoin Blockchain & conventional stock exchanges by using the firefly-heartbeat algorithm to take trade speed samples among trade populations across time zones to establish consensus among disparate trade protocols, optimal trade speed / frequency price discovery as a statistical mean. 
+
 10 The "Grail" A sync'd shared situational awareness view derived from filtering, prioritizing events drawn from a system of systems universal heartbeat message event bus sync delta epoch updates Universal Time Zone UTZ proposal using via improvement to the University of Bologna / Hungary’s firefly inspired heartbeat synchronization algorithm by matching the firefly synchronization pulse to the closest OPTEMPO Heart Beacon Cycle. 
+
 11 Support economist Milton Friedman’s K% rule where a CBDC, federal, world currency is derived from sampling lead GDP economic indicators across a global event message bus sync delta data, event changes updating for example, a RWA Real World Asset based commodity index backed currency.
+
 12 Establish, maintain Ecologically sustainable economic econometric epoch time cycles supporting universal standard measures, meters, metrics sync delta cyclic update temporal changes describing linear sequential, geo-spatial temporal intensity radius hop count econometric metrics and meters where closer is shorter and closer is cheaper, less CO2 carbon dioxide control SLA Service Level Agreement
+
 13 Data over wired, wireless power lines SLA service level agreement where closer = cheaper given closer involves maintenance of electrical, data equipment infrastructure
+
 USPTO 13/573,002 CLAIMS:
 1.	A systemic, adaptive, procedural template method used to improve synchronization in metrics, metering using </Org_ID>, {“URN”} XML data tags in signaling during heartbeat micro-cycles prior to data fusion center entry consisting of iterative heartbeat cycle metrics, meters reporting where state meta data heartbeat snapshot recalculations are performed at off site connectors that are signaling relays performing recalculation, syntax processing during macro-cycle epochs reconciling dissimilar standards, data syntax formats that are then reported signaled, news casted, beacon broadcasted to applique overlay graphics displays. Syntax code language parsed, processed during silicon chip generated time cycles forms all things internet, internet of money. Claim describes the military’s network centric operations systems of systems method of collecting state meta data sync delta heartbeat snapshot data during operational micro-cycles that is then summed, aggregated, disseminated and displayed during macro-cycles as part of situation awareness system of systems engineering procedures. 
 2.	A systemic, adaptive procedural template used to improve signaling, synchronization using TCP/IP heartbeat time stamping occurring during micro-cycles of state meta data prior to data fusion center entry among metrics, metering processes comprised of TCP/IP heartbeats, heartbeat messages signaled during micro-cycles scheduling instructions, commands, processes, procedures, algorithms, telemetry instructions for example, to master-controller processes i.e., block, start, stop, pause, resume, set Time To live TTL i.e., stock market high frequency flash trade, currency, interest rates, tax rates, time banking, cloud computing commodity exchanges, big data, electrical micro-grid, fungible goods, real time bidding, many use cases. Time stamping and applying descriptive data type tags to heartbeat state meta data after data is collected and queued, stored in temporary structures or entered into database instantiations after the fact is problematic. All internet supported devices including high frequency stock, currency, commodity etc., flash trade master controllers receive heartbeats. Heartbeats are silicon chip created intervals, epochs, time cycles used to (not) process syntax.
@@ -99,6 +130,7 @@ USPTO 13/573,002 CLAIMS:
 
 11 Electric dipole effect electric meter claim is based on electric dipole effect where closer is cheaper given less infrastructure needed given energy attenuates over distances • data over energy link where #energy pulses constitute a method and means to transmit data over electric wired, wireless pathways • electric dipole effect Radio Wave Properties: Electric and Magnetic Dipole Antennae LINK: https://youtu.be/wUpOlqbHcjI?t=111 
 SUMMARY of CLAIMS: The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize a system of federated systems comprised of diverse groups, people speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals. DoD / NATO structured data exchange involves reuse of over 300 use cases supported by hundreds of message sets described in spread sheet row - column format populated by thousands of brevity OPSCODES mapped to symbols essential to A.I. artificial intelligence man - machine interface.
+
 BITCOIN AS PROPERTY / LAND / Land Use Meme PRECEDENTS:
 - Hong Kong Court ruling Bitcoin as property Equivalent share of Bitcoin's total value in the form of digital real estate, using Earth's physical land model as the reference model
 - IRS memo #1421 Bitcoin purchase is akin to land purchase
@@ -152,6 +184,7 @@ Research: Current research into effective approaches to system of systems proble
 Systems of systems, while still being investigated predominantly in the defense sector, is also seeing application in such fields as national air and auto transportation and space exploration. Other fields where it can be applied include health care, design of the Internet, software integration, and energy management and power systems. Social-ecological interpretations of resilience, where different levels of our world (e.g., the Earth system, the political system) are interpreted as interconnected or nested systems, take a systems-of-systems approach. An application in business can be found for supply chain resilience. Reference: Wikipedia
 1.12 TEMPLATES
 Checklist: minimum list of items, components, building blocks, processes, procedures agreed upon within federations to achieve consensus forming a basis for equitable trade
+
 EXAMPLES
 - Consensus Algorithms: consensus methods to establish common metrics, meters and space-time synchronization across many disparate, distributed autonomous organizations. The main method uses conventions of a Little League Baseball tournament where the environment is surveyed, and boundaries form a 360-degree clock face time clock. Agents and workflow are represented by players, officials
 - Method includes for example, universal meme for Bitcoin and like cryptocurrencies, Blockchain Proof of Work, Stake, POET Proof of Elapsed Time, Project Lightning Vs Segregated Witness, and Fast Internet Bitcoin Relay Engine FIBRE... Therefore, a common tool / meme is needed to help establish consensus metrics, meters and to establish a code reference syntax lexicon - library of OPSCODE brevity codes mapped to symbols and (DoD / NATO) symbol sets useful for A.I. Artificial Intelligence       
@@ -259,13 +292,6 @@ Samples on different adaptive card designs demonstrating the art of possible wit
 1.35 Verification and Validation	See detailed treatise (s) on Verification and Validation abbreviated as V&V) are independent procedures used to check that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose. These are critical components of a quality management system such as ISO 9000.
 
 1.36 Exit Criteria: Organizations may elect to tether, untether to the Distributed Autonomous Organization based federation at their discretion (maintain autonomy) or organizations may be disconnected if they fail to observe federation rules.
-
-
- 
-
-
-
-
 
 APPENDIX B: Prior Art References, Acronyms, Terms, Memes, Metaphors
 
@@ -472,17 +498,22 @@ The World Economic Forum WEF in 2008: stated the need for a HFT High Frequency T
 
 HFT Circuit Breaker: </108> Heartbeat message Start, Stop, TTL epoch time limit trade window turn token pass </Org_ID> </URN>
 Hopf Fibration / Bloch sphere: In the mathematical field of differential topology, the Hopf fibration (also known as the Hopf bundle or Hopf map) describes a 3-sphere (a hypersphere in four-dimensional space) in terms of circles and an ordinary sphere. Discovered by Heinz Hopf in 1931, it is an influential early example of a fiber bundle. Technically, Hopf found a many-to-one continuous function (or "map") from the 3-sphere onto the 2-sphere such that each distinct point of the 2-sphere is mapped from a distinct great circle of the 3-sphere (Hopf 1931).[1] Thus the 3-sphere is composed of fibers, where each fiber is a circle — one for each point of the 2-sphere. The Hopf fibration has many implications, some purely attractive, others deeper. For example, stereographic projection S3 → R3 induces a remarkable structure in R3, which in turn illuminates the topology of the bundle (Lyons 2003). Stereographic projection preserves circles and maps the Hopf fibers to geometrically perfect circles in R3 which fill space. Here there is one exception: the Hopf circle containing the projection point maps to a straight line in R3 — a "circle through infinity". The fibers over a circle of latitude on S2 form a torus in S3 (topologically, a torus is the product of two circles) and these project to nested toruses in R3 which also fill space. The individual fibers map to linking Villarceau circles on these tori, with the exception of the circle through the projection point and the one through its opposite point: the former maps to a straight line, the latter to a unit circle perpendicular to, and centered on, this line, which may be viewed as a degenerate torus whose minor radius has shrunken to zero. Every other fiber image encircles the line as well, and so, by symmetry, each circle is linked through every circle, both in R3 and in S3. Two such linking circles form a Hopf link in R3Hopf proved that the Hopf map has Hopf invariant 1, and therefore is not null-homotopic. In fact it generates the homotopy group π3(S2) and has infinite order. In quantum mechanics, the Riemann sphere is known as the Bloch sphere, and the Hopf fibration describes the topological structure of a quantum mechanical two-level system or qubit. Similarly, the topology of a pair of entangled two-level systems is given by the Hopf fibration. See USPTO 13/573,002 water drop in pond, Paul Revere linear sequential (line) memes. Source: https://en.wikipedia.org/wiki/Hopf_fibration
+
 Financial Nostradamus / USPTO 13/573,002 fusion: Veritaseum is a blockchain-based fintech software company which delivers global access to peer-to-peer capital markets through its decentralized platform, digital asset research, and transfers. At heart, the project seeks to level the economic playing field by creating software which enables participation in P2P capital markets without intermediates like banks, brokers, financial advisors, and other mediators. The use case of VERI token is to redeem with Veritaseum software for advisory services, research and to gain entry into Veritaseum’s autonomous financial machines, P2P value trading system, and P2P letters of credit. The platforms utility token VERI is used to purchase access to the platform's products and services, which range from asset tokenization to financial research data and even self-custody escrow services. VeADIR stands for Veritaseum Autonomous Distributed Interactive Research. Source: https://cryptonews.com/coins/veritaseum/
+
 Financial Standard ISO 20022 is a International Standard prepared by ISO Technical Committee TC68 Financial Services. It describes a common platform for the development of messages in ASN.1 Abstract Syntax Notation: A single standardization approach (methodology, process, repository) to be used by all financial standards initiatives. It is a common platform for the development of messages using:
 - a modelling methodology to capture in a syntax-independent way financial business areas, business transactions and associated message flows
 - a central dictionary of business items used in financial communications
 - a set of XML and ASN.1 design rules to convert the message models into XML or ASN.1 schemas, when use of the ISO 20022 XML or ASN.1-based syntax is preferred. 
 The resulting models and derived messages are published in the Catalogue of messages and stored in the ISO 20022 Financial Repository available on this website. This flexible framework allows communities of users and message development organizations to define message sets according to an internationally agreed approach using internationally agreed business semantics and, whenever desirable, to migrate to the use of a common XML or ASN.1-based syntax. 
+
 ISO 20022 ISO describes semantic Foundation Tech / Standards for programmable $ given the internet was financed, steered by the Department of Defense / NATO. Why reinvent decades of research and system of systems engineering structured data exchange best practice? Is this even possible any time soon?
 Gross national income (GNI), previously known as gross national product (GNP), is the total domestic and foreign output claimed by residents of a country, consisting of Gross Domestic Product (GDP), plus factor incomes earned by foreign residents, minus income earned in the domestic economy by nonresidents (Todaro & Smith, 2011: 44).[2] Comparing GNI to GDP shows the degree to which a nation's GDP represents domestic or international activity. Kuznets became the first economist to show that the Absolute Income Hypothesis gives inaccurate predictions in the long run by using time-series data. Wikipedia https://en.wikipedia.org/wiki/Simon_Kuznets
+
 IDMAPS – SONAR HOPS: internet distance estimation service: IDMaps is a global internet host distance estimation service that provides distance information used by SONAR / HOPS query / reply service. IDMaps measures, disseminates internet wide distance information to for example, Distributed Autonomous Virtual Organizations DAVOS. Higher level services for example at the macro-cycle level collect distance information to build a virtual distance map of internet by estimating distance between any IP address pair. Location is achieved by use of triangulation Distance information adjusts to “permanent” topology changes e.g., splits, joins, adds, moves, drops, merges in lieu of formal merger / acquisition. IDMaps assists Network Time Protocol (NTP) servers establish long term peering relationships. Distance Metrics focus is on latency (e.g., round-trip delay) and where possible, bandwidth. We improve stochastic harmonization by use of firefly inspired algorithms that strive to achieve synchronization by matching firefly synchronization behavior with the closest heartbeat snapshot. LINK
 
 IEEE 802.11AG hop-by-hop detection and control for epoch assignment and hop counts management and for hop by hop detection function to determine hop by hop count corresponding to machine readable and executable null / 0 and steps from null representing hop counts e.g., +1, +2, +3, +4 and / or -1, -2, -3, -4 Paul Revere linear, sequential metaphor indicating distance traveled in context with router / server / switch / node traversal. IEEE 802.11 HbH hop by hop control described, represented by USPTO 13/573,002 Paul Revere, rain drop in pond meme - metaphor metrics denoting increases / decreases in thresholds intensity, duration and hop count sums
+
 IEEE 802.11AG hop by hop detection, control for epoch assignment, hop count management, hop by hop detection function to determine hop by hop count corresponding null / 0 and steps from null representing hop counts e.g., +1, +2, +3, +4 and / or -1, -2, -3, -4 Paul Revere linear, sequential metaphor indicating distance traveled in context with router / server / switch / node traversal
 
 IEEE 802.11 HbH hop by hop control supporting Paul Revere, metrics of increases / decreases in thresholds, intensity, duration and hop count summation  
@@ -518,6 +549,7 @@ MICROSOFT Azure Blockchain as a Service (BaaS): Project Bletchley is a vision fo
 
 Milton Friedman’s K% rule as an “economic heartbeat”. K-Percent Rule DEFINITION: The K-Percent Rule proposal by economist Milton Friedman was the central bank should increase the money supply by a constant percentage every year. The K-Percent Rule proposes to set the money supply growth / reduction at a rate equal to the growth of real GDP each year. K-Percent Rule 
 Milton Friedman's K% rule is a GDP Gross Domestic Product economic heartbeat, a GDP pulse. Apply a Quantum Random Number Beacon QRNB for non-repudiation at any location / time in the future = basis for a one world economic system of systems unit of value statistical mean value index for a Federal FEDCOIN, World Coin. Milton Friedman was a Nobel Prize winning Economist Investopedia http://www.investopedia.com/terms/k/k-percent-rule.asp
+
 MONEYBALL: The Art of Winning in an Unfair Game Book
 Moneyball: The Art of Winning an Unfair Game is a book by Michael Lewis is about the Oakland Athletics baseball team and its general manager Billy Beane. http://en.wikipedia.org/wiki/Moneyball 
 https://datascience.berkeley.edu/moneyball-book-review/
