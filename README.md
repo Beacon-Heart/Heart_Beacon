@@ -887,24 +887,43 @@ Ultimately, only the date when the best, most useful meme was filed matters. The
 APPENDIX D: REFERENCES / SOCIAL MEDIA LINKS
 
 GITHUB DOCUMENTS: https://github.com/Beacon-Heart/Heart_Beacon 
+
 Proton Email (secure) ecoeconomicepochs@protonmail.com
+
 Unstoppable Domains IPFS Web 3 page:  http://ecoeconomicepochs.dao
+
 Slideshare: https://www.slideshare.net/EcoEconomicHeartbeat
+
 PIN INTEREST: https://www.pinterest.com/EcoEconomicEpochs/ 
+
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
+
 WordPress: http://ecoheartbeat.wordpress.com  
+
 Substack: https://ecoeconomicheartbeat.substack.com/
+
 Mastadon: https://universeodon.com/@Heart_Beacon
+
 FACEBOOK: https://www.facebook.com/beaconheart 
+
 MINDS: https://www.minds.com/beaconheart/
+
 TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
+
 DISCORD: GDP_Index_Economy#6495
+
 Skype: Steven McGee  
+
 Gravatar: https://en.gravatar.com/ecoeconheartbeat
+
 MeWE: http://mewe.com/i/stevenmcgee2
+
 Maven: https://app.maven.co/maven/506065 
+
 Gitter https://gitter.im/EcoEconHeartbeat/Lobby 
+
 EIN Earth Intelligence Network: Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
+
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
 
 
