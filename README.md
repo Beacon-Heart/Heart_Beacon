@@ -894,6 +894,10 @@ Unstoppable Domains IPFS Web 3 page:  http://ecoeconomicepochs.dao
 
 Slideshare: https://www.slideshare.net/EcoEconomicHeartbeat
 
+SCRIBD files: https://www.scribd.com/user/11781571/Steven-James-McGee
+
+PATREON: https://www.patreon.com/Heart_Beacon
+
 PIN INTEREST: https://www.pinterest.com/EcoEconomicEpochs/ 
 
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
@@ -902,9 +906,13 @@ WordPress: http://ecoheartbeat.wordpress.com
 
 Substack: https://ecoeconomicheartbeat.substack.com/
 
+Subscribe Star: https://www.subscribestar.com/eco_econ_epochs
+
 Mastadon: https://universeodon.com/@Heart_Beacon
 
 FACEBOOK: https://www.facebook.com/beaconheart 
+
+MEDIUM: https://medium.com/@heart.beacon.cycle
 
 MINDS: https://www.minds.com/beaconheart/
 
@@ -921,8 +929,6 @@ MeWE: http://mewe.com/i/stevenmcgee2
 Maven: https://app.maven.co/maven/506065 
 
 Gitter https://gitter.im/EcoEconHeartbeat/Lobby 
-
-EIN Earth Intelligence Network: Robert David Steele’s #UNRIG proposal @ http://robertdavidsteele.com
 
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
 
