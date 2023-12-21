@@ -1,4 +1,6 @@
-Adaptive Procedural Template Use Cases
+Adaptive Procedural Template 
+
+USE CASE: FIX MONEY = FIX WORLD
 
 TABLE OF CONTENTS 
 
