@@ -1,4 +1,4 @@
-Adaptive Procedural Template 
+Adaptive Procedural Template USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter
 
 USE CASE: FIX MONEY = FIX WORLD
 
