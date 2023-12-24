@@ -1,6 +1,6 @@
 ADAPTIVE PROCEDURAL TEMPLATE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter
 
-USE CASE: FIX MONEY = FIX WORLD // Parallel Economy RWA Real World Asset support framework / Mediation gateways to legacy FIAT Economy
+USE CASE: FIX MONEY = FIX WORLD // Parallel Economy RWA Real World Asset framework / Mediation gateways to legacy FIAT Economy
 
 TABLE OF CONTENTS 
 
