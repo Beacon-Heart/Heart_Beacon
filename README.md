@@ -1,8 +1,8 @@
 ADAPTIVE PROCEDURAL TEMPLATE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter
 
-Net, Net of $$$ / Economy Adaptive Procedural template framework: parallel economy sync, stochastic harmonization, metrics, meters, syntax mapped to symbol sets USE CASE (s): FIX MONEY = FIX WORLD
+MAIN USE CASE: Net, Net of $$$ / Economy Adaptive Procedural template framework: parallel economy sync, stochastic harmonization, metrics, meters, syntax mapped to symbol sets USE CASE (s): FIX MONEY = FIX WORLD
 
-Parallel Economy mediation gateways to FIAT economy (s) / GDP Gross Domestric Product pacing items RWA Real World Asset framework
+MAIN USE CASE: Parallel Economy mediation gateways to FIAT economy (s) / GDP Gross Domestric Product pacing items RWA Real World Asset framework
 
 TABLE OF CONTENTS 
 
