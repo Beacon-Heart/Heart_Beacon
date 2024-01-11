@@ -8,7 +8,7 @@ MAIN USE CASE: Net, Net of $$$ - Economy Adaptive Procedural template framework
 
 - Parallel Economy mediation gateways to FIAT economy (s) 
 
-- GDP Gross Domestric Product pacing items RWA Real World Asset framework
+- GDP Gross Domestic Product pacing items RWA Real World Asset framework
 
 TABLE OF CONTENTS 
 
