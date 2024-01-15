@@ -457,18 +457,17 @@ Blocks created along a blockchain items #113, 123, 126, stored in a cube 131 USP
 BITCOIN / CRYPTOCURRENCY PROGRAMMABLE MONEY: a.k.a. the “Internet of Money” “Bitcoin is a language” “Bitcoin’s language is time itself” Diginomics.com
 
 Bitcoin Time-Chain" "creates a new layer of trust that we can all reference".. Bitcoin is the TIME - CHAIN that creates a BEACON of TRUTH.. economically incentivized to show truth" Bitcoin Magazine & Mark Moss .. "store of wealth = baseball card": SOURCE: https://bitcoinmagazine.com/ 
-Black Sox Major League 1919 World Series Baseball game-fixing scandal: eight members of the Chicago White Sox were accused of losing the 1919 World Series against the Cincinnati Reds on purpose in exchange for money from a gambling syndicate led by Arnold Rothstein. The National Baseball Commission was dissolved, and Judge Kenesaw Mountain Landis was appointed to be the first Commissioner of Baseball and given absolute control over the sport to restore its integrity. 
-Philadelphia Bulletin published a poem which would quickly prove to be ironic:
-Still, it really doesn't matter, After all, who wins the flag. Good clean sport is what we're after, And we aim to make our brag To each near or distant nation Whereon shines the sporting sun That of all our games gymnastic Baseball is the cleanest one!
-Source: https://en.wikipedia.org/wiki/Black_Sox_Scandal
+
+Black Sox Major League 1919 World Series Baseball game-fixing scandal: eight members of the Chicago White Sox were accused of losing the 1919 World Series against the Cincinnati Reds on purpose in exchange for money from a gambling syndicate led by Arnold Rothstein. The National Baseball Commission was dissolved, and Judge Kenesaw Mountain Landis was appointed to be the first Commissioner of Baseball and given absolute control over the sport to restore its integrity. Philadelphia Bulletin published a poem which would quickly prove to be ironic:
+Still, it really doesn't matter, After all, who wins the flag. Good clean sport is what we're after, And we aim to make our brag To each near or distant nation Whereon shines the sporting sun That of all our games gymnastic Baseball is the cleanest one! Source: https://en.wikipedia.org/wiki/Black_Sox_Scandal
+
 BLOCKCHAIN DISTRIBUTED LEDGER: provides a tamper-proof data structure, providing a shared public ledger open to all. The mathematics involved are impressive, and the use of specialized hardware to construct this vast chain of cryptographic data renders it practically impossible to replicate. All transactions are embedded in the bitcoin blockchain. Use of SHA-256 cryptography ensures the integrity of the blockchain applications – all transactions must be signed using a private key or seed, which prevents third parties from tampering with it. Transactions are confirmed by the network within 10 minutes or so and this process is handled by bitcoin miners. Mining is used to confirm transactions through a shared consensus system, and usually requires several independent confirmations for the transaction to go through. This process strives towards random distribution and makes tampering difficult.
 
 BLOCH SPHERE: In quantum mechanics and computing, the Bloch sphere is a geometrical representation of the pure state space of a two-level quantum mechanical system ( qubit ), named after the physicist Felix Bloch. Quantum mechanics is mathematically formulated in Hilbert space or projective Hilbert space.
 
 Blockchain Tri-lemma: The perfect blockchain includes three elements: Security, decentralization, and scalability. Finding a balance between the three is difficult and presents a problem referred to as the blockchain trilemma. Scalability and decentralization are often held back by security, but security tends to be compromised by any shifts on a network that offer scalability. Projects either choose to focus on two out of three or work on finding a solution to tackle the trilemma once and for all. Innovative ideas like sharding, side-chains and state channels are used to address the trilemma. A solution to the problem could lead to greater adoption of cryptocurrency and blockchain and a wide-spread use of the technology across industries.
 
-BITNATION GOVERNANCE 2.0 LINK https://bitnation.co/
-BITNATION provides the same services traditional governments provides, from dispute resolution and insurance to security and much more – but in a geographically unbound, decentralized, and voluntary way. BITNATION is powered by Cryptocurrency blockchain Distributed Ledger DLT technology – a cryptographically secured distributed public ledger. “As we like to say – BITNATION: Blockchains, Not Borders”.
+BITNATION GOVERNANCE 2.0 LINK https://bitnation.co/ BITNATION provides the same services traditional governments provides, from dispute resolution and insurance to security and much more – but in a geographically unbound, decentralized, and voluntary way. BITNATION is powered by Cryptocurrency blockchain Distributed Ledger DLT technology – a cryptographically secured distributed public ledger. “As we like to say – BITNATION: Blockchains, Not Borders”.
 
 BUCKMINSTER FULLER’s SPACE-SHIP EARTH: Operating Manual for Spaceship Earth relates Earth to a spaceship flying through space. The spaceship has a finite amount of resources and cannot be resupplied. Buckminster Fuller Institute LINK  BFI dot Org https://en.wikipedia.org/wiki/Operating_Manual_for_Spaceship_Earth. FOCUS QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster "Bucky" Fuller
 
@@ -510,15 +509,17 @@ DHS goal: "A national common operating picture for critical infrastructure". A c
 
 ECO INCENTIVES: Ecologically sustainable economic transactions need to be incentivized among the world’s Ecological and Economic system of systems. 
 DECISION POINT: Economic #RESET is a mathematical certainty. Do we RESET the global system of systems as is or will we re-engineer using NATO system of systems engineering standing on the shoulders of giants
-1.	CLIMATE CHANGE: IF / WHEN: Climate Change causes a drop in crop commodity food production by 20–25 % while population continues to grow, THEN it follows that this condition will become a matter of national security. It’s TIME to implement an Ecologically Sustainable Economic Heartbeat ELSE face > greater chaos by not leveraging proven system of system structured data exchange methods. An ecologically sustainable economic heartbeat is needed. Why wait until crisis?
 
-2.	CLIMATE CHANGE: IF climate change causes a drop in crop commodity by 20–25 % while population grows, THEN this condition will become a matter of national security. THEN this will require revisiting Belgian Economist Bernard Lietaer’s TRC Trade Reference Currency ELSE face > socio economic chaos 
+1. CLIMATE CHANGE: IF / WHEN: Climate Change causes a drop in crop commodity food production by 20–25 % while population continues to grow, THEN it follows that this condition will become a matter of national security. It’s TIME to implement an Ecologically Sustainable Economic Heartbeat ELSE face > greater chaos by not leveraging proven system of system structured data exchange methods. An ecologically sustainable economic heartbeat is needed. Why wait until crisis?
+
+2. CLIMATE CHANGE: IF climate change causes a drop in crop commodity by 20–25 % while population grows, THEN this condition will become a matter of national security. THEN this will require revisiting Belgian Economist Bernard Lietaer’s TRC Trade Reference Currency ELSE face > socio economic chaos 
 
 TERRA Trade Reference Currency by Economist Bernard Lietaer LINK http://lietaer.com/2010/01/terra/
 Econometrics analyzes data using statistical methods to test, develop economic theory. These methods rely on statistical inferences to quantify and analyze economic theories by leveraging tools such as frequency distributions, probability, and probability distributions, statistical inference, correlation analysis, simple and multiple regression analysis, simultaneous equations models, and time series methods. Source: Investopedia: https://www.investopedia.com/terms/e/econometrics.asp 
+
 Electric dipole effect Electric meter claim based on electric dipole effect: closer is cheaper given less infrastructure needed given energy attenuates over distances • data over energy link where #energy pulses constitute a method and means to transmit data over electric wired, wireless pathways • electric dipole effect Radio Wave Properties: Electric and Magnetic Dipole Antennae Source: https://youtu.be/wUpOlqbHcjI?t=111 • water drop in pond meme •Paul Revere linear, sequential series
-ENERGY WIRELESS TRANSFER TESLA INSPIRED
-DARPA POWER ("Persistent Optical Wireless Energy Relay"): "develop a means of distributing energy wirelessly around the globe through airborne power transfer. First dreamed up by Nikola Tesla almost 100 years ago, if successful, this would be the most significant change to energy transfer since the first rollout of electrification almost 150 years ago. The program goals include demonstrating the key components of a resilient, speed-of-light energy network". DARPA plans to create wireless energy transfer infrastructure to supply near-uninterruptable power to U.S. military bases worldwide. The plan, as reported by Popular Mechanics, is to use laser technology to beam electricity around the planet. Famously a dream of Nikola Tesla over 100 years ago, if successful, this technology, called fittingly enough POWER ("Persistent Optical Wireless Energy Relay"), would make the U.S. military less reliant on liquid fuel like diesel and vulnerable power lines, which can be intercepted or sabotaged by enemy forces. https://interestingengineering.com/innovation/darpa-laser-power-transfer
+
+ENERGY WIRELESS TRANSFER TESLA INSPIRED DARPA POWER ("Persistent Optical Wireless Energy Relay"): "develop a means of distributing energy wirelessly around the globe through airborne power transfer. First dreamed up by Nikola Tesla almost 100 years ago, if successful, this would be the most significant change to energy transfer since the first rollout of electrification almost 150 years ago. The program goals include demonstrating the key components of a resilient, speed-of-light energy network". DARPA plans to create wireless energy transfer infrastructure to supply near-uninterruptable power to U.S. military bases worldwide. The plan, as reported by Popular Mechanics, is to use laser technology to beam electricity around the planet. Famously a dream of Nikola Tesla over 100 years ago, if successful, this technology, called fittingly enough POWER ("Persistent Optical Wireless Energy Relay"), would make the U.S. military less reliant on liquid fuel like diesel and vulnerable power lines, which can be intercepted or sabotaged by enemy forces. https://interestingengineering.com/innovation/darpa-laser-power-transfer
 
 USPTO 13/573,002 claim: closer- cheaper given less attenuation over distance, less infrastructure needed. SCOTUS Alice in Wonderland 2014 ruling compliant water drop in pond physical meme for sound / light metrics, meters, descriptions relevant to sound, optical based quantum computing. Source: Interesting Engineering:
 https://interestingengineering.com/innovation/wireless-energy-transmission-darpa
@@ -553,16 +554,16 @@ Paper: Firefly-inspired Heartbeat Synchronization in Overlay Networks.Ozalp Baba
 Univ. Bologna, Italy http://cs.unibo.it/~babaoglu/papers/pdf/SASO07-fireflies.pdf
 
 FIREFLY – HEARTBEAT ALGORITHM CHINA: The firefly algorithm (FA) is a nature-inspired metaheuristic optimization algorithm developed by Xin-She Yang that is inspired by the flashing behavior of fireflies (Yang, 2008), originally designed to solve continuous optimization problems (Lukasik and Żak, 2010 a major part of an edited book was also dedicated to the firefly algorithm and its applications (Yang, 2013a). For example, Senthilnath et al. provided an extensive performance study by comparing the firefly algorithm with 11 different algorithms and concluded that FA can be used for efficient clustering (Senthilnath et al., 2011); From: Swarm Intelligence and Bio-Inspired Computation, 2013 https://www.sciencedirect.com/topics/engineering/firefly-algorithm
+
 FIX 4.0 : Heartbeat <0> message: The Heartbeat <0> is useful for monitoring the status of the communication link and to identify when the last of a string of messages was not received. When either end of a FIX connection has not sent any data for [HeartBtInt <108>] seconds, it will transmit a Heartbeat <0> message. When either end of the connection has not received any data for (HeartBtInt <108> + "some reasonable transmission time") seconds, it will transmit a Test Request <1> message. If there is still no Heartbeat <0> message received after (HeartBtInt <108> + "some reasonable transmission time") seconds then the connection should be considered lost and corrective action be initiated. If HeartBtInt <108> is set to zero then no regular Heartbeat <0> messages will be generated. Note that a Test Request <1> message can still be sent independent of the value of the HeartBtInt <108> which will force a Heartbeat <0> message. Heartbeats issued as the result of Test Request <1> must contain the TestReqID <112> transmitted in the Test Request <1> message. This is useful to verify that the Heartbeat <0> is the result of the Test Request <1> and not as the result of a regular timeout. Source: https://www.onixs.biz/fix-dictionary/4.0/msgtype_0_0.html
 
 HEARTBEAT: In computer science, a heartbeat is a periodic signal generated by hardware or software to indicate normal operation or to synchronize other parts of a computer system.[1][2] Heartbeat mechanism is one of the common techniques in mission critical systems for providing high availability and fault tolerance of network services by detecting the network or systems failures of nodes or daemons which belongs to a network cluster—administered by a master server—for the purpose of automatic adaptation and rebalancing of the system by using the remaining redundant nodes on the cluster to take over the load of failed nodes for providing constant services.[3][1] Usually a heartbeat is sent between machines at a regular interval in the order of seconds; a heartbeat message.[4] If the endpoint does not receive a heartbeat for a time—usually a few heartbeat intervals—the machine that should have sent the heartbeat is assumed to have failed.[5] Heartbeat messages are typically sent non-stop on a periodic or recurring basis from the originator's start-up until the originator's shutdown. When the destination identifies a lack of heartbeat messages during an anticipated arrival period, the destination may determine that the originator has failed, shutdown, or is generally no longer available.
+
 Heartbeat protocol used to negotiate and monitor the availability of a resource, such as a floating IP address. The procedure involves sending network packets to all the nodes in the cluster to verify its reachability.[3] Typically when a heartbeat starts on a machine, it will perform an election process with other machines on the heartbeat network to determine which machine, if any, owns the resource. On heartbeat networks of more than two machines, it is important to take into account partitioning, where two halves of the network could be functioning but not able to communicate with each other. In a situation such as this, it is important that the resource is only owned by one machine, not one machine in each partition.
 As a heartbeat is intended to be used to indicate the health of a machine, it is important that the heartbeat protocol and the transport that it runs on are as reliable as possible. Causing a failover because of a false alarm may, depending on the resource, be highly undesirable. It is also important to react quickly to an actual failure, further signifying the reliability of the heartbeat messages. For this reason, it is often desirable to have a heartbeat running over more than one transport; for instance, an Ethernet segment using UDP/IP, and a serial link.
-A "cluster membership" of a node is a property of network reachability: if the master can communicate with the node  it's considered a member of the cluster and "dead" otherwise.[6] A heartbeat program as a whole consist of various subsystems:[7]
-Heartbeat Subsystem (HS): The subsystem that monitors the node's presence within the cluster through a series of keepalive or "hear-beat messages".
+A "cluster membership" of a node is a property of network reachability: if the master can communicate with the node  it's considered a member of the cluster and "dead" otherwise.[6] A heartbeat program as a whole consist of various subsystems:[7] Heartbeat Subsystem (HS): The subsystem that monitors the node's presence within the cluster through a series of keepalive or "hear-beat messages".
 Cluster Manager (CM): The subsystem within the cluster—usually the master server—which keeps track of the "cluster members" and records which resources are on which nodes.
-Cluster Transition (CT): When a node joins or leaves the cluster, this subsystem is responsible for keeping track of such occurrences for the purpose of triggering events to rebalancing and reconfiguring the master to distribute the load.
-Heartbeat messages are sent in a periodic manner through techniques such as broadcast or multicasts in larger clusters.[6] Since CMs have transactions across the cluster, the most common pattern is to send heartbeat messages to all the nodes and "await" responses in non-blocking fashion.[8] Since the heartbeat or keepalive messages are the overwhelming majority of non-application related cluster control messages—which also goes to all the members of the cluster—major critical systems also include non-IP protocols like serial ports to deliver heartbeats.[9] Wikipedia
+Cluster Transition (CT): When a node joins or leaves the cluster, this subsystem is responsible for keeping track of such occurrences for the purpose of triggering events to rebalancing and reconfiguring the master to distribute the load. Heartbeat messages are sent in a periodic manner through techniques such as broadcast or multicasts in larger clusters.[6] Since CMs have transactions across the cluster, the most common pattern is to send heartbeat messages to all the nodes and "await" responses in non-blocking fashion.[8] Since the heartbeat or keepalive messages are the overwhelming majority of non-application related cluster control messages—which also goes to all the members of the cluster—major critical systems also include non-IP protocols like serial ports to deliver heartbeats.[9] Wikipedia
 
 Heartbeat Message Test Request: FIX 4.0 : Description
 The Test Request <1> message is utilized to force a heartbeat from the opposing application. The Test Request <1> message is useful for checking sequence numbers or verifying communication line status. The opposite application will respond to the Test Request <1> with a Heartbeat <0> containing the TestReqID <112>.
@@ -572,8 +573,11 @@ The TestReqID <112> is used to verify that the opposite application is generatin
 GAMIFICATION: application of typical elements of game playing (e.g., point scoring, competition with others, rules of play) to other areas of activity, typically as an online marketing technique to encourage engagement with a product or service
 
 GDP INDEX ECONOMY: Thomas Edison and Henry Ford proposed a currency based on the value of a basket of crop commodities. Edison believed that crops held their value over time. Consider climate change reality and the merits are self-evident.
+
 GERMAN ARMY RECOMMENDATION CIRCA 2003: using Battlefield Digitization, Net Centric Warfare, System of Systems Engineering best practice for OOTW Operations Other Than War - a German Army suggestion made in 2003 to support DATF Distributed Autonomous Trade Federations / DAOs for a world economic framework.
+
 GEIA-STD-0007 Logistics Product Data Central Exchange Federated database, must establish exchange agreements with each “Partner”. • Point to Point Simple exchange, must establish exchange agreements and Protocols with each Partner , similar data and structure. Data Types Dictionary  XML Schema for Logistics Product Data – Update/Change Process  XML Schemas for Transaction Sets – Provisioning & Style Sheet –– Task Analysis. Data Element Dictionary Example The probability that, when used under stated conditions in an ideal support environment, a system will operate satisfactorily at any time. This differs from Inherent Availability only in its inclusion of consideration for preventive action. Aa excludes supply downtime and administrative downtime. The measurement bases for MTBM and M must be consistent when calculating Aa. Aa may be expressed by the following formula: Aa = MTBM__ MTBM + M where MTBM = ( 1 1 1 ) -1 MTBF+ MTBM-ND + MTBPM N Σ (ETi) (TFi) i=1 M = N Σ TFi i=1 M = Mean active maintenance downtime (where corrective and preventive actions are considered) ETi = Elapsed time for task i TFi = Task frequency for task i N = Total number of tasks performed Note: The measurement bases for MTBF, MTBM-ND, and MTBPM must be consistent when calculating the MTBM parameter.
+
 GITHUB: GitHub is a web-based Git repository hosting service. It offers distributed revision control, source code, source code management, bug tracking, feature requests, task management, and Wikis for every project. GitHub renders common formats like text, CSV, and geospatial data. GitHub includes enterprise controls to collaborate openly while limiting access to a team, to select stakeholders, or to entire organizations. LINK http://github.com/Beacon-Heart/Heart-Beacon
 
 GRAPHENE: form of partnership called a Decentralized Conglomerate A universal shared platform allows organizations to have a common interest in the platform itself, without the platform imposing any control on the organizations that join the universal platform ecosystem where organizations directly invest in each other.” Profits can be shared without the necessity of the companies coordinating their operations. “ By entering into a Decentralized Conglomerate means the co-ordination takes place within an automated system,” “The OpenLedger team has created the universal shared platform on which organizations can enter agreements to share their profits in exchange for community support.” Graphene Blockchain Worker System LINK https://bitshares.org/doxygen/group__workers.html
@@ -582,24 +586,30 @@ HADOOP: Apache Hadoop is an open-source software framework for distributed stora
 Hashgraph is a distributed ledger technology that has been described as an alternative to blockchains. The hashgraph technology is currently patented, and the only authorized ledger is Hedera Hashgraph. The native cryptocurrency of the Hedera Hashgraph system is HBAR. Unlike blockchains, hashgraphs do not bundle data into blocks or use miners to validate transactions. Instead, hashgraphs use a "gossip about gossip" protocol where the individual nodes on the network "gossip" about transactions to create directed acyclic graphs that time-sequence transactions.[1] Each "gossip" message contains one or more transactions plus a timestamp, a digital signature, and cryptographic hashes of two earlier events. This makes Hashgraph form an asynchronous Byzantine Fault-Tolerant (aBFT) consensus algorithm.[2] Hashgraph was invented by the American computer scientist Leemon Baird. Baird is the co-founder, chief technical officer of Swirlds holder of hashgraph algorithm patents
 HISTOGRAMS / TIMERS: Histograms are collections of statistical analysis values, such as mean, min, max, kurtosis and percentile that can be used as timed update functions.
 
-
 HFT High Frequency Trade Circuit Breaker / Trade Window token passing
 
 The World Economic Forum WEF in 2008: stated the need for a HFT High Frequency Trade circuit breaker. Given the quantum computing arms race where quantum computer A is "1000 x faster" than B, is it TIME? Use of the </108> heartbeat message is a simple method to implement a way to stop trade activities, algorithms belonging to a specific system or company, fund rather than shutting down the entire trading system. Setting time limits (TTL Time To Live) token passing to trade windows pegged to the closest statistical mean heartbeat epoch avoids the potential of rapid attrition of firms with slower quantum, non-quantum systems and retail individual investors. If given a choice of detecting </events> {"events"} using quantum particles or waves, are not waves preferable given a wave is more likely to reliably detect an event than a probabilistic based particle? Wave detection doesn't necessarily involve cooling to absolute zero that consumes resources and energy to a greater degree.
 
 HFT Circuit Breaker: </108> Heartbeat message Start, Stop, TTL epoch time limit trade window turn token pass </Org_ID> </URN>
+
 Hopf Fibration / Bloch sphere: In the mathematical field of differential topology, the Hopf fibration (also known as the Hopf bundle or Hopf map) describes a 3-sphere (a hypersphere in four-dimensional space) in terms of circles and an ordinary sphere. Discovered by Heinz Hopf in 1931, it is an influential early example of a fiber bundle. Technically, Hopf found a many-to-one continuous function (or "map") from the 3-sphere onto the 2-sphere such that each distinct point of the 2-sphere is mapped from a distinct great circle of the 3-sphere (Hopf 1931).[1] Thus the 3-sphere is composed of fibers, where each fiber is a circle — one for each point of the 2-sphere. The Hopf fibration has many implications, some purely attractive, others deeper. For example, stereographic projection S3 → R3 induces a remarkable structure in R3, which in turn illuminates the topology of the bundle (Lyons 2003). Stereographic projection preserves circles and maps the Hopf fibers to geometrically perfect circles in R3 which fill space. Here there is one exception: the Hopf circle containing the projection point maps to a straight line in R3 — a "circle through infinity". The fibers over a circle of latitude on S2 form a torus in S3 (topologically, a torus is the product of two circles) and these project to nested toruses in R3 which also fill space. The individual fibers map to linking Villarceau circles on these tori, with the exception of the circle through the projection point and the one through its opposite point: the former maps to a straight line, the latter to a unit circle perpendicular to, and centered on, this line, which may be viewed as a degenerate torus whose minor radius has shrunken to zero. Every other fiber image encircles the line as well, and so, by symmetry, each circle is linked through every circle, both in R3 and in S3. Two such linking circles form a Hopf link in R3Hopf proved that the Hopf map has Hopf invariant 1, and therefore is not null-homotopic. In fact it generates the homotopy group π3(S2) and has infinite order. In quantum mechanics, the Riemann sphere is known as the Bloch sphere, and the Hopf fibration describes the topological structure of a quantum mechanical two-level system or qubit. Similarly, the topology of a pair of entangled two-level systems is given by the Hopf fibration. See USPTO 13/573,002 water drop in pond, Paul Revere linear sequential (line) memes. Source: https://en.wikipedia.org/wiki/Hopf_fibration
+
 Financial Nostradamus / USPTO 13/573,002 fusion: Veritaseum is a blockchain-based fintech software company which delivers global access to peer-to-peer capital markets through its decentralized platform, digital asset research, and transfers. At heart, the project seeks to level the economic playing field by creating software which enables participation in P2P capital markets without intermediates like banks, brokers, financial advisors, and other mediators. The use case of VERI token is to redeem with Veritaseum software for advisory services, research and to gain entry into Veritaseum’s autonomous financial machines, P2P value trading system, and P2P letters of credit. The platforms utility token VERI is used to purchase access to the platform's products and services, which range from asset tokenization to financial research data and even self-custody escrow services. VeADIR stands for Veritaseum Autonomous Distributed Interactive Research. Source: https://cryptonews.com/coins/veritaseum/
+
 Financial Standard ISO 20022 is a International Standard prepared by ISO Technical Committee TC68 Financial Services. It describes a common platform for the development of messages in ASN.1 Abstract Syntax Notation: A single standardization approach (methodology, process, repository) to be used by all financial standards initiatives. It is a common platform for the development of messages using:
 - a modelling methodology to capture in a syntax-independent way financial business areas, business transactions and associated message flows
 - a central dictionary of business items used in financial communications
 - a set of XML and ASN.1 design rules to convert the message models into XML or ASN.1 schemas, when use of the ISO 20022 XML or ASN.1-based syntax is preferred. 
 The resulting models and derived messages are published in the Catalogue of messages and stored in the ISO 20022 Financial Repository available on this website. This flexible framework allows communities of users and message development organizations to define message sets according to an internationally agreed approach using internationally agreed business semantics and, whenever desirable, to migrate to the use of a common XML or ASN.1-based syntax. 
+
 ISO 20022 ISO describes semantic Foundation Tech / Standards for programmable $ given the internet was financed, steered by the Department of Defense / NATO. Why reinvent decades of research and system of systems engineering structured data exchange best practice? Is this even possible any time soon?
+
 Gross national income (GNI), previously known as gross national product (GNP), is the total domestic and foreign output claimed by residents of a country, consisting of Gross Domestic Product (GDP), plus factor incomes earned by foreign residents, minus income earned in the domestic economy by nonresidents (Todaro & Smith, 2011: 44).[2] Comparing GNI to GDP shows the degree to which a nation's GDP represents domestic or international activity. Kuznets became the first economist to show that the Absolute Income Hypothesis gives inaccurate predictions in the long run by using time-series data. Wikipedia https://en.wikipedia.org/wiki/Simon_Kuznets
+
 IDMAPS – SONAR HOPS: internet distance estimation service: IDMaps is a global internet host distance estimation service that provides distance information used by SONAR / HOPS query / reply service. IDMaps measures, disseminates internet wide distance information to for example, Distributed Autonomous Virtual Organizations DAVOS. Higher level services for example at the macro-cycle level collect distance information to build a virtual distance map of internet by estimating distance between any IP address pair. Location is achieved by use of triangulation Distance information adjusts to “permanent” topology changes e.g., splits, joins, adds, moves, drops, merges in lieu of formal merger / acquisition. IDMaps assists Network Time Protocol (NTP) servers establish long term peering relationships. Distance Metrics focus is on latency (e.g., round-trip delay) and where possible, bandwidth. We improve stochastic harmonization by use of firefly inspired algorithms that strive to achieve synchronization by matching firefly synchronization behavior with the closest heartbeat snapshot. LINK
 
 IEEE 802.11AG hop-by-hop detection and control for epoch assignment and hop counts management and for hop by hop detection function to determine hop by hop count corresponding to machine readable and executable null / 0 and steps from null representing hop counts e.g., +1, +2, +3, +4 and / or -1, -2, -3, -4 Paul Revere linear, sequential metaphor indicating distance traveled in context with router / server / switch / node traversal. IEEE 802.11 HbH hop by hop control described, represented by USPTO 13/573,002 Paul Revere, rain drop in pond meme - metaphor metrics denoting increases / decreases in thresholds intensity, duration and hop count sums
+
 IEEE 802.11AG hop by hop detection, control for epoch assignment, hop count management, hop by hop detection function to determine hop by hop count corresponding null / 0 and steps from null representing hop counts e.g., +1, +2, +3, +4 and / or -1, -2, -3, -4 Paul Revere linear, sequential metaphor indicating distance traveled in context with router / server / switch / node traversal
 
 IEEE 802.11 HbH hop by hop control supporting Paul Revere, metrics of increases / decreases in thresholds, intensity, duration and hop count summation  
@@ -609,13 +619,13 @@ IEEE C37.118 Harmonization and Synchronization for heartbeat data pulses and wat
 K% RULE: Economist Milton Friedman predicted the rise of a computer capable of automatically adjusting the inflation rate of money. is the monetarist proposal that the money supply should be increased by the central bank by a constant percentage rate 
 every year, irrespective of business cycles.
 
-
 KRYPTON: Ethereum based smart contract platform LINK   http://krypton.rocks
 KONG API MANAGEMENT: Application Program Interface scalable, open source API Layer (API Gateway, or API Middleware). Kong runs in front of any RESTful API and is extended through Plugins, which provide extra functionalities and services beyond the core platform. Kong was originally built at Mashape to secure, manage and extend over 15,000 APIs & Microservices for its API Marketplace LINK https://getkong.org/about/
 
 Law of Time dot org: 13 MOONS OF PEACE Math:
 The 13 Moon calendar is a solar-galactic cycle that meshes the 365-day third-dimensional solar cycle with the 260-day fourth-dimensional galactic cycle (Tzolkin) every 52 years. The 365-day orbit of Earth around the Sun naturally divides into thirteen 28-day sequences (13×28=364) which correspond to the thirteen lunations occurring during one solar year, plus one extra day, July 25, the Day Out of Time, a day to practice time is art and peace through culture. Its daily use helps entrain the mind into the threshold of galactic consciousness. The 13 Moon/28-day calendar embraces and synchronizes all true calendrical and mathematical systems, from lunar calendars, to the Mayan long count, to the Elder Futhark runes, to the I Ching hexagrams. In other words, this system reveals a master matrix, which contains all other systems. In the Gregorian calendar there is little cyclic or periodic order. Months are uneven; the length of months does not correlate with number of seven-day weeks, and the numbers change every month. https://lawoftime.org/education/
 "One people, one Earth, one Time": "The times we are living in require higher thinking. There has never in the history of the Earth been a time like this. We are now participating in what is called the biosphere-noosphere transition. "Only by lifting our minds to planetary consciousness and beyond can we realize solutions to the multiple challenges facing our planet today. With a new consciousness we can effectively educate and mobilize humanity to an unprecedented level of creative problem solving and realize a positive future." Source: http://lawoftime.org
+
 LAW OF TIME Book of the Cube Time Cube Matrix Cosmic Calendar Law of Time dot org – see math behind the Earth – Moon – Sun cyclic math based repeating patterns
 
 LIBRARY of ALEXANDRA (The Distributed Blockchain Library) LINK
@@ -636,9 +646,8 @@ MICROSOFT Azure Blockchain as a Service (BaaS): Project Bletchley is a vision fo
 
 Milton Friedman’s K% rule as an “economic heartbeat”. K-Percent Rule DEFINITION: The K-Percent Rule proposal by economist Milton Friedman was the central bank should increase the money supply by a constant percentage every year. The K-Percent Rule proposes to set the money supply growth / reduction at a rate equal to the growth of real GDP each year. K-Percent Rule 
 Milton Friedman's K% rule is a GDP Gross Domestic Product economic heartbeat, a GDP pulse. Apply a Quantum Random Number Beacon QRNB for non-repudiation at any location / time in the future = basis for a one world economic system of systems unit of value statistical mean value index for a Federal FEDCOIN, World Coin. Milton Friedman was a Nobel Prize winning Economist Investopedia http://www.investopedia.com/terms/k/k-percent-rule.asp
-MONEYBALL: The Art of Winning in an Unfair Game Book
-Moneyball: The Art of Winning an Unfair Game is a book by Michael Lewis is about the Oakland Athletics baseball team and its general manager Billy Beane. http://en.wikipedia.org/wiki/Moneyball 
-https://datascience.berkeley.edu/moneyball-book-review/
+
+MONEYBALL: The Art of Winning in an Unfair Game Book Moneyball: The Art of Winning an Unfair Game is a book by Michael Lewis is about the Oakland Athletics baseball team and its general manager Billy Beane. http://en.wikipedia.org/wiki/Moneyball // https://datascience.berkeley.edu/moneyball-book-review/
 
 MONEYBALL ECONOMICS: Sabermetrics, or Moneyball, is the practice of crunching data in an effort to build a stronger and smarter team without needing to go after the rock stars of the sport who may cost a team millions. This method holds that the skill of individual players isn’t what makes or breaks a team; in the long run, the goal is to make sure that each necessary skill is accounted for, whether by one player or four. The team will work like a clock, with each cog serving its own purpose (no matter how hopeless they may be at another area).. crafting a team while staying within a meager budget.
 
@@ -664,7 +673,6 @@ OPEN LEDGER: Smart #Bitcoins backed w real world collateral: decentralized excha
 
 3. BitTeaser is powered by a digital token with the abbreviation “BTSR”. The network infrastructure allows users to earn tokens by blogging, selling ads, and being active community members. LINK http://ccedk.com/dc/btsr
 
-
 4. ICO Crowd Funding Economic Enterprise Engine – Crowdfunding 3.0: 
 official form of payment used to pay for any startup services offered by CCEDK, investment with revenue streams from payments and fees, token offering real return over time, Token and investment with an exit ex: sell ICO token at level 1 ICO price until final launch. Fund buy back, burning process reducing overall supply allowing a growth in value of remaining funds over time
 
@@ -674,6 +682,7 @@ OPCODE: TURING COMPLETE SCRIPTING LANGUAGE: In computing, an opcode (abbreviated
 
 Open Financial Exchange (OFX) is a data-stream format for exchanging financial information
 Secrets of Synchronization / Particle - wave duality (#quantum) firefly pair coupling to synchronize across time - space via firefly-heartbeat algorithm for stochastic harmonization, UTZ synchronization @ 8:10: https://youtu.be/t-_VPRCtiUg?t=490
+
 Open Telemetry OTEL: Observability has made it possible for both developers and operators to gain that visibility into their systems. In order to make a system observable, it must be instrumented. That is, the code must emit traces, metrics, and logs. The instrumented data must then be sent to an Observability back-end.
 OpenTracing vendor-neutral API for sending telemetry data to an Observability back-end; it relied on developers to implement their own libraries to meet the specification.
 OpenCensus provided a set of language-specific libraries that developers could use to instrument their code and send to any one of their supported back-ends.
@@ -692,9 +701,11 @@ OpenTelemetry Signals:
 -	Metrics: A metric is a measurement about a service, captured at runtime.
 -	Logs: A log is a timestamped text record, either structured (recommended) or unstructured, with metadata.
 -	Baggage: Baggage refers to contextual information that’s passed between spans
+
 OpenTelemetry main components: Cross-language specification: Tools to collect, transform, and export telemetry data/ Per-language SDKs Automatic instrumentation and contrib packages. OpenTelemetry lets you replace the need for vendor-specific SDKs and tools for generating and exporting telemetry data. Data: Defines the OpenTelemetry Protocol (OTLP) and vendor-agnostic semantic conventions 
 Collector: The OpenTelemetry Collector is a vendor-agnostic proxy that can receive, process, and export telemetry data. It supports receiving telemetry data in multiple formats (e.g., OTLP, Jaeger, Prometheus, as well as many commercial/proprietary tools) and sending data to one or more backends. It also supports processing and filtering telemetry data before it gets exported. Collector contrib packages bring support for more data formats and vendor backends. For more information, see Data Collection.
 Open Telemetry Language SDKs: language SDKs to use the OpenTelemetry API to generate telemetry data with your language of choice and export that data to a preferred data backend. These SDKs incorporate automatic instrumentation for common libraries and frameworks used to connect to manual instrumentation in your application. 
+
 OPEN TELEMETRY Automatic Instrumentation: a broad number of components that generate relevant telemetry data from popular libraries and frameworks for supported languages. For example, inbound and outbound HTTP requests from an HTTP library will generate data about those requests. Using automatic instrumentation may differ from language to language, where one might prefer or require the use of a component that you load alongside your application, and another might prefer that you pull in a package explicitly in your codebase. It is a long-term goal that popular libraries are authored to be observable out of the box, such that pulling in a separate component is not required. SOURCE: https://opentelemetry.io/docs/reference/specification/
 OPERAND PROGRAMMABLE MONEY: Operand - “In mathematics, an operand is the object of a mathematical operation, a quantity on which an operation is performed.”
 “In computing, an operand is the part of a computer instruction that specifies what data is to be manipulated or operated on, while at the same time representing the data itself.”
@@ -710,21 +721,28 @@ Hop Counts: (123): Hops are linear and sequential referring to applicant's Paul 
 meme (126). Hops are described / defined from null as a condition / state: stationary, inactive. Hops are changes in location from point a to point b to point n. Hops follow a base running paradigm in the main embodiment (131) and are referential to TCP/IP in embodiment 1. Hops are counted incrementally where hops are changes in location e.g., home plate to first, second, and third base and back to home base (131).  Hop metrics are incremental changes from null 0,1,2,3,4 - N (126) that may be positive or negative values. Hop counts are used to equitably meter, measure and derive performance or effectiveness metrics, meters. 
 
 Time stamps (112) form time frames, temporally bound hops e.g., in time and space.  Erlang logic is useful in establishing time boundaries and time limits among geo-spatially disperse events. Time filtered and spatially metered reports are comprised of state meta-data snapshot / heartbeat message / sync delta messages where state meta data is harvested during micro-cycles then posted / displayed during longer macro-cycles. Time filtered and spatially metered reports are comprised of state meta-data snapshot / heartbeat message / sync delta messages where state meta data is harvested during micro-cycles then posted / displayed during longer macro-cycles. 
-Pneumatic computer uses pressure instead of electricity:
-A computer chip made of glass and silicone holds liquids that move from one side of the chip to the other in reaction to pressure changes. This has been used to control and automate miniaturized biochemistry experiments A pneumatic computer made of glass and silicone uses pressure instead of electricity to encode data. It can enable a chip-sized device to perform procedures that are usually done by technicians in labs. They sandwiched a sheet of silicone 0.25 millimeters thick between two thin panes of glass. They etched tiny channels into the glass so that liquids needed for chemical reactions could flow through them, and then punched small holes into the silicone layer to connect channels between the two panes. Karmela Padavic-Callaghan 2 June 2023
+
+Pneumatic computer uses pressure instead of electricity: A computer chip made of glass and silicone holds liquids that move from one side of the chip to the other in reaction to pressure changes. This has been used to control and automate miniaturized biochemistry experiments A pneumatic computer made of glass and silicone uses pressure instead of electricity to encode data. It can enable a chip-sized device to perform procedures that are usually done by technicians in labs. They sandwiched a sheet of silicone 0.25 millimeters thick between two thin panes of glass. They etched tiny channels into the glass so that liquids needed for chemical reactions could flow through them, and then punched small holes into the silicone layer to connect channels between the two panes. Karmela Padavic-Callaghan 2 June 2023
 Price Discovery Patent Application: 0160358256 [0056 In accordance with an example embodiment of the present invention, the amount of an investment required from a speculator is calculated by executing the following cost of speculation equation: V.intg.|log(P)-log(.DELTA.P)|/R dt. The variables for the cost of speculation equation are as follows: P represents a variable of price, P(t) is a variable function of price over time in a given market, .DELTA.P represent a speculative price function. P(t) can mathematically represent the future prices as functions of price over time. The function value of R(t) is a predetermined value for the rate of return. For example, for R(t), the value can be 100% annualized so for a t in years R(1)=2, R(2)=4 and R(0.5)=1.414, but as would be appreciated by one skilled in the art, any function is possible. The value for V(t) at any given time is the expected value to the market (e.g., volume of goods to trade multiplied by the market commission) The value for V(t) can be updated empirically as the commodities market functions by calculation as a moving average of volume times the markets total transactional overhead charge. Source / Attributed to: Noah Healy Data Scientist at Castle Hill Gaming strategic design for (commodity) markets drastically lowering transaction costs while increasing returns for informed speculators to launch a global economic boom. Price discovery method and means: Source: https://tinyurl.com/4w4m359h
+
 PROJECT BEACON: Reuse NATO's system of systems syntax lexicon OPSCODE brevity code structured data exchange, heartbeat micro to macro cycle Universal Time Zone UTZ sync to support an EIN Earth Intelligence Network neural net emulation. Support Beacon Communities with an open-source Earth Intelligence Network EIN integrated with NIST’s QRNB quantum random number beacon blockchain for event, transaction non-repudiation at any place – time in the future . 
+
 PROJECT BEACON METHOD: A snapshot or sync delta value taken at a predetermined time interval (micro-cycle to macro cycle) is used to calculate a statistical mean value of commodities comprising a GDP index used as a value index nation's / world's unit of value as the basis for valuating a currency unit of exchange.
 Paul Revere's ride as an analog to hop by hop, hop count metrics for quantum dots comprising quantum circuits
 Science Alert: https://www.sciencealert.com/a-huge-step-forward-in-quantum-computing-was-just-announced-the-first-ever-quantum-circuit 
 
 QUANTUM COMPUTING / USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is descriptive to the quantum computing level and SCOTUS Alice in Wonderland Alice Corp Vs CLS Bank ruling... waves (USPTO 13/573,002 water drop in pond meme) single photon shifts (USPTO 13/573,002 Paul Revere meme).
 Quantum BIG Bell Test: In 2015, NIST BOULDER | Colorado was one of the first groups to carry out a complete test of Bell theorem using quantum states of light, and conclusively show the presence of Einstein’s "spooky action." However, in that experiment the decisions about how to carry out the measurements were made by random numbers generated from different physical processes. https://thebigbelltest.org/team/nist-boulder/
+
 Quantum annealing starts from a quantum-mechanical superposition of all possible states (candidate states) with equal weights. Then the system evolves following the time-dependent Schrödinger equation, a natural quantum-mechanical evolution of physical systems. The amplitudes of all candidate states keep changing, realizing a quantum parallelism, according to the time-dependent strength of the transverse field, which causes quantum tunneling between states. If the rate of change of the transverse field is slow enough, the system stays close to the ground state of the instantaneous Hamiltonian (also see adiabatic quantum computation).[6] If the rate of change of the transverse field is accelerated, the system may leave the ground state temporarily but produce a higher likelihood of concluding in the ground state of the final problem Hamiltonian, i.e., diabatic quantum computation.[7][8] The transverse field is finally switched off, and the system is expected to have reached the ground state of the classical Ising model that corresponds to the solution to the original optimization problem. An experimental demonstration of the success of quantum annealing for random magnets was reported immediately after the initial theoretical proposal.[9]
+
 Quantum computing based on waves at room temperature Vs particles in a liquid nitrogen cooled chamber given energy required to keep the environment near absolute zero with liquid nitrogen. Use of light waves at room temperature = more ecologically sustainable, more accurate quantum computing given less challenge to synchronize, stochastically harmonize quantum computing sites over UTZ Universal Time Zone as a basis for programming, computing programmable money / programmable economy. Quantum computing: particle or wave? Why pursue / choose particle detection at 0 degrees Kelvin over (electro-magnetic) waves ("wave-packets") at room temperature given Heisenberg's uncertainty principle? This has profound implications for space - time, stock, commodity market data = our world. Science News Army Research Laboratory Article on quantum computing at room temperature: https://www.sciencedaily.com/releases/2020/05/200501184307.htm
 Quantum "Schroedinger's equation at it's heart describes energy and looks similar to describing the action of waves in water" so, if an (observed) event can appear as a particle or a diffusion pattern in a wave, why not use diffusion patterns in waves at room temperatures Vs liquid cooled silicon computer chips chilled to near absolute zero for efficiencies in energy and accuracy at different temperature zones / elevations given temperature drops every 1000 meters / feet in altitude? Source: Einstein's nightmare: https://youtu.be/-hxljpxTaiA?t=211
+
 QUANTUM COMPUTING STOCK / COMMODITY MARKETS USE CASE: given: other than the ubiquitous </108> {"108"} heartbeat message sending start, stop, TTL Time To Live commands to algorithmic HFT trade to master controllers, how will stock, commodity, crypto etc. markets be mitigated, moderated among the quantum computing haves / have nots? How will market trade sessions be mitigated, moderated among quantum haves and have nots? i.e., QCCS Quantum Computing Control System https://tinyurl.com/e4h5wxk 
+
 QEC IEEE Article: Quantum Computing Error Correct QEC is getting practical February 25th 2021: Quantum Error Correction QEC, in combination with the theory of fault-tolerant quantum computing, suggests that engineers can in principle build an arbitrarily large quantum computer that if operated correctly would be capable of arbitrarily long computations. This would be a stunningly powerful achievement. The prospect that it can be realized underpins the entire field of quantum computer science: Replace all quantum computing hardware with “logical” qubits running QEC, and even the most complex algorithms come into reach. For instance, Shor’s algorithm could be deployed to render Bitcoin insecure with just a few thousand error-corrected logical qubits. LINK: https://spectrum.ieee.org/tech-talk/computing/hardware/quantum-computer-error-correction-is-getting-practical
+
 QFS Quantum Financial System ground station data center in Las Vegas Nevada to my knowledge does not make use of the Department of Commerce’s NIST National Institute of Science and Technology’s QRNB Quantum Random Number Beacon. Crypto currencies need to be quantum computing based rather than simply quantum resistant and use light waves at room temperature Vs particle detection given the particle - wave duality twin slot phenomenon using liquid nitrogen for Ecological energy consumption and economic (less energy, less expensive) efficiencies. In other words, a quantum computing, quantum financial system for the 99 %
 Quantum Computing Quantum Circuit Quantum dots metrics
 
@@ -735,21 +753,27 @@ QRNB: QUANTUM RANDOM NUMBER BEACON NIST:  uses two independent sources of random
 Quantum Random Number Generator QRNB: The NIST method generates digital bits (1s and 0s) with photons, or particles of light, using data generated in an improved version of a landmark 2015 NIST physics experiment. That experiment showed conclusively that what Einstein derided as "spooky action at a distance" is real. Researchers process the spooky output to certify and quantify the randomness available in the data and generate a string of more random bits. LINK
 
 QRNB Quantum Random Number Beacon Non repudiation: The QRNB provides a method and means to prevent repudiation of any event, transaction at any point in time – space. QRNB intent is to be interoperable with other QRNB’s, therefore, this Max Planck Institute / Announcement is germane to a discussion of a one world government / one world economic system of systems: distributed quantum computers – will need (UTZ Universal Time Zone) stochastic harmonization. "Our work provides a pathway towards extreme mechanical nonlinearities, and towards quantum devices that use mechanical resonators as qubits" https://www.nature.com/articles/s41534-021-00393-3
+
 QUANTUM COMPUTING VIA Sound Waves QUANTUM ACOUSTICS
+
 Good vibrations for quantum computing Amy Navarathna & Warwick P. Bowen
 Similar to the photons that make up beams of light, indivisible quantum particles called phonons make up a beam of sound. These particles emerge from the collective motion of quadrillions of atoms, much as a "stadium wave" in a sports arena is due to the motion of thousands of individual fans. When you listen to a song, you're hearing a stream of these very small quantum particles. Originally conceived to explain the heat capacities of solids, phonons are predicted to obey the same rules of quantum mechanics as photons. The technology to generate and detect individual phonons has, however, lagged behind that for photons. Technology being developed, in part by my research group at the Pritzker School of Molecular Engineering at the University of Chicago. We are exploring the fundamental quantum properties of sound by splitting phonons in half and entangling them together. Nature Physics volume 18, pages736–738 (2022) https://www.nature.com/articles/s41567-022-01613-z
 Quantum Computing Vibrations encode, process data like quantum computers. A simple mechanical system built from aluminum rods uses vibrations to encode information, mimicking quantum computing in a non-quantum system. Some properties of quantum computers can be imitated with sound trapped in a simple mechanical device. This has the advantage of being less fragile than quantum computers, while still replicating some of their properties. Quantum computers could eventually solve problems that are impossible for the best conventional supercomputers, but they are tricky to work with. Many lose their quantumness, which is key for their advantages over ordinary computers, and stop working very quickly because of disturbances from their environments. propose using tiny mechanical vibrations. The atoms are coupled via phonons—the smallest quantum mechanical units of vibrations or sound waves. / USPTO 13/573,002 water drop in pond meme
+
 SOUND ACOUSTIC WAVES FOR QUANTUM INFORMATION PROCESSING
 Acoustic system that gives us the possibility creating these Bell states," Deymier said. "It's the complete analog to quantum mechanics." Demonstrating that this is possible has opened the door to applying classical nonseparability to the emerging field of phononics. Next, the researchers will work to increase the number of degrees of freedom that can be classically entangled -- the more, the better. They also want to develop algorithms that can use these nonseparable states to manipulate information.
 Once the system is refined, they plan to resize it from the tabletop down to the microscale, ready to deploy on computer chips in data centers around the world.
 This work was supported by the W.M. Keck Foundation and the National Science Foundation Emerging Frontiers in Research and Innovation Program.
 Source: Science Daily University of Arizona College of Engineering
 https://www.sciencedaily.com/releases/2019/09/190919142346.htm
+
 QUANTUM COMPUTING via acoustic waves at room temperature
 
 Analog / digital computing origins are based on (electromagnetic - radio) waves as is energy transmission whether wired or wireless. Sound is an emerging quantum computing option for example: Sound of the future: A new analog to quantum computing: Engineers are using soundwaves to search through big data with more stability and ease. Researchers have demonstrated the possibility for acoustic waves in a classical environment to do the work of quantum information processing without the time limitations and fragility. https://lnkd.in/gbpStiqv Date: September 19, 2019
 Source: University of Arizona College of Engineering
+
 Quantum Vibrations via Diamonds / Silicon atoms: "We are testing tiny diamonds with built-in silicon atoms—these quantum systems are particularly promising," says Professor Peter Rabl from TU Wien. "Normally, diamonds are made exclusively of carbon, but adding silicon atoms in certain places creates defects in the crystal lattice where quantum information can be stored." These microscopic flaws in the crystal lattice can be used like tiny switches that can be toggled between a state of higher energy and a state of lower energy using microwaves. Together with a team from Harvard University, Peter Rabl's research group has developed a new idea to achieve the targeted coupling of these quanta within the diamond. One by one, they can be built into a tiny diamond rod measuring only a few micrometers in length, like individual pearls on a necklace. Just like a tuning fork, this rod can then be made to vibrate—however, these vibrations are so small that they can only be described using quantum theory. It is through these vibrations that the silicon atoms can form a quantum-mechanical link to each other. "Light is made from photons, the quantum of light. In the same way, mechanical vibrations or sound waves can also be described in a quantum-mechanical manner. They are composed of phonons: the smallest possible units of mechanical vibration," explains Peter Rabl, any number of these quanta can be linked together in the diamond rod via phonons. The individual silicon atoms are switched on and off using microwaves. During this process, silicon atoms emit or absorb phonons. This creates a quantum entanglement of the silicon defects, thus allowing quantum information to be transferred. The main advantage of this new technology lies in its scalability. The strategy of using the smallest unit of mechanical vibration phonons for this purpose could pave the way to a scalable quantum technology. Link: https://phys.org/news/2018-06-quantum_1.html / 
+
 REACT JS Java script: facilitates building of stateful & reusable UI components uses a concept called the Virtual DOM Document Object Model that selectively renders subtrees of nodes based upon state changes LINK
 
 RWA Real World Assets: The economy of imaginary wealth is being inevitably replaced by the economy of real and hard assets''. President Vladamir Putin. 
@@ -761,12 +785,14 @@ SATOSHI: The satoshi represents one hundred millionths of a bitcoin because bitc
 
 SCOP HEARTBEAT ADMINISTRATIVE INTERFACE TOOL: is an Internet configuration tool. SCOP can start/stop services, view/edit configuration files, make backups, take a server online/offline, add/remove virtual/real servers, adjusts Financial FIX </108> messages. See: FIX Financial Information Exchange messaging standard 
 SCOTUS ALICE CORP VS CLS BANK: This project describes how the internet and derivatively the internet of money works and is compliant with the Supreme Court's Alice Corp Vs CLS Bank 2014 ruling "claims may not direct towards abstract ideas". All internet Web 3.0 and programmable money efforts are incorrect and are moving away from interoperability as each internet, internet of money theme variation sprouts and propagates more and more non-existent memes, metaphors.
+
 SCOTUS ALICE CORP VS CLS BANK compliance with the Supreme Court's Alice Corp Vs CLS Bank 2014 ruling "claims may not direct towards abstract ideas". All internet Web 3.0 and programmable money efforts are incorrect and are moving away from interoperability as each internet, internet of money theme variation propagates non-existent memes, metaphors each using their own terms, vernacular, syntax.
+
 1.	Department of Commerce - Treasury – NIST QRNB Quantum Random Number Beacon located in Boulder Colorado 
+
 2.	NIST’s QRNB intent is to be interoperable with other QRNB’s, therefore, this Max Planck Institute / Announcement is germane to a discussion of a one world government / one world economic system of systems: distributed quantum computers – will need (UTZ Universal Time Zone) stochastic harmonization. "Our work provides a pathway towards extreme mechanical nonlinearities, and towards quantum devices that use mechanical resonators as qubits" https://www.nature.com/articles/s41534-021-00393-3
 Science News Army Research Laboratory Article quantum computing at room temperature: https://www.sciencedaily.com/releases/2020/05/200501184307.htm
-Space - Time Energy over distance SLA: 
-energy attenuates over distance. Shorter = closer = cheaper given less infrastructure, maintenance needed USPTO 13/573,002 energy metrics, meter claim #energy #Haramein #Tesla #Bucky Fuller #SLA #space-time
+Space - Time Energy over distance SLA: energy attenuates over distance. Shorter = closer = cheaper given less infrastructure, maintenance needed USPTO 13/573,002 energy metrics, meter claim #energy #Haramein #Tesla #Bucky Fuller #SLA #space-time
 
 SPATIAL ECONOMETRICS: 
 - central place theory
@@ -779,6 +805,7 @@ SPATIAL ECONOMETRICS:
 - urban agglomeration, urban production externalities
 See Dictionary of Economics LINK
 http://dictionaryofeconomics.com/article?id=pde2008_S000195
+
 STREAMING K ALGORITHM: streaming algorithms are algorithms for processing data streams in which the input is presented as a sequence of items and can be examined in only a few passes (typically just one). These algorithms have limited memory available to them (much less than the input size) and limited processing time per item. These constraints may mean that an algorithm produces an approximate answer based on a summary or "sketch" of the data stream in memory. LINK: https://en.wikipedia.org/wiki/Streaming_algorithm
 
 Structured Data Exchange Military Message Text Format USMTF / XML MTF FORMATTED MESSAGE CATALOG includes, describes in detail 300 + messages info exchange requirements using common, Message Text Formats MTFs. MTFs specify <CONTENT> / information agreed by group consensus presenting information in a logical, well specified and unambiguous layout resulting in a highly efficient information payload to overhead ratio. Thinking of the world’s language, symbol and syntax differences along with coder’s proclivity to design a different data </tag> {“tag”} convention with each new programming language, the use of NUMBERS as a universal method to unambiguously, consistently describe data transaction parameters is logical. See FIGURE 5: Code Syntax Lexicon, Message Template Library 
@@ -790,6 +817,7 @@ One world government’s one world currency 3 OPTIONS::
 1.	THE FED FedNOW / IMF's UniCoin International Monetary Fund stable coin, Treasuries, Bonds, Securities, SDF Special Drawing Rights basket mini index
 2.	NESERA / GESERA's QFS Quantum Financial System Las Vegas
 3.	Department of Commerce - Treasury – NIST QRNB at Boulder Colorado (Stephen King's Book The Stand's Free Zone) + TRC Real Word Assets
+
 Symbolic artificial intelligence: is the term for the collection of all methods in artificial intelligence research that are based on high-level symbolic (human-readable) representations of problems, logic and search.[1] Symbolic AI used tools such as logic programming, production rules, semantic nets and frames, and it developed applications such as knowledge-based systems (in particular, expert systems), symbolic mathematics, automated theorem provers, ontologies, the semantic web, and automated planning and scheduling systems. The Symbolic AI paradigm led to seminal ideas in search, symbolic programming languages, agents, multi-agent systems, the semantic web, the strengths. imitations of formal knowledge and reasoning systems.
 
 Physical symbol system (also called a formal system) takes physical patterns (symbols), combining them into structures (expressions) and manipulating them (using processes) to produce new expressions. The physical symbol system hypothesis (PSSH) is a position in the philosophy of artificial intelligence formulated by Allen Newell and Herbert A. Simon. They wrote: A physical symbol system has the necessary and sufficient means for general intelligent action."[2] — Allen Newell and Herbert A. Simon
@@ -798,17 +826,19 @@ This claim implies both that human thinking is a kind of symbol manipulation (be
 
 SYNC DELTAS: STATE META DATA: Time filtered, and spatially metered reports are comprised of state meta-data snapshot / heartbeat message / sync delta messages where state meta data is harvested during micro-cycles then posted / displayed during longer macro-cycles See hop count treatise referential to internet TCP/IP treatises.
 System of Systems Engineering Battlefield Digitization Sync Deltas = changes from one epoch time cycle to the next: crypto currencies tethered to tangible commodities formed into indices of Delta-1 assets: Linear Finance (LINA) is a cross-chain Decentralized Delta-One Asset Protocol with Unlimited Liquidity. It is the first protocol that allows users to cost-effectively create, trade and manage liquid assets (Liquids) and creative thematical Digital Traded Funds. Linear Buildr is a decentralized application for staking and building LUSD, accepting a mixture of LINA tokens and other major cryptocurrencies. Linear Exchange enables trading of a variety of liquid assets (Liquids) based on spot cryptocurrencies, commodities, and thematic indexes with nearly instant confirmation time and immediate finality. Source: https://lnkd.in/dmTaeHJ
+
 Crypto currency index: firefly-heartbeat algorithm: optimal algorithm for sampling, reporting, heartbeat message event bus) index fluctuations across UTC Universal Time Coordination UTZ time zones synchronization and stochastic harmonization 
+
 TOKENS / TOKENIZATION // DISTRIBUTED STATE MACHINES
 "Distributed state machines have proven incredibly resilient architecture for value transfer which now supports over $1.6trn of total on-chain asset value, with real-world assets making up less than 10% ($132bn). However, the total value of on-chain assets pales in comparison with the off-chain traditional assets. To put this in perspective, a 1bps (0.01%) daily increase in the total off-chain traditional asset market value is equivalent to the entire on-chain real-world asset market doubling overnight"
 
 "The emergent programmable on-chain asset class can support much more than its own weight, enabling faster and cheaper value transfer rails has the potential to be the settlement layer for existing off-chain real-world assets. In addition, public ledgers enable greater asset transparency and liquidity, thus reducing investor risk and borrower cost of capital. A holy grail of any capital market participants. This opportunity is most evident in real-world asset tokenization".
-The next wave of evolutionary change in traditional financial markets and beyond is taking us from physical analog to virtual digital. Driven by standardization (SWIFT, ERC20), decreased settlement times and settlement cost".
-"Tokenization, an evolution of securitization, is a real-world use case for encoding existing off-chain asset metadata in a digital token state. This new tokenization paradigm will increase asset liquidity, lower distribution costs and reduce settlement times. The value of increased capital efficiency is increasingly relevant in light of higher opportunity cost of elevated money market rates".
+The next wave of evolutionary change in traditional financial markets and beyond is taking us from physical analog to virtual digital. Driven by standardization (SWIFT, ERC20), decreased settlement times and settlement cost". "Tokenization, an evolution of securitization, is a real-world use case for encoding existing off-chain asset metadata in a digital token state. This new tokenization paradigm will increase asset liquidity, lower distribution costs and reduce settlement times. The value of increased capital efficiency is increasingly relevant in light of higher opportunity cost of elevated money market rates".
  
-The next phase in RWAs will focus on overcoming the challenges of scalability, interoperability, and regulatory compliance. Scalability will be key in managing the sheer volume of transactions that the incorporation of RWAs into blockchain networks will bring. Interoperability between different blockchain platforms will enable a seamless and efficient transfer of assets, enhancing liquidity and market efficiency.
-SOURCE: The Real World Asset Thesis: The Next Generation of Traditional Financial Markets Arete Research MCKENNA JAN 15 2024
+The next phase in RWAs will focus on overcoming the challenges of scalability, interoperability, and regulatory compliance. Scalability will be key in managing the sheer volume of transactions that the incorporation of RWAs into blockchain networks will bring. Interoperability between different blockchain platforms will enable a seamless and efficient transfer of assets, enhancing liquidity and market efficiency.SOURCE: The Real World Asset Thesis: The Next Generation of Traditional Financial Markets Arete Research MCKENNA JAN 15 2024
+
 TELEPATHY / A.I., ARTIFICIAL INTELLIENGE: Reuse of DARPA - NATO's structured data exchange that maps data element OPSCODES to symbol sets is key to Artificial Intelligence #AI man - machine interface, consensus, consistency among myriad #blockchain programmable #money memes, metaphors... Given space travel risks, navigation based on consciousness / telepathy (use of symbols not words), a consistent syntax lexicon to communicate with #UFO EBO's that are likely Artificial Intelligence AI drones is reuse of NATO's structured data exchange that maps data element OPSCODES to symbol sets essential for man-machine interface.
+
 TRADE REFERENCE CURRENCY TRC 
 Belgian Economist Bernard Lietaer proposed a commodity based TRC Trade Reference Currency based on demurrage charges to support logistics of goods moved from supplier to consumer called the TERRA TRC. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. From a legal viewpoint, the Terra is standardized “countertrade” (international barter), which is routinely used for over one trillion dollars worth of transactions per year. Legislation on countertrade exists in about two hundred countries, including all the major trading nations. 
 The Terra is a CC complimentary currency that would be issued by a nation’s central bank. As outlined by Lietaer in his seminal “A ‘Green’ Convertible Currency”, what we will have is a “commodity-based currency, for a New Currency backed by a basket of from three to a dozen different commodities for which there are existing international commodity markets. For instance, 100 New Currency could be worth 0.05 ounces of gold, plus 3 ounces of silver, plus 15 pounds of copper, plus 1 barrel of oil, plus 5 pounds of wool.” This CC/new money is therefore backed by the valuation of the commodities in the basket at the value of the national currency of the society it originates from. So in the US, the value of the basket, in terms of USD, will determine the exchange rate between those trading in USD for the Terra in America. The Terra would work in tandem with the national currency and is not a new money that supplants everything else in its wake. As the Terra TRC (Trade Reference Currency) White Paper by Takashi Kiuchi, Chairman of The Future 500, states: “The Terra is designed as a complementary currency operating in parallel with national currencies. Therefore, everything that exists today as monetary and financial products or practices continues to exist. The Terra mechanism is only one additional option available for those international economic actors who voluntarily choose to use it.”  SOURCE: https://www.lietaer.com/2010/01/terra/
@@ -816,7 +846,7 @@ The Terra is a CC complimentary currency that would be issued by a nation’s ce
 TIME CRYSTALS: physicist Frank Wilczek in 2012, is a phase of matter which repeats in time, similar to how a regular crystal's structure repeats in space. What that means is that the particles in the crystal perpetually switch between two states without requiring the input of more energy and without losing any energy. These crystals are the first objects to break what is known as "time-translation symmetry," a rule in physics that states that a stable object will remain unchanged throughout time. Time crystals avoid this rule, being both stable and ever-changing. Scientists from Stanford and the Max Planck Institute for Physics of Complex Systems, as well as scientists at QuTech, a collaboration between the Delft University of Technology and the Netherlands Organization for Applied Scientific Research (TNO)
 USMTF Message Transfer Format: 
 
-The USMTF program applies to all character oriented IES, as determined and derived from DMS IER, MIL-STD-6040 is a mandatory standard Scope. The USMTF program establishes the standard for preparation, processing, storage, and discovery of USMTF data assets in support of DoD operations. USMTF data provides the means to achieve interoperability at the information level across all functional and mission areas and will be leveraged by communications and information systems used throughout the DoD. USMTF is a common message text format standard that facilitates information exchange across DoD and related entities. Effective, seamless interoperability is achieved through exposure and reuse of data. It’s operationally agreed definitions and expressions serve as the foundation for interoperability among the military forces and DoD agencies. USMTF leverages common information syntax and data structures to maximize successful interpretation and utilization regardless of the data provider. This ability to exchange and share information increases visibility, understanding, and lethality, and is critical to the Warfighter for present and future battlespace management. Source: CJCSI 6241.01D 12 Jan 2021
+USMTF program applies to all character oriented IES, as determined and derived from DMS IER, MIL-STD-6040 is a mandatory standard Scope. The USMTF program establishes the standard for preparation, processing, storage, and discovery of USMTF data assets in support of DoD operations. USMTF data provides the means to achieve interoperability at the information level across all functional and mission areas and will be leveraged by communications and information systems used throughout the DoD. USMTF is a common message text format standard that facilitates information exchange across DoD and related entities. Effective, seamless interoperability is achieved through exposure and reuse of data. It’s operationally agreed definitions and expressions serve as the foundation for interoperability among the military forces and DoD agencies. USMTF leverages common information syntax and data structures to maximize successful interpretation and utilization regardless of the data provider. This ability to exchange and share information increases visibility, understanding, and lethality, and is critical to the Warfighter for present and future battlespace management. Source: CJCSI 6241.01D 12 Jan 2021
 
 USE CASE: @26:37 "we are entering a system called Bretton Woods Three: a system dominated by COMMODITIES" Federal Reserve Board member SOURCE: Youtube: https://lnkd.in/eN4vGP58
 
@@ -833,44 +863,45 @@ Wave Structure of Matter (WSM) in Space
  
 Wave Structure of Matter (WSM) (we can) calculate the Doppler shifts of the in and out waves for relative motion. The WSM directly deduces both the de Broglie wave and the mass increase in the solution to these Doppler shifted waves (mathematical physicist Professor Milo Wolff deduced this). This is remarkable, just one deduction is enough for all scientists to take this very seriously.
 Copenhagen (Probability Wave Function) Interpretation Vs de Broglie / Bohm Non-Local Determinism. The de Broglie wave is a non local phase wave, where its phase velocity = C^2 / relative velocity. If the relative velocity is one thousandth the speed of light C, then the de Broglie phase wave has a velocity of 1000C. And now we can solve this strangeness of the probability wave (Copenhagen) interpretation of quantum physics. For example, in the two slit experiment it is assumed that a particle 'transforms' into a probability wave, interferes through the two slits, and when observed on the screen, the probability wave function 'collapses' back to a particle. Both Einstein and Schrodinger thought this was just a mathematical solution, that the real cause of the probability was lack of knowledge of a connected system (they were correct), and that it was insane to think the probability wave was real (that led to Schrodinger's cat, which cannot be both alive and dead at the same time). And yet the probability wave had to be real to interfere through the slits. David Bohm who found the solution. He showed that you get the same probability function if reality is deterministic, but there must be a non-local hidden variable, what he called the pilot wave, that affects the experiment. However, rather than just postulating that a particle is guided by a non local pilot wave, we have now deduced that these spherical standing waves create a non local phase wave that affects their behavior. Einstein partly liked Bohm's solution, it removed the probability wave, but introduced non locality that contradicted his relativity. Einstein's error relates to his incorrect foundation of representing matter as continuous fields in space time, rather than discrete standing waves in space thus also explaining discrete quantum effects that Einstein could not explain with his continuous fields, explained by relativity.
+
 The Heisenberg Uncertainty Principle
 It is actually common knowledge that the uncertainty principle is a wave phenomena. In simplistic terms, if you know the position of a wave then you do not know its motion or wavelength, and if you know its motion and wavelength then you do not know its position. Secondly, to make an observation of a standing wave particle, you must have a wave interaction with that standing wave, which changes its position and motion.
-Spin
-Spin is intriguing and gets a little complex, as we need to understand the Euler formula e^ix = cosx + i sinx, since Schrodinger used this relationship to generate rotating waves. What most people don't realize is that the formula shows that if you have two plane waves 90 degrees out of phase (sin and cos), and one is rotated 90 degrees to the other (using the imaginary number i), then the resultant of these two intersecting plane waves is a circularly rotating phase wave. So it is possible that our spherical standing wave has this spherical rotation of the in and out waves, creating the electron spin. I have written a second essay on this, also important, as it relates to Euler's number, and its connection to spherical geometry and physical reality, which explains the physical foundations of mathematics, why mathematics is so good at describing physical reality.
+
+Spin: Spin is intriguing and gets a little complex, as we need to understand the Euler formula e^ix = cosx + i sinx, since Schrodinger used this relationship to generate rotating waves. What most people don't realize is that the formula shows that if you have two plane waves 90 degrees out of phase (sin and cos), and one is rotated 90 degrees to the other (using the imaginary number i), then the resultant of these two intersecting plane waves is a circularly rotating phase wave. So it is possible that our spherical standing wave has this spherical rotation of the in and out waves, creating the electron spin. I have written a second essay on this, also important, as it relates to Euler's number, and its connection to spherical geometry and physical reality, which explains the physical foundations of mathematics, why mathematics is so good at describing physical reality.
 See; https://www.spaceandmotion.com/euler-equation.htm
+
 Unification of the Fundamental Forces (Charge / Light, Gravity)
 Let us now put our one law to work to explain and unite charge, light and gravity, since all matter interactions (causal connection) are a result of this one law, bigger waves travel faster. (Though this is now obvious to me, it took me 25 years to realise that causal connection must involve a change in velocity, since acceleration is always involved in matter interactions, as per newton's law of inertia, Force = Mass * Acceleration.)
+
 Charge
 When an in phase plane wave flows through a high wave amplitude wave center, the wave travels faster and the wave front is advanced (hill). This occurs between electrons, and also between positrons, and the result of this advanced wave is that it causes electrons to repel one another, and positrons to repel one another (each advanced 'hill' on the wave front acts like a small 'push' when it flows through another standing wave, see below).
 However, if you have an electron and a positron interacting, then the waves are opposite phase, cancel one another, the total wave amplitude is lower, the wave travels more slowly, causing a retarded wave front (hollow), and this causes opposite phase standing waves (electrons and positrons) to attract one another.
+
 Light and the 'Electromagnetic Wave'
 If the electron is bound in an atom or molecule, then it has a repeating wave pattern, and this pattern of advanced 'hills' on successive plane waves forms a wave pattern that is the cause of the 'electromagnetic' light wave. It is a resonance phenomenon, where the pattern of advanced curves must match the standing wave pattern of the electron it interacts with (like pushing a swing, you must push at the correct phase for the swing to absorb the energy and swing higher). The energy is discrete (quanta / photon) because the change from one standing wave pattern to another is discrete. de Broglie first proposed this, without understanding the true wave mechanism behind it (he worked with a particle wave duality for matter).
 Acceleration and Ellipsoidal Geometry
-A stationary standing wave in space is perfectly spherical. The diagram below shows this and why Pythagoras theorem is a property of spheres.
-
-However, if the incoming plane wave from one direction has an advanced 'hill' on the surface of the wave, then this causes the stationary standing wave to move in the direction of the 'hill', and it changes its shape from spherical to ellipsoidal (like an egg!).
+A stationary standing wave in space is perfectly spherical. The diagram below shows this and why Pythagoras theorem is a property of spheres. However, if the incoming plane wave from one direction has an advanced 'hill' on the surface of the wave, then this causes the stationary standing wave to move in the direction of the 'hill', and it changes its shape from spherical to ellipsoidal (like an egg!).
 In the diagram below, imagine the incoming plane waves from the left have an advanced hill on them, this then changes the ellipsoidal shape of the standing wave and it begins to move to the right.
-
 
 The ellipsoidal wave is stretched in the direction of motion (right side), thus the same wave energy is spread over a larger surface area and has a lower wave amplitude and thus velocity and wavelength, as per our one law. On the opposite side the effects are reversed, the ellipsoidal wave is squashed, has a smaller surface area, a higher wave amplitude, the wave travels faster and has a longer wavelength. This changing ellipsoidal geometry and wavelength / velocity is the foundation of inertia, since when you accelerate the standing wave, its resultant ellipsoidal shape changes, as does the in wave velocity which is slower in the direction of motion, faster on the opposite side, which then maintains its new velocity through space.
 Importantly, the Lorentz Transformations have the electron becoming a squashed ellipsoid on both sides with motion, whereas the Wave Structure of Matter (WSM) has the electron as a stretched ellipsoid in the direction of motion (with slower in waves and shorter wavelength) and a squashed ellipsoid on the opposite side (with faster in waves and longer wavelength. This difference in ellipsoidal geometry from one side to the other is the foundation of the Doppler effect, magnetic moment, and also the Lorentz transformations and Einstein's general relativity. Note - Perhaps there is some experiment that could distinguish between Lorentz's squashed ellipsoid Vs the WSM where it is stretched in the direction of motion.
 Most profoundly, we now have a physical reason for why acceleration is related to curvature and ellipsoidal geometry, since whenever a wave changes velocity there is a change in ellipsoidal curvature of the wave front (Einstein's matter-energy curves space-time). However, Einstein changed the length and time when he should have changed the length and wave velocity and kept the time (frequency) constant. In this way, even though the velocity of the waves changes, so does the wavelength such that you always measure the same velocity of light (which is also why Pythagoras' Theorem is true irrespective of motion and ellipsoidal geometry).
-Gravity
-To understand how gravity is united with light we must first understand where all the antimatter / positrons are, since positrons and electrons (opposite phase standing waves) are created equally, and both contribute to gravity. Positrons are naturally produced due to radioactive decay of certain isotopes, and can be artificially produced using high energy laser beams fired at gold. In Beta+ decay the proton emits a positron and becomes a neutron, likewise, the neutron can emit an electron and become a proton in Beta- decay. The obvious conclusion from this is that positrons and electrons make up the structure of the proton, with one extra positron to account for the positive charge. What this exact structure is is unknown, but if the quark theory of protons is correct then the quarks are most likely positronium (a bound positron and electron).
-However, this exact structure of protons and neutrons is not needed, all we need to know is that in a neutral atom there are equal numbers of positrons and electrons. So now let us consider a plane wave flowing through a large body like the Earth, that has roughly the same number of positrons as electrons. If the plane waves are in phase with the electrons then they will get an advanced curve (hill) on their wavefront, and they will get a retarded curve (hollow) when travelling through positrons. The result is that you get as many advanced curves as retarded curves, and they will cancel one another out. i.e. It is a neutral body and there is no charge effect. And now finally we can unite light and gravity (though it took me 20+ years to work this out, even though it is simple and obvious, deduced from our one law).
-The solution. When the plane waves have advanced or retarded curves on their wave front, then the same wave energy is spread over a larger surface area, so the curved part of the wave front has a smaller wave amplitude, and thus a slower wave velocity. Thus an advanced curve will get smaller over time: the 'push force' decreases the further the wave travels through space), the retarded curve will do the opposite and get bigger over time (the 'pull force' increases the further the wave travels through space). So the push and pull 'forces' of advanced and retarded curves on the plane waves do not exactly cancel each other out, instead, there must always be a slight attractive force due to the slowing of the curved wave fronts due to our one law. This slight attractive force is the cause of gravity. What remains to be done is for mathematical physicists to calculate this relationship between wave amplitude, wave velocity, and ellipsoidal curvature. Einstein was correct to relate gravity to ellipsoidal curvature, but we now need to correct the error of Einstein working from continuous fields in space-time rather than discrete standing waves in space, and his changing of time rather than wave velocity as occurs with the Wave Structure of Matter. And please excuse my rather abrupt ending. I am currently writing this essay on my boat in Tahiti, but today set sail for Samoa, and I wanted to get this online before leaving.
+
+Gravity: To understand how gravity is united with light we must first understand where all the antimatter / positrons are, since positrons and electrons (opposite phase standing waves) are created equally, and both contribute to gravity. Positrons are naturally produced due to radioactive decay of certain isotopes, and can be artificially produced using high energy laser beams fired at gold. In Beta+ decay the proton emits a positron and becomes a neutron, likewise, the neutron can emit an electron and become a proton in Beta- decay. The obvious conclusion from this is that positrons and electrons make up the structure of the proton, with one extra positron to account for the positive charge. What this exact structure is is unknown, but if the quark theory of protons is correct then the quarks are most likely positronium (a bound positron and electron). However, this exact structure of protons and neutrons is not needed, all we need to know is that in a neutral atom there are equal numbers of positrons and electrons. So now let us consider a plane wave flowing through a large body like the Earth, that has roughly the same number of positrons as electrons. If the plane waves are in phase with the electrons then they will get an advanced curve (hill) on their wavefront, and they will get a retarded curve (hollow) when travelling through positrons. The result is that you get as many advanced curves as retarded curves, and they will cancel one another out. i.e. It is a neutral body and there is no charge effect. And now finally we can unite light and gravity (though it took me 20+ years to work this out, even though it is simple and obvious, deduced from our one law). The solution. When the plane waves have advanced or retarded curves on their wave front, then the same wave energy is spread over a larger surface area, so the curved part of the wave front has a smaller wave amplitude, and thus a slower wave velocity. Thus an advanced curve will get smaller over time: the 'push force' decreases the further the wave travels through space), the retarded curve will do the opposite and get bigger over time (the 'pull force' increases the further the wave travels through space). So the push and pull 'forces' of advanced and retarded curves on the plane waves do not exactly cancel each other out, instead, there must always be a slight attractive force due to the slowing of the curved wave fronts due to our one law. This slight attractive force is the cause of gravity. What remains to be done is for mathematical physicists to calculate this relationship between wave amplitude, wave velocity, and ellipsoidal curvature. Einstein was correct to relate gravity to ellipsoidal curvature, but we now need to correct the error of Einstein working from continuous fields in space-time rather than discrete standing waves in space, and his changing of time rather than wave velocity as occurs with the Wave Structure of Matter. And please excuse my rather abrupt ending. I am currently writing this essay on my boat in Tahiti, but today set sail for Samoa, and I wanted to get this online before leaving.
 
 Geoff Haselhurst June 25th, 2023
 Source: https://www.spaceandmotion.com/physical-reality-simple-summary.htm
+
 “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration”. Nikola Tesla
+
 X.500 is a series of computer networking standards covering electronic directory services. The X.500 series was developed by the Telecommunication Standardization Sector of the International Telecommunication Union (ITU-T). ITU-T was formerly known as the Consultative Committee for International Telephony and Telegraphy (CCITT). X.500 was first approved in 1988.[1] The directory services were developed to support requirements of X.400 electronic mail exchange and name lookup. The International Organization for Standardization (ISO) and International Electrotechnical Commission (IEC) were partners in developing the standards, incorporating them into the Open Systems Interconnection suite of protocols. ISO/IEC 9594 is the corresponding ISO/IEC identification. The issues that X.500 directory services address is 1) anonymity 2) standardization. Routing a transaction based on Organizational Identifiers {“Org_ID”} instead of user / cryptocurrency account owners name, phone number, address addresses end user security concerns. The organization that issued to account is responsible to contact the account owner in the event of an investigation or a dispute of an event or cryptocurrency transaction. 
 SOURCE: https://www.itu.int/rec/T-REC-X.500
 
   .    
 FIGURE E: The Heart Beacon Sculpture, Portland Oregon USA 
+
 Heart Beacon is an outdoor 2013 sculpture by American artists Blessing Hancock and Joe O'Connell, installed in Portland, Oregon, United States. Heart Beacon "takes the literal and metamorphic 'pulse'" of Portland's community and serves as a "symbol of hope and a potent reminder of the resilience of the individual taking inspiration from the life-saving mission" of the center. Source: https://en.wikipedia.org/wiki/Heart_Beacon LINK https://codaworx.com/project/heart-beacon-city-of-portland
 
- 
 APPENDIC C: FINAL REJECTION RESPONSE PAPER SUMMARY July 6th, 2016
 
 United States Patent and Trademark Office				July 6, 2016
@@ -906,27 +937,49 @@ Ultimately, only the date when the best, most useful meme was filed matters. The
 APPENDIX D: REFERENCES / SOCIAL MEDIA LINKS
 
 GITHUB DOCUMENTS: https://github.com/Beacon-Heart/Heart_Beacon 
+
 Proton Email (secure) ecoeconomicepochs@protonmail.com
+
 Unstoppable Domains IPFS Web 3 page:  http://ecoeconomicepochs.dao
+
 Slideshare: https://www.slideshare.net/EcoEconomicHeartbeat
+
 SCRIBD files: https://www.scribd.com/user/11781571/Steven-James-McGee
+
 PATREON: https://www.patreon.com/Heart_Beacon
+
 PIN INTEREST: https://www.pinterest.com/EcoEconomicEpochs/ 
+
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
+
 WordPress: http://ecoheartbeat.wordpress.com  
+
 Substack: https://ecoeconomicheartbeat.substack.com/
+
 Subscribe Star: https://www.subscribestar.com/eco_econ_epochs
+
 Mastadon: https://universeodon.com/@Heart_Beacon
+
 FACEBOOK: https://www.facebook.com/beaconheart 
+
 MEDIUM: https://medium.com/@heart.beacon.cycle
+
 MINDS: https://www.minds.com/beaconheart/
+
 TWITTER: @Heart_Beacon https://twitter.com/Heart_Beacon
+
 DISCORD: GDP_Index_Economy#6495
+
 Skype: Steven McGee  
+
 Gravatar: https://en.gravatar.com/ecoeconheartbeat
+
 MeWE: http://mewe.com/i/stevenmcgee2
+
 Maven: https://app.maven.co/maven/506065 
+
 Gitter https://gitter.im/EcoEconHeartbeat/Lobby 
+
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
 
 APPENDIX E: BRIEF DESCRIPTION OF THE GRAPHICS
@@ -948,6 +1001,7 @@ FIGURE F: The Heart Beacon Sculpture, Portland Oregon USA
 
 Figure 1: Foundation tech forming the internet, programmable $$$, economy listed in an Adaptive Procedural Template of tools, processes, procedures, routines algorithms, etc.
 A adaptive procedural template used to improve signaling, synchronization using TCP/IP heartbeat time stamping occurring during micro-cycles of state meta data prior to data fusion center entry among metrics, metering processes comprised of TCP/IP heartbeats, heartbeat messages signaled during micro-cycles scheduling instructions, commands, processes, procedures, algorithms, telemetry instructions for example, to master-controller processes i.e., block, start, stop, pause, resume, set Time To live TTL i.e., stock market high frequency flash trade, currency, interest rates, tax rates, time banking, cloud computing commodity exchanges, big data, electrical micro-grid, fungible goods, real time bidding, many use cases. Time stamping and applying descriptive data type tags to heartbeat state meta data after data is collected and queued, stored in temporary structures or entered into database instantiations after the fact is problematic. All internet supported devices including high frequency stock, currency, commodity etc., flash trade master controllers receive heartbeats. Heartbeats are silicon chip created intervals, epochs, time cycles used to (not) process syntax during epoch time cycles.
+
 Figure 2: The Heart Beacon Cycle Time Space Meter Adaptive Procedural Template checklist of tools, processes, procedures.. linked to treatises
 An adaptive procedural template is a checklist where items on the checklist may be added or removed and replaced by items considered to be more useful or superior. Most of the items are intrinsic to DARPA, DOD system of systems engineering internet development supporting data digitial dashboard operations in use over decades. An improvement to an invention may be itself considered to be an invention such as the firefly inspired heartbeat algorithm with it’s instrinsic heartbeat message event bus. If a superior algorithm is found then this algorithm replaces the old algorithm and so on
 
@@ -955,8 +1009,10 @@ Figure 3: USPTO 13/573,002 Heart Beacon Cycle Time – Space Meter Summary
 
 SUMMARY: An invention can be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data exchange digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface that has had many names over the decade used for OOTW Operations Other Than War following a German Army suggestion circa 2003. 
 Invention relies on System of systems type processes: collection of task-oriented, dedicated systems pooling resources, capabilities together to create a more complex system with more functionality, performance than the sum of separate systems.  
+
 Figure 4: OOTW Operations Other Than War / H.A.N.Ds / System of Systems Engineering framework structured data exchange
 Humanitarian Assistance Networked Donor System: H.A.N.D.S adaptation of military doctrine, organization, training, material, infrastructure, interagency interaction, leadership, personnel and facilities” to OOTW Operations Other Than War i.e., humanitarian aid… Circa 2003, German Bundeswehr suggested reuse of the concepts of "Network Centric Warfare" "Network Enabled Operations " "Vernetzte Operationsführung" in Germany, “Shared situational awareness enables collaboration synchronization, and enhances sustainability, speed of command" DOD SITUATION AWARENESS PROGRAM SWORDS TO PLOWSHARES OOTW
+
 Figure 5: Edison’s Monetary Option 1922 / Algorithmic Stable Coin
 
 Thomas Edison’s Monetary option: Thomas Edison and Henry Ford proposed a currency based on the value of a basket of crop commodities in 1922. Inventor Thomas Edison believed that crops held their value over time. “I want to cast the variable out of money. This gold money is not good enough. It's a fiction” (New York Times 1922).
@@ -971,8 +1027,10 @@ Legend for graphic images represent a list of symbols used to describe the inven
 
 Figure 8: USPTO 13/573,002 Building Blocks 
 Amended graphic depicting the main components, building blocks 
+
 Figure 9: Adaptive Procedural Template Checklist 
 Adaptive Procedural Template: list of ideas, processes, procedures, tools, computing artifacts, algorithms used to support for example, a trade federation. Minimum list of items required for use by consensus. An item in the list may be replaced by an item deemed as an improvement – hence “adaptive” Adaptive Procedural Template = checklist of useful tools, procedures…Use adaptive, procedural templates to aid individuals join trade federations. Affiliated organizations are geo-spatially, temporally located in distributed, dispersed locations across time – space. Member organizations may join or leave in an adhoc, agile manner to take advantage or react to events, situations while retaining autonomy or the ability to act on one’s own behalf, control one’s own activities, The process involves agile, adhoc joins, merges, drops to / from federation in lieu of formal merger, and acquisition.
+
 Figure 10 : All things internet, net of programmable money, Economy, Web 3.0 are formed using 1) Time epochs 2) syntax
 
 Silicon quartz crystal based computer chips oscillate, vibrate when stimulated by an electric current. The trough and crest wave pattern after being represented by sawtooth cube, square, boxes eminating, propagating along a line is used to describe time epochs or time cycles that are used or not used to process, parse syntax as if, then, else instructions or used in math calculations such as cryptographic math proofs. There are no internet “layers”, “packets”, “frames”, “pings”, “satoshi’s”, blockchain blocks…
@@ -1018,6 +1076,7 @@ MESSAGE CATALOG: The USMTF message library has over 300 messages to choose from 
 FIGURE 16: DoD / NATO structured data system of systems engineering / symbols
 
 DoD / NATO system of systems engineering signaling, telemetry framework and syntax OPSCODE brevity codes matched with 2525C symbol sets vital for A.I. man-machine interface, interoperability, consistency and DAO consensus
+
 Figure 17: Discovery Machine Machine Learning IP / USPTO 13/573,002
 
 Discovery Machine® leverages a wide range of AI techniques from knowledge acquisition (KA) to machine learning (ML) to develop “intelligent constructs” for training, decision support and automation. Discovery Machine®‘s highly acclaimed, patented knowledge capture methodology works in conjunction with our patented visual modeling tools to enable the agile production of intelligent constructs. Discovery Machine® leverages a wide range of AI techniques from knowledge acquisition (KA) to machine learning (ML) to develop “intelligent constructs” for training, decision support and automation. Discovery Machine Discovery Machine®‘s patented knowledge capture methodology works in conjunction with our patented visual modeling tools to enable the agile production of intelligent constructs. Discovery Machine®’s AI overcomes the limitations of ML imposed by sparse data environments by capturing the mental models trapped in the heads of your organization’s subject matter experts (SME) to bias and direct learning. Source: https://discoverymachine.com/
@@ -1055,8 +1114,10 @@ Foundation Tech / Standards for programmable $ given the internet was financed, 
 
 FIGURE 22: Situation Awareness Reference Architecture SARA
 Situational Awareness Reference Architecture (SARA) to foster knowledge sharing capabilities. SARA is a compilation of industry standards, technical practices and processes designed to enable situational awareness across shared infrastructure.
+
 FIGURE 23: Situation Awareness Reference Architecture SARA
 Situational Awareness Reference Architecture (SARA) to foster knowledge sharing capabilities. SARA is a compilation of industry standards, technical practices and processes designed to enable situational awareness across shared infrastructure.
+
 Figure 24: INFOCON Structured Data Exchange Precedence model
 NATO / DoD SYSTEM OF SYSTEMS ENGINEERING REUSE: DoD - NATO has invested decades of mapping OPSCODE brevity codes to symbology / symbols / symbol sets contained in three hundred 300 plus message set / use cases as part of Battlefield digitization, Net Centric Warfare NET Enabled Operations NEO NETOPS system of systems engineering. Blockchain, Digital Ledger Technology DLT crypto currency developers are recreating, reinventing this decades old, tedious, time intensive, labor intensive, expensive structured data exchange wheel with every new meme, metaphor. Crypto currency economics needs a universal syntax lexicon digital base Artificial Intelligence A.I., quantum blockchain heartbeat beacon to synchronize, sample tokenized commodities across a stochastically harmonized UTZ Universal Time Zone using the firefly-heartbeat algorithm and Princeton University Mathematician John Nash’s Equilibrium algorithms NATO bases are small cities that transact most goods, commodities with the host nation. Why reinvent the syntax lexicon Rosetta Stone wheel? Reuse: system of systems tool to accelerate an EIN Earth Intelligence Net – see Project #UNRIG by Robert David Steele
 
@@ -1071,9 +1132,12 @@ The vision of the StratML standard is: "A worldwide web of intentions, stakehold
 Source: Wikipedia
 
 Figure 26: Universal Time Zone UTZ Stochastic Harmonization / Synchronization
+
 Geo-spatial, temporal metrics, meters that are synchronized, stochastically harmonized across UTZ Universal Time Zone. Micro to macro-cycle heartbeat cycle, heartbeat message, blockchain updates for system of systems synchronization, stochastic harmonization, spatial econometrics
+
 Figure 27: SCOP Heartbeat Epoch Time Interval Start, Stop, TTL Time To Live
 INTERNET BUILDING BLOCK: HEARTBEAT ADMINISTRATIVE INTERFACE: SCOP Administrative Interface as an Internet, net of Money configuration tool. SCOP is a tool that exemplifies how the internet really works. SCOP is a web application, PHP based, that is a front-end to heartbeat. . SCOP can start/stop services, view/edit configuration files, make backups, take a server online/offline, add/remove virtual/real servers, etc.
+
 FIGURE 28: The Alice Effect / SCOTUS Alice Corp Vs CLS Bank 2014 ruling
 SCOTUS 2014 Alice in Wonderland Alice Corp Vs CLS Bank ruling "claims may not direct towards abstract ideas". Physical is the opposite of abstract.
 How the internet really works / impact on SCOTUS Alice Ruling 2014
@@ -1082,8 +1146,10 @@ Internet = unicast / anycast publish - subscribe / multicast - broadcast & workf
 Figure 29: Firefly Inspired Heartbeat Synchronization Algorithm
 Firefly inspired heartbeat synchronization algorithm proposed by the Universities of Bologna Italy, Hungary includes message event bus algorithm – protocol, software application neutral monitors geo-spatial, temporally distributed events reported across a DAO among federated groups synchronized in time-space for common goals. The firefly algorithm (FA) is a nature-inspired metaheuristic optimization algorithm developed by Xin-She Yang that is inspired by the flashing behavior of fireflies (Yang, 2008), originally designed to solve continuous optimization problems (Lukasik and Żak, 2010; From: Swarm Intelligence and Bio-Inspired Computation, 2013. 
 This work presents a heartbeat synchronization protocol for overlay networks inspired by mathematical models of flash synchronization in certain species of fireflies, and shows that synchronization emerges even when messages can have significant delay subject to large jitter. Heartbeat synchronization strives to have nodes in a distributed system generate periodic, local "heartbeat" events as heartbeat messages over a universal event message bus.
+
 FIGURE 30: ECONOMIST MILTON FRIEDMAN’S  K% RULE GDP HEARTBEAT
 Economist Milton Friedman predicted the rise of a computer capable of automatically adjusting the inflation rate of money. is the monetarist proposal that the money supply should be increased by the central bank by a constant percentage rate every year, irrespective of business cycles. 
+
 FIGURE 31: TERRA TRC TRADE REFERENCE COMMODITY BASED CURRENCY
 TRADE REFERENCE CURRENCY TERRA TRC: Terra (The Trade Reference Currency, TRC) is the name of a possible "world currency". The concept was proposed by Belgian economist and expert on monetary systems Bernard A. Lietaer in 2001, based on a similar proposal from the 1930s.The currency is meant to be based on a basket of the 9-12 most important commodities (according to their importance in worldwide trade). Currency resistant to inflation.
 
@@ -1096,49 +1162,67 @@ The parallel economy has two major draws. For consumers, it offers the opportuni
 
 FIGURE 34: ERICSSON ERLANG OPEN MONEY / USPTO 13/573,002
 ERLANG – ERLANG FOLSOM: Erlang based metrics system inspired by Coda Hale's metrics (https://github.com/dropwizard/metrics). The metrics API's purpose is to collect real-time metrics from Erlang applications and publish them via Erlang APIs and output plugins. folsom is not a persistent store. There are 6 types of metrics: counters, gauges, histograms (and timers), histories, meter_readers and meters. Metrics can be created, read and updated via the folsom_metrics module. LINK https://github.com/boundary/folsom
+
 FIG 35: CRYPTOCURRENCY LAND USE IRS MEME 1421 / USPTO 13/573,002
 IRS Memo #1421: Purchased Bitcoins are treated akin to property. Plots A, B, C represent 3 unspent transaction outputs controlling N Bitcoins. - End-state Bitcoin quantity will be fixed like land “Bitcoin as protocol of ownership, not transfer. Coins never travel, but simply switch owners”. Method and means metric steps: 
 Step 1: prove coin ownership <Org_ID> Coin Issuer
 Step 2: coins sent where, when Lat-Long, Time Stamp
 Step 3: specify ownership <Org_ID> issuing agent
 Step 4: Issuing Org of Record adjudicates w buyer
+
 Figure 36: IDMaps / SonarHops Distance Estimation Service / USPTO 13/573,002
 IDMAPS – SONAR HOPS: IDMaps / SonarHops internet distance estimation service: IDMaps is a global internet host distance estimation service that provides distance information used by SONAR / HOPS query / reply service. IDMaps measures, disseminates internet wide distance information to for example, Distributed Autonomous Virtual Organizations DAVOS. Higher level services for example at the macro-cycle level collect distance information to build a virtual distance map of internet by estimating distance between any IP address pair. Location is achieved by use of triangulation Distance information adjusts to “permanent” topology changes e.g., splits, joins, adds, moves, drops, merges in lieu of formal merger / acquisition. IDMaps assists Network Time Protocol (NTP) servers establish long term peering relationships. Distance Metrics focus is on latency (e.g., round-trip delay) and where possible, bandwidth. We improve stochastic harmonization by use of firefly inspired algorithms that strive to achieve synchronization by matching firefly synchronization behavior with the closest matching heartbeat time temporal snapshot cycle interval. 
+
 FIGURE 37: BIG DATA THE NEXT OIL  / USPTO 13/573,002
 Big Data as the “Next Oil”: Establishing a consistent context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers, heartbeat algorithm event message bus. Establish a consistent context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers, heartbeat algorithm event message bus. Military OPSCODE brevity alpha- numeric codes are mapped, associated, paired with MILSTD 2525 A, B, C, D symbols and symbol sets. MIL Standard sets are critical to A.I. Artificial Intelligence Man - machine interaction. USPTO 13/573,002's foundation is Battlefield Digitization / Network Centric Warfare's signaling, telemetry support framework where the improvement is OOTW Operations Other Than War involves use for net, net of programmable money, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in a new model eco sustainable programmable economy across the UTZ Universal Time Zone.
+
 FIGURE 38: (Wireless) ENERGY ATTENTUATION / USPTO 13/573,002 claim
 USPTO 13,573,002 electric meter claim based on electric dipole effect: closer is cheaper given less infrastructure needed given energy attenuates over distances • data over energy link where #energy pulses constitute a method and means to transmit data over electric wired, wireless pathways • electric dipole effect Radio Wave Properties: Electric and Magnetic Dipole Antennae LINK: https://youtu.be/wUpOlqbHcjI?t=111
+
 FIGURE 39: Tesla inspired Energy / data (sound) waves as medium for unified quantum field propagation / transmission / quantum computing foundation technology #Tesla #energy #data #quantumcomputing
+
 FIGURE 40: SPACE – TIME BEACON / CLOSER = CHEAPER = LESS TIME / FUEL
 PROJECT BEACON METHOD: A snapshot or sync delta value taken at a predetermined time interval (micro-cycle to macro cycle) is used to calculate a statistical mean value of commodities comprising a GDP index used as a value index nation's / world's unit of value as the basis for valuating a currency unit of exchange. The world’s systems need to be time-space synchronized, stochastically harmonized across the one world, global UTZ Universal Time Zone via heartbeat messages using universally shared, standards based OPSCODE brevity codes drawn from a universal structured data exchange syntax lexicon with over 300 use case templates 
+
 Figure 41: Space - Time Energy over distance SLA: energy attenuates over distance. Shorter = closer = cheaper given less infrastructure, maintenance needed
 USPTO 13/573,002 energy metrics, meter. Example: “when space-time spins, it creates mass. It produces energy in space that radiates. This radiation is what we call mass. At the fundamental level of space-time is a honey comb of overlapping spheres of energy each having a singularity at the center: Nassim Haramein “the new Einstein” USPTO 13/573,002 claim #energy #Haramein #Tesla #Bucky Fuller #SLA #space-time
+
 Figure 42: myriad consensus algorithm blockchain memes / metaphors = Tower of Babel / Universal meme SCOTUS 2014 Alice Corp Vs CLS Bank compliant
 
 Reuse of DARPA - NATO's structured data exchange that maps data element OPSCODES to symbol sets is key to Artificial Intelligence AI man - machine interface, consensus, consistency among myriad blockchain programmable money algorithms, memes. Method includes for example, universal meme for Bitcoin and like cryptocurrencies, Blockchain Proof of Work, Stake, POET Proof of Elapsed Time, Project Lightning Vs Segregated Witness, and Fast Internet Bitcoin Relay Engine FIBRE... A common tool / meme is needed to help establish consensus metrics, meters
+
 Figure 43: Proof of Work Consensus / USPTO 13/573,002
 Proof of Work (PoW) was first published in 1993 by Cynthia Dwork and Moni Naor and was later applied by Satoshi Nakamoto in the Bitcoin paper in 2008. The Proof of Work consensus algorithm involves solving a computational challenging puzzle in order to create new blocks in the blockchain. The process of verifying the transactions in the block to be added, organizing these transactions in a chronological order in the block and announcing the newly mined block to the entire network does not take much energy and time. The energy consuming part is solving the ‘hard mathematical problem’ to link the new block to the last block in the valid blockchain. When a miner finally finds the right solution, the node broadcasts it to the whole network at the same time, receiving a cryptocurrency prize (the reward) provided by the PoW protocol.
+
 FIGURE 44: Proof of Stake Consensus
 Proof-of-stake is a cryptocurrency consensus mechanism for processing transactions and creating new blocks in a blockchain. A consensus mechanism is a method for validating entries into a distributed database and keeping the database secure. In the case of cryptocurrency, the database is called a blockchain—so the consensus mechanism secures the blockchain. The next block writer on the blockchain is selected at random, with higher odds being assigned to nodes with larger stake positions.
 
 Figure 45: PoST Proof of Space – Time Consensus
 The rational proof of financial interest in the network achieved by PoST addresses two problems with proof-of-capacity: Arbitrary amortized cost - In a consensus system that doesn't account for time, participants can generate an arbitrary amount of PoC proofs by reusing the same storage space, lowering their true cost.
+
 Figure 46: Proof of Activity Consensus
 Proof-of-activity (PoA) is a blockchain consensus algorithm is used to ensure that all transactions occurring on the blockchain are genuine, as well as to ensure that all miners arrive at a consensus. PoA is a combination of two other blockchain consensus algorithms: proof-of-work (PoW) and proof-of-stake (PoS). PoA increases the difficulty level of mining as time passes, PoA also prevents the chance of a 51% attack, like in POW and POS, because it is impossible to predict who the signing peer would be in the future, and coin saving competition among signers does not allow the computing power to be accumulated within a group.
+
 Figure 47: Proof of Authority Consensus
 Proof-Of-Authority (PoA) is a consensus method that gives a small and designated number of blockchain actors the power to validate transactions or interactions with the network and to update its more or less distributed registry. It works as follow: according to the chosen scheme, one or more validating machines are responsible for generating each new block of transactions that will be included in the Blockchain. The new block can be accepted directly without verification, or by unanimous vote of block generators, or simply by a majority, depending on the configuration chosen for the Blockchain.
+
 Figure 48: Proof of Burn Consensus
 PoB coins are “burned” by sending coins to an address from where they are irretrievable. By committing the coins to an unreachable address, validators earn a privilege to mine on the system based on a random selection process. Thus, burning coins means that validators have a long-term commitment in exchange for their short-term loss. Depending on how the PoB is implemented, miners may burn the native currency of the Blockchain application or the currency of an alternative chain, such as bitcoin. The more coins validators burn, the better the chances of being selected to mine the next block.
+
 Figure 49: Proof of Capacity Consensus
 Proof of capacity (PoC) is a consensus mechanism algorithm used in blockchains that allows for mining devices in the network to use their available hard drive space to decide mining rights and validate transactions. Proof of capacity (PoC) authentication systems employ spare space on a device's hard drive to store solutions to a cryptocurrency hashing problem. Proof of capacity allows the mining devices, also known as nodes, on the blockchain network to use empty space on their hard drive to mine the available cryptocurrencies. Instead of repeatedly altering the numbers in the block header and repeated hashing for the solution value as in a PoW system, PoC works by storing a list of possible solutions on the mining device’s hard drive even before the mining activity commences. The larger the hard drive, the more possible solution values one can store on the hard drive, the more chances a miner has to match the required hash value from his list, resulting in more chances to win the mining reward. To draw an analogy, if lottery rewards are based on matching the most numbers on the winning ticket, then a player with a longer list of possible solutions will have better chances of winning. Additionally, the player is allowed to keep using the lottery ticket block numbers again and again repeatedly.
+
 Figure 50: Proof of Weight / Volumetric Consensus
 Proof-of-Weight is a blockchain consensus mechanism that gives users a 'weight' based on how much cryptocurrency held. Proof-of-weight consensus mechanisms are based off of the first Proof-of-Weight consensus model used in the cryptocurrency Algorand, which was developed by researchers at the MIT Computer Science & Artificial Intelligence Laboratory. The Proof-of-Weight consensus mechanism remains secure as long as the majority of weighted users are honest, and protects the network against double-spend attacks. Each time a transaction is made on a blockchain using the Proof-of-Weight consensus mechanism, the network creates a committee of random network members and assigns each member 'weight' (based on how much currency held on the network) which slightly centralizes the consensus process within a random committee.
+
 FIGURE 51: Bitcoin Classic / Core / Unlimited / USPTO 13/573,002
 Bitcoin Classic was a proposed hard fork from Bitcoin Core that proposed increasing the maximum size of transaction blocks. Bitcoin Classic proposed increasing blockchain sizes from 1 megabyte to 2 megabytes. In effect, this would double the number of transactions that could be processed per second. The proposed increase was less aggressive than what was proposed by Bitcoin XT in 2015 proposed increasing the size of blocks to 8 megabytes.
+
 FIGURE 52: Microsoft Cloud blockchain formerly known as Project BLETCHLEY 
 Project Bletchley is a vision for Microsoft to deliver Blockchain as a Service (BaaS)
 In Project Bletchley, Azure provides the fabric for blockchain, serving as the cloud platform where distributed applications are built and delivered. 
 Azure will be open to a variety of blockchain protocols, supporting simple, Unspent Transaction Output-based protocols (UTXO) like Hyperledger, more sophisticated, Smart Contract-based protocols like Ethereum, and others as developed. Introduced in Project Bletchley are two new concepts: blockchain middleware and cryptlets. Blockchain middleware will provide core services functioning in the cloud, like identity and operations management, in addition to data and intelligence services like analytics and machine learning. These technologies will ensure the secure, immutable operation that blockchain provides, at the same time, deliver the business intelligence and reporting capabilities business leaders and regulators demand. Newly developed middleware will work in tandem with existing Azure services, like Active Directory and Key Vault, and other blockchain ecosystem technologies, to deliver a holistic platform and set of solutions. Cryptlets, a new building block of blockchain technology, will enable secure interoperation and communication between Microsoft Azure, ecosystem middleware and customer technologies. Cryptlets function when additional information is needed to execute a transaction or contract based on a date or time and providing market data. They will become a critical component of sophisticated blockchain systems, enabling all technology to work together in a secure, scalable way.
+
 Figure 53: SAWTOOTH / POET Proof of Elapsed Time Consensus
 Proof of elapsed time (PoET) is a blockchain network consensus mechanism that prevents high resource utilization and energy consumption; it keeps the process more efficient by following a fair lottery system. The algorithm uses a randomly generated elapsed time to decide mining rights and block winners on a blockchain network. By running a trusted code within a secure environment, the PoET algorithm also enhances transparency by ensuring lottery results are verifiable by external participants.
 •	Proof of elapsed time (PoET) is a consensus algorithm developed by Intel Corporation that enables permissioned blockchain networks to determine who creates the next block.
@@ -1152,23 +1236,31 @@ A proof of space-time ( PoST) shows the prover has spent an amount of time keepi
 
 Figure 55: State Channels / USPTO 13/573,002
 State channels allow participants to securely transact off-chain while keeping interaction with Ethereum Mainnet at a minimum. Channel peers can conduct an arbitrary number of off-chain transactions while only submitting two on-chain transactions to open and close the channel. State channels are two-way pathways opened between two users that want to communicate with each other in the form of transactions. Each participant in the channel signs these transactions with his private key to ensure that they are undeniably true and authorized.
+
 FIGURE 56: Segregated Witness - Lightning Consensus / USPTO 13/573,002
 Segregated Witness (SegWit) refers to a change in the transaction format of Bitcoin. Its stated purpose as a protocol upgrade was to protect against transaction malleability and decrease transaction times by increasing block capacity. Transaction malleability refers to the possibility that tiny pieces of transaction information could be changed, invalidating new cryptocurrency blocks. It is intended to speed up the validation process by storing more transactions in a block.
 Segregated Witness (SegWit) is a change in Bitcoin's transaction format where the witness information was removed from the input field of the block. The stated purpose of Segregated Witness is to prevent non-intentional Bitcoin transaction malleability and allow for more transactions to be stored within a block. SegWit is intended to solve a blockchain size limitation problem that reduces Bitcoin transaction speed.
 The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently. This layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain. The Lightning Network can also be used to conduct other types of off-chain transactions involving exchanges between cryptocurrencies. Concerns About the Lightning Network 
 The most apparent problem with the Lightning Network—which is meant to be decentralized—is that it could lead to a replication of the hub-and-spoke model that characterizes today’s financial systems. In the current model, banks and financial institutions are the primary intermediaries through which all transactions occur. Businesses that invest in Lightning Network nodes may become similar hubs or centralized nodes in the network by having more open connections with others. Other concerns are fraud, fees, hacks, and price volatility.
+
 FIGURE 57: BITCOIN NG NEXT GENERATION / USPTO 13/573,002
 Bitcoin-NG is a Byzantine fault tolerant blockchain protocol that is robust to extreme churn and shares the same trust model as Bitcoin. In addition to Bitcoin-NG, we introduce several novel metrics of interest in quantifying the security and efficiency of Bitcoin-like blockchain protocols. We implement Bitcoin-NG and perform large-scale experiments at 15% the size of the operational Bitcoin system, using unchanged clients of both protocols. These experiments demonstrate that Bitcoin-NG scales optimally, with bandwidth limited only by the capacity of the individual nodes and latency limited only by the propagation time of the network.
+
 Figure 58: Decentralized Oracle Networks / USPTO 13/573,002
 Decentralized metalayer of oracle networks allows smart contracts to seamlessly use and create an array of decentralized services that accelerate dApp development, enable cross-chain functionality, and harmonize disparate technologies. DON’s enables smart contracts on any blockchain to leverage extensive off-chain resources, such as tamper-proof price data, verifiable randomness, automation functions, external APIs,
+
 FIGURE 59: Brave New Coin B-WAP Consensus / USPTO 13/573,002
 Block-Weighted-Average-Price (B-WAP) API creates a USD price for any block in the Bitcoin blockchain, based on BNC's Bitcoin Liquid Index (BLX).  Automatically appropriates blockchain transactions with a USD price or technical indicator for traders. Key Features: Look up any bitcoin blockchain transaction and receive back a USD value for any transaction. Built using historic bitcoin price index - the BNC BLX.API updated every 10 min with a 2 hour delay on latest blocks (due to the nature of Block propagation to ensure avoidance of publishing rates on orphaned blocks). All rates time-stamped in UTC. Ability to look up by time-stamp. Ability to look up by block-height. Get by: Block-height, Time-stamp or Transaction, Transaction ID, Block ID, time-stamp, BWAP per block, Value in USD. BTC per transaction, bitcoin transaction fees per transaction.Exchanges Covered: Price discovery for the B-WAP comes from utilizing the BNC Bitcoin Liquid Index (BLX) bitcoin price calculation. As of 2018, coins were mined using a proof of work algorithm with a hash function called "X11", with eleven rounds of hashing, and the average time to mine a coin was around two and a half minutes. Masternodes provide two additional kinds of transactions. "InstantSend" bypasses mining and instead requires a consensus of masternodes to validate a transaction, speeding transactions.[3][1] "PrivateSend" is intended to give users optional consumer-grade privacy; it mixes participating users' unspent Dash before executing a transaction.
+
 FIGURE 60: DASH / USPTO 13/573,002
 Dash is an open source cryptocurrency. It is an altcoin that was forked from the Bitcoin protocol. It is also a decentralized autonomous organization (DAO) run by a subset of its users called "masternodes".Dash was designed to allow transactions quickly and to have a swift governance structure in order to overcome shortfalls in Bitcoin.[3] What makes Dash different from Bitcoin is that it splits its rewards into three categories: 45% goes to miners, 45% goes to masternodes (these are computers that additional services in the network and have a significant investment in Dash tokens), and 10% goes towards its decentralized governance budget. Governance is handled through a form of decentralized autonomous organization in which decisions are made on a blockchain via masternodes. Masternodes perform standard node functions like hosting a copy of the blockchain, relaying messages, and validating transactions on the network, and in addition act as shareholders, voting on proposals for improving Dash's ecosystem. Anyone with 1,000 Dash Coins (DASH), the protocols native cryptocurrency, can become a masternode owner. 
+
 FIGURE 61: ETHEREUM – CASPER / USPTO 13/573,002
 Casper is a security-deposit based economic consensus protocol. Nodes = “bonded validators” place security deposit (an action called “bonding”) If a validator generates an invalid action, account deposits are forfeited along with consensus privilege. Use of security deposits address “nothing at stake” problem; that behaving badly is not expensive. Casper is an EVENTUALLY CONSISTANT blockchain-based consensus protocol. CASPER favors availability over consistency
+
 FIGURE 62: HYPERLEDGER FRAMEWORK / USPTO 13/573,002
 Hyperledger Fabric, an open source project from the Linux Foundation, is the modular blockchain framework and de facto standard for enterprise blockchain platforms. Intended as a foundation for developing enterprise-grade applications and industry solutions, the open, modular architecture uses plug-and-play components
+
 FIGURE 63: R3 Consortium CORDA / USPTO 13/573,002
 Corda is a scalable, permissioned peer-to-peer (P2P) distributed ledger technology (DLT) platform that enables the building of applications that foster and deliver digital trust between parties in regulated markets. CORDA core functions:
 -	Choreographing workflow between firms without a central controller
@@ -1176,12 +1268,15 @@ Corda is a scalable, permissioned peer-to-peer (P2P) distributed ledger technolo
 -	Validating transactions solely between parties to the transaction
 -	Supporting a variety of consensus mechanisms
 -	Recording explicit links between human-language legal prose documents and smart contract code
+
 FIGURE 64: DFINITY Blockchain Nervous System / USPTO 13/573,002
 The DFINITY Foundation is a major contributor to the Internet Computer blockchain. Internet Computer (IC) is a platform for executing smart contracts/The term “smart contract: a general-purpose, tamperproof computer program whose execution is performed autonomously on a decentralized public network. smart contracts
 • are composable, meaning that they may interact with one another, and
 • support tokenization, meaning that they may use and trade digital tokens.
+
 Figure 65: Byzantine Fault Tolerant BFT-SMART / USPTO 13/573,002
 Byzantine Fault-Tolerant State Machine Replication BFT-SMART dynamic distributed system processes are divided in two nonintersecting subsets: replicas and clients. Each system process has a unique identifier. During dynamic system execution, a sequence of views is installed to denote the reconfigurations due to replicas joins and leaves. A view is composed by a set of replicas identifiers. Modularity is achieved using a set of building blocks(or modules)containing the core functionality of BFTSMART. Blocks are divided in three groups: communication system, state machine replication and state management. BFT-SMART needs an eventually synchronous system. Total order multicast is achieved using the Mod-SMaRt protocol and with the Byzantine consensus algorithm Clients send requests to all replicas in cv, and wait for replies. replicas store each batch of ordered requests to a (stable) log and, periodically, take snapshots of the application state and store it in stable memory.
+
 FIGURE 66: OpenBazaar Free Trade on the Blockchain / USPTO 13/573,002
 OpenBazaar is an open source project developing a protocol for e-commerce transactions in a fully decentralized marketplace. [2] It uses cryptocurrencies as medium of exchange and was inspired by a hackathon project called DarkMarket. OpenBazaar Creates an online store for users to sell goods for Bitcoin
  Connects these stores directly to each other on a global network
@@ -1194,13 +1289,15 @@ Electronic Product Code Information Services (EPCIS) GS1 Standard for creating, 
 When date  time when event took place, local time zone in effect
 Where location identifier where event occurred, identifier of location where object(s) are expected to be following the event
 Why Information about the business context, including: a Identifier that indicates the business step taking place
+
 Figure 68: HASHGRAPH DAG Directed Acyclic Graph / USPTO 13/573,002
 Hashed Timelock Contract (HTLC) A hashed timelock contract (HTLC) is a type of smart contract used in blockchain applications. It reduces counterparty risk by creating a time-based escrow that requires a cryptographic passphrase for unlocking. In practical terms, this means that the person receiving the funds in a transaction has to perform two actions to access the funds: enter the correct passphrase and claim payment within a specific timeframe. If they enter an incorrect passphrase or do not claim the funds within the timeframe, they lose access to the payment. A hashed timelock contract (HTLC) reduces counterparty risk in decentralized smart contracts by effectively creating a time-based escrow that utilizes a cryptographic passphrase. This type of smart contract requires the receiver of a payment to acknowledge it within a certain period of time or forfeit it. HTLCs is a fundamental tool used by the lightning network.
+
 Figure 69: FEDCOIN – WORLDCOIN ECONOMIC HEARTBEAT
 Economist Milton Friedman’s K% rule: “FEDCOIN / WORLDCOIN currency derived from sampling lead economic indicators across a global, universal event bus by use of the firefly-heartbeat algorithm message event bus to track changes i.e., updating statistical means of a GDP Gross Domestic Product based index, USPTO 13/573,002 supports economist Milton Friedman’s K% rule where a FEDCOIN / WORLDCOIN currency is derived from sampling lead economic indicators across a global, universal event bus applying the firefly-heartbeat algorithm tracking changes, updating q statistical mean value index. Nobel Prize winning economist Milton Friedman described an "economic heartbeat" in his K% rule where the Treasury increases the money supply increases and decreases pegged to increases, decreases in GDP index volume.
+
 Figure 70: Federal Reserve FedNOW Metallicus / USPTO 13/573,002
 Federal Reserve Integration of FedNow with Metal Blockchain. Metal Blockchain is a crypto network designed by Metallicus, based on a modified version of Avalanche’s code. The network was developed to offer compliance-friendly options for DeFi developers. The network incorporates a subnet called “X-Chain” that empowers developers to establish transfer rules for assets. For instance, a token can be issued with guidelines, such as “only for US citizens” or “non-tradable until tomorrow.”
-
 
 Figure 71: World Bank IMF Unicoin STABLE COIN  / USPTO 13/573,002
 Universal Monetary Unit (UMU), a.k.a Unicoin: store of value cryptograph supported by artificial intelligence (A.I.)  Goals: continuous purchasing demand, minimal price volatility, and annual asset pricing targets. The primary value of any commodity is its utility value.  Utility = pay for goods, services, and debts, preserve value over a long period of time. Employs machine learning trading bots. UMPC will establish yield payout rates for wallet holders to stake Unicoin in the Staked Proof of Trust (SPOT) consensus protocol. PoT consensus selects validators I.A.W contribution to the DeFI network. 
@@ -1220,47 +1317,62 @@ FIG 73: TRUTH COIN Nullius in Verba: On the word of no one. Future Wikipedia
 • Funds can be ‘locked’ across time.
 • Yet info-search-costs constantly fall.
 • Net effect: time penalizes attackers only.
+
 Figure 74: Figure 69: Volatility Problem Solution
 How 'Bitbanks' Could Solve Bitcoin's Volatility Problem: 
 MV=PQ Money x Velocity = Price x Quantity
 The most important equation in monetary economics, the equation of exchange: MV=PQ. The quantity of money (M) times the rate spent (V for velocity) equals the price of everything bought (P) times the amount bought (Q for quantity). In Bitcoin, M Money is on a predetermined path, converging to 21m bitcoins. In relation to the other variables, Bitcoin is fixed. V, P, & Q fluctuate.
+
 Figure 75: NEO / NEO Net Enabled Operations / Distributed Smart Economy
 NEO NET Enabled Operations: Users are monitored as individuals within groups. Groups status is described, validated, authenticated, defined by statistical readiness / availability. operational concepts, architecture definition, information exchange requirements, data standards and protocols, and strategic and tactical-level decision support (with special emphasis on timely, data-driven collaborative decision making for complex operational problems among a system of systems using structure data.
+
 Figure 76: IBM – Samsung ADEPT / USPTO 13/573,002
 ADEPT: Autonomous Decentralized Peer-to-Peer Telemetry) concept that uses the BitTorrent peer-to-peer file sharing protocol, the Bitcoin cryptocurrency, Ethereium, and the peer-to-peer comms protocol Rehash. ADEPT tech ledgers, or record-keepers, store transactions which the IoT Internet of Things, programmable money will generate.
+
 Figure 77: High Frequency Flash Trade Breaker / Algorithmic Regulation
 HFT given: other than the ubiquitous </108> {"108"} heartbeat message sending start, stop, TTL Time To Live commands to algorithmic HFT trade to master controllers, how will stock, commodity, crypto etc. markets be mitigated, moderated among the quantum computing haves / have nots? Quantum computing mediation, mitigation among the quantum haves, have nots and techniques e.g., particle detection using liquid nitrogen vs waves at room temperature that will affect for example, transactions of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics, Central Bank Digital Currencies / and activities among DeFi DAO exchanges – trade federations. HFT Algorithmic regulation: firefly inspired heartbeat synchronization algorithm applied to stocks, commodities, currency exchanges. Improving temporal trade parity between cryptocurrency blockchain and conventional and HFT, quantum computing enabled stock exchanges by using the firefly-heartbeat algorithm to take trade speed samples among trade populations across time zones to establish temporal consensus among disparate trade protocols, optimal trade speed / frequency by defining a start, stop and duration TTL Time To Live trade window. Define time intervals with discrete start, stop, TTL Time To Live trade windows using commands embedded within </108> heartbeats, heartbeat messages organic to all system’s master controller.
+
 Figure 78: USPTO 13/573,002 Econometrics, Meters, Trade Demurrage Fees
 GDP Gross Domestic Product Index / statistical mean value index based TRC Trade Reference Currency demurrage fees by Economist Bernard Lietaer of Belgium. Demurrage fees incentivize conservation of resources, commodities i.e., discounts for locally produced, consumed goods and commodities where for example, closer is cheaper given closer consumes less fuel an produces less carbon emissions. Currency based on demurrage charges to support logistics of goods moved from supplier to consumer called the TERRA TRC. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. From a legal viewpoint, the Terra is standardized “countertrade” (international barter), which is routinely used for over one trillion dollars’ worth of transactions per year. Legislation on countertrade exists in about two hundred countries, including all the major trading nations. SOURCE: https://lietaer.com/2010/01/terra/
+
 FIGURE 79: BLOCKCHAIN TRADENET
 Block Tradenet trade system simple trade-investment platform uses a copy-trading method. Each investment runs on an FX-Bot which trades using trading algorithms. Bitcoin and the blockchain function as a medium of exchange, a store of value, a unit of account. Bitcoin adds digital, cryptographic, and distributed server functions to currencies. Because it functions simultaneously as a currency, an asset and a platform, Bitcoin is better described as a global cryptoCAP (currency, asset, platform) -- a synergistic form of "cryptocapital" to unleash the full economic power of the networked age. Bitcoin makes money PROGRAMMABLE. MONEY IS SIMPLY DATA - a simple way to measure and keep track of exchanges in value wealth accumulation. Bitcoin aggregates data  in a distributed global ledger accessible to anyone, and software. First open platform for financial services.  Color coins represent stocks, bonds, currencies, 
+
 FIGURE 80: Block-Time Arbitrage Blockchain: Blueprint for a  New Economy
 Blocktime Arbitrage MTL (machine trust language) time primitives might be assigned to a micropayment channel DAPP as a time arbiter. In blocktime, the time interval at which things are done is by block. This is the time that it takes blocks to confirm, so blockchain system processes like those involving smart contracts are ordered around the conception of blocktime quanta or units. Since blocktime is an inherent blockchain feature, one of the easiest ways to programmatically specify future time intervals for event conditions and state changes in blockchain-based events is via BLOCKTIME. Universal blocktime source example: a procedure call to NIST or other time oracle.
+
 BLOCKTIME: A General Temporality of Blockchains Blocktime as blockchains’ temporality allows the possibility of rejiggering time and making it a malleable property of blockchains. The in-built time clock in blockchains is blocktime, the chain of time by which a certain number of blocks will have been confirmed. Time is specified in units of transaction block confirmation times, not minutes or hours like in a human time system. Block confirmation times are convertible to minutes. Conversion metrics may change over time. Credit: Melanie Swan: Blockchain Blueprint for a new economy
 
 FIGURE 81: Financial Nostradamus / FutureMan fusion USPTO 13/573,002
 Financial Nostradamus / USPTO 13/573,002 fusion: Veritaseum is a blockchain-based fintech software company which delivers global access to peer-to-peer capital markets through its decentralized platform, digital asset research, and transfers. At heart, the project seeks to level the economic playing field by creating software which enables participation in P2P capital markets without intermediates like banks, brokers, financial advisors, and other mediators. The use case of VERI token is to redeem with Veritaseum software for advisory services, research and to gain entry into Veritaseum’s autonomous financial machines, P2P value trading system, and P2P letters of credit. The platforms utility token VERI is used to purchase access to the platform's products and services, which range from asset tokenization to financial research data and even self-custody escrow services. VeADIR stands for Veritaseum Autonomous Distributed Interactive Research. Source: https://cryptonews.com/coins/veritaseum/
+
 FIGURE 82: GAMIFICATION / USPTO 13/573,002
 GAMIFICATION: application of typical elements of game playing (e.g., point scoring, competition with others, rules of play) to other areas of activity, typically as an online marketing technique to encourage engagement with a product or service
+
 FIGURE 83: IOTA TANGLE DAG / USPTO 13/573,002
 IOTA: Internet Of Things IOT distributed ledger with microtransactions without fees. Tangle: a directed, ASYNCHRONOUS acyclic graph (DAG) for storing transactions
+
 FIGURE 84: RIPPLE XRP Real Time Protocol  / USPTO 13/573,002
 Ripple Transaction Protocol or Ripple protocol, built on a distributed open source Internet protocol, consensus ledger and native currency called XRP. Ripple enables "secure, instant and nearly free global financial transactions of any size with no chargebacks." Ripple supports tokens representing fiat currency, cryptocurrency, commodity or any other unit of value such as frequent flier miles or mobile minutes. Ripple is based around a shared, public database or ledger, which uses a consensus process that allows for payments, exchanges and remittance in a distributed process.
+
 FIGURE 85: E Government as a Service E-GASS/ USPTO 13/573,002 Synergy
 E-GaaS: international blockchain platform for organizing economic, state, social activities of citizens , communities on the basis of smart law, smart contract system. eGaaS offers a comprehensive solution needed for state and business management on the blockchain platform. Distributed digital asset registries were the first projects that used blockchain systems such as databases designed for secure storage of records on real estate property, stocks, copyright and so on. It is assumed  hosting any document on the blockchain is equivalent to notarization of its content at a fixed time point ex: 
 7.2 A continuous action, operation, series of changes, sync deltas updating groups
 1.5.7.3 A cyclic, iterative process syncing groups in time-space
 Sync Deltas = changes from one epoch time cycle to the next: crypto currencies tethered to tangible commodities formed into indices of assets.
 Heart Beacon Cycle provides a signal and telemetry framework reporting events, transactions to facilitate reporting of data sync deltas in time window intervals, stages and uses data filtering iteration to eliminate duplicated instructions, identical source code in the system of systems signaling, systems telemetry engineering framework.
+
 Figure 86: GNOSIS / USPTO 13/573,002
 Gnosis Wisdom (WIZ) pay platform fees in Services layer, Wiz subsidize other participants fees, provide initial subsidies for markets, or market trading. WIZ pegged to $1 USD worth of fees. WIZ acts as coupon for $1 of Gnosis
 Gnosis tokens (GNO) generate Wisdom token s(WIZ) via smart contract
 GNO token holders agree to “lock” tokens in a smart contract (30-365 days). A multiplier is added for longer lock durations. Smart contract determines selected lock duration and applies that duration to a formula regulating supply of WIZ tokens currently in use. Once users execute the contract, 30% of their WIZ are distributed for use, the remaining 70% is distributed proportionally over the locked duration. When lock duration expires, the locked GNO ceases to generate WIZ & GNO is freely transferable
+
 Figure 87: Programmable money’s main issues / adjustments
 The crypto community has six major issues: Volatility, Inconsistent Memes, Identity, lack of intrinsic value and blockchain scalability. USPTO 13/573,002 addresses all six issues systemically. All things internet are built / made of TIME Cycles used / not used to process syntax as instructions. It follows, that issues with any internet system -- including Bitcoin must be fixed using this fundamental, universal truth. 
 ARTICLE: Could the Bitcoin Lightning Network Solve Blockchain Scalability? LINK:  "hashed timelock contracts between users , in the blockchain, if only two participants care about a transaction, it’s not necessary for all other nodes in the bitcoin network to know about that transaction. It is instead preferable to only have the bare minimum of information on the blockchain. It is desirable for two individuals to net out their relationship at a later date, rather than detailing every transaction on the blockchain. This can be achieved by using time locks as a component to global consensus. As a result, Bitcoin can scale to billions of transactions per day with the computational power available today on a modern desktop computer. Transaction between users occurs during a micro-cycle, then reconciled at a pre-arranged macro-cycle, with a NIST Cyber Beacon random # time stamp for non-repudiation given reconciliation will probably occur at a later data in time. 
 SCALABILITY: SEE ARTICLE: Could the Bitcoin Lightning Network Solve Blockchain Scalability? LINK:  "hashed time-lock contracts between users" In the blockchain, if only two participants care about a transaction, it’s not necessary for all other nodes in the bitcoin network to know about that transaction. It is instead preferable to only have the bare minimum of information on the blockchain. It is desirable for two individuals to net out their relationship at a later date, rather than detailing every transaction on the blockchain. This can be achieved by using time locks as a component to global consensus. As a result, Bitcoin can scale to billions of transactions per day with the computational power available today on a modern desktop computer. Transaction between users occurs during a micro-cycle, then reconciled at a pre-arranged macro-cycle, with a NIST Cyber Beacon random # time stamp for non-repudiation given reconciliation will occur at a later data in time. Bitcoin Lightning Network
 IDENTITY: Organizational unit (computing) From Wikipedia, In computing, an organizational unit (OU) provides a way of classifying objects located in directories, or names in a digital certificate hierarchy, typically used either to differentiate between objects with the same name (John Doe in OU "marketing" versus John Doe in OU "customer service"), or to parcel out authority to create and manage objects (for example: to give rights for user-creation to local technicians instead of having to manage all accounts from a single central group). Organizational units most commonly appear in X.500 directories, X.509 certificates, Lightweight Directory Access Protocol (LDAP) directories, active directory (AD), and directories and certificate trees, but they may feature in almost any modern directory or digital certificate container grouping system. In most systems, organizational units appear within a top-level organization grouping or organization certificate, called a domain. In many systems one OU can also exist within another OU. When OUs are nested, as one OU contains another OU, this creates a relationship where the contained OU is called the child and the container is called the parent. Thus, OUs are used to create a hierarchy of containers within a domain. Only OUs within the same domain can have relationships. OUs of the same name in different domains are independent. 
+
 Figure 88 USPTO 13/573,002 Application key events
 Patent application key events and concepts. USPTO SCREEN CAPTURES SUSPENDED PAIR RULES:  
 - Moved Examination outside PAIR
@@ -1268,16 +1380,22 @@ Patent application key events and concepts. USPTO SCREEN CAPTURES SUSPENDED PAIR
 - NO Time Stamps = TEMPORAL AMBIGUITY
 - Screen captures before / after filing
 Alice Corp. v. CLS Bank International, 573  U.S. 134 S. Ct. 2347 (2014) RULING: “claims may not direct towards abstract ideas”
+
 Figure 89: USPTO  13/573,002  Amendment timeline
 The first patent application was filed on September 11th, 2003 Method to commercialize structured military messages that establishes that the internet consists of internet time epoch cycles used / not used to process syntax (structured data). This filing was followed by many amendment filings.  The USPTO sent web file captures from the first hamed inventor’s site to the inventor several times from 2006 at two year intervals citing the precedent Transco Vs Performance Contracting Inc establishing a patentable idea
+
 Figure 90: Double Slit experiment particle / wave duality
 In physics, the double-slit experiment is a demonstration that light and matter can display characteristics of both classically defined waves and particles; ... experiment with light was part of classical physics long before the development of quantum mechanics and the concept of wave-particle duality. Quantum computing based on waves at room temperature Vs particles in a liquid nitrogen cooled chamber given energy required to keep the environment near absolute zero with liquid nitrogen. Use of light waves at room temperature = more ecologically sustainable, more accurate quantum computing given less challenge to synchronize, stochastically harmonize quantum computing sites over UTZ Universal Time Zone as a basis for programming, computing programmable money / programmable economy.
+
 Figure 91: USPTO 13/573,002 Quantum Computing Space – Time
 Alice Corp Vs CLS Bank are your patent applications, patents grants descriptive to the quantum computing level - future proofed? Are they written to be quantum resistant, or quantum based or both? What if events could be propagated by waves - is there a need for liquid nitrogen if the method and means is light wave laser based? Why go the liquid nitrogen route if we know the challenges in maintaining consistent temperatures across the globe at sea level Vs mountain tops, equator Vs poles... and don't forget the need to stochastically harmonize data sampling fluctuations across the world's time zones...
+
 Figure 92: QUANTUM COMPUTING / USPTO 13/573,002 SYNERGY
 A quantum computer is a computer that exploits quantum mechanical phenomena. At small scales, physical matter exhibits properties of both particles and waves, and quantum computing leverages this behavior using specialized hardware. USPTO 13/573,002 graphics are descriptive of quantum computing measures and metrics and the particle / wave duality using a water drop in pond meme, Paul Revere linear, sequential meme to describe quantum mechanics methods and metrics, meters
+
 Figure 93: NIST QRNB Quantum Random Number Beacon / USPTO 13/573,002
 National Institute for Standards and Technology NIST ATOMIC CLOCK in Boulder Colorado provides a global temporal reference source across the UTZ Universal Time Zone source for sync data event time stamps and NIST QRNB Quantum Random Number Beacon for non-repudiation of events / transactions at any point in time / place in the future. 1.11 Cited method uses waves Vs particles in quantum computing for ecological, temporal efficiencies and ease of synchronization, stochastic harmonization
+
 Figure 94: NIST QRNB Quantum Random Number Beacon 
 
 NIST has developed a method for generating numbers guaranteed to be random by quantum mechanics. The method generates digital bits (1s and 0s) with photons, or particles of light. An intense laser hits a special crystal that converts laser light into pairs of photons that are entangled, a quantum phenomenon that links their properties. generates full-entropy bit-strings and posts them in blocks of 512 bits every 60 seconds. Each such value is sequence-numbered, time-stamped and signed, and includes the hash of the previous value to chain the sequence of values together and prevent even the source to retroactively change an output package without being detected.
@@ -1291,6 +1409,7 @@ In quantum mechanics and computing, the Bloch sphere is a geometrical representa
 FIGURE 96: QUBIT = non=existant notional construct = group think contrived for an expected outcome favorable to controlling agent
 QUANTUM COMPUTING: the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Quantum computers are believed to be able to solve certain computational problems, such as integer factorization. in a quantum Turing machine, the difference is that the tape exists in a quantum state, as does the read-write head. This means that the symbols on the tape can be either 0 or 1 or a superposition of 0 and 1; in other words, the symbols are both 0 and 1 (and all points in between) at the same time. While a normal Turing machine can only perform one calculation at a time, a quantum Turing machine can perform many calculations at once. The programmable economy will be anchored by quantum computing -for example, NIST's Quantum Random Number Beacon
 QUANTUM COMPUTING / USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter is descriptive to the quantum computing level and SCOTUS Alice in Wonderland Alice Corp Vs CLS Bank ruling... waves (USPTO 13/573,002 water drop in pond meme) single photon shifts (USPTO 13/573,002 Paul Revere meme).
+
 Figure 97: The Great Reset of 2021 / Greater Reset of 2021 – 2030 – 2050 ?
 “The Great Reset agenda would have three main components. The first would steer the market toward fairer outcomes. To this end, governments should improve coordination (for example, in tax, regulatory, and fiscal policy), upgrade trade arrangements, and create the conditions for a "stakeholder economy." To achieve a better outcome, the world must act jointly and swiftly to revamp all aspects of our societies and economies, from education to social contracts and working conditions. Every country, from the United States to China, must participate, and every industry, from oil and gas to tech, must be transformed. In short, we need a “Great Reset” of capitalism”
 
@@ -1301,10 +1420,10 @@ The 1859 Carrington Event impacted telegraph wires. Is it time to relook at the 
 Figure 99: Standing on the shoulders of giants
 DECISION POINT: Economic #RESET is a mathematical certainty. Do we RESET the global system of systems as is or will we re-engineer using NATO system of systems engineering standing on the shoulders of giants
 CLIMATE CHANGE: IF / WHEN: Climate Change causes a drop in crop commodity food production by 20–25 % while population continues to grow, THEN it follows that this condition will become a matter of national security. It’s TIME to implement an Ecologically Sustainable Economic Heartbeat ELSE face > greater chaos by not leveraging proven system of system structured data exchange methods. An ecologically sustainable economic heartbeat is needed.THEN this condition will require revisiting Belgian Economist Bernard Lietaer’s TRC Trade Reference Currency ELSE face > socio economic chaos TERRA Trade Reference Currency by Economist Bernard Lietaer LINK http://lietaer.com/2010/01/terra/
+
 Fig 100: The Alice Effect / Block Time Arbitrage / USPTO 13/573,002:
 
 SCOTUS 2014 “Alice in Wonderland” ruling / USPTO 13/573,002 Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (checklist of ideas, apps, processes, programs, algorithms...) Net, net of programmable $$$ viewed through the lens of SCOTUS Alice Vs CLS Bank "Alice in Wonderland ruling" "claims may not direct towards abstract ideas" Banks & tech firms are forming teams to establish foundation #DeFi / #crypto technology IP patent law claims. Physical meme = opposite of abstract 
-
 
 Figure 101: Project #Unrig the System (s) Robert David Steele / Dr. Cynthia McKinney/ USPTO 13/573,002
 
@@ -1349,42 +1468,7 @@ Department of Commerce - Treasury – NIST QRNB at Boulder Colorado (Stephen Kin
 
 The author / First Named Inventor is an Aquarian / Aquarius Rising coincidentally.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 APPENDIX F:    DRAWINGS / GRAPHICS
-
-
-
-
-
-
-
-
 
 PAGE INTENTIONALLY LEFT BLANK 
  
@@ -1394,7 +1478,6 @@ FIGURE 2: Adaptive Procedural Template list: The Heart Beacon Cycle Time Space M
  
 Figure 3: USPTO 13/573,002 Heart Beacon Cycle Time – Space Meter Summary
 
- 
 Figure 4: OOTW Operations Other Than War / H.A.N.Ds / System of Systems Engineering framework
  
 Figure 5: Edison’s Monetary Option 1922 / Algorithmic Stable Coin
@@ -1409,16 +1492,14 @@ Fig 9: Adaptive Procedural Template Checklist of ideas, processes, procedures, s
  
 Figure 10: All things internet, artifacts of the programmible economy formed using 1) time epochs  2) syntax
  
-              FIGURE 11: How Internet, Web 3.0 are formed using 1) Time epochs 2) syntax
+FIGURE 11: How Internet, Web 3.0 are formed using 1) Time epochs 2) syntax
  
 Figure 12: Blue Force Tracker / Maneuver Control Systems framework templates
  
 Figure 13: Foundation technology standards basis for DeFi / Fintech IP wars
 
- 
 FIGURE 14: Code Syntax Lexicon, Message Template Library from 1st patent application 9 / 11 / 2003
 
- 
 FIGURE 15: Structured Military Messaging / Structured Data Exchange FFIRNS, FFUDNS
  
 FIGURE 16: Artificial Intelligence Man – Machine Interface Syntax lexicon
@@ -1433,10 +1514,8 @@ Figure 20: The Blockchain Tri-lemma / Quad-lemma / Internet, Net of $$$ ground T
  
 Figure 21: Defi, Fintech Foundation technology for IP intellectual property wars
 
- 
 FIGURE 22: Figure SARA SYNTAX LEXICON LIBRARY
 
- 
 FIGURE 23: Situation Awareness Reference Architecture SARA
  
 Figure 24: Structured Data Exchange INFOCON Precedence model
@@ -1454,14 +1533,12 @@ Figure 29: Firefly Inspired Heartbeat Synchronization Algorithm
 FIGURE 30: ECONOMIST MILTON FRIEDMAN’S  K% RULE Economic GDP HEARTBEAT
  
 FIGURE 31: TERRA TRC TRADE REFERENCE COMMODITY BASED CURRENCY
-
  
 Figure 32: FEDERATE / FEDERATION
  
 Figure 33: Federate / Federation Beacon Communities
  
 FIGURE 34: ERICSSON ERLANG - ERICSSON’S OPEN MONEY / USPTO 13/573,002
-
  
 FIGURE 35: CRYPTOCURRENCY LAND USE MEME / IRS MEME 1421 / USPTO 13/573,002
  
@@ -1469,7 +1546,6 @@ Figure 36: IDMaps / SonarHops Distance Estimation Service / USPTO 13/573,002
  
 FIGURE 37: BIG DATA THE NEXT OIL  / USPTO 13/573,002
 
- 
 FIGURE 38: ENERGY ATTENUATES OVER DISTANCES / USPTO 13/573,002 Energy claim
  
 Figure 39: Energy / Data unified field propagation claim water drop in pond meme
@@ -1511,7 +1587,6 @@ FIGURE 56: Segregated Witness / Project Lightning Consensus / USPTO 13/573,002
 FIGURE 57: BITCOIN NG NEXT GENERATION / USPTO 13/573,002
  
 Figure 58: Decentralized Oracle Networks / USPTO 13/573,002
-
  
 FIGURE 59: Brave New Coin B-WAP Consensus / USPTO 13/573,002
  
@@ -1571,13 +1646,10 @@ Figure 86: GNOSIS / USPTO 13/573,002
  
 Figure 87: Cryptocurrencies main issues / resolutions
 
- 
 Figure 88: USPTO 13/573,002 Application key events / concepts
-
  
 FIGURE 89: USPTO  13/573,002 Amendment Timeline
 
- 
 Figure 90: Double Slit experiment particle - wave duality / USPTO 13/573,002
  
 Figure 91: USPTO 13/573,002 Graphic supporting Quantum Computing Space – Time
@@ -1585,7 +1657,6 @@ Figure 91: USPTO 13/573,002 Graphic supporting Quantum Computing Space – Time
 Figure 82: QUANTUM COMPUTING / USPTO 13/573,002
  
 Figure 93: NIST QRNB Quantum Random Number Beacon / USPTO 13/573,002
-
  
 Figure 94: NIST QRNB Quantum Random Number Beacon Text Description
  
@@ -1594,7 +1665,6 @@ Figure 95: Hopf Fibration / Bloch sphere
 FIGURE 96: QUBIT = non=existant notional construct = group think contrived expected outcome
  
 Figure 97: The Great Reset of 2021 / The Greater Reset of 2021 – 2030 – 2050 ?
-
  
 FIGURE 98: Solar EMP Electromagnetic Pulse Vs Silicon Micro Chips
  
@@ -1604,11 +1674,9 @@ Figure 100: SCOTUS Alice Effect / USPTO 13/573,002 as Foundation Tech for DeFi /
  
 Figure 101: #Unrig the System Project Robert David Steele / Dr. Cynthia McKinney/ USPTO 13/573,002
 
- 
 Figure 102: Bio Coin
  
 FIGURE 103: SPACESHIP EARTH OPERATING MANUAL SIGNALS ANNEX K
- 
 
 Figure 104: Programmable money through the lens of metaphysics / USPTO 13/573,002
  
@@ -1661,13 +1729,3 @@ Maven: https://app.maven.co/maven/506065
 Gitter https://gitter.im/EcoEconHeartbeat/Lobby 
 
 Law of Time Math: https://www.lawoftime.org/lawoftime/synchronicmathematics.html
-
-
-
-
-
-
-
-
-
-
