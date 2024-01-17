@@ -1,7 +1,10 @@
-Document Control Number:  13/573,002 Art Unit: 2468
+Document Control Number:  USPTO 13/573,002 Art Unit: 2468
 
-Adaptive Procedural template framework: net, net of $$$, parallel economy (s), UTZ sync, stochastic harmonization, metrics, meters, syntax brevity codes mapped to symbols for A.I. 
-Eco Economic Epoch Heartbeat for programmable $$$, the programmable, parallel economies
+USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter
+
+Application Type: Adaptive Procedural template framework: net, net of $$$, parallel economy (s), UTZ sync, stochastic harmonization, metrics, meters, syntax brevity codes mapped to symbols for A.I. 
+
+USE CASE: Eco Economic Epoch Heartbeat for programmable $$$, the programmable, parallel economies
  
 Figure A: Fix money = fix world // Foundation Technology for Programmable $$$, Economy 
 
