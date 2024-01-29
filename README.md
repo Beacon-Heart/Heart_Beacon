@@ -69,9 +69,9 @@ MAIN USE CASE: Net, Net of $$$ - Economy Adaptive Procedural template framework
 -	Parallel Economy mediation gateways to FIAT economy (s)
 -	GDP Gross Domestic Product pacing items RWA Real World Asset framework
 
-SUMMARY structured data syntax – symbol mapping / messaging / economy, quantum computing, AI artificial intelligence. Minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics supporting trade federation (s), DAO Distributed Autonomous Organizations, standards organizations.
+SUMMARY structured data syntax – symbol mapping / messaging / economy, quantum computing, AI artificial intelligence. Minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics supporting trade federation (s), DAO Distributed Autonomous Organizations
 
-DoD / NATO decades of work with hashtag#ISO hashtag#ITU hashtag#IEEE .. DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface that is an extremely time consuming, tedious process requiring consensus, concurrence among a system of systems. See also DoD / DARPA system of systems engineering
+DoD / NATO decades of work with ISO hashtag#ITU IEEE .. DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface that is an extremely time consuming, tedious process requiring consensus, concurrence among a system of systems. See also DoD / DARPA system of systems engineering
 
 Strike 1: claim (s) abstract, not novel, meme is not optimal (best) meme: see SCOTUS Alice Corp Vs CLS bank "claims may not direct to abstract ideas"
 
