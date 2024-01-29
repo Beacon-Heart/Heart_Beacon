@@ -71,6 +71,16 @@ MAIN USE CASE: Net, Net of $$$ - Economy Adaptive Procedural template framework
 
 SUMMARY structured data syntax – symbol mapping / messaging / economy, quantum computing, AI artificial intelligence. Minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics supporting trade federation (s), DAO Distributed Autonomous Organizations, standards organizations.
 
+DoD / NATO decades of work with hashtag#ISO hashtag#ITU hashtag#IEEE .. DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface that is an extremely time consuming, tedious process requiring consensus, concurrence among a system of systems. See also DoD / DARPA system of systems engineering
+
+Strike 1: claim (s) abstract, not novel, meme is not optimal (best) meme: see SCOTUS Alice Corp Vs CLS bank "claims may not direct to abstract ideas"
+
+Strike 2: not distributed state machine, event process focus 
+
+Strike 3 = non international standard (s) based ex: syntax lexicon / symbols
+
+#mBridge #CBDC #worldbank #IMF #BIS #cryptocurrency #davos
+
 INVENTION TYPE: An invention may be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface that has had many names over the decade used for OOTW Operations Other Than War following a German Army suggestion circa 2003. 
 
 THESIS: All things internet, internet of programmable money are formed using:
