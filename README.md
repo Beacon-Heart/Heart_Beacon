@@ -2,6 +2,8 @@ Document Control Number:  USPTO 13/573,002 Art Unit: 2468
 
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter
 
+SUB TITLE: Signals & Telemetry Annex K for RBF's "The World Game"
+
 Application Type: Adaptive Procedural template framework: net, net of $$$, parallel economy (s), UTZ sync, stochastic harmonization, metrics, meters, syntax brevity codes mapped to symbols for A.I. 
 
 TradeFi / TRC Trade Reference Currency = end state
