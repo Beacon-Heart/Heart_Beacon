@@ -924,6 +924,9 @@ PIN INTEREST: https://www.pinterest.com/EcoEconomicEpochs/
 
 LINKEDIN: https://www.linkedin.com/in/ecoeconepochs/
 
+SLACK Workspace: Eco Economic Epochs for the programmable Economy
+Workspace URL: ecoeconomicep-jo74963.slack.com
+
 WordPress: http://ecoheartbeat.wordpress.com  
 
 Substack: https://ecoeconomicheartbeat.substack.com/
