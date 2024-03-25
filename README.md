@@ -14,56 +14,9 @@ USE CASE: standards adherance support for IEEE, ITU, ISO international standards
  
 Figure A: Fix money = fix world // Foundation Technology for Programmable $$$, Economy 
 
-TABLE OF CONTENTS 
-
-1, SUMMARY DESCRIPTION	Page 2
-
-2. USE CASES 			Page 6
-
-3. CLAIMS 				Page 7
-
-APPENDIX A: SAMPLE ADAPTIVE PROCEDURAL TEMPLATE	Page 11
-
-1.1	Purpose	11
-
-1.2	Scope		11
-
-1.3	Roles		12
-
-1.4	Definitions, Acronyms	12
-
-1.5	References	13
-
-1.6	Traceability	13
-
-1.7	Policies	13
-
-1.8	Standards	13
-
-1.9	Processes	14
-
-1.10	Procedures	14
-
-1.11	Guidelines	14
-
-1.12	Templates	14
-
-1.13. Tools				15
-1.14.	Procedures / Steps		15
-1.15 Methods			15
-
-APPENDIX B: PRIOR ART, TERMS, DEFINITIONS				Page 24
-
-APPENDIC C: FINAL REJECTION RESPONSE SUMMARY 			Page 69
-
-APPENDIX D: SOCIAL MEDIA LINKS 						Page 70
-APPENDIX E: BRIEF DESCRIPTION OF GRAPHICS				Page 71
-
-APPENDIX F: GRAPHICS								Page 105
-
 TITLE: USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter
 
-PATENT TYPE: Adaptive Procedural Template
+PATENT APPLICATION TYPE: Adaptive Procedural Template
 
 USE CASE: FIX MONEY = FIX WORLD
 
