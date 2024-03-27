@@ -27,9 +27,9 @@ INVENTION TYPE: An invention may be an improvement to an existing invention. USP
 
 Foundation Tech trinity: 
 
-- Epochs = Time intervals, cycles ex: Blockchain = Time Chain 
-- SPACE (land use meme) ex: IRS memo #1421 "Bitcoin akin to land"
-- SYNTAX (structured data) (data elements mapped to symbols for A.I.)
+- EPOCH (s) = Time intervals, cycles ex: Blockchain = Time Chain 
+- SPACE (land use meme) ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
+- SYNTAX (structured data) (data elements mapped to symbols for A.I. / man - machine interface)
 
 Reference: Micro Strategy's Michael Saylor compares HODLing (Bitcoin) to owning land in Manhattan https://lnkd.in/gRQm6gFW
 
