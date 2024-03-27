@@ -32,10 +32,13 @@ Strike 3 = non international standard (s) based ex: syntax lexicon / symbols
 
 INVENTION TYPE: An invention may be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface that has had many names over the decade used for OOTW Operations Other Than War following a German Army suggestion circa 2003. 
 
-THESIS: All things internet, internet of programmable money are formed using:
+Foundation Tech trinity: 
 
-1.	Time epochs created by oscillating quartz crystal silicon microchips.
-2.	Syntax used / not used as programming instructions during epoch time cycles.
+- Epochs = Time intervals, cycles ex: Blockchain = Time Chain 
+- SPACE (land use meme) ex: IRS memo #1421 "Bitcoin akin to land"
+- SYNTAX (structured data) (data elements mapped to symbols for A.I.)
+
+Reference: Micro Strategy's Michael Saylor compares HODLing (Bitcoin) to owning land in Manhattan https://lnkd.in/gRQm6gFW
 
 All things internet, internet of money, blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Web 3.0 is based on the original internet TCP/IP structure that has not changed because it cannot change. 
 
@@ -57,6 +60,7 @@ Thomas Edison’s Monetary option: Thomas Edison and Henry Ford proposed a curre
 Question: what constitutes foundation tech for #DeFi / programmable $$$? Teams are forming to win the DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established foundation technology. 
 
 Q: What is foundation technology given SCOTUS 2014 "Alice in Wonderland" ruling? The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words, terms. 
+
 Answer: Supreme Court SCOTUS Alice in Wonderland Precedent: Packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube are abstractions, abstract ideas, terms. The afore mentioned terms are non-existent, fictitious, imaginary metaphorical fabrications are non - compliant with US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”.    Physical is the opposite of abstract.
  
 Fig B: Nobel Prize winning Economist Milton Friedman “only a crisis brings real change” 
@@ -88,6 +92,7 @@ USE CASES
 9 Establish, maintain Ecologically sustainable economic econometric epoch time cycles supporting universal standard measures, meters, metrics sync delta cyclic update temporal changes describing linear sequential, geo-spatial temporal intensity radius hop count econometric metrics and meters where closer is shorter, closer is cheaper, less CO2 carbon dioxide credits as environmental control in SLA Service Level Agreements
 
 10 Data over wired, wireless energy  power lines SLA service level agreement where closer = cheaper given closer involves maintenance of electrical, data infrastructure
+
 USPTO 13/573,002 CLAIMS:
 
 1. A systemic, adaptive, procedural template method used to improve synchronization in metrics, metering using </Org_ID>, {“URN”} XML data tags in signaling during heartbeat micro-cycles prior to data fusion center entry consisting of iterative heartbeat cycle metrics, meters reporting where state meta data heartbeat snapshot recalculations are performed at off site connectors that are signaling relays performing recalculation, syntax processing during macro-cycle epochs reconciling dissimilar standards, data syntax formats that are then reported signaled, news casted, beacon broadcasted to applique overlay graphics displays. Syntax code language parsed, processed during silicon chip generated time cycles forms all things internet, internet of money. Claim describes the military’s network centric operations systems of systems method of collecting state meta data sync delta heartbeat snapshot data during operational micro-cycles that is then summed, aggregated, disseminated and displayed during macro-cycles as part of situation awareness system of systems engineering procedures. 
