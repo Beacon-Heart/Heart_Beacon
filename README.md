@@ -15,7 +15,7 @@ USE CASE: framework net, net of $$$, parallel economy (s), UTZ sync, stochastic 
 
 USE CASE: standards adherance support for IEEE, ITU, ISO international data, internet, internet of money... standards
 -	Parallel Economy mediation gateways to FIAT economy (s)
--	GDP Gross Domestic Product pacing items RWA Real World Asset framework for monetizing currency ex: Eurasian Economic Union RWA initiative
+-	GDP Gross Domestic Product RWA Real World Asset index to monetize currency ex: Eurasian Economic Union RWA initiative
 
 SUMMARY: structured data syntax – symbol mapping / messaging / economy, quantum computing, AI artificial intelligence. Minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics supporting trade federation (s), support for DAO Distributed Autonomous Organizations, parallel economies e.g., Texas gold backed currency. DECADES OF GOVERNMENT / DOD SYSTEM OF SYSTEMS ENGINEERING MAN HOURS: DoD / NATO decades of work with ISO, ITU, IEEE, DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface requiring consensus, concurrence among a system of systems.
 
