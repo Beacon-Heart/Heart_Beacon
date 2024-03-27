@@ -10,7 +10,7 @@ USE CASE: TradeFi / TRC Trade Reference Currency commodity RWA real world assets
 
 USE CASE: Eco Economic Epoch Heartbeat for programmable $$$, Economy, data mediation, sync to parallel economy (s)
 
-USE CASE: framework net, net of $$$, parallel economy (s), UTZ sync, stochastic harmonization, metrics, meters, syntax brevity codes mapped to symbols for A.I. 
+USE CASE: framework net, net of $$$, parallel economy (s), UTZ sync, stochastic harmonization, metrics, meters, syntax brevity codes mapped to symbols for A.I. Artificial Intelligence, Machine Learning man - machine interface
 
 USE CASE: standards adherance support for IEEE, ITU, ISO international standards
  
