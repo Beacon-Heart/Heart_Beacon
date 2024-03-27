@@ -17,17 +17,11 @@ USE CASE: standards adherance support for IEEE, ITU, ISO international standards
 -	Parallel Economy mediation gateways to FIAT economy (s)
 -	GDP Gross Domestic Product pacing items RWA Real World Asset framework for monetizing currency ex: Eurasian Economic Union
 
-SUMMARY structured data syntax – symbol mapping / messaging / economy, quantum computing, AI artificial intelligence. Minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics supporting trade federation (s), support for DAO Distributed Autonomous Organizations, parallel economies e.g., Texas gold backed currnecy
+SUMMARY structured data syntax – symbol mapping / messaging / economy, quantum computing, AI artificial intelligence. Minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics supporting trade federation (s), support for DAO Distributed Autonomous Organizations, parallel economies e.g., Texas gold backed currnecy.
 
-DECADES OF GOVERNMENT / DOD SYSTEM OF SYSTEMS ENGINEERING MAN HOURS: DoD / NATO decades of work with ISO hashtag#ITU IEEE .. DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface that is an extremely time consuming, tedious process requiring consensus, concurrence among a system of systems.
+DECADES OF GOVERNMENT / DOD SYSTEM OF SYSTEMS ENGINEERING MAN HOURS: DoD / NATO decades of work with ISO, ITU, IEEE, DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface requiring consensus, concurrence among a system of systems.
 
-Strike 1: claim (s) abstract, not novel, see SCOTUS 2014 Alice Corp Vs CLS bank "claims may not direct to abstract ideas"
-
-Strike 2: not distributed state machine, event process focus 
-
-Strike 3 = non international standard (s) based ex: syntax lexicon / symbols
-
-#mBridge #CBDC #worldbank #IMF #BIS #cryptocurrency #davos
+#mBridge #CBDC #worldbank #IMF #BIS #cryptocurrency #davos #Texas et al gold backed currency
 
 INVENTION TYPE: An invention may be an improvement to an existing invention, idea, product. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface that has had many names over the decade used for OOTW Operations Other Than War following a German Army suggestion circa 2003. 
 
