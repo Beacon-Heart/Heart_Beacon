@@ -1,5 +1,4 @@
 Document Control Number:  USPTO 13/573,002 Art Unit: 2468
-
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter
 
 SUB TITLE: Signals & Telemetry Annex K for RBF's "The World Game"
