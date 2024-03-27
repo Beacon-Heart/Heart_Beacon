@@ -4,11 +4,13 @@ USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter
 
 SUB TITLE: Signals & Telemetry Annex K for RBF's "The World Game"
 
-Application Type: Adaptive Procedural template framework: net, net of $$$, parallel economy (s), UTZ sync, stochastic harmonization, metrics, meters, syntax brevity codes mapped to symbols for A.I. 
+Application Type: Adaptive Procedural template 
 
-TradeFi / TRC Trade Reference Currency commodity RWA real world assets + cryptography (crypto) = end state
+USE CASE: TradeFi / TRC Trade Reference Currency commodity RWA real world assets + cryptography (crypto) = end state
 
 USE CASE: Eco Economic Epoch Heartbeat for programmable $$$, Economy, data mediation, sync to parallel economy (s)
+
+USE CASE: framework net, net of $$$, parallel economy (s), UTZ sync, stochastic harmonization, metrics, meters, syntax brevity codes mapped to symbols for A.I. 
 
 USE CASE: standards adherance support for IEEE, ITU, ISO international standards
  
