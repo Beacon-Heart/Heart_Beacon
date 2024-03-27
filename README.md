@@ -20,7 +20,7 @@ USE CASE: standards adherance support for IEEE, ITU, ISO international standards
 
 SUMMARY structured data syntax – symbol mapping / messaging / economy, quantum computing, AI artificial intelligence. Minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics supporting trade federation (s), support for DAO Distributed Autonomous Organizations, parallel economies e.g., Texas gold backed currnecy
 
-DECADES OF GOVERNMENT / DOD SYSTEM OF SYSTEMS ENGINEERING MAN HOURS: DoD / NATO decades of work with ISO hashtag#ITU IEEE .. DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface that is an extremely time consuming, tedious process requiring consensus, concurrence among a system of systems. See also DoD / DARPA system of systems engineering
+DECADES OF GOVERNMENT / DOD SYSTEM OF SYSTEMS ENGINEERING MAN HOURS: DoD / NATO decades of work with ISO hashtag#ITU IEEE .. DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface that is an extremely time consuming, tedious process requiring consensus, concurrence among a system of systems.
 
 Strike 1: claim (s) abstract, not novel, meme is not optimal (best) meme: see SCOTUS Alice Corp Vs CLS bank "claims may not direct to abstract ideas"
 
