@@ -22,7 +22,7 @@ SUMMARY structured data syntax – symbol mapping / messaging / economy, quantum
 
 DECADES OF GOVERNMENT / DOD SYSTEM OF SYSTEMS ENGINEERING MAN HOURS: DoD / NATO decades of work with ISO hashtag#ITU IEEE .. DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface that is an extremely time consuming, tedious process requiring consensus, concurrence among a system of systems.
 
-Strike 1: claim (s) abstract, not novel, meme is not optimal (best) meme: see SCOTUS Alice Corp Vs CLS bank "claims may not direct to abstract ideas"
+Strike 1: claim (s) abstract, not novel, see SCOTUS 2014 Alice Corp Vs CLS bank "claims may not direct to abstract ideas"
 
 Strike 2: not distributed state machine, event process focus 
 
