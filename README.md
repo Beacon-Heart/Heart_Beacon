@@ -7,7 +7,7 @@ Application Type: Adaptive Procedural template
 
 USE CASE: FIX MONEY = FIX WORLD
 
-USE CASE: TradeFi / TRC Trade Reference Currency commodity RWA real world assets + cryptography (crypto) = end state
+USE CASE: TradeFi / TRC Trade Reference Currency commodity RWA real world assets + cryptography (crypto) = programmable money for the programmable economy's foundation framework end state
 
 USE CASE: Eco Economic Epoch Heartbeat for programmable $$$, Economy, data mediation, sync to parallel economy (s)
 
