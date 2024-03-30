@@ -6,6 +6,16 @@ SUB TITLE: Signals & Telemetry Annex K for RBF's "The World Game"
 
 Application Type: Adaptive Procedural template
 
+Foundation Tech trinity: 
+
+- EPOCH (s) = Time intervals, cycles ex: Blockchain = Time Chain 
+- SPACE (land use meme) ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
+- SYNTAX (structured data) (data elements mapped to symbols for A.I. / man - machine interface)
+
+Reference: Micro Strategy's Michael Saylor compares HODLing (Bitcoin) to owning land in Manhattan https://lnkd.in/gRQm6gFW
+
+All things internet, internet of money, blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Web 3.0 is based on the original internet TCP/IP structure that has not changed because it cannot change. 
+
 USE CASE: FIX MONEY = FIX WORLD
 
 USE CASE: TradeFi / TRC Trade Reference Currency commodity RWA real world assets + cryptography (crypto) = programmable money / economy end state
@@ -27,16 +37,6 @@ CODE REUSE / Avoidance of DECADES OF GOVERNMENT / DOD SYSTEM OF SYSTEMS ENGINEER
 #mBridge #CBDC #worldbank #IMF #BIS #cryptocurrency #davos #Texas et al gold backed currency
 
 INVENTION TYPE: An invention may be an improvement to an existing invention. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface used for OOTW Operations Other Than War following a German Army suggestion circa 2003. 
-
-Foundation Tech trinity: 
-
-- EPOCH (s) = Time intervals, cycles ex: Blockchain = Time Chain 
-- SPACE (land use meme) ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
-- SYNTAX (structured data) (data elements mapped to symbols for A.I. / man - machine interface)
-
-Reference: Micro Strategy's Michael Saylor compares HODLing (Bitcoin) to owning land in Manhattan https://lnkd.in/gRQm6gFW
-
-All things internet, internet of money, blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Web 3.0 is based on the original internet TCP/IP structure that has not changed because it cannot change. 
 
 QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
 
