@@ -6,7 +6,7 @@ SUB TITLE: Signals & Telemetry Annex K for RBF's "The World Game"
 
 Application Type: Adaptive Procedural template
 
-Foundation Tech: DeFi, Fintech, metrics, epoch temporal synchronization across time zones, e.g., event time stamping & stochastic harmonization, standarization, international standards compliance, symbols mapped to OPSCODE brevity codes supporting A.I. Artificial Intelligence, quantum computing methods (quantum dot Vs wave) metrics, / structured data system of systems engineering, architecture
+Foundation Tech: DeFi, Fintech, metrics, epoch temporal synchronization across time zones, e.g., event time stamping & stochastic harmonization, international standards compliance, symbols mapped to OPSCODE brevity codes supporting A.I. Artificial Intelligence, quantum computing methods (quantum dot Vs wave) metrics, / structured data system of systems engineering, architecture
 
 Foundation Tech trinity: 
 
