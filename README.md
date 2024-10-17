@@ -2,7 +2,20 @@ Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
 TITLE: The Heart Beacon Cycle Time - Space Meter
 
-SUB TITLE: Signals & Telemetry Annex K for RBF's "The World Game"
+SUB TITLE: Signals & Telemetry Annex K for RBF's "The World Game" / The Great Reset:  Utopia or Oblivion ?
+
+“Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
+
+"There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: Buckminster Fuller Institute http://bfi.org
+
+"Build a new model that makes the old model obsolete" Richard Buckminster Fuller Author of the book Our Spaceship Earth
+
+Helen Adams Keller (June 27, 1880 – June 1, 1968) was a deaf and blind American author, activist and lecturer. Sourced quotes:
+"Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold."[1]
+Simple: It is just as easy to avoid danger by facing it than to hide from it. People who are afraid are caught as often as people who are bold.
+References "The Yale Book of Quotations". Google Books. 
+
+USPTO 13/573,002: Adaptive Procedural Template foundation tech list for net, net of $ / economy. System of systems structured data exchange syntax lexicon Swords to plowshares solution
 
 Application Type: Adaptive Procedural template
 
@@ -39,10 +52,6 @@ CODE REUSE / Avoidance of DECADES OF GOVERNMENT / DOD SYSTEM OF SYSTEMS ENGINEER
 #mBridge #CBDC #worldbank #IMF #BIS #cryptocurrency #davos #Texas et al gold backed currency
 
 INVENTION TYPE: An invention may be an improvement to an existing invention. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface used for OOTW Operations Other Than War following a German Army suggestion circa 2003. 
-
-QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
-
-QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: Buckminster Fuller Institute http://bfi.org
 
 TERRA Trade Reference Currency TRC: currency backed by RWA Real World Assets / commodities / commodity basket / index based featuring demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Economist Bernard Lietaer Source: http://lietaer.com/2010/01/terra/
 
