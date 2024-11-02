@@ -4,6 +4,15 @@ TITLE: The Heart Beacon Cycle Time - Space Meter
 
 SUB TITLE: Signals & Telemetry Annex K for RBF's "The World Game" / The Great Reset:  Utopia or Oblivion ?
 
+The Great Reset of The World Game: Utopia or Oblivion: Real World Assets Economy of Everything:
+
+#commodity tokens / commodity index backed currency:
+
+- DeFI / TradeFi programmable Automated Economy Algorithmic Regulation
+
+- Real World Asset RWA commodity backed Stable Coin
+
+
 “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
 
 "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: Buckminster Fuller Institute http://bfi.org
