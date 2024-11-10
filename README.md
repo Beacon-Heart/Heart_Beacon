@@ -1,8 +1,8 @@
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
-TITLE: The Heart Beacon Cycle Time - Space Meter Signals & Telemetry Annex K for RBF's "The World Game" / The Great Reset:  Utopia or Oblivion ?
+TITLE: The Heart Beacon Cycle Time - Space Meter Signals & Telemetry Annex K for RBF's The World Game
 
-The Great Reset of The World Game: Utopia or Oblivion?  
+Sub Title: The Great Reset of The World Game: Utopia or Oblivion?  
 
 USE CASE: Real World Assets Economy of Everything commodity index backed currency / Economy:
 
