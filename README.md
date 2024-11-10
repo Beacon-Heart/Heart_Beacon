@@ -1,10 +1,10 @@
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
-TITLE: The Heart Beacon Cycle Time - Space Meter
+TITLE: The Heart Beacon Cycle Time - Space Meter Signals & Telemetry Annex K for RBF's "The World Game" / The Great Reset:  Utopia or Oblivion ?
 
-SUB TITLE: Signals & Telemetry Annex K for RBF's "The World Game" / The Great Reset:  Utopia or Oblivion ?
+The Great Reset of The World Game: Utopia or Oblivion?  
 
-The Great Reset of The World Game: Utopia or Oblivion: Real World Assets Economy of Everything:
+USE CASE: Real World Assets Economy of Everything commodity index backed currency / Economy:
 
 #commodity tokens / commodity index backed currency:
 
@@ -12,17 +12,15 @@ The Great Reset of The World Game: Utopia or Oblivion: Real World Assets Economy
 
 - Real World Asset RWA commodity backed Stable Coin
 
-
 “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
 
 "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: Buckminster Fuller Institute http://bfi.org
 
 "Build a new model that makes the old model obsolete" Richard Buckminster Fuller Author of the book Our Spaceship Earth
 
-Helen Adams Keller (June 27, 1880 – June 1, 1968) was a deaf and blind American author, activist and lecturer. Sourced quotes:
 "Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold."[1]
 Simple: It is just as easy to avoid danger by facing it than to hide from it. People who are afraid are caught as often as people who are bold.
-References "The Yale Book of Quotations". Google Books. 
+Helen Adams Keller (June 27, 1880 – June 1, 1968) was a deaf and blind American author, activist and lecturer. Sourced quotes:
 
 USPTO 13/573,002: Adaptive Procedural Template foundation tech list for net, net of $ / economy. System of systems structured data exchange syntax lexicon Swords to plowshares solution
 
