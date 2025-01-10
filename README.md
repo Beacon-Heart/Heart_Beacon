@@ -40,7 +40,7 @@ All things internet, internet of money, blockchains are formed by unicast, multi
 
 USE CASE: FIX MONEY = FIX WORLD
 
-USE CASE: TradeFi / TRC Trade Reference Currency commodity RWA real world assets + cryptography (crypto) = programmable money / economy end state
+USE CASE: TradeFi / TRC Trade Reference Currency commodity RWA real world assets + cryptography (crypto) = programmable money / (re) monetize currency (s)
 
 USE CASE: Eco Economic Epoch Heartbeat for programmable $$$, Economy, data mediation, sync to parallel economy (s)
 
