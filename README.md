@@ -1,6 +1,6 @@
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
-TITLE: The Heart Beacon Cycle Time - Space Meter Signals & Telemetry Annex K for The Great Reset of The World Game
+TITLE: The Heart Beacon Cycle Time - Space Meter Telemetry foundation framework for The World Game's Great Reset
 
 Sub Title: The Great Reset of The World Game: Utopia or Oblivion?  
 
