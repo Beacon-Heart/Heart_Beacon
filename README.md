@@ -14,6 +14,7 @@ USE CASE: Real World Assets commodity index backed currency - Eeonomy: commodity
 QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: http://bfi.org
 
 QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
+
 QUOTE: "The world desperately needs a universal time chain (blockchain) with a distributed time-stamping server with globally recognized immutability to preserve digital truth." "A provable and immutable global time chain is urgently needed, not to replace human conscience but to protect and preserve it." The global economy has begun to degenerate from a relatively free form of capitalism into a digital feudal system,"
 
 "Build a new model that makes the old model obsolete" Richard Buckminster Fuller Author of the book Our Spaceship Earth
