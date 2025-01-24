@@ -1,52 +1,52 @@
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
-
-TITLE: The Heart Beacon Cycle Time - Space Meter Telemetry foundation framework for The World Game's Great Reset
-
-Sub Title: The Great Reset of The World Game: Utopia or Oblivion?  
-
-SUMMARY: System of systems telemetry framework formed with an Adaptive Procedural Template foundation technology framework for The World Game (s) structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps
-
-USE CASE: Real World Assets Economy of Everything commodity index backed currency / Economy: #commodity tokens / commodity RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi programmable Automated Economy Algorithmic Regulation
-
-“Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
-
-"There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: Buckminster Fuller Institute http://bfi.org
-
+TITLE: The Heart Beacon Cycle Time - Space Meter
+SUBTITLE: Telemetry Annex K for The World Game"  Utopia or Oblivion ? 
+Patent Application Type: Adaptive Procedural template algorithmic regulation
+SUMMARY: System of systems telemetry framework formed with an Adaptive Procedural Template foundation technology framework for The World Game (s) 
+USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW
+USE CASE: Real World Assets commodity index backed currency - Eeonomy: commodity tokens / RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi algorithmically regulated programmable ethical, equitable automated economy
+QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: http://bfi.org
+QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
+QUOTE: "The world desperately needs a universal time chain (blockchain) with a distributed time-stamping server with globally recognized immutability to preserve digital truth." "A provable and immutable global time chain is urgently needed, not to replace human conscience but to protect and preserve it." The global economy has begun to degenerate from a relatively free form of capitalism into a digital feudal system," 
 "Build a new model that makes the old model obsolete" Richard Buckminster Fuller Author of the book Our Spaceship Earth
+Helen Adams Keller (June 27, 1880 – June 1, 1968) was a deaf and blind American author, activist and lecturer. Sourced quotes: "Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold."[1] Simple: It is just as easy to avoid danger by facing it than to hide from it. People who are afraid are caught as often as people who are bold. References "The Yale Book of Quotations".
+Socrates: “The Secret of Change Is to Focus All of Your Energy, Not on Fighting the Old, But on Building the New” / Quote Investigator: In 1980 the first edition of “Way of the Peaceful Warrior” by the world-class gymnast Dan Millman was released. “You have many habits that weaken you. The secret of change is to focus all your energy not on fighting the old, but on building the new.” Source: Quote Investigator: https://quoteinvestigator.com/2013/05/28/socrates-energy/
+Foundation Technology trinity for Signals & Telemetry Time Chain Annex K:
+-	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI chain = TIME Chain
+-	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
+-	SYNTAX (data elements mapped to symbols for A.I. / man - machine interface)
+THESIS: All artifacts internet, programmable net of money are formed using:
+1)	Epoch time cycle intervals ex: created by silicon microchip oscillations
+2)	Syntax parsed, processed during epoch time cycle intervals
+All things internet, internet of money, blockchains (time chains) are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Web 3.0 is based on the original internet TCP/IP structure that has not changed because it cannot change.
+Participant incentive: avoid duplication of DoD / NATO decades of work in concert with ISO, ITU, IEEE, DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface requiring consensus, concurrence among an engineering system of systems.
+An invention may be an improvement to an existing invention. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface used for OOTW Operations Other Than War following a German Army suggestion circa 2003.
+TERRA Trade Reference Currency TRC: TERRA Trade Reference Currency TRC: currency backed by RWA Real World Assets / commodities / commodity basket / index based featuring demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Economist Bernard Lietaer Source: http://lietaer.com/2010/01/terra/
+French Money of Peace: Le Fédériste“ "L'Europa monnaie de la paix" Money of peace" proposed January 1st 1933
+PRECEDENT: BRICS / Eurasian Economic Union Commodity Basket backed currency / “new global reserve currency based on Real World Assets, commodities” “The matter of creating the international reserve currency based on the basket of currencies of our countries is under review” Source: Fintech Magazine
+Teams are forming to win the DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established foundation technology. Q: What is foundation technology given SCOTUS 2014 "Alice in Wonderland" ruling? The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words, terms.
+Answer: Supreme Court SCOTUS Alice in Wonderland Precedent: Packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube are abstractions, abstract ideas, terms. The afore mentioned terms are non-existent, fictitious, imaginary metaphorical fabrications are non - compliant with US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”. Physical is the opposite of abstract.
+ 
+Nobel Prize winning Economist Milton Friedman “only a crisis brings real change” 
 
-"Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold."[1]
-Simple: It is just as easy to avoid danger by facing it than to hide from it. People who are afraid are caught as often as people who are bold.
-Helen Adams Keller (June 27, 1880 – June 1, 1968) was a deaf and blind American author, activist and lecturer. Sourced quotes:
+Milton Friedman (July 31, 1912 – November 16, 2006) was an American economist and statistician who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on analysis, monetary history and theory and the complexity of stabilization policy. Friedman promoted a macroeconomic viewpoint known as monetarism and argued that a steady, small expansion of the money supply was the preferred policy, as compared to rapid, and unexpected changes. See: Book: Capitalism and Freedom
 
-USPTO 13/573,002: Adaptive Procedural Template foundation tech list for net, net of $ / economy. System of systems structured data exchange syntax lexicon Swords to plowshares solution
+USE CASES
+1 Supreme Court SCOTUS US SC 573 US 134 2347 Alice Corp Vs CLS Bank compliant, conformant physical meme i.e., cryptocurrency blockchain Digital Ledger Technology DLT programmable money for a programmable economy multi use meme
+2 Foundation technology for programmable money / economy i.e., (re) monetizing (crypto) currencies, syntax Lexicon Namespace derived from NATO / DoD brevity OPSCODE FFIRN, FFUDNS structured data exchange mapped to symbols for A.I. Big Data. Establishes a consistent, universal syntax structured data exchange library – lexicon using UTZ time stamping data by organization <Org_ID>. data class type, resource type to form a universal syntax, code, date element </tag> Rosetta Stone given all things internet are formed using 1. time epoch cycles 2. syntax as instructions 
+3 Distributed Autonomous Organization DAO Trade Federation common signaling, telemetry, symbol, and data element sets forming a foundation technology framework including structured data exchange to assist DAO’s in achieving, remaining, synchronized, stochastically harmonized across UTZ time zones.
+4 Tether, untether to autonomous DAO Distributed Autonomous Organization i.e., trade federations using agile, adhoc NetOps as an option to formal merger, acquisition. Support federations: from Latin: foedus, gen.: foederis, covenant characterized by a union of partially self-governing states or regions under a central government.
+5 Micro to macro-cycle system of systems data updates at agreed upon times observing agreed durations of events, time, temporal epoch leases i.e., stock, commodity, currency trade epochs. Discrete time interval start, stop, TTL Time To Live trade windows commands embedded in </108> heartbeats, heartbeat messages.
+6 Algorithmic regulation / Algorithmic stable coin support: firefly inspired heartbeat synchronization algorithm in stocks, currency exchanges is a segue to algorithmic regulation. Improving temporal trade parity between Bitcoin, crypto & conventional stock exchanges by using the firefly-heartbeat algorithm to take trade speed samples among trade populations across time zones to establish consensus among disparate trade protocols, optimal trade speed / frequency price discovery as a statistical mean. 
+7 The "Grail" A synchronized, common, shared situational awareness view filtered, prioritized events drawn from a system of systems heartbeat message event bus sync delta epoch updates Universal Time Zone UTZ proposal using via improvement to the University of Bologna / Hungary’s . China’s firefly inspired heartbeat synchronization algorithm by matching firefly synchronization pulse to closest OPTEMPO epoch cycle. 
+8 Support economist Milton Friedman’s K% rule where a CBDC, federal, world currency is derived from sampling lead GDP economic indicators across a global event message bus sync delta data, event changes updating for example, a RWA Real World Asset based commodity Real World Asset RWA index backed currency.
+9 Establish, maintain Ecologically sustainable economic econometric epoch time cycles supporting universal standard measures, meters, metrics sync delta cyclic update temporal changes describing linear sequential, geo-spatial temporal intensity radius hop count econometric metrics and meters where closer is shorter, closer is cheaper, less CO2 carbon dioxide credits as environmental control in SLA Service Level Agreements
+10 Data over wired, wireless energy  power lines SLA service level agreement where closer = cheaper given closer involves maintenance of electrical, data infrastructure
+11. USE CASE: Climate change impact on food production: given food, fertilizer shortages (wheat, sunflower, soybean...), energy, fuel prices and looming fuel rationing, it logically follows that the world has no other options than to organize both micro (local) and macro (global) economies observing space - time conservative SLA Service Level Agreements where closer = cheaper given closer = less fuel, C02, time resources used to produce, ship.. Demurrage fees incentivize conservation of resources, commodities i.e., discounts for locally produced, consumed goods and commodities. It is TIME..
+12. USE CASE: Telemetry, syntax lexicon support for economist Milton Friedman’s K% rule where a FEDCOIN / WORLDCOIN currency is supported from sampling lead economic indicators i.e., commodity RWA Real World Assets measurable, tangible, tokenized assets polled from a universal event bus applying firefly-heartbeat algorithm event changes leveraging it’s intrinsic messaging heartbeat functions, updating a statistical mean value index. Nobel Prize winning economist Milton Friedman described an "economic heartbeat" in his K% rule where the Treasury increases the money supply increases and decreases pegged to increases, decreases in GDP index volume.
+13. USE CASE: Leverage DOD / DARPA / NATO’s decades of work developing system of systems engineering best practice that involves development of over 300 message, structured data exchange spreadsheet templates of pre-packaged OPSCODE brevity codes organized in sets to support pre-defined, situation specific workflows, smart contracts in logistics, finance, and probability and statistically likely situation awareness, situation specific action – reaction supporting Artificial Intelligence and machine learning. Leverage DOD / DARPA / NATO’s decades of work developing system of systems engineering best practice that involves development of over 300 message, structured data exchange spreadsheet templates of pre-packaged OPSCODE brevity codes organized in sets to support pre-defined, situation specific workflows, smart contracts in logistics, finance, and probabiily and statistically likely situation awareness, situation specific action – reaction supporting Artifical Intelligence and machine learning.
+14. Sound waves (see water drop in pond meme, graphic) as the basis for establishing common, shared, univeral method and means to eommunicate telemetry across a plurarity of quantum computing system of systems using a system comprised with curved electrodes to concentrate sound waves that is similar to the use of a magnifying lens to focus a point of light at room tempretures using sound waves rather than use of liquid hydrogen to cool a space in an attempt to slow quantum particles for observation.
 
-Application Type: Adaptive Procedural template
-
-Foundation Tech: DeFi, Fintech, metrics, epoch temporal synchronization across time zones, e.g., event time stamping & stochastic harmonization, international standards compliance, symbols mapped to OPSCODE brevity codes supporting A.I. Artificial Intelligence, quantum computing methods (quantum dot Vs wave) metrics, / structured data system of systems engineering, architecture
-
-Foundation Tech trinity: 
-
-- EPOCH (s) = Time intervals, cycles ex: Blockchain = Time Chain 
-- SPACE (land use meme) ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
-- SYNTAX (structured data) (data elements mapped to symbols for A.I. / man - machine interface)
-
-Reference: Micro Strategy's Michael Saylor compares HODLing (Bitcoin) to owning land in Manhattan https://lnkd.in/gRQm6gFW
-
-All things internet, internet of money, blockchains are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast and workflow filters. Programmable money’s improvements are in cryptography. Web 3.0 is based on the original internet TCP/IP structure that has not changed because it cannot change. 
-
-USE CASE: FIX MONEY = FIX WORLD
-
-USE CASE: TradeFi / TRC Trade Reference Currency commodity RWA real world assets + cryptography (crypto) = programmable money / (re) monetize currency (s)
-
-USE CASE: Eco Economic Epoch Heartbeat for programmable $$$, Economy, data mediation, sync to parallel economy (s)
-
-USE CASE: framework net, net of $$$, parallel economy (s), UTZ sync, stochastic harmonization, metrics, meters, syntax brevity codes mapped to symbols for A.I. Artificial Intelligence, Machine Learning man - machine interface, interaction
-
-USE CASE: standards adherence support for IEEE, ITU, ISO international data, internet, internet of money, IoT, Artificial Intelligence A.I ... standards
-
-USE CASE: Parallel Economy mediation gateways to FIAT economy (s)
-
-USE CASE: GDP Gross Domestic Product RWA Real World Asset index to monetize currency ex: Eurasian Economic Union RWA initiative
 
 SUMMARY: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent epoch time cycle for the net, programmable $ / economy.  Foundation Technology for DeFi, structured data syntax – symbol mapping / messaging / economy, quantum computing, AI artificial intelligence. Minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics supporting trade federation (s), support for DAO Distributed Autonomous Organizations, parallel economies e.g., Texas gold backed currency. Web 3.0 USPTO 13/573,002 framework supports for example, Distributed Trade Federation Organizations with DoD / NATO system of systems engineering signaling, telemetry engineering, syntax OPSCODE brevity codes matched to 2525C symbols for A.I. man-machine interface,
 
@@ -71,35 +71,7 @@ Q: What is foundation technology given SCOTUS 2014 "Alice in Wonderland" ruling?
 
 Answer: Supreme Court SCOTUS Alice in Wonderland Precedent: Packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube are abstractions, abstract ideas, terms. The afore mentioned terms are non-existent, fictitious, imaginary metaphorical fabrications are non - compliant with US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”.    Physical is the opposite of abstract.
  
-Fig B: Nobel Prize winning Economist Milton Friedman “only a crisis brings real change” 
-
-USE CASE: Provide signaling, telemetry, data element syntax lexicon support for economist Milton Friedman’s K% rule where a FEDCOIN / WORLDCOIN currency is supported from sampling lead economic indicators i.e., commodity RWA Real World Assets measurable, tangible, tokenized assets across a universal event bus applying the firefly-heartbeat algorithm tracking changes, updating q statistical mean value index. Nobel Prize winning economist Milton Friedman described an "economic heartbeat" in his K% rule where the Treasury increases the money supply increases and decreases pegged to increases, decreases in GDP index volume.
-
-USE CASE: Climate change impact on food production: given food, fertilizer shortages (wheat, sunflower, soybean...), energy, fuel prices and looming fuel rationing, it logically follows that the world has no other options than to organize both micro (local) and macro (global) economies observing space - time conservative SLA Service Level Agreements where closer = cheaper given closer = less fuel, C02, time resources used to produce, ship.. Demurrage fees incentivize conservation of resources, commodities i.e., discounts for locally produced, consumed goods and commodities. It is TIME.
-
-USE CASE: Leverage DOD / DARPA / NATO’s decades of work developing system of systems engineering best practice that involves development of over 300 message, structured data exchange spreadsheet templates of pre-packaged OPSCODE brevity codes organized in sets to support pre-defined, situation specific workflows, smart contracts in logistics, finance, and probabiily and statistically likely situation awareness, situation specific action – reaction supporting Artifical Intelligence and machine learning.
-
-USE CASES
-
-1 Supreme Court SCOTUS US SC 573 US 134 2347 Alice Corp Vs CLS Bank compliant, conformant physical meme i.e., cryptocurrency blockchain Digital Ledger Technology DLT programmable money for a programmable economy multi use meme
-
-2 Foundation technology for programmable money / economy i.e., Syntax Lexicon Namespace derived from NATO / DoD  brevity OPSCODE FFIRN, FFUDNS structured data exchange mapped to symbols for A.I. Big Data. Establishes a consistent, universal syntax structured data exchange library – lexicon using UTZ time stamping data by organization <Org_ID>. data class type, resource type to form a universal syntax, code, date element </tag> Rosetta Stone given all things internet are formed using 1. time epoch cycles 2. syntax as instructions 
-
-3 Distributed Autonomous Organization DAO Trade Federation common signaling, telemetry, symbol, and data element sets forming a foundation technology framework including structured data exchange to assist DAO’s stay synchronized, stochastically harmonized across UTZ zones.
-
-4 Tether, untether to autonomous DAO Distributed Autonomous Organization i.e., trade federations using agile, adhoc NetOps as an option to formal merger, acquisition. Support federations: from Latin: foedus, gen.: foederis, covenant characterized by a union of partially self-governing states or regions under a central government.
-
-5 Micro to macro-cycle system of systems data updates at agreed upon times observing agreed durations i.e., stock, commodity, currency trade epochs. Discrete time interval start, stop, TTL Time To Live trade windows commands embedded in </108> heartbeats, heartbeat messages.
-
-6 Algorithmic regulation / Algorithmic stable coin support: firefly inspired heartbeat synchronization algorithm in stocks, currency exchanges is a segue to algorithmic regulation. Improving temporal trade parity between Bitcoin, crypto & conventional stock exchanges by using the firefly-heartbeat algorithm to take trade speed samples among trade populations across time zones to establish consensus among disparate trade protocols, optimal trade speed / frequency price discovery as a statistical mean. 
-
-7 The "Grail" A synchronized, common, shared situational awareness view filtered, prioritized events drawn from a system of systems heartbeat message event bus sync delta epoch updates Universal Time Zone UTZ proposal using via improvement to the University of Bologna / Hungary’s . China’s firefly inspired heartbeat synchronization algorithm by matching firefly synchronization pulse to closest OPTEMPO epoch cycle. 
-
-8 Support economist Milton Friedman’s K% rule where a CBDC, federal, world currency is derived from sampling lead GDP economic indicators across a global event message bus sync delta data, event changes updating for example, a RWA Real World Asset based commodity Real World Asset RWA index backed currency.
-
-9 Establish, maintain Ecologically sustainable economic econometric epoch time cycles supporting universal standard measures, meters, metrics sync delta cyclic update temporal changes describing linear sequential, geo-spatial temporal intensity radius hop count econometric metrics and meters where closer is shorter, closer is cheaper, less CO2 carbon dioxide credits as environmental control in SLA Service Level Agreements
-
-10 Data over wired, wireless energy  power lines SLA service level agreement where closer = cheaper given closer involves maintenance of electrical, data infrastructure
+USE CASEL Supreme Court SCOTUS US SC 573 US 134 2347 Alice Corp Vs CLS Bank compliant, conformant physical meme i.e., cryptocurrency blockchain Digital Ledger Technology DLT programmable money for a programmable economy multi use meme
 
 USPTO 13/573,002 CLAIMS:
 
@@ -967,13 +939,7 @@ Figure B: Nobel Prize winner Economist Friedman “only a crisis brings real cha
 
 Nobel Prize winning Economist Friedman described in his K% rule a means to automate liquidity insertion, reduction in an economy based on GDP input among his many views
 
-Figure C: OOTW Operations Other Than War: Eco Economic Epoch Heartbeat
-Figure D: Structured Data derived, developed via Net Enabled Operations NEO
-Figure E: SCOTUS ALICE CORP VS CLS BANK 2014 ruling compliant meme
-
 Supreme Court ruled in the “Alice and Wonderland ruling” that “claims may not direct towards abstract ideas.  The oppositive of abstract for example, is a baseball field
-
-FIGURE F: The Heart Beacon Sculpture, Portland Oregon USA
 
 Figure 1: Foundation tech forming the internet, programmable $$$, economy listed in an Adaptive Procedural Template of tools, processes, procedures, routines algorithms, etc.
 A adaptive procedural template used to improve signaling, synchronization using TCP/IP heartbeat time stamping occurring during micro-cycles of state meta data prior to data fusion center entry among metrics, metering processes comprised of TCP/IP heartbeats, heartbeat messages signaled during micro-cycles scheduling instructions, commands, processes, procedures, algorithms, telemetry instructions for example, to master-controller processes i.e., block, start, stop, pause, resume, set Time To live TTL i.e., stock market high frequency flash trade, currency, interest rates, tax rates, time banking, cloud computing commodity exchanges, big data, electrical micro-grid, fungible goods, real time bidding, many use cases. Time stamping and applying descriptive data type tags to heartbeat state meta data after data is collected and queued, stored in temporary structures or entered into database instantiations after the fact is problematic. All internet supported devices including high frequency stock, currency, commodity etc., flash trade master controllers receive heartbeats. Heartbeats are silicon chip created intervals, epochs, time cycles used to (not) process syntax during epoch time cycles.
