@@ -2,7 +2,7 @@ Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
 TITLE: The Heart Beacon Cycle Time - Space Meter
 
-SUBTITLE: Telemetry Annex K for The World Game"  Utopia or Oblivion ? 
+SUBTITLE: Telemetry Annex K for The World Game (s)  Utopia or Oblivion ? 
 
 Patent Application Type: Adaptive Procedural template algorithmic regulation
 
