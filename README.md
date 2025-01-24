@@ -25,7 +25,7 @@ Foundation Technology trinity for Signals & Telemetry Time Chain Annex K:
 -	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI chain = TIME Chain
 -	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
 -	SYNTAX (data elements mapped to symbols for A.I. / man - machine interface)
--	
+  
 THESIS: All artifacts internet, programmable net of money are formed using:
 1)	Epoch time cycle intervals ex: created by silicon microchip oscillations
 2)	Syntax parsed, processed during epoch time cycle intervals
