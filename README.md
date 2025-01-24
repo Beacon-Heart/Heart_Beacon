@@ -6,11 +6,7 @@ Sub Title: The Great Reset of The World Game: Utopia or Oblivion?
 
 SUMMARY System of systems telemetry framework formed with an Adaptive Procedural Template foundation technology framework for The World Game (s) structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing
 
-USE CASE: Real World Assets Economy of Everything commodity index backed currency / Economy:
-
-#commodity tokens / commodity RWA Real World Assets index backed currency / stable coin
-
-- DeFI / TradeFi programmable Automated Economy Algorithmic Regulation
+USE CASE: Real World Assets Economy of Everything commodity index backed currency / Economy: #commodity tokens / commodity RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi programmable Automated Economy Algorithmic Regulation
 
 “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
 
