@@ -4,7 +4,7 @@ TITLE: The Heart Beacon Cycle Time - Space Meter
 
 SUBTITLE: The World Game's (s) Great redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters.. 
 
-Patent Application Type: Adaptive Procedural template algorithmic regulation
+Patent Application Type: Adaptive procedural template
 
 SUMMARY: System of systems telemetry framework formed with an Adaptive Procedural Template foundation technology framework for The World Game (s) 
 USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW
