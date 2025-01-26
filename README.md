@@ -2,7 +2,7 @@ Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
 TITLE: The Heart Beacon Cycle Time - Space Meter
 
-SUBTITLE: The World Game's (s) Great redesign's Adaptive Procedural Template framework, telemetry, metrics, meters.. 
+SUBTITLE: The World Game's (s) Great redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters.. 
 
 Patent Application Type: Adaptive Procedural template algorithmic regulation
 
