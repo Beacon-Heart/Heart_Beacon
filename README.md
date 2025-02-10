@@ -2,15 +2,15 @@ Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
 TITLE: The Heart Beacon Cycle Time - Space Meter
 
-SUBTITLE: The World Game's (s) Great redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters.. 
+SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
 
 Patent Application Type: Adaptive procedural template
 
-SUMMARY: System of systems telemetry framework formed with an Adaptive Procedural Template foundation technology framework for The World Game (s) 
+SUMMARY: System of systems telemetry framework formed with an Adaptive Procedural Template foundation tech control grid framework for The World Game (s)
 
-USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW for control grid / matrix telemetry, metrics, meters..
+USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW Operations Other Than War use case for control grid / matrix telemetry, metrics, meters, sync..
 
-USE CASE: Real World Assets commodity index backed currency - Eeonomy: commodity tokens / RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi algorithmically regulated programmable ethical, equitable automated economy, control grid, access, permission's protocol (s)
+USE CASE: Real World Assets commodity index backed currency - Economy: commodity tokens / RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi algorithmically regulated programmable ethical, equitable automated economy, control grid, access, permission's protocol (s)
 
 QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: http://bfi.org
 
