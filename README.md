@@ -6,7 +6,7 @@ SUBTITLE: The World Game's (s) Great redesign's Adaptive Procedural Template fra
 
 Patent Application Type: Adaptive procedural template
 
-SUMMARY: System of systems telemetry framework formed with an Adaptive Procedural Template foundation tech control grid framework for The World Game (s)
+SUMMARY: System of systems telemetry framework Adaptive Procedural Template foundation tech control grid for The World Game (s)
 
 USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW Operations Other Than War use case for control grid / matrix telemetry, metrics, meters, sync..
 
