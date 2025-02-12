@@ -6,11 +6,11 @@ SUBTITLE: The World Game's (s) Great redesign's Adaptive Procedural Template fra
 
 Patent Application Type: Adaptive procedural template
 
-SUMMARY: System of systems telemetry framework Adaptive Procedural Template foundation tech control grid for The World Game (s)
+SUMMARY: System of systems telemetry data framework formed with an Adaptive Procedural Template foundation tech control grid framework for The World Game (s)
 
-USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW Operations Other Than War use case for control grid / matrix telemetry, metrics, meters, sync..
+USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW Operations Other Than War use case for control grid / matrix telemetry, metrics, meters, synchronization, stochastic harmonization..
 
-USE CASE: Real World Assets commodity index backed currency - Economy: commodity tokens / RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi algorithmically regulated programmable ethical, equitable automated economy, control grid, access, permission's protocol (s)
+USE CASE: Real World Assets commodity index backed currency - Economy: commodity tokens / RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi algorithmically regulated programmable ethical, equitable automated economy, control grid, access, permission, price discovery, equilibrium algorithms, protocols (s)
 
 QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: http://bfi.org
 
