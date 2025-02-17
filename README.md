@@ -4,9 +4,9 @@ TITLE: WORLD GAME GREAT REDESIGN: SUBTITLE: Telemetry data technology foundation
 
 TECH FRAMEWORK FOR DEFI, CRYPTOCURRENCY, BIG DATA, QUANTUM  - AI.. 
 
-SUBTITLE: The World Game's (s) Great redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
+SUBTITLE: The World Game's (s) Great redesign's control grid / matrix telemetry, metrics, meters.. Adaptive Procedural Template framework
 
-TITLE: The Heart Beacon Cycle Time - Space Meter
+TITLE: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template framework
 
 SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
 Patent Application Type: Adaptive procedural template
