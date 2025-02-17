@@ -12,7 +12,7 @@ SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Temp
 Patent Application Type: Adaptive procedural template
 
 THESIS: 
-Foundation Technology trinity for data telemetry time chain – blockchain Annex K:
+Foundation Technology trinity for DeFi, TradeFi, net, net of programmable money:
 -	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
 -	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
 -	SYNTAX: data elements mapped to symbols for A.I. / man - machine interface
