@@ -11,8 +11,7 @@ TITLE: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template fr
 SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
 Patent Application Type: Adaptive procedural template
 
-SUMMARY: System of systems telemetry data framework formed with an Adaptive Procedural Template foundation tech control grid framework for The World Game (s)
-
+THESIS: 
 Foundation Technology trinity for data telemetry time chain – blockchain Annex K:
 -	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
 -	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
