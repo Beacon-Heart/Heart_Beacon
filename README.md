@@ -6,6 +6,9 @@ TECH FRAMEWORK FOR DEFI, CRYPTOCURRENCY, BIG DATA, QUANTUM  - AI..
 
 SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
 
+TITLE: The Heart Beacon Cycle Time - Space Meter
+
+SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
 Patent Application Type: Adaptive procedural template
 
 SUMMARY: System of systems telemetry data framework formed with an Adaptive Procedural Template foundation tech control grid framework for The World Game (s)
@@ -25,40 +28,37 @@ Participant incentive: avoid duplication of DoD / NATO decades of work in concer
 
 An invention may be an improvement to an existing invention. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface used for OOTW Operations Other Than War following a German Army suggestion circa 2003.
 
-USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW Operations Other Than War use case for control grid / matrix telemetry, metrics, meters, sync..
-
-USE CASE: Real World Assets commodity index backed currency - Economy: commodity tokens / RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi algorithmically regulated programmable ethical, equitable automated economy, control grid, access, permission, price discovery, equilibrium algorithms (s)
-
-QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: http://bfi.org
-
-QUOTE: "Build a new model that makes the old model obsolete" Richard Buckminster Fuller Author of the book Our Spaceship Earth
-
-QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
-
-QUOTE: "The world desperately needs a universal time chain (blockchain) with a distributed time-stamping server with globally recognized immutability to preserve digital truth." "A provable and immutable global time chain is urgently needed, not to replace human conscience but to protect and preserve it." The global economy has begun to degenerate from a relatively free form of capitalism into a digital feudal system," 
-
-QUOTE: "Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold." The Yale Book of Quotations Helen Adams Keller (June 27, 1880 – June 1, 1968) deaf and blind author, activist and lecturer.
-
-“The Secret of Change Is to Focus All of Your Energy, Not on Fighting the Old, But on Building the New” / Way of the Peaceful Warrior by the gymnast Dan Millman
-
 TERRA Trade Reference Currency TRC: TERRA Trade Reference Currency TRC: currency backed by RWA Real World Assets / commodities / commodity basket / index based featuring demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Economist Bernard Lietaer Source: http://lietaer.com/2010/01/terra/
 
 French Money of Peace: Le Fédériste“ "L'Europa monnaie de la paix" January 1st 1933
-
 PRECEDENT: BRICS / Eurasian Economic Union Commodity Basket backed currency / “new global reserve currency based on Real World Assets, commodities” “The matter of creating the international reserve currency based on the basket of currencies of our countries is under review” Source: Fintech Magazine
+
 Teams are forming to win the DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established foundation technology. Who established foundation technology given SCOTUS 2014 "Alice in Wonderland" ruling? The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words, terms.
 
 Supreme Court SCOTUS Alice in Wonderland Precedent: Packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube are abstractions, abstract ideas, terms. The afore mentioned terms are non-existent, fictitious, imaginary metaphorical fabrications are non - compliant with US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”. Physical is the opposite of abstract.
  
 Nobel Prize winning Economist Milton Friedman “only a crisis brings real change” 
 
-Milton Friedman (July 31, 1912 – November 16, 2006) economist and statistician who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on analysis, monetary history and theory and the complexity of stabilization policy. Friedman promoted a macroeconomic viewpoint known as monetarism and argued that a steady, small expansion of the money supply was the preferred policy, compared to rapid, unexpected changes. See: Book: Capitalism and Freedom
+Milton Friedman (July 31, 1912 – November 16, 2006) economist and statistician who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on analysis, monetary history and theory and the complexity of stabilization policy. Friedman promoted a macroeconomic viewpoint known as monetarism and argued that a steady, small expansion of the money supply was the preferred policy, compared to rapid, unexpected changes. See: Book: Capitalism and Freedom  QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
+
+QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: http://bfi.org
+
+QUOTE: "Build a new model that makes the old model obsolete" Richard Buckminster Fuller Author of the book Our Spaceship Earth
+
+QUOTE: "The world desperately needs a universal time chain (blockchain) with a distributed time-stamping server with globally recognized immutability to preserve digital truth." "A provable and immutable global time chain is urgently needed, not to replace human conscience but to protect and preserve it." The global economy has begun to degenerate from a relatively free form of capitalism into a digital feudal system," 
+
+QUOTE: "Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold." The Yale Book of Quotations Helen Adams Keller (June 27, 1880 – June 1, 1968) deaf and blind author, activist and lecturer.
+
+USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW Operations Other Than War use case for control grid / matrix telemetry, metrics, meters, sync..
+
+USE CASE: Real World Assets commodity index backed currency - Economy: commodity tokens / RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi algorithmically regulated programmable ethical, equitable automated economy, control grid, access, permission, price discovery, equilibrium algorithms (s)
 
 USPTO 13/573,002 CLAIMS
 
-1. Method of claims based on USPTO 13/573,002 assertion: All artifacts internet, programmable internet of money are formed using:
-1)	Epoch time cycle intervals ex: created by silicon microchip oscillations, sound wave oscillations used by quantum computing installations at room temperature
-2)	Syntax parsed, processed during epoch time cycle intervals
+1. Method of claim (s) based on USPTO 13/573,002 assertion: All internet, programmable internet of money artifacts, items, building blocks are formed using:
+1) Epoch time cycle intervals created by silicon microchip oscillations, sound wave oscillations intrinsic of, foundation tech for quantum computing at room temperature
+2) Syntax parsed, processed, transmitted during epoch time cycle intervals
+3) All things internet, internet of money, blockchains (time chains) are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast of workflow filters.
 
 2 Method of claim to establish, support The "Grail": synchronized, common, shared situational awareness data dashboard view (s) of time stamp, brevity code, tokens, digital asset filtered, prioritized events drawn from a federated system of systems via use of heartbeat message event bus sync delta epoch updates over Universal Time Zone UTZ using an improvement described by the University of Bologna / Hungary’s and a Chinese University’s firefly inspired heartbeat synchronization algorithm that matches, synchronizes stochastic harmonizes via firefly synchronization pulses intrinsic to a specific species of mating fireflies as analogous to Network Centric Warfare’s Battlefield Digitization’s, DoD – NATO’s  closest OPTEMPO epoch cycles i.e., 05, 10, 15, 30 micro, milli seconds, minutes, hours days, years posted to digital dashboards
 
@@ -69,9 +69,9 @@ USPTO 13/573,002 CLAIMS
 5. Method of claim to broadcast, unicast, anycast data synchronization deltas “sync deltas” via micro to macro-cycle system of systems data updates at agreed upon times observing set durations of events, time, temporal epoch leases, price discover algorithm data harvests for example stocks, commodity real world digital assets, currency arbitrage trade exchange adjustments using heartbeat epoch time beacon’s intrinsic temporally consistent, synchronized, time bounded i.,e heartbeat start, stop, TTL Time to Live epochs providing discrete time interval start, stop, TTL Time To Live epoch windows embedded in </108> system heartbeats, messages in a control matrix among federated systems participating in DAO trade federation system of systems
 
 6. Method of claim establishing consistency, interoperability, temporal synchronization and syntax, syntactical, symbolic interoperability among myriad blockchain cryptocurrency consensus algorithm memes i.e., Ripple XRP, Solana Sol, Ethereum ETH, Bitcoin Satoshi’s, Circle Mint metaphors, establishing consensus using statistically predictive workflows, broadcast, unicast, anycast, metrics, meters, synchronization, stochastic harmonization procedures, processes, algorithmic, tools,  functions among DeFi DAO trade federation stakeholders, actors participating in DAO trade federations
-
-7. Method of claim supporting, establishing economist Milton Friedman’s K% rule where a Central Bank Digital Currency CBDC. stablecoin currency is derived from sampling lead GDP Gross Domestic Product economic indicators among a global event message bus sync delta data, event changes updating for example, a RWA Real World Asset based commodity index backed global currency via use of filtered, stochastically harmonized, temporally synchronized telemetry polled from a universal event bus applying firefly-heartbeat algorithm events, state changes leveraging message - event heartbeat functions to update for example, a statistical mean value cryptocurrency, conventual FIAT currency index where a statistical mean value index is derived as a standard, consistent unit of value, statistical mean index shared using algorithmic price discovery methods heartbeat beacon broadcasted among a system of systems
-
+   
+8. Method of claim supporting, establishing economist Milton Friedman’s K% rule where a Central Bank Digital Currency CBDC. stablecoin currency is derived from sampling lead GDP Gross Domestic Product economic indicators among a global event message bus sync delta data, event changes updating for example, a RWA Real World Asset based commodity index backed global currency via use of filtered, stochastically harmonized, temporally synchronized telemetry polled from a universal event bus applying firefly-heartbeat algorithm events, state changes leveraging message - event heartbeat functions to update for example, a statistical mean value cryptocurrency, conventual FIAT currency index where a statistical mean value index is derived as a standard, consistent unit of value, statistical mean index shared using algorithmic price discovery methods heartbeat beacon broadcasted among a system of systems
+   
 8 Method of claim to comply with Supreme Court SCOTUS US SC 573 US 134 2347 Alice Corp Vs CLS Bank ruling physical meme that describes steps, procedures intrinsic to internet, internet of foundation technology framework supporting for example, DeFi programmable money digital tokenized assets by providing system time epoch cycles, geospatial location survey points, workflow roles, rules, scoring system, rewards, penalties, rulings, schedules, event, alerts, sync deltas control grid, access, permission, price discovery, equilibrium algorithms (s) comprising an adaptive procedural template foundation technology framework for DeFi, TradeFi based trade federations to establish for example, a one world government, economic, financial system of systems derived unified, universal unit of value derived from price discover algorithms sampling of cryptocurrency DLT blockchain currency paper money real world asset tokens
 
 9. Method of claim to establish, maintain a global system of systems telemetry data synchronization, stochastic harmonization, based on sound - light waveform based quantum computing to establish for example, temporal speedbumps for metrics, meters, synchronization among many system of systems Distributed Autonomous Networks
