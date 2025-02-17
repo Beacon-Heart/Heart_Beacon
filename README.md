@@ -11,17 +11,14 @@ TITLE: The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template fr
 SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
 Patent Application Type: Adaptive procedural template
 
-THESIS: 
-Foundation Technology trinity for DeFi, TradeFi, net, net of programmable money:
--	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
--	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
--	SYNTAX: data elements mapped to symbols for A.I. / man - machine interface
-
 THESIS: All artifacts internet, programmable net of money are formed using:
 1)	Epoch time cycle intervals ex: created by silicon microchip oscillations
 2)	Syntax parsed, processed during epoch time cycle intervals
 
-All things internet, internet of money, blockchains (time chains) are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast of workflow filters. 
+All things internet, internet of money, blockchains (time chains) are formed by unicast, multicast, anycast protocols. Programmable money’s improvements are in cryptography. Blockchains are formed by unicast, multicast, anycast of workflow filters. Foundation Technology trinity for DeFi, TradeFi, net, net of programmable money:
+-	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
+-	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
+-	SYNTAX: data elements mapped to symbols for A.I. / man - machine interface
 
 Participant incentive: avoid duplication of DoD / NATO decades of work in concert with ISO, ITU, IEEE, DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface requiring consensus, concurrence among an engineering system of systems.
 
