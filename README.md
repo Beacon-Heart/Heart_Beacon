@@ -4,7 +4,7 @@ TITLE: WORLD GAME GREAT REDESIGN: SUBTITLE: Telemetry data technology foundation
 
 TECH FRAMEWORK FOR DEFI, CRYPTOCURRENCY, BIG DATA, QUANTUM  - AI.. 
 
-SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
+SUBTITLE: The World Game's (s) Great redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
 
 TITLE: The Heart Beacon Cycle Time - Space Meter
 
