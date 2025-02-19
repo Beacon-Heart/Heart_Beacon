@@ -8,7 +8,7 @@ Patent Application Type: Adaptive procedural template
 SUMMARY: Adaptive Procedural Template System of systems telemetry data framework foundation technology list for the net, net of programmable $$$
 Foundation Technology trinity:
 
--	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
+-	EPOCH (s) = Time intervals, cycles ex: blockchain, internet seven layer model, packets, frames AI dbase.. = TIME Chain
 -	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
 -	SYNTAX: data elements mapped to symbols for A.I. / man - machine interface
 -	
