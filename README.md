@@ -1,37 +1,38 @@
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
-TITLE: WORLD GAME GREAT REDESIGN: SUBTITLE: Telemetry data technology foundation matrix, control grid framework formed with an Adaptive Procedural Template
-
-Document Control Number: USPTO 13/573,002 Art Unit: 2468
 TITLE: The Heart Beacon Cycle Time - Space Meter
 
 SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
-
 Patent Application Type: Adaptive procedural template
 
 SUMMARY: Adaptive Procedural Template System of systems telemetry data framework foundation technology list for the net, net of programmable $$$
 Foundation Technology trinity:
+
 -	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
 -	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
 -	SYNTAX: data elements mapped to symbols for A.I. / man - machine interface
-  
+-	
 THESIS: All artifacts internet, programmable net of money are formed using:
 1)	Epoch time cycle intervals ex: created by silicon microchip oscillations
 2)	Syntax parsed, processed during epoch time cycle intervals
 3)	All things internet, internet of money, blockchains (time chains) are formed with unicast, multicast, anycast protocols. workflow logic, procedures, process filters
-   
+4)	
 Summary: an invention may be an improvement to an existing invention. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface used for OOTW Operations Other Than War: a German Army suggestion circa 2003. Supreme Court SCOTUS Alice in Wonderland Precedent: Packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube are abstractions, abstract ideas, terms. The afore mentioned terms are non-existent, fictitious, imaginary metaphorical fabrications are non - compliant with US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”. Physical is the opposite of abstract.
-Teams are forming to win the DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established foundation technology. Who established foundation technology given SCOTUS 2014 "Alice in Wonderland" ruling? The internet and now the net of money Web 3.0 is described with memes, metaphors, made up terms.
+Teams are forming to win the DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established foundation technology. Who established foundation technology given SCOTUS 2014 "Alice in Wonderland" ruling? The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words, terms.
 
 Use Case: avoid duplication of DoD / NATO decades of work in concert with ISO, ITU, IEEE, DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface requiring consensus, concurrence among an engineering system of federated, distributed systems
-TERRA Trade Reference Currency TRC: TERRA Trade Reference Currency TRC: currency backed by RWA Real World Assets / commodities / commodity basket / index based featuring demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Economist Bernard Lietaer Source: http://lietaer.com/2010/01/terra/
-French Money of Peace: Le Fédériste“ "L'Europa monnaie de la paix" January 1st 1933
 PRECEDENT: BRICS / Eurasian Economic Union Commodity Basket backed currency / “new global reserve currency based on Real World Assets, commodities” “The matter of creating the international reserve currency based on the basket of currencies of our countries is under review” Source: Fintech Magazine
  
 Nobel Prize winning Economist Milton Friedman “only a crisis brings real change” 
 
 Milton Friedman (July 31, 1912 – November 16, 2006) economist and statistician who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on analysis, monetary history and theory and the complexity of stabilization policy. Friedman promoted a macroeconomic viewpoint known as monetarism and argued that a steady, small expansion of the money supply was the preferred policy, compared to rapid, unexpected changes. See: Book: Capitalism and Freedom  QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
 
+USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW Operations Other Than War use case for control grid / matrix telemetry, metrics, meters, sync..
+
+USE CASE: Real World Assets commodity index backed currency - Economy: commodity tokens / RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi algorithmically regulated programmable ethical, equitable automated economy, control grid, access, permission, price discovery, equilibrium algorithms (s)
+
+TERRA Trade Reference Currency TRC: TERRA Trade Reference Currency TRC: currency backed by RWA Real World Assets / commodities / commodity basket / index based featuring demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Economist Bernard Lietaer Source: http://lietaer.com/2010/01/terra/
+French Money of Peace: Le Fédériste“ "L'Europa monnaie de la paix" January 1st 1933
 QUOTE: "There is only one revolution tolerable to all men, all societies, all political systems: Revolution by design and invention". Richard Buckminster Fuller author of The World (Peace) (simulation) Game book, futurist, environmentalist: http://bfi.org
 
 QUOTE: "Build a new model that makes the old model obsolete" Richard Buckminster Fuller Author of the book Our Spaceship Earth
@@ -40,9 +41,7 @@ QUOTE: "The world desperately needs a universal time chain (blockchain) with a d
 
 QUOTE: "Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold." The Yale Book of Quotations Helen Adams Keller (June 27, 1880 – June 1, 1968) deaf and blind author, activist and lecturer.
 
-USE CASE: structured data exchange synchronization, stochastic harmonization, OPSCODE brevity codes - Artificial Intelligence symbol sets, sound - light based quantum computing speedbumps, reuse of DARPA, NATO systems OOTW Operations Other Than War use case for control grid / matrix telemetry, metrics, meters, sync..
-
-USE CASE: Real World Assets commodity index backed currency - Economy: commodity tokens / RWA Real World Assets index backed currency / stable coin - DeFI / TradeFi algorithmically regulated programmable ethical, equitable automated economy, control grid, access, permission, price discovery, equilibrium algorithms (s)
+Quantum Computing Sound Waves could generate individual phonons, which are the fundamental quantum units that make up sound waves and use them to transfer quantum information between superconducting qubits. A phononic beamsplitter splits acoustic waves enabling manipulation of quantum phenomena like superposition, entanglement, and interference. The Hong-Ou-Mandel effect using phonons, The University of Tsukuba studied a process for creating coherent lattice waves inside silicon crystals using ultrashort laser pulses, which could lead to quantum computers based on existing silicon devices to enable geo-spatial temporal system interoperability
 
 USPTO 13/573,002 CLAIMS
 
@@ -74,30 +73,6 @@ referred to in military discussions as The "Grail": synchronized, common, shared
 
 12 Method of claim to apply an electric dipole effect electric meter claim based on electric dipole effect where closer is cheaper given less infrastructure needed given energy attenuates over distances • data over energy link where energy pulses constitute a method and means to transmit data over electric wired, and wireless pathways as demonstrated by inventor, scientist Nicola Telsa circa 1900 in Colorado Springs CO.
 
-SUMMARY: Adaptive Procedural Template Framework: checklist: ideas, algorithms, processes, procedures, metrics, meters, signal & telemetry structured data for consistent epoch time cycle for the net, programmable $ / economy.  Foundation Technology for DeFi, structured data syntax – symbol mapping / messaging / economy, quantum computing, AI artificial intelligence. Minimum trade federation consensus checklist i.e., timing - sync schedule, OPSCODE brevity codes, UTZ event stochastic harmonization, consensus algorithm common description, measurements, metrics supporting trade federation (s), support for DAO Distributed Autonomous Organizations, parallel economies e.g., Texas gold backed currency. Web 3.0 USPTO 13/573,002 framework supports for example, Distributed Trade Federation Organizations with DoD / NATO system of systems engineering signaling, telemetry engineering, syntax OPSCODE brevity codes matched to 2525C symbols for A.I. man-machine interface,
-
-CODE REUSE / Avoidance of DECADES OF GOVERNMENT / DOD SYSTEM OF SYSTEMS ENGINEERING MAN HOURS: DoD / NATO decades of collaborative work with ISO, ITU, IEEE, DoD / NATO maps data element OPSCODE brevity codes to (Mil standard 2525C, D) symbols supporting A.I. man - machine interface requiring consensus, concurrence among a system of systems.
-
-#mBridge #CBDC #worldbank #IMF #BIS #cryptocurrency #davos #Texas et al gold backed currency
-
-TERRA Trade Reference Currency TRC: currency backed by RWA Real World Assets / commodities / commodity basket / index based featuring demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Economist Bernard Lietaer Source: http://lietaer.com/2010/01/terra/
-
-French Money of Peace: Le Fédériste“ "L'Europa monnaie de la paix" Money of peace" proposed January 1st 1933
-
-PRECEDENT: BRICS / Eurasian Economic Union Commodity Basket backed currency / “new global reserve currency based on Real World Assets, commodities”
-“The matter of creating the international reserve currency based on the basket of currencies of our countries is under review” Source: Fintech Magazine
-
-Thomas Edison’s Monetary option: Thomas Edison and Henry Ford proposed a currency based on the value of a basket of crop commodities in 1922. Inventor Thomas Edison believed that crops held their value over time. “I want to cast the variable out of money. This gold money is not good enough. It's a fiction” (New York Times 1922).
-
-Question: what constitutes foundation tech for #DeFi / programmable $$$? Teams are forming to win the DeFi Distributed Finance / programmable $$$ - money IP Intellectual Property wars. The winning team will prove that their IP intellectual property filings establishes / established foundation technology. 
-
-Q: What is foundation technology given SCOTUS 2014 "Alice in Wonderland" ruling? The internet and now the internet of money Web 3.0 is described with memes, metaphors, made up words, terms. 
-
-Answer: Supreme Court SCOTUS Alice in Wonderland Precedent: Packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube are abstractions, abstract ideas, terms. The afore mentioned terms are non-existent, fictitious, imaginary metaphorical fabrications are non - compliant with US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”.    Physical is the opposite of abstract.
- 
-USE CASEL Supreme Court SCOTUS US SC 573 US 134 2347 Alice Corp Vs CLS Bank compliant, conformant physical meme i.e., cryptocurrency blockchain Digital Ledger Technology DLT programmable money for a programmable economy multi use meme
-
-SUMMARY of CLAIMS: The Heart Beacon Cycle Time  - Space Meter USPTO 13/573,002 is an adaptive procedural template / checklist of ideas, methods, processes, procedures, algorithms, tools… used to organize a system of federated systems comprised of diverse groups, people speaking many different languages through the universal language of symbols into Distributed Autonomous groups organized in time - space to achieve common goals. DoD / NATO structured data exchange involves reuse of over 300 use cases supported by hundreds of message sets described in spread sheet row - column format populated by thousands of brevity OPSCODES mapped to symbols essential to A.I. artificial intelligence man - machine interface.
  
 APPENDIX A: SAMPLE ADAPTIVE PROCEDURAL TEMPLATE
 
