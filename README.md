@@ -11,7 +11,7 @@ Foundation Technology trinity:
 -	EPOCH (s) = Time intervals, cycles ex: blockchain, internet seven layer model, packets, frames AI dbase.. = TIME Chain
 -	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
 -	SYNTAX: data elements mapped to symbols for A.I. / man - machine interface
--	
+  
 THESIS: All artifacts internet, programmable net of money are formed using:
 1)	Epoch time cycle intervals ex: created by silicon microchip oscillations
 2)	Syntax parsed, processed during epoch time cycle intervals
