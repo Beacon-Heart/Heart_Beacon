@@ -20,7 +20,7 @@ APPENDIX A: ADAPTIVE PROCEDURAL TEMPLATE	Page 9
 
 1.3	Roles		10
 
-1.4	Definitions, 	11
+1.4	Definitions 	11
 
 1.5	References	11
 
