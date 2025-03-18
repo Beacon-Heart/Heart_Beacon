@@ -1,10 +1,10 @@
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
-TITLE: The WORLD GAME (s) GREAT REDESIGN: SUBTITLE: Telemetry data technology foundation matrix, control grid framework Adaptive Procedural Template
+TITLE: The WORLD GAME (s) GREAT REDESIGN
 
- 
+SUBTITLE: Telemetry data technology foundation matrix, control grid framework Adaptive Procedural Template
+
 TECH FRAMEWORK: DeFi micropayment, microtransactions supported by quantum AI
-
  
 TABLE OF CONTENTS 
 
@@ -13,6 +13,7 @@ TABLE OF CONTENTS
 2. CLAIMS 				Page 6
 
 APPENDIX A: ADAPTIVE PROCEDURAL TEMPLATE	Page 9
+
 1.1	Purpose	10
 
 1.2	Scope		10
@@ -43,26 +44,33 @@ APPENDIX A: ADAPTIVE PROCEDURAL TEMPLATE	Page 9
 
 APPENDIX B: PRIOR ART							Page 21
 
-APPENDIC C: FINAL REJECTION RESPONSE 	 			Page 53
+APPENDIC C: FINAL REJECTION RESPONSE 	 			        Page 53
 
 APPENDIX D: SOCIAL MEDIA LINKS 						Page 54
 APPENDIX E: DESCRIPTION OF GRAPHICS					Page 55
 
-APPENDIX F: GRAPHICS								Page 88
+APPENDIX F: GRAPHICS						        Page 88
 
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
+
 Patent Application Type: Adaptive procedural template
+
 TITLE: The Heart Beacon Cycle Time - Space Meter
+
 SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
+
 SUMMARY: Adaptive Procedural Template System of systems telemetry data framework foundation technology list for the net, net of programmable $$$
+
 Foundation Technology trinity:
 -	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
 -	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
 -	SYNTAX: data elements mapped to symbols for A.I. / man - machine interface
+
 THESIS: All artifacts internet, programmable net of money are formed using:
 1)	Epoch time cycle intervals ex: created by silicon microchip oscillations
 2)	Syntax parsed, processed during epoch time cycle intervals
 3)	All things internet, internet of money, blockchains (time chains) are formed with unicast, multicast, anycast protocols. workflow logic, procedures, process filters 
+
 BACKGROUND: an invention may be an improvement to an existing invention. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface used for OOTW Operations Other Than War: a German Army suggestion circa 2003. Supreme Court SCOTUS Alice in Wonderland Precedent: Packets, frames, layers, blocks, shards, graphs, hash graphs “bots”, “motes”, … or Satoshi's traversing the net, stored in a blockchain cube are abstractions, abstract ideas, terms. The afore mentioned terms are non-existent, fictitious, imaginary metaphorical fabrications are non - compliant with US Supreme Court SCOTUS Alice Corp Vs CLS Bank 2014 ruling “claims may not direct towards abstract ideas”. Physical is the opposite of abstract.
 
 USE CASE: The main use case of the (technically non-existent) blockchain derived from the video game industry adapted to the cryptocurrency industry is about adding micropayments / microtransactions with the intent to add a pay by event / action / (token) transaction additional income stream / control grid layer of control. 
@@ -120,58 +128,92 @@ Metaphorical blockchain’s = timechain actual foundation tech, net of $ buildin
 
 APPENDIX A: ADAPTIVE PROCEDURAL TEMPLATE SAMPLE
 DEFINITION: Adaptive Procedural Template = checklist of useful tools, procedures used to aid individuals join trade federations. Affiliated organizations are geo-spatially, temporally located in distributed, dispersed locations across time – space. Member organizations may join or leave in an ad hoc, agile manner to take advantage or react to events, situations while retaining autonomy or the ability to act on one’s own behalf, control one’s own activities, The process involves DoD / NATO derived agile, ad hoc joins, merges, drops to / from (trade) federation in lieu of formal merger, and acquisition.
+
 1.1 PURPOSE: Establish a consistent context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers. Common time – space geo spatial temporal meters. Military OPSCODE brevity alpha- numeric codes are mapped, associated, paired with MILSTD 2525 A, B, C, D symbols and symbol sets. MIL Standard structured data exchange messages, message sets are critical to A.I. Artificial Intelligence Man - machine interaction. USPTO 13/573,002 Goal: improve geo-spatial temporal, syntactic - semantic consistency, interoperability among myriad programmable cryptocurrencies, economy protocols, algorithms, syntax libraries. 300 + message sets supporting artificial intelligence A.I. through mapping of brevity operational OPSCODES to symbols, symbol sets
+
 1.2 SCOPE
 Trade federations form among local communities or among sovereign (First) nations. The off-site connector workflow object convention connects, mitigates, adjusts by summation, statistical mean by aggregation among federated, non-federated groups acting as format gateways among participating, non – participating groups. USPTO 13/573,002's foundation is Battlefield Digitization / Network Centric Warfare's signaling, telemetry support framework where improvement to involves establishing a foundation framework for internet, net of programmable money, description, metrics, meters, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in an eco-sustainable programmable economy model with UTZ Universal Time Zone temporal synchronization, stochastic spatial – temporal harmonization
+
 1.3 ROLES
-The baseball umpire meme is the rule observer / enforcer i.e., the cryptocurrency blockchain segregated witness observer. The baseball game statistician performs data analytics e.g., time series database maintainer, the base runner delivers (code syntax) instructions via 3 x 5 cards. Base running forms blocks on blockchain that is represented by the baseball diamond when stood up on its home plate corner in 3d embodies a cube that has length, width, depth height = volume, Little League Tournament board votes on most valuable player in voting functions. The Little League tournament Baseball meme complies with SCOTUS Alice Corp V CLS Bank rul
+The baseball umpire meme is the rule observer / enforcer i.e., the cryptocurrency blockchain segregated witness observer. The baseball game statistician performs data analytics e.g., time series database maintainer, the base runner delivers (code syntax) instructions via 3 x 5 cards. Base running forms blocks on blockchain that is represented by the baseball diamond when stood up on its home plate corner in 3d embodies a cube that has length, width, depth height = volume, Little League Tournament board votes on most valuable player in voting functions. The Little League tournament Baseball meme complies with SCOTUS Alice Corp V CLS Bank rule
 
 1.4 DEFINITIONS, ACRONYMS
 Adaptive Procedural Templates are formed using entries linked to detailed treatises. Treatises spell out and describe definitions, acronyms and process details. Terms in internet, internet of money treatises are often abstractions – hence a baseball meme.
+
 1.5 REFERENCES: See Appendix B
 References cite documents, detailed treatises, standards body publications describing procedural steps cited by a procedural template. References refer to detailed treatises.
+
 1.6 TRACEABILITY
 The act of researching or ascertaining the origin or location of something: To ascertain the successive stages in the development or progress of for example, tracing a project’s life cycle. In context with this paper’s procedural template, tracking changes from micro-macro cycle across UTZ time zones across space time maintaining non-repudiation at any point, place in time in the future as provided for example, by NIST’s QRNB Quantum Random Number Beacon operated by the Department of Commerce’s NIST National Institute of Standards and Technology in Boulder Colorado.
+
 1.7 POLICIES
 The adaptive procedural template includes standards and policies published by standards groups describing detailed treatises according to individual use cases
+
 1.8 STANDARDS
 The adaptive procedural template will include standards and policies published by standards groups describing detailed treatises according to individual use cases, consensus algorithms, Web 3.0 standards, blockchain organization standards…
+
 1.9 PROCESSES
 Heart Beacon Cycle adaptive procedural template emphasizes protocol, software application neutral rules (algorithms) over processes coded by software vendors.
+
 1.10 PROCEDURES
 Procedures, workflow are derived from, are referential to Battlefield Digitization, Network Centric Operations, Net Enabled Operations systems engineering
+
 EXAMPLE: Firefly inspired heartbeat synchronization message event bus algorithm – protocol, software application neutral monitors geo-spatial, temporally distributed events reported across a DAO Distributed Autonomous Organization among federated groups synchronized across time-space for common goals. Other procedures are intrinsic to algorithms / protocols such as Princeton’s John Nash Equilibrium algorithms and count minimum sketch or streaming K algorithms algorithmically regulating through use of epoch time intervals for stock, commodity, digital tokenized RWA Real World Assets, cryptocurrency trade, arbitrage transaction epoch time windows in a federated system
+
 1.11 GUIDELINES
+
 Example: Distributed Autonomous Organization DAO’s in trade federations agree to use common components, shared processes, methods, signaling – telemetry micro-macro schedule, metrics, meters to form service level agreements used in smart contracts.
+
 System of systems is a collection of task-oriented or dedicated systems that pool their resources and capabilities together to create a new, more complex system which offers more functionality and performance than simply the sum of the constituent systems. Currently, systems of systems is a critical research discipline for which frames of reference, thought processes, quantitative analysis, tools, and design methods are incomplete.[1] The methodology for defining, abstracting, modeling, and analyzing system of systems problems is typically referred to as system of systems engineering. 
 Overview: Commonly proposed descriptions—not necessarily definitions—of systems of systems,[2] are outlined below in order of their appearance in the literature: linking systems into joint system of systems allows for the interoperability and synergism of Command, Control, Computers, Communications and Information (C4I) and Intelligence, Surveillance and Reconnaissance (ISR) Systems:[3] description in the field of information superiority in modern military. 
+
 System-of-systems engineering, architecture approach: System of systems study is related to the general study of designing, complexity and systems engineering, but also brings to the fore the additional challenge of design. Systems of systems typically exhibit the behaviors of complex systems, but not all complex problems fall in the realm of systems of systems. Inherent to system of systems problems are several combinations of traits, not all of which are exhibited by every problem. Systems of systems, while still being investigated predominantly in the defense sector, is seeing application in other fields where it can be applied include design of the Internet, software integration, and energy management and power systems. Social-ecological interpretations of resilience, where different levels of our world (e.g., Earth system) are interpreted as interconnected or nested systems, need a systems-of-systems approach. An application in business can be found for supply chain resilience. Wikipedia
+
 Operational Independence of Elements, Managerial Independence of Elements, Evolutionary Development, Emergent Behavior, Geographical Distribution of Elements, Interdisciplinary Study, Heterogeneity of Systems, and Networks of Systems
+
 The first five traits are known as Maier's criteria for identifying system of systems challenges. The remaining three traits have been proposed from the study of mathematical implications of modeling and analyzing system of systems challenges by Dr. Daniel DeLaurentis and his co-researchers at Purdue University.
 Research: Current research into effective approaches to system of systems problems includes: Establishment of an effective frame of reference, Crafting of a unifying lexicon, Developing effective methodologies to visualize, communicate complex systems, Distributed resource management, Study of designing architecture, Interoperability, Data distribution policies: policy definition, design guidance and verification, Formal modelling language with integrated tools platform, Study of various modeling, simulation and analysis techniques:, network theory. agent based modeling, general systems theory, probabilistic robust design (including uncertainty modeling/management), object-oriented simulation and programming, multi-objective optimization. Study of various numerical and visual tools for capturing the interaction of system requirements, concepts and technologies. Sample Applications
+
 1.12 TEMPLATES
 Checklist: minimum list of items, components, building blocks, processes, procedures agreed upon within federations to achieve consensus forming a basis for equitable trade
+
 CHECKLIST ITEMS MINIMUM ESSENTIAL:
 - Consensus Algorithms: consensus methods to establish common metrics, meters and space-time synchronization across many disparate, distributed autonomous organizations. The main method uses conventions of a Little League Baseball tournament where the environment is surveyed, and boundaries form a 360-degree clock face time clock. Agents and workflow are represented by players, officials
+
 - Method includes for example, universal meme for Bitcoin and like cryptocurrencies, Blockchain Proof of Work, Stake, POET Proof of Elapsed Time, Project Lightning Vs Segregated Witness, and Fast Internet Bitcoin Relay Engine FIBRE... Therefore, a common tool / meme is needed to help establish consensus metrics, meters and to establish a code reference syntax lexicon - library of OPSCODE brevity codes mapped to symbols and (DoD / NATO) symbol sets useful for A.I. Artificial Intelligence       
+
 - Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain (partial listing):
+
 - GDP Gross Domestic Product Index / statistical mean value index based TRC Trade Reference Currency demurrage fees by Economist Bernard Lietaer of Belgium
+
 - Geo-spatial temporal metrics, and meters i.e. storing increments of value for all things internet, internet of $$$ into the “blockchain cube” fictional data structure
+
 - Ecologically sustainable Economic Epochs applying geospatial temporal methods and means i.e., IDMaps - SonarHops, Ericsson Erlang time algorithms / time equations to base economic incentives, derive TRC Trade Reference Currency demurrage charges i.e., closer is cheaper given closer = less fuel, less time, demurrage fees
+
 - Universal lexicon OPSCODE brevity codes naming conventions for objects, events. OPSCODE brevity code syntax - symbol set lexicon of tokenized GDP Gross Domestic Product pacing items described in a syntax lexicon OPSCODE brevity code library
+
 - Rosetta Stone syntax lexicon library needed for A.I. Artificial Intelligence man - machine interface. Symbols, symbol sets / standardized OPSCODE brevity codes
+
 - Universal heartbeat message event / transaction QRNB Quantum Random Number Beacon non-repudiation bus, Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm / heartbeat message event - transaction bus comprised of a </108> system heartbeat message
+
 - Quantum computing mediation, mitigation and techniques e.g., particle detection using liquid nitrogen vs waves at room temperature that will affect for example, transactions of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics, Central Bank Digital Currencies among DeFi DAO exchanges – federations. 
+
 - Big data sync, time – space metrics and meters descriptive framework based on geo-spatial temporal time – space stamp methods to establish time - space Epochs i.e., IDMaps – SonarHops distance estimation service, Ericsson Erlang time equations
+
 - Epoch time cycles are (not) used in describing sync delta cyclic changes from one epoch time cycle to the next. Paul Revere meme linear sequential and water drop in pond mem geo-spatial temporal intensity radius hop count form common, universal, shared econometric metrics and meters among distributed, federated trade units
 - Invention relies on System of systems type processes: collection of task-oriented, dedicated systems pooling resources, capabilities together to create a more complex system with more functionality, performance than the sum of separate systems 
+
 1.13. TOOLS 
 Tool selections may be inserted, removed by majority federation vote. If a superior tool is deemed an improvement, the old tool is replaced by the new at a point in time agreed upon by a majority of for example, trade federation representatives.
+
 1.14 PROCEDURES / STEPS
 Steps are adapted from military system of systems situation awareness reporting, net-centric warfare / operations or NEO Net Enabled Operations. Steps are correlated with Little League Baseball tournament operations and game play for universal understanding, and compliance with Supreme Court Alice Corp Vs CLS Bank ruling: claims may not direct towards abstract ideas. Physical = opposite of abstract
+
 1.14.1 Begin a list of steps beginning at the number one
+
 1.14.2 Begin a list of steps that restart at the number one
 EXAMPLE: Net Centric Warfare procedural steps are cyclic, iterative
+
 Entry Criteria: Example: Organizations agree to adopt a minimum list of procedures, processes, tools. Unsuccessfully arriving at consensus agreement on the minimum list may be resolved by member exit 3.2 Process / Procedure Map. Trade federations use stored procedures e.g., process workflows to implement business logic. 
  
 Inputs: Heart Beacon Cycle invention programming involves processes. Applications, procedures, procedure calls, workflows, algorithms and tools agreed upon by Trade Federations to support a signal and telemetry framework reporting events, transactions to facilitate reporting of data sync deltas in time window intervals, stages and uses data filtering iteration to eliminate duplicated instructions, identical source code in the system of systems signaling, systems telemetry engineering framework.
@@ -182,27 +224,46 @@ Inputs: Heart Beacon Cycle invention programming involves processes. Application
 - Organization Identifiers {“Org_ID”}
 - Uniform Resource Name {“URN”} Describe Resources i.e., commodities
 - Sample / distribute state meta data heartbeat snapshots @ N time epoch
+
 Outputs: USPTO 13/573,002 aids in establishing consistency, interoperability, temporal synchronization and syntax, syntactical interoperability among myriad consensus algorithm memes, and cryptocurrency, programmable money memes, metaphors.
+
 1.15 METHODS
 Specific activities depend on the type of use case. However, all use cases are iterative and follow the design of adaptive procedural templates – see detailed treatise (s)
+
 1.15.1 METHOD 1: A systemic, adaptive, procedural template method used to improve synchronization in metrics, metering using </Org_ID>, {“URN”} XML data tags in signaling during heartbeat micro-cycles prior to data fusion center entry consisting of iterative heartbeat cycle metrics, meters reporting where state meta data heartbeat snapshot recalculations are performed at offsite connectors that are signaling relays performing recalculation, syntax processing during macro-cycle epochs reconciling dissimilar standards, data syntax formats that are then reported signaled, news casted, beacon broadcasted to distributed organization applique overlay displays
+
 1.15.2 METHOD 2. An adaptive procedural template used to improve signaling, synchronization, stochastic harmonization across UTZ Universal Time Zones using TCP/IP heartbeat time stamping occurring during micro-cycles of state meta data prior to data fusion center entry among metrics, metering processes comprised of TCP/IP heartbeats, heartbeat messages signaled during micro-cycles scheduling instructions, commands, processes, procedures, algorithms, telemetry instructions for example, to master-controller processes i.e., block, start, stop, pause, resume, set Time To live TTL i.e., stock market high frequency flash trade, currency, interest rates, tax rates, time banking, cloud computing commodity exchanges, big data, electrical micro-grid, fungible goods, real time bidding, many use cases. Time stamping and applying descriptive data type tags to heartbeat state meta data after data is collected and queued, stored in temporary structures or entered into database instantiations after the fact is problematic. All internet supported devices including high frequency stock, currency, commodity etc., flash trade master controllers receive heartbeats. System Heartbeats are intervals, epoch time cycles used to (not) process syntax drawn from a shared syntax lexicon.
+
 1.15.3 METHOD 3 A systemic adaptive procedural template method improving stochastic networks harmonization through use of timing, synchronization intrinsic to TCP/IP heartbeat / heartbeat message signaling using set, scheduled, epochs in micro-cycles in combination with firefly insect signaling stochastic harmonization algorithms where firefly protocol sample means are matched with closest heartbeat sync delta micro-cycle report values to recalculate statistical averages, means signaled through off site connector conversion, recalculation gateways that news-cast, beacon broadcast to subscribers monitoring macro-cycle reports that heretofore would not exist without following the Heart Beacon Cycle procedural template as guides for reporting thus improving temporal harmonization in metrics and metering of stochastic telecommunication and sound wave stimulated mesh fabrics grid control planes over wide areas in cases involving issues in terms of consistency, reliability, traceability, positive organizational identification, temporal transaction fidelity, event, alert predictability, data analytics, network forensics real rime bidding, stock market exchange floor server co-location verses servers distantly located, fluctuations in interest rates, currency exchanges, double payment adjudication, fungible good trading stochastic harmonization, electrical power micro-grids, cloud computing, spatial – temporal "big data" over a plurality of quantum computing wave form based systems
+
 1.15.4 METHOD 4. A systemic adaptive procedural template method using time stamping and signaling intrinsic to TCP/IP heartbeat, heartbeat sync delta snapshots, heartbeat </108> message signaling to enable adaptive organization change management using XML <ORG_ID> network service interface NSI templates updating self-organizing process templates i.e., directory service, reporting, map, network, system of systems effecting changes in directory structures database MIB i.e., network subnet joins, moves, splits drops, adds as alternatives to mergers, acquisitions effecting changes responsive to leader’s actions, decisions i.e., mission-aware networking, network centric operations improving agile, ad hoc organizational business operations course of actions selection by organizations improving action / reaction to change. Use cases: network moves, adds, joins, splits, drops used instead of merger, acquisition.
+
 1.15.5 METHOD 5. A systemic adaptive procedural template method improving search engine methods using heartbeat, beacon signaling, <ORG_ID>, , <class_types>, Paul Revere, water drop in pond meme metric recalculations occurring at offsite connectors, conversion relay gateways where detection of trigger point function recalculations of state meta data set aggregations are used to detect threshold fluctuations by resource, quantity, availability duration etc., further used to improve geo-spatial temporal descriptive mapping methods, changes in clusters of objects, entities, artifacts i.e., location, epoch time stamp geo-spatially, temporally, used to locate, search, then group into virtual collections using <data_tags> i.e., in spatial econometric, volumetric operations within network mesh fabrics triggering news-casting invitations to join equitably metered federated group arbitrage events, activities that are triggered by internet search operations improving collaboration, metrics and metering in for example, commodity, fungibles trading, resource pooling, crowd sourcing, economics.
+
 1.15.6 Method 6: Physical linear – sequential “Paul Revere” meme used to represent TCP/IP internet “hops” that are abstractions ineligible for patent protection. Water drop in pond physical metaphor describes geospatial temporal intensity in omni-directional, circle, radius type situations. Naval sonar water drop in pond USPTO 13/573,002 meme explains geo-spatial temporal intensity metrics, meters using a physical metaphor. TCP/IP “ping” is an abstraction as are “packets”, “frames”, “hops”, “Satoshi’s” as data stores in a cryptocurrency “blockchain” (distributed database)
+
 1.16.7 METHOD 7. A systemic adaptive procedural template method used to improve handicapped / information alerts, events, methods reliant on heartbeat timing, signaling synchronization of state meta-data improved using Paul Revere, water drop in pond memes to create, calculate radius, intensity metrics viewed as geo-spatial, temporal intensity effects i.e., visual light bar tabs i.e., stock exchange candlestick charts, audible tone, vibration-tactile situational awareness alerts by correlating tone based messaging precedence XML where lower / higher precedence settings equate to lower / higher audible tones, tactile vibrations for deaf where fewer / greater number of light tabs lit correlates, corresponds to priority, precedence further used in alert triggers of threshold fluctuations displayed in appliqué overlay graphics as metrics, meters. Reference: Describes reuse of structured military messaging’s precedence system to support for example, processing of Named Data Networking distance, interest packets by numeric precedence. This method is effective among machine to machine (Internet of Things).
+
 1.15.8 METHOD 8. A systemic, adaptive procedural template method using heartbeat signaling, time stamp record keeping processes of state meta data described, typed by organizations, resources typed by Uniform Resource Name, further improved through use of Paul Revere, Water Drop in Pond memes to quantify, describe unused resources with unmet needs by performing recalculations of state meta-data snapshot artifacts occurring at offsite connector conversion gateways where micro-cycle reports from local, micro-cycle activities are signaled, relayed to higher echelon organizations monitoring macro-cycles who are interested in for example stock market "pools” where "output" is correlated and displayed onto appliqué views of aggregate sync delta changes in macro-micro economics recalculations, stocks, commodities, currencies, interest rates, electric micro-grids, currency (Terra) exchanges, spatial econometrics, contributory economics. Syntax code language parsed, processed during silicon chip generated time cycles forms all things internet, internet of money.
+
 1.15.9 Method 9: Method / Claim describes the military’s network centric operations systems of systems method of collecting state meta data sync delta heartbeat snapshot data during operational micro-cycles that is then summed, aggregated, disseminated and displayed during macro-cycles as part of Network Enabled Operations NEO situation awareness system of systems engineering best practice over time
+
 1.15.10 Invention relies on System of systems type processes: collection of task-oriented, dedicated systems pooling resources, capabilities together to create a more complex system with more functionality, performance than the sum of separate systems 
+
 1.16 Outputs: State meta data collected from a current micro-cycle to the next and from many micro-cycles summed, aggregated to report during macro-cycle reporting periods are stored, collected in the off-site collector depicted by that corresponding workflow symbol. See detailed treatise on workflow, workflow symbols for example https://edrawsoft.com/flowchart-symbols.php
+
 1.17 Verification and Validation:  A comprehensive review, analysis, and testing, (software and/or hardware) performed by an objective third party to confirm (i.e., verify) that the requirements are correctly defined, and to confirm (i.e., validate) that the system correctly implements the required functionality and security requirements.
+
 1.18 Exit Criteria: Organizations may elect to tether, untether to the Distributed Autonomous Organization based federation at their discretion (maintain autonomy) or organizations may be disconnected if they fail to observe federation rules
+
 1.19 Metrics: Use of physical metaphors such as the water drop in pond, Paul Revere metaphor comply with Supreme Court Alice Corp Vs CLS Bank ruling claims may not direct towards abstract ideas. See USPTO application 13/573,002 main embodiment. Metrics are based on epoch time cycles 
+
 1.20 Records Control Table ELECTRONIC RECORDS MANAGEMENT
-1,21 Controlled Documents Table ELECTRONIC RECORDS MANAGEMENT
+
+1.21 Controlled Documents Table ELECTRONIC RECORDS MANAGEMENT
 EXAMPLE: World Financial Standard ISO 20022 is a multi-part International Standard prepared by ISO Technical Committee TC68 Financial Services. It describes a common platform for the development of messages in ASN.1 Abstract Syntax Notation: A single standardization approach (methodology, process, repository) to be used by all financial standards initiatives. common platform for the development of messages using: a modelling methodology to capture in a syntax-independent way financial business areas, business transactions and associated message flows a central dictionary of business items used in financial communications a set of XML and ASN.1 design rules to convert the message models into XML or ASN.1 schemas, whenever the use of the ISO 20022 XML or ASN.1-based syntax is preferred ISO 20022: https://www.iso20022.org/about-iso-20022
-1,22 Roles: For example, the baseball umpire meme is the rule observer / enforcer i.e., the cryptocurrency blockchain segregated witness observer. The baseball game statistician performs data analytics e.g., time series database maintainer, the base runner delivers (code syntax) instructions via 3 x 5 cards. Base running forms blocks on blockchain that is represented by the baseball diamond when stood up on its home plate corner in 3d embodies a cube that has length, width, depth height = volume, Little League Tournament board votes on most valuable player in voting functions. The Little League tournament Baseball meme roles comply with SC Alice Corp V CLS Bank rule
+
+1.22 Roles: For example, the baseball umpire meme is the rule observer / enforcer i.e., the cryptocurrency blockchain segregated witness observer. The baseball game statistician performs data analytics e.g., time series database maintainer, the base runner delivers (code syntax) instructions via 3 x 5 cards. Base running forms blocks on blockchain that is represented by the baseball diamond when stood up on its home plate corner in 3d embodies a cube that has length, width, depth height = volume, Little League Tournament board votes on most valuable player in voting functions. The Little League tournament Baseball meme roles comply with SC Alice Corp V CLS Bank rule
  
 1.23 TRACEABILITY: Template entries reference, point towards, link to detailed treatises. Treatises define, spell out and describe definitions, acronyms and process details. Terms in internet, internet of money treatises are often abstractions. References cite, detailed treatises, standard body publications describing procedural steps cited by the procedural template. References refer to detailed treatises. The act of researching or ascertaining the origin or location of something: To ascertain the successive stages in the development or progress of for example, tracing a project’s life cycle. 
 
@@ -257,308 +318,10 @@ GitHub - pnp/AdaptiveCards-Templates: Samples on different adaptive card designs
 
 1.36 Exit Criteria: Organizations may elect to tether, untether to the Distributed Autonomous Organization based federation at their discretion (maintain autonomy) or organizations may be disconnected if they fail to observe federation rules.
 
-
-
-1. Method of claim
-2 Method of claim to comply with Supreme Court SCOTUS US SC 573 US 134 2347 Alice Corp Vs CLS Bank ruling physical meme that describes steps, procedures intrinsic to internet, internet of foundation technology framework supporting for example, DeFi programmable money digital tokenized assets by providing system time epoch cycles, geospatial location survey points, workflow roles, rules, scoring system, rewards, penalties, rulings, schedules, event, alerts, sync deltas control grid, access, permission, price discovery, equilibrium algorithms (s) comprising an adaptive procedural template foundation technology framework for DeFi, TradeFi based trade federations to establish for example, a one world government, economic, financial system of systems derived unified, universal unit of value derived from price discover algorithms sampling of cryptocurrency DLT blockchain currency paper money real world asset tokens
-
-3 Method of claim to describe foundation technology i.e., forming a syntax lexicon namespace derived from NATO / DoD brevity OPSCODE FFIRN, FFUDNS structured data exchange mapped to symbols describing A.I. man – machine interface symbols, big data, consistent, universal syntax structured data exchange library – lexicon using UTZ / UTC time stamped data with organization <Org_ID>. data class type, </URN. Uniform Resource Name type to form a syntax, code, date element Rosetta Stone 
-referred to in military discussions as The "Grail": synchronized, common, shared situational awareness data dashboard view (s) of time stamp, brevity code, tokens, digital asset filtered, prioritized events drawn from a federated system of systems via use of heartbeat message event bus sync delta epoch updates over Universal Time Zone UTZ using an improvement described by the University of Bologna / Hungary’s , Chinese University’s firefly inspired heartbeat synchronization algorithm that matches, synchronizes stochastic harmonizes via firefly synchronization pulses intrinsic to a specific species of mating fireflies as analogous to Network Centric Warfare’s Battlefield Digitization’s, DoD – NATO’s  closest OPTEMPO epoch cycles i.e., 05, 10, 15, 30 micro, milli seconds, minutes, hours days, years posted to digital dashboards
-
-4. Method of claim to provide an alternative to formal mergers and acquisitions for example, tether, untether to autonomous DAO Distributed Autonomous Organization i.e., trade federations using agile, adhoc NetOps supporting federations for example; Ripple's consensus protocol based on federation / federated on demand liquidity drawn from a distributed (global) (trade) federation i.e., 1907 Knickerbocker Banker's Crisis JP Morgan protocol on demand AI directed response - financial system revaluation where Battlefield Digitization Network effects: splits, joins, adds, drops are used as needed as a temporary alternative to formal merger and organization, corporate acquisitions
-
-5 Method of claim to broadcast, unicast, anycast data synchronization deltas “sync deltas” via micro to macro-cycle system of systems data updates at agreed upon times observing set durations of events, time, temporal epoch leases, price discover algorithm data harvests for example stocks, commodity real world digital assets, currency arbitrage trade exchange adjustments using heartbeat epoch time beacon’s intrinsic temporally consistent, synchronized, time bounded i.,e heartbeat start, stop, TTL Time to Live epochs providing discrete time interval start, stop, TTL Time To Live epoch windows embedded in </108> system heartbeats, messages in a control matrix among for example stock market systems participating to establish algorithmic regulation via use of algorithmic price discovery to derive a uniform, universal statistical mean value index heartbeat beacon message, event bus broadcasted , anycasted, uni, multicasted among many stock, commodity, ETF Exchange Traded Fund systems
-
-6. Method of claim using the firefly inspired heartbeat synchronization message event bus algorithm – protocol, software application neutral monitors geo-spatial, temporally distributed events reported across a DAO Distributed Autonomous Organization among federated groups synchronized across time-space for common goals. Other procedures are intrinsic to algorithms / protocols such as Princeton’s John Nash Equilibrium algorithms and count minimum sketch or streaming K algorithms algorithmically regulating through use of epoch time intervals for stock, commodity, digital tokenized RWA Real World Assets, cryptocurrency trade, arbitrage transaction epoch time windows in federated systems supporting global economic, fiscal control grid matrix
-   
-7 Method of claim supporting, establishing economist Milton Friedman’s K% rule where a Central Bank Digital Currency CBDC. stablecoin currency is derived from sampling lead GDP Gross Domestic Product economic indicators among a global event message bus sync delta data, event changes updating for example, a RWA Real World Asset based commodity index backed global currency via use of filtered, stochastically harmonized, temporally synchronized telemetry polled from a universal event bus applying firefly-heartbeat algorithm events, state changes leveraging message - event heartbeat functions to update for example, a statistical mean value cryptocurrency, conventual FIAT currency index where a statistical mean value index is derived as a standard, consistent unit of value, statistical mean index shared using algorithmic price discovery methods heartbeat beacon broadcasted among a system of systems
-
-8 Method of claim to establish, maintain a global system of systems telemetry data synchronization, stochastic harmonization, based on sound - light waveform based quantum computing to establish for example, temporal speedbumps for metrics, meters, synchronization among many system of systems Distributed Autonomous Networks
-
-9. Method of claim establishing, maintaining trade contract SLA Service Legel Agreements i.e., ecologically sustainable economic econometric epoch time cycles supporting universal standard measures, meters, metrics sync delta cyclic update temporal change, linear sequential, geo-spatial temporal intensity radius hop count metrics and meters where closer is shorter, closer is cheaper, given less CO2 carbon dioxide credits are used given less trade demurrage fees levied as a method of climate control in SLA Service Level Agreements agreed upon by a trade federation (s)
-
-10. Method of claim using electromagnetic transmission of telemetry, data over wired, wireless energy transmission lines using metrics, meters described by USPTO 13/573,002 in maintaining SLA Service Level Agreements where electricity usage and data usage charges i.e., by the gigabyte, amp hour given closer is cheaper given less infrastructure is required to meet sustained power levels over time and distance
-
-11. Method of claim using sound waves (see water drop in pond meme, graphic) to measure trough, crest wave cycles that when statistically sampled represent a digital approximation of physical waves as the basis for establishing common, shared, universal method and means to measure, meter, communicate telemetry across a plurality of quantum computing system of systems using a system (s) for example: comprised of curved electrodes to concentrate sound waves similar to a magnifying lens to focus a point of light at room temperature rather than use of liquid hydrogen to cool a space for quantum particles event sampling with electron microscopes.
-
-12 Method of claim to apply an electric dipole effect electric meter claim based on electric dipole effect where closer is cheaper given less infrastructure needed given energy attenuates over distances • data over energy link where energy pulses constitute a method and means to transmit data over electric wired, and wireless pathways as demonstrated by inventor, scientist Nicola Telsa circa 1900 in Colorado Springs CO.
-
  
-APPENDIX A: SAMPLE ADAPTIVE PROCEDURAL TEMPLATE
+ are known as Maier's criteria for identifying system of systems challenges. The remaining three traits have been proposed from the study of mathematical implications of modeling and analyzing system of systems 
+ federation representatives.
 
-DEFINITION: Procedural template entries at most, includes a line or two. In depth technical treatise (s) citing every conceivable nuance is impractical, counterproductive, and out of scope of an adaptive procedural template. Procedural template entries are pointers to more detailed treatise and references and are referential to a treatise A treatise is a formal and systematic written discourse on some subject, generally longer and treating it in greater depth than an essay and are concerned with investigating subject principles. Reference: Stanford University’s SLAC’s Adaptive Procedural Template 
-
-1.1 PURPOSE: Establish a consistent context library / lexicon and time stamping data by organization <Org_ID> and by data class type and by resource type to form a universal syntax, code, date element, tag Rosetta Stone and reference for coders, programmers. Common time – space geo spatial temporal meters. Military OPSCODE brevity alpha- numeric codes are mapped, associated, paired with MILSTD 2525 A, B, C, D symbols and symbol sets. MIL Standard structured data exchange messages, message sets are critical to A.I. Artificial Intelligence Man - machine interaction. USPTO 13/573,002 Goal: improve geo-spatial temporal, syntactic - semantic consistency, interoperability among myriad programmable cryptocurrencies, economy protocols, algorithms, syntax libraries. 300 + message sets support A.I. workflows. Adaptive Procedural Template = checklist of useful tools, procedures used to aid individuals join trade federations. Affiliated organizations are geo-spatially, temporally located in distributed, dispersed locations across time – space. Member organizations may join or leave in an ad hoc, agile manner to take advantage or react to events, situations while retaining autonomy or the ability to act on one’s own behalf, control one’s own activities, The process may involve agile, ad hoc joins, merges, drops to / from federation in lieu of formal merger, and acquisition.
-
-1.2 SCOPE
-Trade federations form among local communities or among sovereign (First) nations. The off-site connector workflow object convention connects, mitigates, adjusts by summation, statistical mean by aggregation among federated, non-federated groups acting as format gateways among participating, non – participating groups. USPTO 13/573,002's foundation is Battlefield Digitization / Network Centric Warfare's signaling, telemetry support framework where improvement to involves establishing a foundation framework for internet, net of programmable money, description, metrics, meters, econometrics for DAO Distributed Autonomous Organizations / trade federations participating in an eco-sustainable programmable economy model with UTZ Universal Time Zone temporal synchronization, stochastic spatial – temporal harmonization
-
-1.3 ROLES
-The baseball umpire meme is the rule observer / enforcer i.e., the cryptocurrency blockchain segregated witness observer. The baseball game statistician performs data analytics e.g., time series database maintainer, the base runner delivers (code syntax) instructions via 3 x 5 cards. Base running forms blocks on blockchain that is represented by the baseball diamond when stood up on its home plate corner in 3d embodies a cube that has length, width, depth height = volume, Little League Tournament board votes on most valuable player in voting functions. The Little League tournament Baseball meme complies with SCOTUS Alice Corp V CLS Bank rule
-
-1.4 DEFINITIONS, ACRONYMS: See Appendix B
-Adaptive Procedural Templates are formed using entries linked to detailed treatises. Treatises spell out and describe definitions, acronyms and process details. Terms in internet, internet of money treatises are often abstractions – hence a baseball meme.
-
-1.5 REFERENCES: See Appendix B
-References cite documents, detailed treatises, standards body publications describing procedural steps cited by a procedural template. References refer to detailed treatises.
-
-1.6 TRACEABILITY
-The act of researching or ascertaining the origin or location of something: To ascertain the successive stages in the development or progress of for example, tracing a project’s life cycle. In context with this paper’s procedural template, tracking changes from micro-macro cycle across UTZ time zones across space time maintaining non-repudiation at any point, place in time in the future as provided for example, by NIST’s QRNB Quantum Random Number Beacon operated by the Department of Commerce’s NIST National Institute of Standards and Technology in Boulder Colorado.
-
-1.7 POLICIES
-The adaptive procedural template includes standards and policies published by standards groups describing detailed treatises according to individual use cases
-
-1.8 STANDARDS
-The adaptive procedural template will include standards and policies published by standards groups describing detailed treatises according to individual use cases, consensus algorithms, Web 3.0 standards, blockchain organization standards…
-
-1.9 PROCESSES
-Heart Beacon Cycle adaptive procedural template emphasizes protocol, software application neutral rules (algorithms) over processes coded by software vendors.
-
-1.10 PROCEDURES
-Procedures, workflow are derived from, are referential to Battlefield Digitization, Network Centric Operations, Net Enabled Operations systems engineering
-EXAMPLE: Firefly inspired heartbeat synchronization message event bus algorithm – protocol, software application neutral monitors geo-spatial, temporally distributed events reported across a DAO Distributed Autonomous Organization among federated groups synchronized across time-space for common goals. Other procedures are intrinsic to algorithms / protocols such as Princeton’s John Nash Equilibrium algorithms and count minimum sketch or streaming K algorithm
-
-1.11 GUIDELINES
-
-Example: Distributed Autonomous Organization DAO’s in trade federations agree to use common components, shared processes, methods, signaling – telemetry micro-macro schedule, metrics, meters to form service level agreements used in smart contracts.
-
-System of systems is a collection of task-oriented or dedicated systems that pool their resources and capabilities together to create a new, more complex system which offers more functionality and performance than simply the sum of the constituent systems. Currently, systems of systems is a critical research discipline for which frames of reference, thought processes, quantitative analysis, tools, and design methods are incomplete.[1] The methodology for defining, abstracting, modeling, and analyzing system of systems problems is typically referred to as system of systems engineering.
-
-Overview: Commonly proposed descriptions—not necessarily definitions—of systems of systems,[2] are outlined below in order of their appearance in the literature:
-Linking systems into joint system of systems allows for the interoperability and synergism of Command, Control, Computers, Communications and Information (C4I) and Intelligence, Surveillance and Reconnaissance (ISR) Systems:[3] description in the field of information superiority in modern military.
-
-System of systems are large-scale concurrent and distributed systems the components of which are complex systems themselves:[4] description in the field of communicating structures and information systems in private enterprise.
-
-System of systems education involves the integration of systems into system of systems that ultimately contribute to evolution of the social infrastructure:[5] description in the field of education of engineers on the importance of systems and their integration.
-
-System of systems integration is a method to pursue development, integration, interoperability and optimization of systems to enhance performance in future battlefield scenarios:[6] description in the field of information intensive systems integration
-
-Modern systems that comprise system of systems problems are not monolithic, rather they have five common characteristics: operational independence of the individual systems, managerial independence of the systems, geographical distribution, emergent behavior and evolutionary development:[7] description in the field of evolutionary acquisition of complex adaptive systems in the military.
-
-Enterprise systems of systems engineering is focused on coupling traditional systems engineering activities with enterprise activities of strategic planning and investment analysis:[8] description in the field of information intensive systems in private enterprise.
-
-System of systems problems are a collection of trans-domain networks of heterogeneous systems that are likely to exhibit operational and managerial independence, geographical distribution, and emergent and evolutionary behaviors that would not be apparent if the systems and their interactions are modeled separately:[9] description in the field of National Transportation System, Integrated Military and Space Exploration. Taken together, all these descriptions suggest that a complete system of systems engineering framework is needed to improve decision support for system of systems problems. Specifically, an effective system of systems engineering framework is needed to help decision makers to determine whether related infrastructure, policy and/or technology considerations as an interrelated whole are good, bad or neutral over time.[10] The need to solve system of systems problems is urgent not only because of the growing complexity of today's challenges, but also because such problems require large monetary and resource investments with multi-generational consequences.
-
-System-of-systems topics: The system-of-systems approach: While the individual systems constituting a system of systems can be very different and operate independently, their interactions typically expose and deliver important emergent properties. These emergent patterns have an evolving nature that stakeholders must recognize, analyze and understand. The system of systems approach does not advocate particular tools, methods or practices; instead, it promotes a new way of thinking for solving grand challenges where the interactions of technology, policy, and economics are the primary drivers. System of systems study is related to the general study of designing, complexity and systems engineering, but also brings to the fore the additional challenge of design. Systems of systems typically exhibit the behaviors of complex systems, but not all complex problems fall in the realm of systems of systems. Inherent to system of systems problems are several combinations of traits, not all of which are exhibited by every problem
-
-Operational Independence of Elements, Managerial Independence of Elements, Evolutionary Development, Emergent Behavior, Geographical Distribution of Elements, Interdisciplinary Study, Heterogeneity of Systems, and Networks of Systems
-
-The first five traits are known as Maier's criteria for identifying system of systems challenges. The remaining three traits have been proposed from the study of mathematical implications of modeling and analyzing system of systems challenges by Dr. Daniel DeLaurentis and his co-researchers at Purdue University.
-Research: Current research into effective approaches to system of systems problems includes: Establishment of an effective frame of reference, Crafting of a unifying lexicon, Developing effective methodologies to visualize, communicate complex systems, Distributed resource management, Study of designing architecture, Interoperability, Data distribution policies: policy definition, design guidance and verification, Formal modelling language with integrated tools platform, Study of various modeling, simulation and analysis techniques:, network theory. agent based modeling, general systems theory, probabilistic robust design (including uncertainty modeling/management), object-oriented simulation and programming, multi-objective optimization. Study of various numerical and visual tools for capturing the interaction of system requirements, concepts and technologies. Sample Applications
-
-Systems of systems, while still being investigated predominantly in the defense sector, is also seeing application in such fields as national air and auto transportation and space exploration. Other fields where it can be applied include health care, design of the Internet, software integration, and energy management and power systems. Social-ecological interpretations of resilience, where different levels of our world (e.g., the Earth system, the political system) are interpreted as interconnected or nested systems, take a systems-of-systems approach. An application in business can be found for supply chain resilience. Reference: Wikipedia
-
-1.12 TEMPLATES
-
-Checklist: minimum list of items, components, building blocks, processes, procedures agreed upon within federations to achieve consensus forming a basis for equitable trade
-
-EXAMPLES
-- Consensus Algorithms: consensus methods to establish common metrics, meters and space-time synchronization across many disparate, distributed autonomous organizations. The main method uses conventions of a Little League Baseball tournament where the environment is surveyed, and boundaries form a 360-degree clock face time clock. Agents and workflow are represented by players, officials
-
-- Method includes for example, universal meme for Bitcoin and like cryptocurrencies, Blockchain Proof of Work, Stake, POET Proof of Elapsed Time, Project Lightning Vs Segregated Witness, and Fast Internet Bitcoin Relay Engine FIBRE... Therefore, a common tool / meme is needed to help establish consensus metrics, meters and to establish a code reference syntax lexicon - library of OPSCODE brevity codes mapped to symbols and (DoD / NATO) symbol sets useful for A.I. Artificial Intelligence       
-
-- Minimum essential requirements for Trade Federations on the cryptocurrency DLT Distributed Ledger Technology blockchain (partial listing):
-
-- GDP Gross Domestic Product Index / statistical mean value index based TRC Trade Reference Currency demurrage fees by Economist Bernard Lietaer of Belgium
-
-- Geo-spatial temporal metrics, and meters i.e. storing increments of value for all things internet, internet of $$$ into the “blockchain cube” fictional data structure
-
-- Ecologically sustainable Economic Epochs applying geospatial temporal methods and means i.e., IDMaps - SonarHops, Ericsson Erlang time algorithms / time equations to base economic incentives, derive TRC Trade Reference Currency demurrage charges i.e., closer is cheaper given closer = less fuel, less time, demurrage fees
-
-- Universal lexicon OPSCODE brevity codes naming conventions for objects, events. OPSCODE brevity code syntax - symbol set lexicon of tokenized GDP Gross Domestic Product pacing items described in a syntax lexicon OPSCODE brevity code library
-
-- Rosetta Stone syntax lexicon library needed for A.I. Artificial Intelligence man - machine interface. Symbols, symbol sets / standardized OPSCODE brevity codes
-
-- Universal heartbeat message event / transaction QRNB Quantum Random Number Beacon non-repudiation bus, Time-space synchronized Universal Time Zone UTZ stochastic harmonization using a firefly inspired heartbeat algorithm / heartbeat message event - transaction bus comprised of a </108> system heartbeat message
-
-- Quantum computing mediation, mitigation and techniques e.g., particle detection using liquid nitrogen vs waves at room temperature that will affect for example, transactions of HFT High Frequency Trade stock, commodities, cryptocurrencies, crypto currency synthetics, Central Bank Digital Currencies / and activities among DeFi DAO exchanges – trade federations. 
-
-- Big data sync, time – space metrics and meters descriptive framework based on geo-spatial temporal time – space stamp methods to establish time - space Epochs i.e., IDMaps – SonarHops distance estimation service, Ericsson Erlang time equations
-
-- Epoch time cycles are (not) used in describing sync delta cyclic changes from one epoch time cycle to the next. Paul Revere meme linear sequential and water drop in pond mem geo-spatial temporal intensity radius hop count form common, universal, shared econometric metrics and meters among distributed, federated trade units
-
-Invention relies on System of systems type processes: collection of task-oriented, dedicated systems pooling resources, capabilities together to create a more complex system with more functionality, performance than the sum of separate systems 
-
-1.13. TOOLS 
-Tool selections may be inserted, removed by majority federation vote. If a superior tool is deemed an improvement, the old tool is replaced by the new at a point in time agreed upon by a majority of for example, trade federation representatives.
-
-1.14 PROCEDURES / STEPS
-Steps are adapted from military system of systems situation awareness reporting, net-centric warfare / operations or NEO Net Enabled Operations. Steps are correlated with Little League Baseball tournament operations and game play for universal understanding, and compliance with Supreme Court Alice Corp Vs CLS Bank ruling: claims may not direct towards abstract ideas. Physical = opposite of abstract
-
-1.14.1 Begin a list of steps beginning at the number one
-
-1.14.2 Begin a list of steps that restart at the number one
-
-EXAMPLE: Net Centric Warfare procedural steps are cyclic, iterative
-Entry Criteria: Example: Organizations agree to adopt a minimum list of procedures, processes, tools. Unsuccessful consensus on the minimum list may be resolved by member exit 3.2 Process / Procedure Map. Trade federations use stored procedures e.g., process workflows to implement business logic. 
- 
-Inputs: Heart Beacon Cycle invention programming involves processes. Applications, procedures, procedure calls, workflows, algorithms and tools agreed upon by Trade Federations to support a signal and telemetry framework reporting events, transactions to facilitate reporting of data sync deltas in time window intervals, stages and uses data filtering iteration to eliminate duplicated instructions, identical source code in the system of systems signaling, systems telemetry engineering framework.
-
-- A systematic series of actions directed to a goal ex: form, maintain federations
-
-- A continuous action, operation, series of changes, sync deltas updating groups
-
-- A cyclic, iterative process syncing groups in, across time-space i.e., UTC zones
-
-- Common foundation blocks data entrees 
-
-- Organization Identifiers {“Org_ID”}
-
-- Uniform Resource Name {“URN”} Describe Resources i.e., commodities
-
-- Sample / distribute state meta data heartbeat snapshots @ N time epoch
-
-Outputs: USPTO 13/573,002 aids in establishing consistency, interoperability, temporal synchronization and syntax, syntactical interoperability among myriad consensus algorithm memes, and cryptocurrency, programmable money memes, metaphors.
-
-1.15 METHODS
-Specific activities depend on the type of use case. However, all use cases are iterative and follow the design of adaptive procedural templates – see detailed treatise (s)
-
-1.15.1 METHOD 1: A systemic, adaptive, procedural template method used to improve synchronization in metrics, metering using </Org_ID>, {“URN”} XML data tags in signaling during heartbeat micro-cycles prior to data fusion center entry consisting of iterative heartbeat cycle metrics, meters reporting where state meta data heartbeat snapshot recalculations are performed at offsite connectors that are signaling relays performing recalculation, syntax processing during macro-cycle epochs reconciling dissimilar standards, data syntax formats that are then reported signaled, news casted, beacon broadcasted to distributed organization applique overlay displays
-
-1.15.2 METHOD 2. An adaptive procedural template used to improve signaling, synchronization, stochastic harmonization across UTZ Universal Time Zones using TCP/IP heartbeat time stamping occurring during micro-cycles of state meta data prior to data fusion center entry among metrics, metering processes comprised of TCP/IP heartbeats, heartbeat messages signaled during micro-cycles scheduling instructions, commands, processes, procedures, algorithms, telemetry instructions for example, to master-controller processes i.e., block, start, stop, pause, resume, set Time To live TTL i.e., stock market high frequency flash trade, currency, interest rates, tax rates, time banking, cloud computing commodity exchanges, big data, electrical micro-grid, fungible goods, real time bidding, many use cases. Time stamping and applying descriptive data type tags to heartbeat state meta data after data is collected and queued, stored in temporary structures or entered into database instantiations after the fact is problematic. All internet supported devices including high frequency stock, currency, commodity etc., flash trade master controllers receive heartbeats. System Heartbeats are intervals, epoch time cycles used to (not) process syntax.
-
-1.15.3 METHOD 3 A systemic adaptive procedural template method improving stochastic networks harmonization through use of timing, synchronization intrinsic to TCP/IP heartbeat / heartbeat message signaling using set, scheduled, epochs in micro-cycles in combination with firefly insect signaling stochastic harmonization algorithms where firefly protocol sample means are matched with closest heartbeat sync delta micro-cycle report values to recalculate statistical averages, means signaled through off site connector conversion, recalculation gateways that news-cast, beacon broadcast to subscribers monitoring macro-cycle reports that heretofore would not exist without following the Heart Beacon Cycle procedural template as guides for reporting thus improving temporal harmonization in metrics and metering of stochastic telecommunication mesh fabrics grid control planes over wide areas in cases involving issues in terms of consistency, reliability, traceability, positive organizational identification, temporal transaction fidelity, event, alert predictability, data analytics, network forensics real rime bidding, stock market exchange floor server co-location verses servers distantly located, fluctuations in interest rates, currency exchanges, double payment adjudication, fungible good trading stochastic harmonization, electrical power micro-grids, cloud computing, spatial – temporal "big data"...
-
-1.15.4 METHOD 4. A systemic adaptive procedural template method using time stamping and signaling intrinsic to TCP/IP heartbeat, heartbeat sync delta snapshots, heartbeat </108> message signaling to enable adaptive organization change management using XML <ORG_ID> network service interface NSI templates updating self-organizing process templates i.e., directory service, reporting, map, network, system of systems effecting changes in directory structures database MIB i.e., network subnet joins, moves, splits drops, adds as alternatives to mergers, acquisitions effecting changes responsive to leader’s actions, decisions i.e., mission-aware networking, network centric operations improving agile, ad hoc organizational business operations course of actions selection by organizations improving action / reaction to change. Use cases: network moves, adds, joins, splits, drops used instead of merger, acquisition.
-
-1.15.5 METHOD 5. A systemic adaptive procedural template method improving search engine methods using heartbeat, beacon signaling, <ORG_ID>, , <class_types>, Paul Revere, water drop in pond meme metric recalculations occurring at offsite connectors, conversion relay gateways where detection of trigger point function recalculations of state meta data set aggregations are used to detect threshold fluctuations by resource, quantity, availability duration etc., further used to improve geo-spatial temporal descriptive mapping methods, changes in clusters of objects, entities, artifacts i.e., location, epoch time stamp geo-spatially, temporally, used to locate, search, then group into virtual collections using <data_tags> i.e., in spatial econometric, volumetric operations within network mesh fabrics triggering news-casting invitations to join equitably metered federated group arbitrage events, activities that are triggered by internet search operations improving collaboration, metrics and metering in for example, commodity, fungibles trading, resource pooling, crowd sourcing, economics.
-
-1.15.6 Method 6: Physical linear – sequential “Paul Revere” meme used to represent TCP/IP internet “hops” that are abstractions ineligible for patent protection. Water drop in pond physical metaphor describes geospatial temporal intensity in omni-directional, circle, radius type situations. Naval sonar water drop in pond USPTO 13/573,002 meme explains geo-spatial temporal intensity metrics, meters using a physical metaphor. TCP/IP “ping” is an abstraction as are “packets”, “frames”, “hops”, “Satoshi’s” as data stores in a cryptocurrency “blockchain” (distributed database)
-
-1.16.7 METHOD 7. A systemic adaptive procedural template method used to improve handicapped / information alerts, events, methods reliant on heartbeat timing, signaling synchronization of state meta-data improved using Paul Revere, water drop in pond memes to create, calculate radius, intensity metrics viewed as geo-spatial, temporal intensity effects i.e., visual light bar tabs i.e., stock exchange candlestick charts, audible tone, vibration-tactile situational awareness alerts by correlating tone based messaging precedence XML where lower / higher precedence settings equate to lower / higher audible tones, tactile vibrations for deaf where fewer / greater number of light tabs lit correlates, corresponds to priority, precedence further used in alert triggers of threshold fluctuations displayed in appliqué overlay graphics as metrics, meters. Reference: Describes reuse of structured military messaging’s precedence system to support for example, processing of Named Data Networking distance, interest packets by numeric precedence. This method is effective among machine to machine (Internet of Things).
-
-1.15.8 METHOD 8. A systemic, adaptive procedural template method using heartbeat signaling, time stamp record keeping processes of state meta data described, typed by organizations, resources typed by Uniform Resource Name, further improved through use of Paul Revere, Water Drop in Pond memes to quantify, describe unused resources with unmet needs by performing recalculations of state meta-data snapshot artifacts occurring at offsite connector conversion gateways where micro-cycle reports from local, micro-cycle activities are signaled, relayed to higher echelon organizations monitoring macro-cycles who are interested in for example stock market "pools” where "output" is correlated and displayed onto appliqué views of aggregate sync delta changes in macro-micro economics recalculations, stocks, commodities, currencies, interest rates, electric micro-grids, currency (Terra) exchanges, spatial econometrics, contributory economics. Syntax code language parsed, processed during silicon chip generated time cycles forms all things internet, internet of money.
-
-1.15.9 Method 9: Method / Claim describes the military’s network centric operations systems of systems method of collecting state meta data sync delta heartbeat snapshot data during operational micro-cycles that is then summed, aggregated, disseminated and displayed during macro-cycles as part of Network Enabled Operations NEO situation awareness system of systems engineering best practice over time
-
-1.15.10 Invention relies on System of systems type processes: collection of task-oriented, dedicated systems pooling resources, capabilities together to create a more complex system with more functionality, performance than the sum of separate systems 
-
-1.16 Outputs: State meta data collected from a current micro-cycle to the next and from many micro-cycles summed, aggregated to report during macro-cycle reporting periods are stored, collected in the off-site collector depicted by that corresponding workflow symbol. See detailed treatise on workflow, workflow symbols for example https://edrawsoft.com/flowchart-symbols.php
-
-1.17 Verification and Validation:  A comprehensive review, analysis, and testing, (software and/or hardware) performed by an objective third party to confirm (i.e., verify) that the requirements are correctly defined, and to confirm (i.e., validate) that the system correctly implements the required functionality and security requirements.
-
-1.18 Exit Criteria: Organizations may elect to tether, untether to the Distributed Autonomous Organization based federation at their discretion (maintain autonomy) or organizations may be disconnected if they fail to observe federation rules
-
-1.19 Metrics: Use of physical metaphors such as the water drop in pond, Paul Revere metaphor comply with Supreme Court Alice Corp Vs CLS Bank ruling claims may not direct towards abstract ideas. See USPTO application 13/573,002 main embodiment. Metrics are based on epoch time cycles 
-
-1.20 Records Control Table ELECTRONIC RECORDS MANAGEMENT
-
-1.21 Controlled Documents Table ELECTRONIC RECORDS MANAGEMENT
-
-EXAMPLE: World Financial Standard ISO 20022 is a multi-part International Standard prepared by ISO Technical Committee TC68 Financial Services. It describes a common platform for the development of messages in ASN.1 Abstract Syntax Notation: A single standardization approach (methodology, process, repository) to be used by all financial standards initiatives. common platform for the development of messages using: a modelling methodology to capture in a syntax-independent way financial business areas, business transactions and associated message flows a central dictionary of business items used in financial communications a set of XML and ASN.1 design rules to convert the message models into XML or ASN.1 schemas, whenever the use of the ISO 20022 XML or ASN.1-based syntax is preferred ISO 20022: https://www.iso20022.org/about-iso-20022
-
-1.22 Roles: For example, the baseball umpire meme is the rule observer / enforcer i.e., the cryptocurrency blockchain segregated witness observer. The baseball game statistician performs data analytics e.g., time series database maintainer, the base runner delivers (code syntax) instructions via 3 x 5 cards. Base running forms blocks on blockchain that is represented by the baseball diamond when stood up on its home plate corner in 3d embodies a cube that has length, width, depth height = volume, Little League Tournament board votes on most valuable player in voting functions. The Little League tournament Baseball meme roles comply with SC Alice Corp V CLS Bank rule, 
-
-1.23 TRACEABILITY: Template entries reference, point towards, link to detailed treatises. Treatises define, spell out and describe definitions, acronyms and process details. Terms in internet, internet of money treatises are often abstractions. References cite, detailed treatises, standard body publications describing procedural steps cited by the procedural template. References refer to detailed treatises. The act of researching or ascertaining the origin or location of something: To ascertain the successive stages in the development or progress of for example, tracing a project’s life cycle. 
-
-1.24 POLICIES: adaptive procedural template will include standards and policies published by standards groups describing detailed treatises 
-
-1.25 STANDARDS: adaptive procedural template will include standards and policies published by standards groups describing detailed treatises according to individual use cases, consensus algorithms, Web 3.0 standards, blockchain organization standards…	
-
-1.26 PROCESSES: adaptive procedural template emphasizes protocol, software application neutral rules (algorithms) over processes coded by software vendors. 
-
-1.27 Procedures / Processes / Workflow are derived from, and are referential to Battlefield Digitization, Network Centric Operations, Net Enabled Operations and like terms.  Procedures are intrinsic to algorithms / protocols such as Princeton’s John Nash Equilibrium algorithms and count minimum sketch or streaming K algorithms. Invention relies on System of systems type processes: collection of task-oriented, dedicated systems pooling resources, capabilities together to create a more complex system with more functionality, performance than the sum of each separate systems	
-
-1.28 GUIDELINES: Distributed Autonomous Organization DAO’s trade federations agree to use common technology framework components, shared processes, methods, signaling – telemetry micro-macro schedule, metrics, meters, algorithms. API Application Program Interfaces describing smart contract service level agreements. 
-
-1.29 TEMPLATES: Checklist: minimum list of items, components, foundation technology building blocks, processes, procedures within federations to achieve consensus. 
-
-1.29.1 EXAMPLE: TRC Trade Reference Currency: global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests
-
-1.29.2 EXAMPLE: GDP Gross Domestic Product Index / statistical mean value index based TRC Trade Reference Currency demurrage fees by Economist Bernard Lietaer
-1.30 TOOLS: Tool selections may be inserted, removed by majority federation vote. If a superior tool is deemed an improvement, the old tool is replaced by the new at a point in time agreed upon by a majority of for example, trade federation representatives.
-
-TOOLS EXAMPLES: 
-
-Adaptive Cards Template Language: Templating enables the separation of data from layout in your Adaptive Card. The template language is the syntax used to author a template. See: Adaptive Cards Templating Three 3 major components:
-
-The Template Language is the syntax used for authoring a template. The Designer even lets you preview your templates at design time by including "sample data".
-The Templating SDK's will exist on all supported Adaptive Card platforms. These SDKs allow you to populate a template with real data, on the back-end or directly on the client.
-The Template Service is a proof-of-concept service that allows anyone to find, contribute to, and share a set of well-known templates. Source: Microsoft: https://learn.microsoft.com/en-us/adaptive-cards/templating/
-
-Templating enables the separation of data from the layout in an Adaptive Card. It helps design a card once, and then populate it with real data at runtime
-
-Adaptive Cards Source: Microsoft https://adaptivecards.io/samples/
-
-GitHub - pnp/AdaptiveCards-Templates: Samples on different adaptive card designs demonstrating the art of possible with them. Designs provided by the Microsoft design team and first versions targeting Viva Connections Adaptive Card Extensions (ACE) scenarios. github.com› pnp › AdaptiveCards-Templates
-
-Samples on different adaptive card designs demonstrating the art of possible with them. Designs provided by the Microsoft design team and first versions targeting Viva Connections Adaptive Card Extensions (ACE) scenarios. -
-
-1.31 Profiles: See Organizational Profile: for example: NIST National Institute of Standards and Technology http://nist.gov/baldrige/publications/bus_org_profile.cfm
-
-1.32 Procedure (Steps) Steps are adapted from military system of systems situation awareness reporting, net-centric warfare / operations or NEO Net Enabled Operations. Steps are correlated with Baseball tournament operations and game play for universal understanding, and compliance with Supreme Court Alice Corp Vs CLS Bank ruling: claims may not direct towards abstract ideas. Physical = opposite of abstract
-
--	Begin a list of steps beginning at the number one	
-
--	Begin a list of steps that restart at the number one
-	
-1.33 Entry Criteria: Organizations agree to use a minimum list of procedures, processes, tools. Unsuccessful consensus of the minimum list may be resolved by member exit. Members may join, tether, untether, dissolve membership at will.		
-
-1.34 Process / Procedure Map: System of Systems trade federations use stored procedures e.g., process workflows to implement business logic in the distributed database / blockchain. Logic filters and text tags used as code syntax is stored in a syntax lexicon “Rosetta Stone” i.e., database	
-
-1.34.1 Inputs: programming involves processes. Applications, procedures, procedure calls, workflows, algorithms, and tools agreed upon by Trade Federations to support a signal and telemetry framework reporting events, transactions to facilitate reporting of data sync deltas in time window intervals, stages and uses data filtering iteration to eliminate duplicated instructions, identical source code in the system of systems signaling, systems telemetry engineering framework. 
-
-1.34.2 Outputs: aids in establishing consistency, interoperability, temporal synchronization and stochastic harmonization among myriad consensus algorithm memes, and metaphors under constant development and change 
-
-1.35 Verification and Validation	See detailed treatise (s) on Verification and Validation abbreviated as V&V) are independent procedures used to check that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose. These are critical components of a quality management system such as ISO 9000.
-
-1.36 Exit Criteria: Organizations may elect to tether, untether to the Distributed Autonomous Organization based federation at their discretion (maintain autonomy) or organizations may be disconnected if they fail to observe federation rules.
-
-APPENDIX B: Prior Art References, Acronyms, Terms, Memes, Metaphors
-
-ABSTRACT / ABSTRACTION:
- 
-1. existing in thought or as an idea but not having a physical or concrete existence. thought of apart from concrete realities, specific objects, an abstract idea
-
-2.expressing a quality or characteristic apart from any specific object or instance
-
-3. theoretical; not applied or practical: abstract science.
-
-4, difficult to understand; abstruse
-
-Alice Corp Vs CLS Bank Supreme Court precedent case requires all internet, internet of money (Bitcoin, Blockchain) related patent applications to apply physical memes. For example, the internet TCP/IP “ping” terms is an abstraction. The internet’s “hop”, “hop count” is an abstraction. SAW Concept LLC’s application is compliant with the Supreme Court internet, internet of money precedent by using a Little League Baseball tournament as a main embodiment with internet technical theme derivative use cases
-
-Adaptive dispatch table US 7,571,430 Trimbell, et al. August 4, 2009 Adaptive dispatch table based on templates Assignee: LSI Logic Corp Inventors: Forrest Trimbell, 
-
-AMERICAN AXLE V. NEAPCO RULING Judge: "an inventive concept to instead focus on the reliance on Hooke’s law and predicted that because all inventions depend to some extent on the operation of unstated natural laws, the majority’s opinion would open the door to Section 101 challenges in practically every patent case. Tesla: "think of energy, frequency, and vibration" Judge Moore also took exception to the majority disregarding the use of a cardboard liner as an inventive concept to instead focus on the reliance on Hooke’s law and predicted that because all inventions depend to some extent on the operation of unstated natural laws, the majority’s opinion would open the door to Section 101 challenges in practically every patent case. Source: https://bilski.typepad.com/blog/2018/03/good-vibrations-bad-vibrations-american-axle-v-neapco-ruling.html
-
-Apache ZooKeeper is a software project of the Apache Software Foundation, providing an open source distributed configuration service, synchronization service, and naming registry for distributed systems. LINK https://en.wikipedia.org/wiki/Apache_ZooKeeper
-
-Apache Storm is a free and open source distributed real-time computation system. Storm makes it easy to reliably process unbounded streams of data, doing for real-time processing what Hadoop did for batch processing. Storm has many use cases: real-time analytics, online machine learning, continuous computation, distributed RPC, ETL etc. Storm benchmark clocked it at over a million tuples processed per second per node. Trident is an abstraction on top of Storm providing higher-level constructs “cascading”, it batches groups of Tuples to 1) Make reasoning about processing easier 2) efficient data persistence with the help of an API that provides exactly-once semantics LINK
-
-A.I. Artificial Intelligence / Machine Algorithmic – Robotic Trade implications
-Fortune Magazine: “If you’re a bank and don’t have an AI strategy, then you don’t have a strategy,” Wells Fargo analyst Mike Mayo said during a recent Bloomberg Television interview. “A.I. is here to stay.” SEC chair Gensler warning of AI’s “systemic risks” and a “nearly unavoidable” financial crisis within the next decade due to the “herding effect” of multiple firms relying too much on single AI models. In July, SEC regulatory agency proposed rules specifically over concerns that AI could prioritize a firm’s interests over its clients. the world moves quickly, leaving the SEC to figure out just how — and how much — AI is being used. In a process known as a “sweep,” the SEC has requested information from various firms seeking responses to prompts on 26 topics, such as how algorithmic models are used to manage client portfolios and what contingency plans exist for system failure, according to the WSJ, which obtained a copy of an SEC letter sent to a firm. A sweep doesn’t mean the SEC is investigating misconduct, but that it’s collecting information ahead of possible rule changes or new regulations. The problem is that the machine ha, already risen. “The use of these kinds of technologies is already so widespread that it would be quite difficult for the commission to put the brakes on,” Amy Jane Longo litigation enforcement practice partner Ropes & Gray / WSJ.
-SOURCE: Fortune Magazine https://fortune.com/2023/11/28/goldman-sachs-ai-employees-wall-street/
-See: Artificial Intelligence A.I. as probability and statistic based workflow. The DoD / DARPA / NATO / ISO International Standards Organizations leverage 300+ spreadsheet message sets populated by thousands of OPSCODE brevity codes mapped to Military Standard MILSTANDARD 2525 A, B, C, D.. standard symbol sets essential to rapid action – reaction workflows responding to common scenario’s, situations, smart contracts. Symbols are essential to human – A.I. machine interaction.
-
-ATOMIC CLOCK NIST National Institute of Science and Technology timing is based on the consistent decay of radioactive material such as Cesium.  Atomic clocks are constructed by locking an electronic oscillator to the frequency of an atomic transition. The frequencies associated with such transitions are so reproducible that the definition of the second is now tied to the frequency associated with a transition in cesium-133: 1 second = 9,192, 631,770 cycles of a standard Cs-133 transition
-
-BASEBALL DIAMOND
-A baseball diamond is a square, is a block. A Bitcoin block is awarded using age (time) or vectors (time / direction / velocity) or voting (tournament league board). A baseball tournament is played on baseball diamonds that are physical, tangible = not abstract.
-
-BASEBALL COMPUTING CODE
-
-Computing an Optimal Pitching Strategy in a Baseball At-Bat
-A novel model of a baseball at-bat as a zero-sum stochastic game, in which the goal of the batter is to get on base and the pitcher aims to prevent it. The paper proposes novel representations of pitcher and batter, a deep neural network architecture for outcome prediction, and experiments using Kaggle data from MLB seasons.
-Source: https://arxiv.org › pdf › 2110.04321.pdf
- Computing an Optimal Pitching Strategy in a Baseball At-Bat - arXiv.org
-
-Every at-bat ends in one of two ways: 1) the batter is out (and, in our model, the pitcher wins), for example, after receiving the third strike, or 2) the batter gets on-base, for example, by hitting a home run. In modeling an at-bat, we assume that the goal of the batter is solely to get on base, while the pitcher aims to get the batter out.
-Source: https://www.jstage.jst.go.jp › article › jorsj
-
-Dynamic Programming Algorithm for Optimizing Baseball Strategies
-In addition, we compute the optimal batting order, in consideration of the decision making in a game. Keywords: Dynamic programming, OR in sports, Markov perfect equilibrium, advantage of the last-batting team, optimal lineup 1. Introduction A dynamic programming (DP) approach to baseball is the main theme for this paper, and
-https://community.fangraphs.com › how-game-theory-is-applied-to-pitch-optimization
-How Game Theory Is Applied to Pitch Optimization
-
-Simulation of Baseball Gaming by Cooperation and Non-Cooperation Strategies
-Matías Alvarado, Arturo Yee Rendón, and Germinal Cocho 1 Computer Sciences Department, Center for Research and Advance Studies, Mexico City, Mexico
-2 Complex Sciences Department, Physics Institute, UNAM, Mexico City, Mexico 
-
-Baseball is a top strategic collective game that challenges the team manager’s decision-making. A classic Nash equilibrium applies for non-cooperative games, while a Kantian equilibrium applies for cooperative ones. We use both Nash equilibrium (NE) and Kantian equilibrium (KE), separate or in combination, for the team selection of strategies during a baseball match: as soon as the selection of strategies by NE or KE carries a team to stay match loosing, a change to KE or NE is introduced. From this variation of selection of strategies, the team that is losing tends to close or overcome the score with respect to the team with advantage according to the results from computer simulations. Hence, combining Nash selfish-gaming strategies with Kantian collaboration-gaming strategies, a baseball team performance is strengthened.
-Keywords. Baseball strategies, cooperation and noncooperation, Nash equilibrium, Kantian equilibrium, computer simulations.
-
-FIGURE D: SCOTUS ALICE CORP VS CLS BANK 2014 ruling compliant meme
 
 BASEBALL TOURNAMENT RULES AND GUIDELINES
 
