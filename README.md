@@ -4,53 +4,8 @@ TITLE: The WORLD GAME (s) GREAT REDESIGN
 
 SUBTITLE: Telemetry data technology foundation matrix, control grid framework Adaptive Procedural Template
 
-TECH FRAMEWORK: DeFi micropayment, microtransactions supported by quantum AI
+TECH FRAMEWORK: DeFi micropayment, microtransactions, tariff space - time metrics, meters calculation tool (s) supported by consistent, stochastically harmonized, syncrhonized quantum AI
  
-TABLE OF CONTENTS 
-
-1, SUMMARY 			Page 2
-
-2. CLAIMS 				Page 6
-
-APPENDIX A: ADAPTIVE PROCEDURAL TEMPLATE	Page 9
-
-1.1	Purpose	10
-
-1.2	Scope		10
-
-1.3	Roles		10
-
-1.4	Definitions 	11
-
-1.5	References	11
-
-1.6	Traceability	11
-
-1.7	Policies	11
-
-1.8	Standards	11
-
-1.9	Processes	12
-
-1.10	Procedures	12
-
-1.11	Guidelines	13
-
-1.12	Templates	14
-
-1.13. Tools				15
-1.14.	Procedures / Steps		15
-1.15 Methods			15
-
-APPENDIX B: PRIOR ART							Page 21
-
-APPENDIC C: FINAL REJECTION RESPONSE 	 			        Page 53
-
-APPENDIX D: SOCIAL MEDIA LINKS 						Page 54
-APPENDIX E: DESCRIPTION OF GRAPHICS					Page 55
-
-APPENDIX F: GRAPHICS						        Page 88
-
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
 Patent Application Type: Adaptive procedural template
@@ -81,9 +36,11 @@ PRECEDENT: BRICS / Eurasian Economic Union Commodity Basket backed currency / �
  
 Nobel Prize winning Economist Milton Friedman “only a crisis brings real change” 
 
+USE CASE: Tariff space - time metrics, meters, calculation tool (s), algorithms
+
 Milton Friedman (July 31, 1912 – November 16, 2006) economist and statistician who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on analysis, monetary history and theory and the complexity of stabilization policy. Friedman promoted a macroeconomic viewpoint known as monetarism and argued that a steady, small expansion of the money supply was the preferred policy, compared to rapid, unexpected changes. See: Book: Capitalism and Freedom  QUOTE: “Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.” Milton Friedman Nobel Prize winning Economist who described a GDP Gross Domestic Product commodity RWA Real World Asset based K% rule to monetize a currency, implement GDP based rules automated inflation control to manage the global economy.
 
-USE CASE: Real World Assets commodity index backed stablecoin currency: commodity tokens / RWA Real World Assets index backed currency / algorithmic stable coin - DeFI / TradeFi algorithmically regulated programmable economy, control grid, permission access, price discovery derived from many stablecoin time (block) chains, that employ equilibrium algorithms (s) where stablecoin features, attributes: use of geo-spatial temporal event, activity intensity fencing to establish payment boundaries, geo-spatial areas of effect, geo-spatial temporal areas of support where a coin may have a set time limit based on time - stamp servers heartbeat, geo-spatial area of authorized use, select (federated) group of crowd funders, harvest, move crop commodities, goods backing the value of the coin from / to a given area's commons market, federation
+USE CASE: Real World Assets commodity index backed stablecoin currency: commodity tokens / RWA Real World Assets index backed currency / algorithmic stable coin, tariff space - time calculation tool,  DeFI / TradeFi algorithmically regulated programmable economy, control grid, permission access, price discovery derived from many stablecoin time (block) chains, that employ equilibrium algorithms (s) where stablecoin features, attributes: use of geo-spatial temporal event, activity intensity fencing to establish payment boundaries, geo-spatial areas of effect, geo-spatial temporal areas of support where a coin may have a set time limit based on time - stamp servers heartbeat, geo-spatial area of authorized use, select (federated) group of crowd funders, harvest, move crop commodities, goods backing the value of the coin from / to a given area's commons market, federation
 
 TERRA Trade Reference Currency TRC: TERRA Trade Reference Currency TRC: currency backed by RWA Real World Assets / commodities / commodity basket / index based featuring demurrage fees / charges to support supplier to consumer logistics of goods. The Terra TRC Trade Reference Currency is a global complementary currency designed to provide an inflation-resistant international standard of value; to stabilize the business cycle on a global level; and to realign stockholder’s interests with long-term sustainability. Economist Bernard Lietaer Source: http://lietaer.com/2010/01/terra/
 French Money of Peace: Le Fédériste“ "L'Europa monnaie de la paix" January 1st 1933
@@ -109,7 +66,7 @@ Method of claim 2 relies on through use of an adaptive procedural template frame
 
 Method of claim 3 relies on the use of an adaptive procedural template tools, processes, procedures to provide an alternative to formal mergers and acquisitions for example, tether, untether to autonomous DAO Distributed Autonomous Organization i.e., trade federations using agile, adhoc NetOps supporting federations for example; Ripple's consensus protocol based on federation / federated on demand liquidity drawn from a distributed (global) (trade) federation i.e., 1907 Knickerbocker Banker's Crisis JP Morgan protocol on demand AI directed response - financial system revaluation where Battlefield Digitization Network effects: splits, joins, adds, drops are used as needed as a temporary alternative to formal merger and organization, corporate acquisitions
 
-Method of claim 4 relies on the use of an adaptive procedural template processes, procedures to broadcast, unicast, anycast data synchronization deltas “sync deltas” via micro to macro-cycle system of systems data updates at agreed upon times observing set durations of events, time, temporal epoch leases, price discover algorithm data harvests for example stocks, commodity real world digital assets, currency arbitrage trade exchange adjustments using heartbeat epoch time beacon’s intrinsic temporally consistent, synchronized, time bounded i.,e heartbeat start, stop, TTL Time to Live epochs providing discrete time interval start, stop, TTL Time To Live epoch windows embedded in </108> system heartbeats, messages in a control matrix among for example HFT stock market systems participating to establish algorithmic regulation via use of algorithmic price discovery, Nash Equilibrium algorithms to derive a uniform, universal statistical mean value index, discrete, time bounded trade windows, stock trade circuit breaker via heartbeat beacon message, event bus broadcasted , uni, multicast among many stock, commodity, ETF Exchange Traded Fund systems
+Method of claim 4 relies on the use of an adaptive procedural template processes, procedures to broadcast, unicast, anycast data synchronization deltas “sync deltas” via micro to macro-cycle system of systems data updates at agreed upon times observing set durations of events, time, temporal epoch leases, price discover algorithms i.e., tariff space - time metrics, meters, data harvests for example stocks, commodity real world digital assets, currency arbitrage trade exchange adjustments using heartbeat epoch time beacon’s intrinsic temporally consistent, synchronized, time bounded i.,e heartbeat start, stop, TTL Time to Live epochs providing discrete time interval start, stop, TTL Time To Live epoch windows embedded in </108> system heartbeats, messages in a control matrix among for example HFT stock market systems participating to establish algorithmic regulation via use of algorithmic price discovery, Nash Equilibrium algorithms to derive a uniform, universal statistical mean value index, discrete, time bounded trade windows, stock trade circuit breaker via heartbeat beacon message, event bus broadcasted , uni, multicast among many stock, commodity, ETF Exchange Traded Fund systems
 
 Method of claim 5 relies on the use of the adaptive procedural template’s firefly inspired heartbeat synchronization message event bus algorithm – protocol, software application neutral monitors geo-spatial, temporally distributed events reported across a DAO Distributed Autonomous Organization among federated groups synchronized across time-space to achieve common, synchronized goals in conjunction with use of adaptive procedural template list items that are intrinsic to algorithms / protocols such as Princeton’s John Nash Equilibrium algorithms and count minimum sketch or streaming K algorithms algorithmically regulating through use of epoch time intervals for HFT stock, commodity, digital token, tokenized RWA Real World Assets, cryptocurrency trade, arbitrage micro transaction epoch temporal time windows in federated systems supporting economic, fiscal control grid matrix among a federated system of systems
 Method of claim 6 relies on the use of an adaptive procedural template framework to establish, support, maintain economist Milton Friedman’s K% rule where a Central Bank Digital Currency CBDC. stablecoin or conventional FIAT, commodity index backed currency is derived from sampling lead GDP Gross Domestic Product economic indicators among a global event message bus sync delta data, event changes updating for example, a RWA Real World Asset based commodity index backed collective, consistent value unit based currency via use of filtered, stochastically harmonized, temporally synchronized telemetry polled from a universal event bus applying firefly-heartbeat algorithm events, state changes leveraging heartbeat message - event functions to update a statistical mean value index as a standard, consistent unit of value using algorithmic price discovery heartbeat beacon broadcasted among many systems
