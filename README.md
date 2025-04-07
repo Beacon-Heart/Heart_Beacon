@@ -1,10 +1,6 @@
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
 TITLE: The WORLD GAME (s) GREAT REDESIGN
-
-SUBTITLE: Telemetry data technology foundation matrix, control grid framework Adaptive Procedural Template
-
-TECH FRAMEWORK: DeFi micropayment, microtransactions, tariff space - time metrics, meters calculation tool (s) supported by consistent, stochastically harmonized, syncrhonized quantum AI
  
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
@@ -14,11 +10,12 @@ TITLE: The Heart Beacon Cycle Time - Space Meter
 
 SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
 
-SUMMARY: Adaptive Procedural Template System of systems telemetry data framework foundation technology list for the net, net of programmable $$$. #tariffs time - space calculation tool (s) IDMaps - SonarHops Distance Estimation Service / Trade Reference Currency TRC / Milton Friedman's K% rule supporting GDP pacing item index based economy. Tariff, trade wars = Trade Reference Currency TRC / DeFi tech foundation framework USPTO 13/573,002 Heart Beacon Cycle Time Space metrics, meters structured data tokenization, sync, quantum A.I.
+USE CASE: Taffiff Trade Wars = Trade Reference Currency TRC = GDP pacing items statistical mean index
+Milton Friedman's K% rule #GDP pacing item index based economy #tariffs time - space calculation tool (s) IDMaps - SonarHops Distance Estimation Service / Trade of GDP Pacing Items 
 
-#tokens #blockchain #crypto #bitcoin #GDP #tokenization #commodity #RWA
+#tokens #blockchain #crypto #bitcoin #GDP #tokenization #commodity #RWA Real world Assets
 
-Foundation Technology trinity:
+THESIS: Foundation Technology trinity:
 -	EPOCH (s) = Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
 -	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
 -	SYNTAX: data elements mapped to symbols for A.I. / man - machine interface
