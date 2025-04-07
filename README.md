@@ -8,7 +8,7 @@ Patent Application Type: Adaptive procedural template
 
 TITLE: The Heart Beacon Cycle Time - Space Meter
 
-SUBTITLE: The World Game's (s) Great Reset / redesign's Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters..
+SUBTITLE: Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters for the World Game's Great Redesign
 
 USE CASE: Taffiff Trade Wars = Trade Reference Currency TRC = GDP pacing items statistical mean index
 Milton Friedman's K% rule #GDP pacing item index based economy #tariffs time - space calculation tool (s) IDMaps - SonarHops Distance Estimation Service / Trade of GDP Pacing Items 
