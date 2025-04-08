@@ -11,7 +11,7 @@ TITLE: The Heart Beacon Cycle Time - Space Meter
 SUBTITLE: Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters for the World Game's Great Redesign
 
 USE CASE: Taffiff Trade Wars = Trade Reference Currency TRC = GDP pacing items statistical mean index
-Milton Friedman's K% rule #GDP pacing item index based economy #tariffs time - space calculation tool (s) IDMaps - SonarHops Distance Estimation Service / Trade of GDP Pacing Items 
+Milton Friedman's K% rule #GDP pacing item index based economy #tariffs time - space calculation tool (s) IDMaps - SonarHops Distance Estimation Service / Trade of GDP Gross Domestic Product Economic Pacing Items 
 
 #tokens #blockchain #crypto #bitcoin #GDP #tokenization #commodity #RWA Real world Assets
 
