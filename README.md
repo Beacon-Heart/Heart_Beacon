@@ -1,6 +1,6 @@
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
-TITLE: The WORLD GAME (s) GREAT REDESIGN
+TITLE: The WORLD GAME (s) GREAT REDESIGN wave form based QFS Quantum Financial System
  
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
@@ -10,7 +10,7 @@ TITLE: The Heart Beacon Cycle Time - Space Meter
 
 SUBTITLE: Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters for the World Game's Great Redesign
 
-USE CASE: World game (s) fulcrum = % of take sync deltas / Adaptive Procedural Template foundation tech list for net, DeFi crypto, economy. Federated systems structured data exchange syntax lexicon mapped to symbol sets for A.I. man - machine interface
+USE CASE: World game (s) fulcrum = (Sound, light) wave form based QFS Quantum Financial System % sync deltas / Adaptive Procedural Template foundation tech list for net, DeFi crypto, economy. Federated systems structured data exchange syntax lexicon mapped to symbol sets for A.I. man - machine interface
 
 USE CASE: Taffiff Trade Wars = Trade Reference Currency TRC = GDP pacing items statistical mean index
 Milton Friedman's K% rule #GDP pacing item index based economy #tariffs time - space calculation tool (s) IDMaps - SonarHops Distance Estimation Service / Trade of GDP Gross Domestic Product Economic Pacing Items 
