@@ -6,11 +6,11 @@ Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
 Patent Application Type: Adaptive procedural template
 
-TITLE: The Heart Beacon Cycle Time - Space Meter
+Patent Application TITLE: The Heart Beacon Cycle Time - Space Meter
 
 SUBTITLE: Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters for the World Game's Great Redesign
 
-USE CASE: World game (s) fulcrum = (Sound, light) wave form based QFS Quantum Financial System % temporal epoch sync deltas 
+USE CASE: World game (s) fulcrum = (Sound, light) wave form based QFS Quantum Financial System % temporal epoch sync deltas. The REAL QFS - DeFi Quantum Financial System structured data AI symbols exchange derived from Net Centric Warfare, Battlefield Digitization for the World Game (s) Great Reset - Redesign: "End state = "in the beginning state" "Start at end state & work backwards" FutureMan  
 
 UsSE CASE: Adaptive Procedural Template foundation tech list for net, DeFi crypto, economy. Federated systems structured data exchange syntax lexicon mapped to symbol sets for A.I. man - machine interface
 
