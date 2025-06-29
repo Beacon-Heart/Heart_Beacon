@@ -796,6 +796,8 @@ GITHUB DOCUMENTS: https://github.com/Beacon-Heart/Heart_Beacon
 
 Proton Email (secure) ecoeconomicepochs@protonmail.com
 
+YouTube Channel: www.youtube.com/@StevenMcGee
+
 Unstoppable Domains IPFS Web 3 page:  http://ecoeconomicepochs.dao
 
 Slideshare: https://www.slideshare.net/EcoEconomicHeartbeat
