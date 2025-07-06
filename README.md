@@ -18,7 +18,7 @@ USE CASE: Taffiff Trade Wars = Trade Reference Currency TRC = GDP pacing items s
 
 SUMMARY: Eco Economic Epochs for an Equitable #Economy (s) / Adaptive Procedural Template checklist of OPW Other People's Work supporting a federated, distributed trade federation's QFS #Quantum #Financial System TRC #Trade Reference #Currency of OPM Other People's Money, #RWA Real World Assets (s) Tokenized Eco Economic Epochs for programmable money liquidity, monetization, Equilibrium of the programmable Economy #QFS
 
-#tokens #blockchain #crypto #bitcoin #GDP #tokenization #commodity #RWA Real world Assets backed QFS Quantum Financial System of Federated Systems
+Q: do self destructing Qubits exist ? asking for a (non-existent) friend #quantum #qubits #quantum computing #QuantumComputing  https://youtu.be/zlSLAnPA5vM?t=115
 
 THESIS: Foundation Technology trinity:
 -	EPOCH (s) = Microchip, wave form produced Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
