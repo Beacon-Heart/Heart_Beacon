@@ -1,12 +1,12 @@
 Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
-TITLE: The WORLD GAME (s) GREAT REDESIGN wave form based QFS Quantum Financial System
- 
-Document Control Number: USPTO 13/573,002 Art Unit: 2468
-
 Patent Application Type: Adaptive procedural template
 
 Patent Application TITLE: The Heart Beacon Cycle Time - Space Meter
+
+TITLE: The WORLD GAME (s) GREAT REDESIGN wave form based QFS Quantum - DeFi Financial System / Earth Ops - Intel - Logistics .. system of federated systems
+ 
+Document Control Number: USPTO 13/573,002 Art Unit: 2468
 
 SUBTITLE: Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters for the World Game's Great Redesign
 
