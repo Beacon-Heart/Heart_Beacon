@@ -21,7 +21,7 @@ USE CASE: Taffiff Trade Wars = Trade Reference Currency TRC = GDP pacing items s
 USE CASE: "The complete guide to cross (block) chain interoperability" / #Quantum computing DeFi, net, net of #money #cryptocurrency #patent #litigation war (s) will be won by party (s) who describes foundation technology first, best, most completely and accurately, legally i.e., conformant with SCOTUS "Alice in Wonderland" Ruling 2014 compliant
 #blockchain #datathenewgold #DeFi #data #quantum #quantumcomputing foundation technology #patentlaw
 
-SUMMARY: Eco Economic Epochs for an Equitable #Economy (s) / Adaptive Procedural Template checklist of OPW Other People's Work supporting a federated, distributed trade federation's QFS #Quantum #Financial System TRC #Trade Reference #Currency of OPM Other People's Money, #RWA Real World Assets (s) Tokenized Eco Economic Epochs for programmable money liquidity, monetization, Equilibrium of the programmable Economy #QFS
+SUMMARY: Eco Economic Epochs for an Equitable #Economy (s) / Adaptive Procedural Template checklist of OPW Other People's Work supporting a federated, distributed trade federation's QFS #Quantum #Financial System TRC #Trade Reference #Currency of OPM Other People's Money, #RWA Real World Assets (s) Tokenized Eco Economic Epochs for programmable money liquidity, monetization, Equilibrium of the programmable Economy
 
 Q: do self destructing Qubits exist ? asking for a (non-existent) friend #quantum #qubits #quantum computing #QuantumComputing  https://youtu.be/zlSLAnPA5vM?t=115
 
