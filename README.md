@@ -28,7 +28,7 @@ QFS Quantum #DeFi system of federated DAO systems predicated on:
 4. DeFi IP wars will escalate to SCOTUS, then ISO, ITU, IEEE etc 
 5. Interoperability, sync, stochastic harmonization of QFS driven by wave form Vs quantum dot, particle approaches (see Fermilab et al's research)
 6. Simple, real will (eventually) win given rich, powerful entities all staked
-7. > 1 David and Goliath team Vs multiple Goliath Teams (see #6)
+7. ( > 1 ) David and Goliath team Vs multiple Goliath Teams (see #6)
 8. Brevity codes mapped to symbols, symbol sets tedious, time consuming
 9. Economist Milton Friedman was right about K% rule, crisis = change
 10. SLA closer = cheaper given less fuel imperative, climate, peak oil
