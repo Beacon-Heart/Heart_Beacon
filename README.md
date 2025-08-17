@@ -34,6 +34,8 @@ QFS Quantum #DeFi system of federated DAO systems predicated on:
 10. SLA closer = cheaper given less fuel imperative, climate, peak oil
 11. Zero Point, Over Unity, Energy from the vacuum Nassim Haramein prototype focus is on silicon chip oscillations creating wave forms: see #1
 
+ZPE prototype @ 3:21: https://youtu.be/8iy0CIyncDM?t=201
+
 Q: do self destructing Qubits exist ? asking for a (non-existent) friend #quantum #qubits #quantum computing #QuantumComputing  https://youtu.be/zlSLAnPA5vM?t=115
 
 THESIS: Foundation Technology trinity:
