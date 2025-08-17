@@ -21,6 +21,19 @@ USE CASE: "The complete guide to cross (block) chain interoperability" / #Quantu
 
 SUMMARY: Eco Economic Epochs for an Equitable #Economy (s) / Adaptive Procedural Template checklist of OPW Other People's Work supporting a federated, distributed trade federation's QFS #Quantum #Financial System TRC #Trade Reference #Currency of OPM Other People's Money, #RWA Real World Assets (s) Tokenized Eco Economic Epochs for programmable money liquidity, monetization, Equilibrium of the programmable Economy
 
+QFS Quantum #DeFi system of federated DAO systems predicated on:
+1. Testa was right ("All is wave form motion")
+2. Internet, net of $$$ works the same for everyone, everything
+3. Net foundation = same as it ever was. Not changed given can't change
+4. DeFi IP wars will escalate to SCOTUS, then ISO, ITU, IEEE etc 
+5. Interoperability, sync, stochastic harmonization of QFS driven by wave form Vs quantum dot, particle approaches (see Fermilab et al's research)
+6. Simple, real will (eventually) win given rich, powerful entities all staked
+7. > 1 David and Goliath team Vs multiple Goliath Teams (see #6)
+8. Brevity codes mapped to symbols, symbol sets tedious, time consuming
+9. Economist Milton Friedman was right about K% rule, crisis = change
+10. SLA closer = cheaper given less fuel imperative, climate, peak oil
+11. Zero Point, Over Unity, Energy from the vacuum Nassim Haramein prototype focus is on silicon chip oscillations creating wave forms: see #1
+
 Q: do self destructing Qubits exist ? asking for a (non-existent) friend #quantum #qubits #quantum computing #QuantumComputing  https://youtu.be/zlSLAnPA5vM?t=115
 
 THESIS: Foundation Technology trinity:
