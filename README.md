@@ -4,13 +4,15 @@ Patent Application Type: Adaptive procedural template
 
 Patent Application TITLE: The Heart Beacon Cycle Time - Space Meter
 
-TITLE: The WORLD GAME (s) GREAT REDESIGN wave form based QFS Quantum - DeFi Financial System / Earth Ops - Intel - Logistics .. system of federated systems
+TITLE: The WORLD GAME (s) GREAT REDESIGN QFS Quantum - DeFi system of federated systems
 
-SUBTITLE: Adaptive Procedural Template framework, control grid / matrix telemetry, metrics, meters for the World Game's Great Redesign
+SUBTITLE: Adaptive Procedural Template framework, telemetry, metrics, meters for the World Game's Great Redesign
 
-HEADLINE: QFS Quantum Financial System - DeFi, cryptocurrency blockchain war (s) win = foundation technology = SCOTUS "Alice in Wonderland" Ruling 2014 compliance = USPTO 13/573,002 Adaptive Procedural Template LINKTREE https://linktr.ee/FutureMan2026
+HEADLINE: QFS Quantum Financial System - DeFi, cryptocurrency blockchain war (s) win = foundation technology = SCOTUS "Alice in Wonderland" Ruling 2014 compliance = USPTO 13/573,002 Adaptive Procedural Template 
 
-USE CASE: World game (s) fulcrum = (Sound, light) wave form based QFS Quantum Financial System % temporal epoch sync deltas. The REAL QFS - DeFi Quantum Financial System structured data AI symbols exchange derived from Net Centric Warfare, Battlefield Digitization for the World Game (s) Great Reset - Redesign: "End state = "in the beginning state" "Start at end state & work backwards" FutureMan  
+LINKTREE https://linktr.ee/FutureMan2026
+
+USE CASE: World game (s) fulcrum = (Sound, light) wave form based QFS Quantum Financial System % temporal epoch sync deltas. QFS - DeFi Quantum Financial System structured data AI symbols exchange derived from Net Centric Warfare, Battlefield Digitization for the World Game (s) Great Reset - Redesign: "End state = "in the beginning state" "Start at end state & work backwards" FutureMan  
 
 USE CASE: Adaptive Procedural Template foundation tech list for net, DeFi crypto, economy. Federated systems structured data exchange syntax lexicon mapped to symbol sets for A.I. man - machine interface
 
@@ -34,9 +36,7 @@ QFS Quantum #DeFi system of federated DAO systems predicated on:
 10. SLA closer = cheaper given less fuel imperative, climate, peak oil
 11. Zero Point, Over Unity, Energy from the vacuum Nassim Haramein prototype focus is on silicon chip oscillations creating wave forms: see #1
 
-ZPE prototype @ 3:21: https://youtu.be/8iy0CIyncDM?t=201
-
-Q: do self destructing Qubits exist ? asking for a (non-existent) friend #quantum #qubits #quantum computing #QuantumComputing  https://youtu.be/zlSLAnPA5vM?t=115
+Nassim Haramein ZPE prototype @ 3:21: https://youtu.be/8iy0CIyncDM?t=201
 
 THESIS: Foundation Technology trinity:
 -	EPOCH (s) = Microchip, wave form produced Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
