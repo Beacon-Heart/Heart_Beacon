@@ -1,4 +1,4 @@
-TITLE: The WORLD GAME (s) GREAT REDESIGN QFS Quantum - DeFi system of federated systems
+TITLE: The WORLD GAME (s) GREAT REDESIGN: QFS Quantum - DeFi system of federated systems
 
 Summary: World Game (s) mediation, mitigation, moderation, metrics, meters, syntax lexicon - symbols QFS - DeFi Quantum Financial System for cryptocurrency blockchain wars = SCOTUS “Alice in Wonderland” 2014 = USPTO 13/573,002 Adaptive Procedural Template technology foundation checklist for programmable money, economy. Zero Point Energy powered QFS Quantum Financial System of federated systems
 
