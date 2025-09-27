@@ -3,7 +3,7 @@ TITLE: The WORLD GAME (s) GREAT REDESIGN: QFS Quantum - DeFi system of federated
 Summary: World Game (s) mediation, mitigation, moderation, metrics, meters, syntax lexicon - symbols QFS - DeFi Quantum Financial System for cryptocurrency blockchain wars = SCOTUS “Alice in Wonderland” 2014 = USPTO 13/573,002 Adaptive Procedural Template technology foundation checklist for programmable money, economy. Zero Point Energy powered QFS Quantum Financial System of federated systems
 
 Document Control Number: USPTO 13/573,002 Art Unit: 2468  
-TYPE: Adaptive procedural template 
+TYPE: Adaptive procedural template = 11 + use case for the internet, internet of $$$ money
 TITLE: The Heart Beacon Cycle Time - Space Meter
 
 LINKTREE https://linktr.ee/FutureMan2026 = videos, slides, papers
