@@ -1556,6 +1556,8 @@ Figure 105: Business Card
 
 APPENDIX D: REFERENCES / SOCIAL MEDIA LINKS
 
+LinkTree: links, documents, slides, videos: https://linktr.ee/FutureMan2026
+
 GITHUB DOCUMENTS: https://github.com/Beacon-Heart/Heart_Beacon 
 
 Proton Email (secure) ecoeconomicepochs@protonmail.com
