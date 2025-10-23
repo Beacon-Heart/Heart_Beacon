@@ -1,6 +1,7 @@
 TITLE: The WORLD GAME (s) GREAT REDESIGN: QFS Quantum - DeFi system of federated systems
 
-Summary: Net, net of money quantum - AI artifacts = epoch time cycles used to parse syntax as statistically predictive workflows. Adaptive procedural template foundation tech for World Game (s) great redesign.= USPTO 13/573,002 / World Game (s) mediation, mitigation, moderation, metrics, meters, syntax lexicon - symbols QFS - DeFi Quantum Financial System for cryptocurrency blockchain wars = SCOTUS “Alice in Wonderland” 2014 = USPTO 13/573,002 Adaptive Procedural Template technology foundation checklist for programmable money, economy. Zero Point Energy powered QFS Quantum Financial System of federated systems
+Summary: Net, net of money quantum - AI artifacts = epoch time cycles used to parse syntax as statistically predictive workflows. 
+Adaptive procedural template foundation tech for World Game (s) great redesign = USPTO 13/573,002
 
 Document Control Number: USPTO 13/573,002 Art Unit: 2468  
 TYPE: Adaptive procedural template = 11 + use case for the internet, internet of $$$ money
