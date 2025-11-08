@@ -1,5 +1,7 @@
 TITLE: The WORLD GAME (s) GREAT REDESIGN: QFS Quantum - DeFi system of federated systems
 
+Beacon Kit = Adaptive Procedural Template foundation tech list: Net, net of $$$ foundation tech list of OPW Other People's Work swords to plowshares reuse of battlefield digitization
+
 Summary: Net, net of money quantum - AI artifacts = epoch time cycles used to parse syntax as statistically predictive workflows. 
 Adaptive procedural template foundation tech for World Game (s) great redesign = USPTO 13/573,002
 
