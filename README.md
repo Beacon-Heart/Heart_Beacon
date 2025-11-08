@@ -3,7 +3,6 @@ TITLE: Beacon Kit for The WORLD GAME (s) GREAT REDESIGN: QFS Quantum - DeFi syst
 SUMMMARY: Foundation tech list = Beacon Kit = Adaptive Procedural Template: Beacon Kit = Adaptive Procedural Template foundation tech list of OPW Other People's Work swords to plowshares reuse of battlefield digitization for OOTW Operations Other Than War for net, net of $$$
 
 N Tesla “all is wave motion” / epoch time intervals + syntax mapped to symbols structured data templates / message sets = USPTO 13/573,002
-hashtag#AI hashtag#artificialintelligence hashtag#quantum hashtag#computing hashtag#blockchain hashtag#DeFi
 
 Document Control Number: USPTO 13/573,002 Art Unit: 2468  
 TYPE: Adaptive procedural template = 11 + use cases net, net of money
