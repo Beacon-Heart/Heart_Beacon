@@ -1,6 +1,6 @@
 TITLE: Beacon Kit for The WORLD GAME (s) GREAT REDESIGN: QFS Quantum - DeFi system of federated systems
 
-Beacon Kit = Adaptive Procedural Template = Adaptive Procedural Template foundation tech list of OPW Other People's Work swords to plowshares reuse of battlefield digitization for OOTW Operations Other Than War for the net, net of $$$
+Beacon Kit = Adaptive Procedural Template = Adaptive Procedural Template foundation tech list of OPW Other People's Work swords to plowshares reuse of battlefield digitization for OOTW Operations Other Than War to fix use of OPM Other People's Money
 
 N Tesla “all is wave motion” / epoch time intervals + syntax mapped to symbols structured data templates / message sets = USPTO 13/573,002 
 
