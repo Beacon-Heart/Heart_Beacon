@@ -1,4 +1,4 @@
-TITLE: Beacon Kit for The WORLD GAME (s) GREAT REDESIGN: QFS Quantum - DeFi system of federated systems
+TITLE: Beacon Kit foundation tech list for The WORLD GAME (s) GREAT REDESIGN: QFS Quantum - DeFi system of federated systems
 
 Beacon Kit = foundation tech list of OPW Other People's Work swords to plowshares reuse of battlefield digitization for OOTW Operations Other Than War to fix use of OPM Other People's Money = USPTO 13/573,002 The Heart Beacon Cycle Time - Space metrics, meters, moderation gateways.. #blockchain #DeFi #quantum #AI #data
 
