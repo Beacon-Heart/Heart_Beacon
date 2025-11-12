@@ -1,12 +1,10 @@
 TITLE: Beacon Kit foundation tech list for The WORLD GAME (s)
 
-Beacon Kit = foundation tech list of OPW Other People's Work swords to plowshares reuse of battlefield digitization for OOTW Operations Other Than War to fix use of OPM Other People's Money = USPTO 13/573,002 The Heart Beacon Cycle Time - Space metrics, meters, moderation gateways.. #blockchain #DeFi #quantum #AI #data
-
-N Tesla “all is wave motion” / epoch time intervals + syntax mapped to symbols structured data templates / message sets = USPTO 13/573,002 
+Beacon Kit = foundation tech list of OPW Other People's Work swords to plowshares reuse of battlefield digitization for OOTW Operations Other Than War to fix use of OPM Other People's Money = USPTO 13/573,002 The Heart Beacon Cycle Time - Space metrics, meters, moderation gateways.. epoch time intervals + syntax mapped to symbols structured data templates / message sets
 
 Document Control Number: USPTO 13/573,002 Art Unit: 2468  
 
-TYPE: Adaptive procedural template = 11 + use cases net, net of money
+TYPE: Adaptive procedural template = 11 + claims = use cases net, net of money, Eco, data, big data, distributed systems, (wireless) energy
 
 PATENT APPLICATION TITLE: The Heart Beacon Cycle Time - Space Meter
 
