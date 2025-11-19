@@ -14,7 +14,7 @@ USE CASE: World game (s) fulcrum = (Sound, light) wave form based QFS Quantum Fi
 
 USE CASE: Adaptive Procedural Template foundation tech list for net, DeFi crypto, economy. Federated systems structured data exchange syntax lexicon mapped to symbol sets for A.I. man - machine interface
 
-USE CASE: Taffiff Trade Wars = Trade Reference Currency TRC = GDP pacing items statistical mean index Milton Friedman's K% rule #GDP pacing item index based economy #tariffs time - space calculation tool (s) IDMaps - SonarHops Distance Estimation Service / Trade of GDP Gross Domestic Product Economic Pacing Items
+USE CASE: Tariff Trade Wars = Trade Reference Currency TRC = GDP pacing items statistical mean index Milton Friedman's K% rule #GDP pacing item index based economy #tariffs time - space calculation tool (s) IDMaps - SonarHops Distance Estimation Service / Trade of GDP Gross Domestic Product Economic Pacing Items
 
 USE CASE: Quantum computing DeFi, net, net of #money #cryptocurrency #patent #litigation war (s) will be won by party (s) who describes foundation technology first, best, most completely and accurately, legally i.e., conformant with SCOTUS "Alice in Wonderland" Ruling 2014 compliant. "The complete guide to cross (block) chain interoperability"
 
