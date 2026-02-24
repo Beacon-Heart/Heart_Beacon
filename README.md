@@ -11,7 +11,7 @@ Beacon Kit = internet, net of $$$ foundation tech framework given net, net of $$
 
 Beacon Kit = foundation tech list of OPW Other People's Work swords to plowshares reuse of battlefield digitization for OOTW Operations Other Than War to fix use of OPM Other People's Money = USPTO 13/573,002 The Heart Beacon Cycle Time - Space metrics, meters, moderation gateways.. epoch time intervals + syntax mapped to symbols structured data templates / message sets
 
-draft End state foundation (tech) framework within a framework proposal for a global, intergalactic.. adaptive procedural template framework supporting a distributed system of federated systems e.g., trade federation #artificialintelligence #AI #quantumcomputing #DeFi #data
+draft End state foundation (tech) framework within a framework proposal for a global, intergalactic.. adaptive procedural template framework supporting a distributed system of federated systems e.g., trade federation #artificialintelligence #AI #quantumcomputing #DeFi #data // speaking of (notional) Satoshi's stored on (notional) blocks on the #Bitcoin blockchain digital ledger...   "the null ledger.. the universe's secret balance sheet" ... https://youtu.be/elittnRwntM #DLT #blockchain #cryptocurrrency
 
 Document Control Number: USPTO 13/573,002 Art Unit: 2468  
 
