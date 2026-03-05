@@ -1,9 +1,8 @@
 TITLE: Beacon Kit foundation tech list for The WORLD GAME (s)
 
-Beacon Kit: Beacon Kit = federated systems foundation tech framework within a framework = USPTO 13/573,002 Heart Beacon Cycle time - space meter adaptive procedural template event bus = quantum - AI based @ world game (s) adaptive procedural template
+Beacon Kit = foundation tech framework within RHC null ledger codex framework = USPTO 13/573,002 Heart Beacon Cycle time - space meter adaptive procedural template event bus = system of federated systems @ world game (s)
 
-Main Use Case: "Economic Heart attack" @ Ray #Dalio // Eco Economic Heartbeat 13/573,002 The Heart Beacon Cycle Time - Space meter quantum - AI) #numismatics #attophysics #blockchain #DeFi
-https://lnkd.in/gR9yTuJN
+Main Use Case: "Economic Heart attack" @ Ray #Dalio https://lnkd.in/gR9yTuJN // Eco Economic Heartbeat 13/573,002 
 
 SUMMARY / Key Treatises: Tesla "all is wave motion" / Quantum Mechanics Nobel Prize Winner Roger Penrose "all is a quantum field" "a wave is an event", "a ripple in a universal field" // Statement: Investment Hedge fund luminary Ray Dalio’s book "the Changing World Order" / "only a crisis brings real change" Nobel Prize winning Economist Milton Friedman / "build a new model" Bucky Fuller / Navy Admiral Amazing Grace Hopper “mother of computing” = OPW Other People's Work standing on the shoulders of giants = USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (adaptive template from Stanford U SLAC) #quantumcomputing #AI #DeFi #QFS #Quantum Financial System of federated systems supported by DoD, NATO’s DAO distributed systems https://youtu.be/q7jGZNDZWi4?t=180
 
