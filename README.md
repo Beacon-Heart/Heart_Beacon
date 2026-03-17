@@ -4,7 +4,7 @@ Beacon Kit = foundation tech framework within RHC null ledger codex framework = 
 
 Main Use Case: "Economic Heart attack" @ Ray #Dalio https://lnkd.in/gR9yTuJN // Eco Economic Heartbeat 13/573,002 
 
-question: given Goliaths will form teams to control the future of money, quantum - AI, data as the new oil & which David's will be on which goliath teams. The Goliaths pay fines in the billions as the cost of doing business. What is control of the future of % of the take over time worth?
+Q: given Goliaths will form teams to control the future of money, quantum - AI, data as the new oil & which David's will be on which goliath teams. The Goliaths pay fines in the billions as the cost of doing business. What is control of the future of % of the take over time worth?
 
 SUMMARY / Key Treatises: Tesla "all is wave motion" / Quantum Mechanics Nobel Prize Winner Roger Penrose "all is a quantum field" "a wave is an event", "a ripple in a universal field" // Statement: Investment Hedge fund luminary Ray Dalio’s book "the Changing World Order" / "only a crisis brings real change" Nobel Prize winning Economist Milton Friedman / "build a new model" Bucky Fuller / Navy Admiral Amazing Grace Hopper “mother of computing” = OPW Other People's Work standing on the shoulders of giants = USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (adaptive template from Stanford U SLAC) #quantumcomputing #AI #DeFi #QFS #Quantum Financial System of federated systems supported by DoD, NATO’s DAO distributed systems https://youtu.be/q7jGZNDZWi4?t=180
 
