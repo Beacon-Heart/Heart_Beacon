@@ -1,8 +1,6 @@
 TITLE: Beacon Kit foundation tech list @ The WORLD GAME (s)
 
-Beacon Kit = foundation tech framework within RHC null ledger codex framework = USPTO 13/573,002 Heart Beacon Cycle time - space meter adaptive procedural template event bus = system of federated systems @ the world game (s)
-
-Beacon Kit: foundation tech framework within RHC null ledger computational framework referential to nature = USPTO 13/573,002 Heart Beacon Cycle time - space meter adaptive procedural template system of federated systems
+Beacon Kit foundation tech framework within RHC null ledger codex framework = referential to nature’s recursive geometric patterns = USPTO 13/573,002 The Heart Beacon Cycle time - space meter adaptive procedural template derived from Battlefield Digitization for OOTW Operations Other Than War 
 
 Main Use Case: "Economic Heart attack" @ Ray #Dalio https://lnkd.in/gR9yTuJN // Eco Economic Heartbeat 13/573,002 
 
