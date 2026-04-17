@@ -4,7 +4,7 @@ Beacon Kit foundation tech framework within RHC Recursive Harmonic Codex Lunos A
 
 Main Use Case: "Economic Heart attack" @ Ray #Dalio https://lnkd.in/gR9yTuJN // Eco Economic Heartbeat 13/573,002 
 
-Q: given Goliaths are forming teams to control quantum - AI programmable money as data = the new oil.. Goliaths pay fines in billions as cost of doing business. In this context, Q: What is control of % of the take (over time) among whom.. worth?
+Q: given Goliaths are forming teams to control quantum - AI programmable money as data = the new oil.. Goliaths pay fines in billions as cost of doing business. In this context, Q: What is control of % of the take (over time).. worth?
 
 Question: how do notional constructs, (qubit and “blockchain”) supporting quantum computating convince conventional, traditional (wave form, oscillation (graphene, crystalline) computational systems that a n qubit based system is x times faster - keeping in mind that conventional systems will not be able to operate, process at the vastly increased speed & this state of temporally unbalanced, unsynchronized, stochastically unharmonized.. affairs will impact all events, transactions to include FOREX, COMEX and stock exchanges.. ?
 
