@@ -16,16 +16,9 @@ Question: given Goliaths are forming teams to control quantum - AI programmable 
 
 Question: how do notional constructs, (qubit and “blockchain”) supporting quantum computing convince conventional, traditional (wave form, oscillation (graphene, crystalline) computational systems that a n qubit based system is x times faster - keeping in mind that conventional systems will not be able to operate, process at the vastly increased speed & this state of temporally unbalanced, unsynchronized, stochastically unharmonized.. affairs will impact all events, transactions to include FOREX, COMEX and stock exchanges.. ?
 
-SUMMARY / Key Treatises: Tesla "all is wave motion" / Quantum Mechanics Nobel Prize Winner Roger Penrose "all is a quantum field" "a wave is an event", "a ripple in a universal field" // Statement: Investment Hedge fund luminary Ray Dalio’s book "the Changing World Order" / "only a crisis brings real change" Nobel Prize winning Economist Milton Friedman / "build a new model" Bucky Fuller / Navy Admiral Amazing Grace Hopper “mother of computing” = OPW Other People's Work standing on the shoulders of giants = USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (adaptive template from Stanford U SLAC) Quantum Financial System of federated systems i.e.,  DoD, NATO’s C4ISR systems
-
 USE CASE: Tariff Trade Wars = Trade Reference Currency TRC = GDP pacing items statistical mean index Milton Friedman's K% rule #GDP pacing item index based economy #tariffs time - space calculation tool (s) IDMaps - SonarHops Distance Estimation Service / Trade of GDP Gross Domestic Product Economic Pacing Items
 
 USE CASE: the "complete guide to cross (block) chain interoperability" Quantum computing, DeFi, Fintech, internet, net of #money cryptocurrency, currency patent wars will be won by party (s) who describe foundation technology first, best = conformant @ SCOTUS "Alice in Wonderland" Ruling 2014 " #blockchain #data
-
-THESIS: All artifacts internet, programmable net of money, QFS are formed using:
-1)	EPOCH (s) = Microchip, wave form produced Time intervals, cycles ex: Blockchain, AI dbase = TIME-Chain = Epoch time cycle temporal intervals created by microchip, sound, light wave form oscillations
-2)	Syntax as “bits, bytes” processed during epoch time cycle temporal intervals
-3)	“Blockchain” time-chains are formed with unicast, multicast, anycast protocols, (statistically predictive) workflow logic, propagated by electro-magnetic wave form motion described by nature, natural law I.e., Tesla described magnetic – electric, gravitic, sound, light wave forms (standing, scaler waves)
 
 Invention Definition: an invention may be an improvement to an existing invention. USPTO 13/573,002's basis for invention is US Army CECOM Communication - Electronics Command's "Greatest Invention" a system of systems structured data digital dashboard geo-temporal - spatial synchronization, standardization program matching brevity codes to symbols, symbol sets critical for A.I. Artificial Intelligence man - machine interface used for OOTW Operations Other Than War: a German Army suggestion circa 2003. First Named inventor filed 2 years to the day after 9/11.
 
@@ -33,7 +26,6 @@ Supreme Court SCOTUS Alice in Wonderland Precedent: Packets, frames, layers, blo
 STATEMENT: Physical is the opposite of abstract. The technically non-existent blockchain supporting the cryptocurrency industry is in part about adding micropayments / microtransactions with the intent to add a pay by event / action / (token) transaction additional income stream / control grid layer of control, layer of permissions to view, alter, control micropayment income streams. Question? What is your percentage owned ? What is your percentage of gain, loss, contributions? Source: https://intelligenteconomist.com/microtransactions/
 
 SUMMARY / Key Treatises: Tesla "all is wave motion" / Quantum Mechanics Nobel Prize Winner Roger Penrose "all is a quantum field" "a wave is an event", "a ripple in a universal field" // Statement: Investment Hedge fund luminary Ray Dalio’s book "the Changing World Order" / "only a crisis brings real change" Nobel Prize winning Economist Milton Friedman / "build a new model" Bucky Fuller / Navy Admiral Amazing Grace Hopper “mother of computing” = OPW Other People's Work standing on the shoulders of giants = USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter Adaptive Procedural Template (adaptive template from Stanford U SLAC) #quantumcomputing #AI #DeFi #QFS #Quantum Financial System of federated systems supported by DoD, NATO’s DAO distributed systems
-
 
 QFS Quantum #DeFi system of federated DAO systems predicated on:
 1. Testa was correct: "All is (energy) wave form motion"
@@ -54,6 +46,11 @@ THESIS: Foundation Technology trinity:
 -	EPOCH (s) = Microchip, wave form produced Time intervals, cycles ex: Blockchain, AI dbase = TIME Chain
 -	SPACE (ex: IRS memo #1421 "Bitcoin transaction akin to land acquisition"
 -	SYNTAX: data elements mapped to symbols for A.I. / man - machine interface
+
+THESIS: All artifacts internet, programmable net of money, QFS are formed using:
+1)	EPOCH (s) = Microchip, wave form produced Time intervals, cycles ex: Blockchain, AI dbase = TIME-Chain = Epoch time cycle temporal intervals created by microchip, sound, light wave form oscillations
+2)	Syntax as “bits, bytes” processed during epoch time cycle temporal intervals
+3)	“Blockchain” time-chains are formed with unicast, multicast, anycast protocols, (statistically predictive) workflow logic, propagated by electro-magnetic wave form motion described by nature, natural law I.e., Tesla described magnetic – electric, gravitic, sound, light wave forms (standing, scaler waves)
 
 USPTO 13/573,002 The Heart Beacon Cycle Time - Space Meter THESIS: All artifacts internet, programmable net of money, QFS are formed using:
 1) Epoch time cycle temporal intervals ex: created by microchip, wave form oscillations
